@@ -1,0 +1,1692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2005-06-03 08:00+0200\n"
+"PO-Revision-Date: 2005-06-03 08:00+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: Northern_Rebirth.cfg:12
+msgid "(Easy)"
+msgstr ""
+
+#: Northern_Rebirth.cfg:12
+msgid "Peasant"
+msgstr ""
+
+#: Northern_Rebirth.cfg:13
+msgid "(Normal)"
+msgstr ""
+
+#: Northern_Rebirth.cfg:13
+msgid "Spearman"
+msgstr ""
+
+#: Northern_Rebirth.cfg:14
+msgid "(Hard)"
+msgstr ""
+
+#: Northern_Rebirth.cfg:14
+msgid "Swordman"
+msgstr ""
+
+#: Northern_Rebirth.cfg:15
+msgid "RoyalGuard"
+msgstr ""
+
+#: Northern_Rebirth.cfg:15
+msgid "(Impossible)"
+msgstr ""
+
+#: Northern_Rebirth.cfg:17
+msgid ""
+"The People of Dwarven Doors are tired of being slaves to the orcs. Perhaps "
+"their only chance for freedom is now upon them, - but do they have the guts "
+"to take it? Version 0.4.1 Last updated 6/2/05."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:4
+msgid "Breaking the Chains"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:8
+msgid ""
+"Long ago, far to the north of Wesnoth, and just outside of the dwarven caves "
+"of Knalga, was a thriving community known as Dwarven Doors. Food and wood "
+"from all over Wesnoth and many elvish lands as well were sent here to be "
+"sold to the dwarves, while ores, metals and equipment from the dwarves were "
+"brought here to be distributed throughout the surface nations. As a result "
+"of all this trade, Dwarven Doors was a very rich and prosperous community."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:11
+msgid ""
+"Since Dwarven Doors lay directly in the path of enemies seeking to invade "
+"Knalga, the dwarves agreed to take responsibility for the the defense of the "
+"community. In order to achieve that end they built many towers and "
+"fortifications in and around the community."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:14
+msgid ""
+"The years that passed were peaceful and prosperous, that is until the orcs "
+"came... "
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:17
+msgid ""
+"In a fierce battle that raged for one whole year, the orcs finally "
+"overpowered the combined defenses of the humans and dwarves."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:20
+msgid ""
+"The dwarves were pushed back into the caves where the battle raged on for "
+"many more years, while the people of Dwarven Doors were enslaved by the orcs."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:23
+msgid ""
+"Many years passed as the people of Dwarven Doors worked as slaves for the "
+"orcs, until the day that Prince Konrad of Wesnoth passed through on his "
+"quest for the Scepter of Fire."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:26
+msgid ""
+"As the peasants watched Konrad and his man battle their way through the "
+"orcish host - and hearing how he himself was fighting to save his homeland "
+"from the rule of a tyrant - a hope rose in their hearts. Perhaps, one day "
+"they also could rid their homeland of the tyrannical orcs and be free once "
+"again."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:29
+msgid ""
+"Many more years past but the peasants never gave up their hope. Rather, as "
+"time went on it became stronger and stronger. Finally, one day their chance "
+"came."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:32
+msgid "Al'tar, their "
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:126
+msgid "Defeat enemy leaders"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:130
+msgid "Death of Tallin"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:135
+msgid "Turns run out"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:149
+msgid ""
+"Quck you guyz, the orcs are killing each-other. This might be the only "
+"chance we got to be rid of these scum once and for all. Lets give it to em!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:153
+msgid "You piece of dirt! How dare you step onto my land!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:157
+msgid ""
+"You puny weakling, this land now belongs to my master! Surrender now and he "
+"MIGHT let you be his slave."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:161
+msgid ""
+"Pahh! Grunts, attack! Whoever brings me his head will get five villages!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:175
+msgid ""
+"I die now you orcish scum, but it is as a free man not your slave! But you "
+"know that your days are numbered! We will rise again and again until all "
+"your rotting carcasses lay stretched on the ground!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:179
+msgid "Pahh! Grunts, put the rest of those peasant rabble back in chains."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:194
+msgid "YES! We did it! We are free!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:215
+msgid ""
+"Garrugch failed in mission, but Al'tar dead by peasant slaves. Better tell "
+"master."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:219
+msgid "Master needs more meat for wolves. Peasants good meat."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:240
+msgid ""
+"Uh oh! That orc has gone to tell his leader that we are now free. Soon they "
+"will be here in hordes to enslave us again... or worse..."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:245
+msgid "Don't worry, there is a way out of that."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:251
+msgid "Eh?"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:256
+msgid ""
+"Lets head into the caves and find out if there are any dwarves still alive. "
+"Perhaps they will be able to make us some proper weapons and armor. And "
+"then, when the orcs come back, boy will they ever be in for a surprise!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:261
+msgid ""
+"Enter the caves! Find the dwarves! Have you gone completely insane? The "
+"caves are infested with trolls and orcs. There are even rumors that the "
+"dwarves who died trying to defend Knalga are rising again and destroying "
+"anyone they come across. And we can't fight in caves! We can hardly even "
+"walk in the caves without tripping and killing ourselves, let alone fight!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:266
+msgid ""
+"Not so. All you night-crawlers and hunters get yourselves the bows from the "
+"dead orcs or whatever else you can find. With you guyz in the forefront I am "
+"sure we'll be able to manage. I know, it'll be tough and dangerous but I "
+"don't see any other way around it."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:270
+msgid "You can now recruit Thugs and Poachers"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:286
+msgid "This is one of the the entrances to the dwarven caves."
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:290
+msgid "Aaaaah! Trolls! The caves are infested with trolls!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:337
+msgid "What the... *gurgle* Hey! Look... a slave... uprising!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:342
+msgid " *STAB*"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:347
+msgid "Ugh!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:352
+msgid "Not a very bright one was he?"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:365
+msgid "No! I have failed in my  mission!"
+msgstr ""
+
+#: scenarios/Breaking_the_Chains.cfg:370
+msgid "Mission? What mission?"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:4
+msgid "Clearing the Mines"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:529
+msgid "When the party finally reached the mines they were not dissapointed."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:535
+msgid "Lo and Behold, the Dwarven Mines."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:541
+msgid ""
+"Look at that cannel. The dwarves built it to transport all the mined metals "
+"deeper into Knalga. And also notice those two rooms, one to the north-west "
+"and the other to the south-east? That is where many of the mined materials "
+"are stored until they were ready to be transported."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:547
+msgid ""
+"Holly! The whole place swarming with undead! They have animated all those "
+"corpses who are doing all the work!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:553
+msgid ""
+"And they seem to have good security too. Look, most of the fortifications "
+"are repaired and they have those nasty skeletons everywhere."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:560
+msgid ""
+"Fortunately this entrance seems to be in disrepair. It doesn't even look "
+"like they noticed us yet."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:565
+msgid "WHO GOES THERE?"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:571
+msgid "Oops, I spoke too soon."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:577
+msgid " *Wince* You can turn the volume down pal."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:583
+msgid "Maybe he needs a fireball..."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:588
+msgid "YOU DO NOT ANSWER, ALERT THE MASTER!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:603
+msgid "Who goes there? Ahhh, more slaves I see."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:609
+msgid "Other's have made that mistake before. Who are you?"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:614
+msgid ""
+"Who am I? *CACKLES WILDLY* I am Malifor the Great! I wield complete power "
+"over any creature that has died. These tunnels, haunted as they are by the "
+"ghosts of the dead dwarves are a perfect place for me to wield my power."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:620
+msgid "You dare disturb the rest of those brave dwarves!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:625
+msgid ""
+"HAHAHAHA! Your petty temper tantrums are most amusing you puny dwarf. Soon I "
+"will finish the job that the orcs have started and Knalga will be all mine! "
+"From there I will sweep the whole north of all living creatures and then "
+"swoop down upon Wesnoth!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:631
+msgid "Quit your ranting you old bag of bones! Prepare to return to the dust!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:636
+msgid "HAHAHAHAHAHA! Such big treats from one so small? HAHAHAHA!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:641
+msgid "But my my, what do we have here - Tallin."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:647
+msgid "He knows your name Tallin. I don't like the looks of this."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:652
+msgid ""
+"Oh yes, I know you Tallin. I have been watching you for a long time. You are "
+"a perfect candidate to be one of my generals."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:658
+msgid "....!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:663
+msgid ""
+"Look around you Tallin, see all the power, see all of the wealth, the glory, "
+"the pleasure that death has to offer. Think of the great empire of Knalga, "
+"come share it with me!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:669
+msgid "Tallin, are you ok?!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:675
+msgid ""
+"It's very easy Tallin, see that little vermin by your side? Take out your "
+"knife......  cut his throat .......feel his hot blood pump over your "
+"hands..... sacrifice him to death!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:680
+msgid "......die.... you..... little.....dwarf.....vermin!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:685
+msgid "Tallin! No!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:691
+msgid "Tallin, what are you doing?"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:697
+msgid ".....Death!..... Blood!...."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:711
+msgid "Ahhh! I have been betrayed!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2577 scenarios/Clearing_the_Mines.cfg:720
+msgid "HAHAHAHAHAHAHA!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:726
+msgid "TALLIN!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:194 scenarios/Clearing_the_Mines.cfg:741
+msgid "Ahhhh!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:751
+msgid "Die you foul trator!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:784
+msgid "Ahhhh! What.... happened....?....What.....have.....I.....done?"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:793
+msgid "You stupid wizard, you just killed one of my most promising generals!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:799
+msgid "And you are next you bag of bones! Come on men! Attack!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:809
+msgid ""
+"*Shakes head* You are sick and twisted you bag of bones. Attack men! I want "
+"him crushed and powdered!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:814
+msgid "Yeah! That's the way to do it! For the Dwarves! Attack!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:819
+msgid "You fool! You will pay for your your folly with your life."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:824
+msgid "Yeah right buddy."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:204 scenarios/Clearing_the_Mines.cfg:851
+msgid ""
+"Argh! I am finished, but our campaign must... not end... secure... the.... "
+"mines.... and ..... save..... our...... people......."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:210 scenarios/Infested_Caves.cfg:629
+#: scenarios/Clearing_the_Mines.cfg:857
+msgid "No Tallin, I can't do it without you!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:875
+msgid "No! Without the dwarfish weapons we have no hope!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:892
+msgid ""
+"HAHAHAHA, you puny weaklings think you can destroy me? FOOLS! You will all "
+"soon be serving me!"
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:914
+msgid "Oh no, he just.... disappeared."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:925
+msgid ""
+"Alright! We have finally secured the mines. But what should we do about that "
+"old bag of bones? He seems to be a serous threat that needs to be taken care "
+"of."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:931
+msgid "Not to speak of getting rid of the source of all those skeletons."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:937
+msgid ""
+"Right. But on the other hand, we really need those weapons as soon as "
+"possible..."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:943
+msgid ""
+"Well how about this: I stay here with the rest of us dwarves and start "
+"working on the weapons, while you go after him. By the time you have "
+"destroyed him we probably would have had enough time to set up defenses and "
+"get the mines and forges running again."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:949
+msgid "Sounds good to me."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:959
+msgid "With all respect Lord Hamel, some of us would like to accompany Tallin."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:965
+msgid ""
+"Very well. All of you dwarves who have fought under Tallin may accompany him "
+"if they so desire."
+msgstr ""
+
+#: scenarios/Clearing_the_Mines.cfg:970
+msgid "Thank you Lord."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:4
+msgid "Infested Caves"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:8
+msgid ""
+"Thus, temporarily abandoning their homeland, the people of Dwarven Doors "
+"gathered up as many resources as they could and plunged into the darkness of "
+"the caves."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:11
+msgid ""
+"Those among them who had a natural disposition to stalk the night were armed "
+"with whatever weapons they could salvage from the dead orcs, and when their "
+"supply of those were exhausted - with big slabs of wood."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:14
+msgid "Thus armed the mob descended into the darkness of the caves."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:160
+msgid "So here we are..."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:165
+msgid " *trip* OOF!!!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:170
+msgid "Great idea Tallin, I probably couldn't even fight a bat down here."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:188
+msgid "Neep Neep!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:200
+msgid ""
+"Calm down {role=Supporter.user_description}. Come what may, we'll handle "
+"them. Come on now, lets find those dwarves!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:209
+msgid ""
+"Good, we managed to clear the caves... for now anyway. Now lets get to the "
+"dwarven castle and start negotiating a deal for  those weapons."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:215 scenarios/Infested_Caves.cfg:371
+msgid "Wew!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:220 scenarios/Infested_Caves.cfg:376
+msgid "Finally!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:225 scenarios/Infested_Caves.cfg:381
+msgid "At last!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:231 scenarios/Infested_Caves.cfg:387
+msgid "Awww!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:259 scenarios/Infested_Caves.cfg:415
+msgid "Hey, what's going on in here?"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:269 scenarios/Infested_Caves.cfg:425
+msgid "We are killing lots of trolls and skeletons."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:275 scenarios/Infested_Caves.cfg:431
+msgid "Really! Did you save any for me?"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:280 scenarios/Infested_Caves.cfg:436
+msgid "Uh, not really..."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:286 scenarios/Infested_Caves.cfg:442
+msgid "Awwwwww."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:291 scenarios/Infested_Caves.cfg:447
+msgid ""
+"But hey, if you want to join us, I am sure we will be fighting a lot more "
+"orcs, trolls and skeletons in the near future."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:297 scenarios/Infested_Caves.cfg:453
+msgid "Really! Oh yeah, I am in!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:326
+msgid "Hold it right there you... Hey! A human!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:331
+msgid "Greetings from the people of Dwarven Doors friend."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:336
+msgid ""
+"We have managed to shake off the rule of the tyrannical orcs and seek help "
+"and equipment from our old allies, the dwarves."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:340
+msgid ""
+"The dwarves of Knalga are themselves in desperate need off help. Come to our "
+"keep talk to our leader, Lord, Hamel. I am sure we can work out a way to "
+"help each-other."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:345
+msgid "Very well."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:360
+msgid ""
+"Greetings Tallin. My men informed me that you would be coming. Come on "
+"inside the keep."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:365
+msgid "Thank you Lord Hamel"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:499
+msgid "PREPARE TO DIE YOU FOUL ORC!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:503
+msgid "Hold it! I am no orc, I am a human!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:508
+msgid ""
+"A human! Amazing, I haven't seen a human ever since the orcs attacked. Ever "
+"since then the the only living - and non-living - things I have seen are "
+"orcs, trolls and skeletons."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:512
+msgid "How have you managed to survive all this time?"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:517
+msgid "By frying every orc, troll or skeleton I come across. Duh!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:521
+msgid "...oh!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:526
+msgid ""
+"But silly me, where are my manners. Would you like to come inside for tea?"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:530
+msgid ""
+"Um... err.... well actually we are presently busy fighting our way through "
+"hordes of trolls and skeletons trying to find the dwarves... if there are "
+"any left."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:535
+msgid "Hordes of trolls and skeletons! Where!? Lets go burn em!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:539
+msgid "Err... ok...."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:544
+msgid " *Is it safe to have this lunatic with us?*"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:550
+msgid ""
+"Oh, and by the way, if you are looking for more trolls, skeletons and "
+"dwarves go back into the caves. All you will find in this directions are "
+"orcs, and some old abandoned mines."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:575
+msgid "BURN YOU DISGUSTING FILTH!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:580
+msgid "Ahhh! Fire!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:585
+msgid "Wow!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:604
+msgid "YEAH! DIE SCUM DIE!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:609
+msgid "He's gone completely insane!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:623
+msgid ""
+"Argh! I am finished, but our campaign must... not end... find... the.... "
+"dwarves.... and ..... save..... our...... people......."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:650
+msgid ""
+"Tallin, we have just received the news that the dwarfish Lord Hamel has just "
+"been slain. We are too late!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:675
+msgid "This tunnel keeps on going..."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:680
+msgid ""
+"I think we should finish searching this part of Knalga first before we go "
+"deeper into the caves."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:696
+msgid "Holly cow, what are those things!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:702
+msgid "Skeletons!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:708
+msgid ""
+"Look at those axes. It looks like at one time those skeletons were dwarves!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:714
+msgid ""
+"Stand firm men, the dwarven defenders rise again. Now it remains to be seen "
+"wither or not they recognize us as friends."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:736
+msgid "They are attacking us!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:742
+msgid "Destroy them!"
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:756 scenarios/Infested_Caves.cfg:797
+msgid ""
+"Hey look, it's an old door. It seems like the trolls were too stupid to know "
+"how to open it."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:761 scenarios/Infested_Caves.cfg:802
+msgid "Well lets see what's behind it."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:765 scenarios/Infested_Caves.cfg:806
+msgid "Alright. *Grunt* *Strain* It's not moving, it seems to be stuck."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:770 scenarios/Infested_Caves.cfg:811
+msgid "Well just kick it down then."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:774
+msgid "...right."
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:778 scenarios/Infested_Caves.cfg:819
+msgid " *SMASH* "
+msgstr ""
+
+#: scenarios/Infested_Caves.cfg:815
+msgid "....right."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:49
+msgid "The Pursuit"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:131
+msgid ""
+"Leaving most of the dwarves behind, Tallin and the rest of his party set off "
+"to pursue the Sorcerer."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:579
+msgid "There he goes! After him men!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:584
+msgid "I don't think so you living vermin."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:590
+msgid "Uh oh, these passages seem to be well guarded."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:596
+msgid ""
+"Won't make a difference in the end, for we shall smash that old bag of bones "
+"and reduce him to power. HEAR THAT YOU YOU OLD SKELETON?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:601
+msgid " *faint cackle of laughter in the distance*"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:607
+msgid "Ohhh, this is gonna be fun!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:613
+msgid ""
+"Anyhow, lets proceed with caution. Nobody goes off by himself. We don't know "
+"what kind of ambushes these skeletons have set up."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:678
+msgid ""
+"This is a magical staff of tremendous power and unknown origin. Although the "
+"full extent of it's power is unknown there are a few obvious features about "
+"it. Most significantly, the wielder of this staff has a dramatic increase in "
+"strength, speed and intelligence and is granted the ability to fire "
+"devastating lightning bolts at at his opponents. Only a person who is good "
+"at heart and who is willing to sacrifice his life on the path of justice can "
+"wield this staff."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:726
+msgid "Wow! Incredible! No wonder none of the skeletons could wield it."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:741
+msgid "INTRUDERS! GET THEM!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:817
+msgid "Hahahahahaha!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:822
+msgid "Uh oh!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:837
+msgid ""
+"Warning, going down this passage is extremely hazardous for your health. If "
+"however, you decide to continue down this passage, Malifor the Great takes "
+"full responsibility for any injuries and/or fatalities you may receive. "
+"Mwahahahahah!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:842
+msgid "I always knew that bag of bones was a total nut-case."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:857
+msgid "Warning, booby trap ahead!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:862
+msgid "Oh.... kay......"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:877
+msgid "Told you so!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:882
+msgid " *CRASH*"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:909
+msgid "HISSSSSSS!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:914
+msgid "Uh oh! We are trapped!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:919
+msgid "Maby next time we should read the signs."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:937
+msgid "ANY FURTHER AND YOU SHALL DIE!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:943
+msgid "You get out of our way or you will die a second time!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:948
+msgid "GET THEM!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1148 scenarios/The_Pursuit.cfg:1163
+msgid "A door, hmmmmmm."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1179 scenarios/The_Pursuit.cfg:1193
+msgid ""
+"Holy water! Boy I am sure those skeletons won't like us getting our hands on "
+"this stuff. But that's probably why they kept them back here in the first "
+"place."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1208
+msgid ""
+"Oooh, nice big double doors. The sign says: The Study of Malifor the Great. "
+"Enter at your own risk."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1213
+msgid "Pffff. Well, time to do some more door kicking."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1225 scenarios/The_Pursuit.cfg:1238
+msgid "Knock Knock Knock, anybody home?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1253
+msgid "The Treasury"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1258
+msgid "The Treasury! Cool, lets go and get some booty!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1272
+msgid "The Dungeon"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1287
+msgid "Malifor the Great's Study"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1292
+msgid "There we go! This way guyz!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1306
+msgid ""
+"Do not touch this staff. Anyone who does so will be immediately destroyed."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1311
+msgid "Hmmmm, interesting should I...?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1324
+msgid "Wow! I there is at least 2000 gold in here!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1345
+msgid "Holly cow! 5000 gold!!!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1366
+msgid "3000 gold! We're rich!!!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1387
+msgid "What a horde! 10 000 gold!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1408
+msgid "500 gold! Not bad!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1429
+msgid "1000 gold! Wow! Where is that bag of bones getting all this?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1450
+msgid "7000 gold! I love this place!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1471
+msgid "This is a BIG one! At least 50 000 gold!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1485
+msgid "Gold, Pah! Who needs gold when you have a few good fireballs!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1491
+msgid "Oh and good luck walking around with all that gold by the way."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1496
+msgid "Gooooooold........"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1510
+msgid "HALT! THIS IS THE MASTER'S TREASURY! TURN BACK NOW OR FACE DEATH!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1515
+msgid "Funny, where did I hear that before?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1520
+msgid "GAURDS! KILL THEM!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1552
+msgid "STOP THEM!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1557
+msgid "Give it your best shot!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1597
+msgid "STOP! YOUR ONSLAUGHT ENDS HERE!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1602
+msgid "Your miserable un-life ends here!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1642
+msgid "Freedom at last, thank you Lord Tallin."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1648
+msgid ""
+"Just Tallin, I am no lord, just a simple peasant trying to restore our "
+"people to freedom."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1663 scenarios/The_Pursuit.cfg:1800
+msgid "But anyhow, who are you? How did you end up down here?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1667
+msgid ""
+"I am called Sister Theta. My husband Marcus and I were advisers and healers "
+"for the dwarvish nobles. Then of course the orcs attacked, followed by the "
+"trolls and then by these fiends! We managed to somehow survive the orcs and "
+"trolls but when these skeletons appeared we were captured."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1673 scenarios/The_Pursuit.cfg:1810
+msgid ""
+"Funny, why would The Bag of Bones keep you as his prisoners. He didn't seem "
+"to be the merciful type."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1678 scenarios/The_Pursuit.cfg:1815
+msgid ""
+"He didn't keep us alive out of mercy, he wanted to study us to see if there "
+"was a way to counteract our holy attacks. His kind are very vulnerable to "
+"such attacks, as I am sure you know by now."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1684 scenarios/The_Pursuit.cfg:1821
+msgid ""
+"Yes indeed. But anyhow, you are now free to go wherever you like. May the "
+"Lords of Light guide your path."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1689
+msgid ""
+"If you have no objection Tallin, we would like to join you. These northlands "
+"are hardly save these days for anyone to be traveling on their own and we "
+"would lend valuable help to your cause."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1695
+msgid "Very well, you are most welcome to join us."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1700 scenarios/The_Pursuit.cfg:1837
+msgid "Thank you Tallin."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1715 scenarios/The_Pursuit.cfg:1850
+msgid "Marcus!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1720 scenarios/The_Pursuit.cfg:1855
+msgid "Theta!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1725 scenarios/The_Pursuit.cfg:1860
+msgid "Please folks, not now."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1730 scenarios/The_Pursuit.cfg:1865
+msgid "Oh, sorry."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1779
+msgid ""
+"Finally! I am free. Lord Tallin, I am forever in your debt! We will fallow "
+"you to the end of the World if need be."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1785
+msgid "It's just Tallin, no lord. And no problem."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1804
+msgid ""
+"I am called Father Marcus. My wife, Theta and I were advisers and healers "
+"for the dwarvish nobles. Then of course the orcs attacked, followed by the "
+"trolls and then by these fiends! We managed to somehow survive the orcs and "
+"trolls but when these skeletons appeared we were captured."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1826
+msgid ""
+"As I have said Tallin, I am eternally in your debt, and I take my debts "
+"seriously. If you have no objection, I would like to serve you till the day "
+"I die."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1832
+msgid ""
+"Oh, think nothing of it. Let's not let debts come between us and let us join "
+"hands in restoring these Northlands to sanity."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1899
+msgid "Ahhhhhhh!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1904 scenarios/The_Pursuit.cfg:1977
+msgid "You incompetent fools, you think you can kill us? Good luck!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1938 scenarios/The_Pursuit.cfg:2010
+msgid "Ouch! That hurt. Let's try not to do that again ok?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1952 scenarios/The_Pursuit.cfg:2025
+msgid ""
+"Wow! That's incredible. Now I REALLY know why The Bag of Bones kept you guyz "
+"in jail; He just simply couldn't kill you!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1957 scenarios/The_Pursuit.cfg:2030
+msgid "Hehehehehe"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:1972
+msgid "Argh!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2059
+msgid "Oh my, she is almost dead!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2073
+msgid "Here, let me see her."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2090
+msgid "Wow, you guyz are good."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2095
+msgid " *wink* *wink*"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2100
+msgid "Here, this will help her."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2109 scenarios/The_Pursuit.cfg:2193
+msgid "Uh....... where..... am..... I...?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2114
+msgid ""
+"You are in the dungeons of Malifor. These brave people have just released "
+"you."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2119 scenarios/The_Pursuit.cfg:2203
+msgid "....thanks."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2125
+msgid ""
+"No problem. Sister Theta, you take care of her. If she wants to join us she "
+"would make a powerful ally."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2130 scenarios/The_Pursuit.cfg:2214
+msgid "Yes, I would... like to join... you Lord Tallin."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2136
+msgid ""
+"Just Tallin, I am no lord. But gee, that sure is some powerful spell you "
+"used on her Sister, she is looking better already."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2142
+msgid "And I feel better too. Now lets get back at that disgusting skeleton."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2148 scenarios/The_Pursuit.cfg:2236
+msgid "Why did that Bag of Bones capture you in the first place?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2153 scenarios/The_Pursuit.cfg:2241
+msgid "Because he thought I was pretty."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2159 scenarios/The_Pursuit.cfg:2247
+msgid "That old skeleton? Geez, what a nutcase."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2164 scenarios/The_Pursuit.cfg:2252
+msgid "You're telling me."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2183
+msgid ""
+"I wish we had some healers with us. Just try to help her the best you can."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2188
+msgid "Here, I hope that helps."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2198
+msgid "You are in the dungeons of Malifor. We have just released you."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2209
+msgid ""
+"No problem. Just take it easy. If you would like to join us your help could "
+"mean life or death for a lot of us."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2220
+msgid "Just Tallin, I am no lord. But gee, you are looking better already."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2230
+msgid ""
+"Oh, just a few tricks I know, otherwise I probably would be dead by now. But "
+"anyway, lets get back at that disgusting skeleton."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2268
+msgid "You want to attack me you fiend? Pfff, idiot."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2278
+msgid "Wow, cool! Being able to do that must come in handy."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2283
+msgid "It sure does."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2301
+msgid "Take your best shot."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2337
+msgid "Holly cow! What did I just let out of that cage! Look out everyone."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2343
+msgid "Oooooh, cool, it's a drake!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2348
+msgid " *whimper*"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2353
+msgid ""
+"My God, such a fierce creature whimpering! What the heck have they done to "
+"it?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2359
+msgid "The bastards!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2364
+msgid "Probably another one of Malifor's experiments."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2370
+msgid "I don't know, see if it talks."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2375
+msgid "Hey big guy. We arn't gonna hurt you. We wanna be your friends."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2380
+msgid ".....not..... going..... to...... hurt.... me?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2386
+msgid "Hey, it talks!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2392
+msgid "It's a "
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2397
+msgid ""
+"Hush! I am trying to talk to him. Nope, we'll never hurt you. But if you "
+"want to you can hurt some skeletons."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2402
+msgid "Skeletons! GRRRRRRRR!!!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2407
+msgid "Look out! He is ready to go! Hey, is that smoke coming out of his ears?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2420
+msgid "ROOOOOOAAAARRRR!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2426
+msgid ""
+"Woha! Maybe he isn't so friendly after all... or at least to some things."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2441
+msgid ""
+"Ahhhh my friends. I see you have managed to find me. Good job. Here let me "
+"give you a little present."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2457
+msgid "You raided my dungeon."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2473
+msgid "Looted my treasury."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2484
+msgid "Drove me from my mines."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2498
+msgid "And spoiled all my plans. BUT NOW YOU DIE!!!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2503
+msgid "Gee, he sounds a little upset doesn't he?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2508
+msgid ""
+"Malifor, you are cruel, merciless and a terror to all that lives. The world "
+"will be a better place once you have been returned to the dust!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2513
+msgid ""
+"For your selfish aims you have terrorized all that is good. You have "
+"disturbed the rest of the brave defenders of Knalga, now, your evil reign "
+"shall be brought to an end."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2518
+msgid ""
+"FOOLS, DON'T THINK IT IS SO EASY TO KILL ME! RATHER, I SHALL KILL YOU AND "
+"RAISE YOU CORPSES TO SERVE ME. FALL ON THEM MY LOYAL HORDES!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2536
+msgid "HAHAHAHAHA, FOOLS, YOU THINK YOU CAN KILL ME?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2583
+msgid "What the...!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2588
+msgid ""
+"How can it be?! Our axes and hammers are failing. Let try something else."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2629 scenarios/The_Pursuit.cfg:2770
+#: scenarios/The_Pursuit.cfg:2911 scenarios/The_Pursuit.cfg:3050
+msgid "I see now. It is impossible to destory him by ordinary means."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2635 scenarios/The_Pursuit.cfg:2776
+#: scenarios/The_Pursuit.cfg:2917 scenarios/The_Pursuit.cfg:3056
+msgid "Then how are we going to destroy him? Surely there must be a way."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2640 scenarios/The_Pursuit.cfg:2781
+#: scenarios/The_Pursuit.cfg:2922 scenarios/The_Pursuit.cfg:3061
+msgid ""
+"Yes, I think there is, but only me or Theta have the means to do it. Come on "
+"Theta, lets destroy that old skeleton."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2645 scenarios/The_Pursuit.cfg:2786
+#: scenarios/The_Pursuit.cfg:2927 scenarios/The_Pursuit.cfg:3066
+msgid "Yeah I can't wait to get my hands on that bastard!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2650 scenarios/The_Pursuit.cfg:2791
+#: scenarios/The_Pursuit.cfg:2932 scenarios/The_Pursuit.cfg:3071
+msgid "That was very unladylike of you."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2655 scenarios/The_Pursuit.cfg:2796
+#: scenarios/The_Pursuit.cfg:2937 scenarios/The_Pursuit.cfg:3076
+msgid " *giggle* Sorry."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2677
+msgid "HAHAHAHAHAHA, YOUR IDIOCY AMUSES ME GREATLY!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2718
+msgid "COME AND GET ME!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2724
+msgid "Geez, how are we going to kill him?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2729
+msgid "Well, obviously clubs and arrows won't work."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2818
+msgid "HAHAHAHAHAHA, I DEATH HAS NO EFFECT ON ME YOU FOOLS!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2859
+msgid "HAHAHAHAHA, I CAN NEVER BE DESTROYED!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2865
+msgid "No, there has to be a way!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2870
+msgid "Well, it isn't gonna be blades."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:2960
+msgid "HAHAHAHAHAHA, I AM IMMORTAL!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3001
+msgid "YOU PUNY MORTALS SHALL SOON BE SERVING ME!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3007
+msgid "That blasted skeleton! Even fire has no affect on him!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3097
+msgid "AHHHHHH! YOU BLASTED MAGE!"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3103
+msgid "Good. We finally got him. He is just dissolving."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3108
+msgid ""
+"Curses on you you blasted mages, curses on you you blasted dwarves, curses "
+"on you you blasted humans, and CURSES ON YOU YOU BLASTED TALLIN! MAY YOUR "
+"MISERABLE LIVES BE FULL OF TORTURE! MAY YORU PEOPLE NEVER BE FREE! MAY ALL "
+"YOUR NEAR AND DEAR DESERT YOU! MAY A THUNDERBOLT HIT YOUR HEAD! MAY..."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3114
+msgid "May you shut your ugly mouth and hurry up and die."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3119
+msgid ""
+"MAY THE EARTH OPPEN UP AND SWALLOW YOU! MAY ALL YOUR TEATH FALL OUT! MAY YOU "
+"BECOME A WEEK SKINNY OLD MAN! MAY............."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3124
+msgid "Finally! He has been reduced to dust."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3130
+msgid "At last! Victory is ours! Good job men!."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3135
+msgid "So where to now Tallin?"
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3141
+msgid ""
+"Now lets get back to the dwarves and see how they are making out with those "
+"weapons."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3159
+msgid ""
+"Arrrrgh! I have done my best..... but I can go no further.... But all of "
+"you .... must continue.... our..... quest...."
+msgstr ""
+
+#: scenarios/The_Pursuit.cfg:3164
+msgid "No Tallin! Don't die! We can't make it without you!"
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:6
+msgid "To the Mines"
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:10
+msgid ""
+"After reaching the dwarvish keep and tending to their wounded the humans - "
+"lead by Tallin, and dwarves - lead by the Dwarvish Lord Hamel made council."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:14
+msgid ""
+"Welcome to the Southern Tunnels friends... or at least what's left of them."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:19
+msgid ""
+"Thank you Lord Hamel. Even though Knalga lies in chaos, it is a great relief "
+"to see that at least some dwarves are managing to survive."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:24
+msgid ""
+"Thank you human. It is also a great relief to see that our allies of old "
+"have managed to break their bonds and live as freemen once again."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:29
+msgid ""
+"Yes, that is the main reason of our visit. We have managed to break free but "
+"in order to stay that way we need some proper weapons and armor; clubs and "
+"pitchforks just won't do it in the long run. Since dwarves are known to be "
+"the finest metalworkers and weapon-smiths we were hoping that you would be "
+"able to help us."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:34
+msgid ""
+"Yes, it's true but the fact is that we are also extremely low on weapons and "
+"armor ourselves. We are just a small band of dwarves that managed to hold "
+"our position in this little keep while the rest of Knalga was overrun by the "
+"orcs. Perhaps there are other small pockets like us but I don't know."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:39
+msgid ""
+"Anyhow fortunately we managed to assassinate the orcish leader and as a "
+"result the orcish unity disintegrated and they started fighting among "
+"themselves. That is the only reason why Knalga is in the state that is now "
+"in, rather then being an orcish stronghold."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:44
+msgid ""
+"But to the point, we have been stranded in these tunnels for years now, "
+"almost completely cut off from all sources of food, metals, and in short, "
+"any type of resources."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:49
+msgid ""
+"So basically, we need resources right? Is there any source for them nearby?"
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:54
+msgid ""
+"Yes, there is. A few miles north of here is the place where we mined many of "
+"our raw metals. However, that place seems to be where all those skeletons "
+"are coming from. To go there would mean certain death."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:59
+msgid ""
+"What is the story with those skeletons anyway? They look like they were "
+"dwarves at one point but now they just attack everyone and anyone."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:64
+msgid ""
+"To be quite frank, I have no idea. They just started appearing one day some "
+"years after we were trapped here."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:69
+msgid ""
+"Perhaps if we go there we can find out. Let us combine our forces and march "
+"to the mines and settle this mater once and for all. That way we can also "
+"get our raw materials too so we can start turning the tide against those "
+"orcs... I know it will be extremely dangerous but it is better to die trying "
+"then to sit here and slowly starve to death."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:74
+msgid ""
+"That's the spirit! Form up men! To the mines! Let the guardsmen stay behind "
+"along with all of Tallin's noncombatants - for their safety and to hold the "
+"keep."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:79
+msgid ""
+"Oh, and Tallin, there are two ways we can go. One is through the tunnels and "
+"the other is to leave the tunnels and go through the mountains. Both ways "
+"are about the same length. If you go though the tunnels we'll be facing more "
+"trolls and perhaps skeletons. If we take the mountains - who knows. So what "
+"will it be?"
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:84
+msgid ""
+"I don't think I'm all that crazy about facing those trolls again any time "
+"soon. Lets take the mountains."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:180
+msgid ""
+"However, once the party left the caves they found that they faced a new "
+"threat."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:185
+msgid "Hey look, there is our meat! Come on boys, lunchtime!"
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:191
+msgid "I don't think so buddy."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:249
+msgid "Ok, here is the entrance to the dwarven mines lets go!"
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:254
+msgid ""
+"Hey, there goes our lunch! Hmmm, they are stronger then we thought, let's go "
+"tell Master."
+msgstr ""
+
+#: scenarios/To_The_Mines.cfg:260
+msgid ""
+"What's with this whole 'Master' business? It's starting to make me nervous."
+msgstr ""
