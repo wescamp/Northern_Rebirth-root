@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-07-29 18:16+0200\n"
-"PO-Revision-Date: 2005-06-28 18:46+0200\n"
+"POT-Creation-Date: 2005-07-29 23:25+0200\n"
+"PO-Revision-Date: 2005-07-29 20:32+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: Northern_Rebirth.cfg:15
 msgid "(Newbe)"
-msgstr ""
+msgstr "Nybörjare"
 
 #: Northern_Rebirth.cfg:15
 msgid "Peasant"
@@ -33,7 +33,6 @@ msgid "(Normal)"
 msgstr "(Normal)"
 
 #: Northern_Rebirth.cfg:17
-#, fuzzy
 msgid "Swordsman"
 msgstr "Svärdssoldat"
 
@@ -47,7 +46,7 @@ msgstr "Livgardist"
 
 #: Northern_Rebirth.cfg:20
 msgid " Version 0.7 Last updated 7/28/05."
-msgstr ""
+msgstr "Version 0.7, uppdaterad senast 2005-07-28."
 
 #: Northern_Rebirth.cfg:20
 msgid ""
@@ -124,7 +123,6 @@ msgstr ""
 "tills den dag då prins Konrad av Wesnoth kom förbi i sin jakt på Eldspiran."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:30
-#, fuzzy
 msgid ""
 "As the peasants watched Konrad and his men battle their way through the "
 "orcish host - and hearing how he himself was fighting to save his homeland "
@@ -134,11 +132,10 @@ msgid ""
 msgstr ""
 "Bönderna såg hur Konrad och hans mannar slog sig fram genom orchernas led, "
 "och hörde hur han kämpade för att rädda sitt hemland. Då steg ett hopp i "
-"deras hjärtan. Kanske kunde även de en dag jaga orchtyrannerna från sitt "
+"deras hjärtan; kanske kunde även de en dag jaga orchtyrannerna från sitt "
 "hemland och bli fria på nytt."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:33
-#, fuzzy
 msgid ""
 "Many more years passed but the peasants never gave up their hope. Rather, as "
 "time went on it became stronger and stronger. Finally, one day their chance "
@@ -160,17 +157,14 @@ msgstr "Besegra alla fiendeledare"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:268
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:159
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:284
 msgid "Death of Tallin"
 msgstr "Tallin dör"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:164
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:297
 msgid "Turns run out"
 msgstr "Dragen tar slut"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:191
-#, fuzzy
 msgid ""
 "Quick you guyz, the orcs are killing each-other. This might be the only "
 "chance we got to be rid of these scum once and for all. Lets give it to em!"
@@ -205,9 +199,8 @@ msgid "Never! I would rather die!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:227
-#, fuzzy
 msgid "Then to arms!"
-msgstr "Ynkryggarna!"
+msgstr "Till vapen!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:232
 msgid "You piece of dirt! How dare you step onto my land!"
@@ -274,14 +267,13 @@ msgid "Eh?"
 msgstr "Vadå?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:335
-#, fuzzy
 msgid ""
 "Lets head into the caves and find out if there are any dwarves still alive. "
 "Perhaps they will be able to make us some proper weapons and armor. And "
 "then, when the orcs come back, well show em!"
 msgstr ""
 "Låt oss gå in i grottorna och se om det fortfarande finns några dvärgar i "
-"livet där. Kanske de kan ge oss några ordentliga vapen och rustningar. Och "
+"livet där. Kanske kan de ge oss några ordentliga vapen och rustningar. Och "
 "då kommer orcherna att få sig en ordentlig överraskning när de kommer!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:340
@@ -359,7 +351,6 @@ msgid "Clearing the Mines"
 msgstr "Gruvorna rensas"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:558
-#, fuzzy
 msgid "When the party finally reached the mines they were not disappointed."
 msgstr ""
 "När sällskapet slutligen kom fram till gruvorna så blev de inte besvikna."
@@ -369,26 +360,24 @@ msgid "Lo and Behold, the Dwarven Mines."
 msgstr "Se, dvärgarnas gruvor."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:570
-#, fuzzy
 msgid ""
 "Look at that canal. The dwarves built it to transport all the mined metals "
 "deeper into Knalga. And also notice those two rooms, one to the north-west "
 "and the other to the south-east. That is where many of the mined materials "
 "are stored until they were ready to be transported."
 msgstr ""
-"Se på den där kanalen. Dvärgarna byggde den för att kunna frakta all malm "
+"Se på den där kanalen. Dvärgarna byggde den för att kunna frakta malm "
 "djupare ner i Knalga. Lägg också märke till de två rummen, ett i nordväst "
 "och ett i sydöst. Det var där som de lagrade det de brutit i gruvorna i "
 "väntan på vidare transport."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:576
-#, fuzzy
 msgid ""
 "Holy! The whole place swarming with undead! They have animated all those "
 "corpses who are doing all the work!"
 msgstr ""
 "Jösses! Det vimlar ju av vandöda här! De har återuppväckt en massa lik för "
-"att utföra allt arbete."
+"att utföra allt arbete för dem!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:582
 msgid ""
@@ -415,7 +404,6 @@ msgid "Oops, I spoke too soon."
 msgstr "Hoppsan, det var visst lite väl tidigt sagt."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:606
-#, fuzzy
 msgid " *wince* You can turn the volume down pal."
 msgstr "*Ryck* Dämpa dig lite, polarn."
 
@@ -432,7 +420,6 @@ msgid "Who goes there? Ahhh, more slaves I see."
 msgstr "Vem där? Ahhh, fler slavar ser jag."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:639
-#, fuzzy
 msgid "Others have made that mistake before. Who are you?"
 msgstr "Du är inte den första att göra det misstaget. Vem är du?"
 
@@ -550,7 +537,6 @@ msgid "Ahhhh!"
 msgstr "Ahhhh!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:789
-#, fuzzy
 msgid "Die you foul traitor!"
 msgstr "Dö, din vidrige förrädare!"
 
@@ -598,7 +584,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:237
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:672
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:533
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:897
 msgid "No Tallin, I can't do it without you!"
 msgstr "Nej Tallin, jag klarar det inte utan dig!"
@@ -620,13 +605,12 @@ msgid "Oh no, he just.... disappeared."
 msgstr "Åh nej, han bara...försvann."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:966
-#, fuzzy
 msgid ""
 "Alright! We have finally secured the mines. But what should we do about that "
 "old bag of bones? He seems to be a serious threat that needs to be taken "
 "care of."
 msgstr ""
-"Okej, nu är gruvorna äntligen säkrade. Men vad skall vi göra med det gamla "
+"Okej! Nu är gruvorna äntligen säkrade. Men vad skall vi göra med det gamla "
 "benskrället? Han verkar vara ett allvarligt hot som måste tas itu med."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:972
@@ -652,7 +636,6 @@ msgstr ""
 "nog haft tillräckligt med tid för att ställa upp ett försvar och fått igång "
 "både gruvdrift och smedjor igen."
 
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:870
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:990
 msgid "Sounds good to me."
 msgstr "Det låter bra."
@@ -674,385 +657,6 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:1011
 msgid "Thank you Lord."
 msgstr "Tack, furste."
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:45
-msgid "Elvish Princess"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:51
-msgid ""
-"After securing the help of the mages (well actually more like Liches now), "
-"the party returned back to Knalga."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:56
-msgid ""
-"Hamel was very surprised to see that Tallin had managed to convince both the "
-"Liches and Stalrag to join their cause. They soon got down to business, "
-"planning and readying themselves for the final confrontation."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:61
-msgid ""
-"Gryphons were immediately sent out to scout out the number, formation and "
-"deployment of the orcish forces, and to keep an eye out for anyone who might "
-"be of help to their cause."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:66
-msgid ""
-"One day a gryphon came screeching into the caves with the news that a large "
-"elvish force from the east was coming in this direction. Messages were "
-"quickly dispatched to the elves asking their purpose. The haughty reply was "
-"that it was none of their business and stay out of their way if they knew "
-"what was good for them."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:71
-msgid ""
-"Before the humans and dwarves could respond to this message, another gryphon "
-"screeched in with the news that the orcs were holding an elvish sorceress "
-"prisoner. Although this in itself wasn't surprising the significant fact was "
-"that she was being held in a nearly impenetrable fortress with only the "
-"strongest, hardened orcish veterans guarding her."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:76
-msgid ""
-"After a lightning like gryphon raid, and interrogating the orcish archer "
-"they brought as prisoner, it was discovered that this sorceress was in fact "
-"a very important elvish princess who the orcs were holding for ransom."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:81
-msgid "A council was quickly held..."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:86
-msgid ""
-"So, this sorceress is some very important princess among the elves. That "
-"probably explains what the elves are doing so far away from their forests."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:91
-msgid ""
-"Yeah, they are probably either going to pay the ransom, or they will fight "
-"for her. From the reports it seems like they are prepared to do both."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:96
-msgid ""
-"Pahhh, who cares. Let the elves and orcs cut themselves to pieces. It will "
-"just make things easier for us."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:101
-msgid ""
-"Hah! I see that your brain his now rotted away entirely. Just think skull-"
-"head what would happen if they didn't fight and paid the ransom instead?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:106
-msgid "Do you want to die dwarf?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:111
-msgid ""
-"Peace peace! If you two want to kill something there are plenty of orcs "
-"outside."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:116
-msgid ""
-"But you do have a point Stalrag, and I am sure that is exactly what the orcs "
-"want too. If the elves pay the ransom then things would probably get pretty "
-"sticky for us."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:121
-msgid "Hmmm. What I see here is a perfect opportunity to get some more allies."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:126
-msgid ""
-"How is that Hamel? Judging from the reply those elves gave us before I don't "
-"think we can just go up to them and say, 'Hey, we'll help you get your "
-"princess back if you'll join us."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:131
-msgid "Dito!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:136
-msgid "Shut up lich!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:141
-msgid ""
-"Of course we won't do that. As a matter of fact I think it's best that we "
-"don't say anything to the elves at all."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:146
-msgid "Why is that?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:151
-msgid ""
-"Well, say we do join up with the elves - assuming they will let us - and we "
-"make a combined raid on the fortress, what will the orcs most likely do "
-"knowing that they failed to get the ransom?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:156
-msgid ""
-"Knowing orcs, they will probably kill the princess, especially if the raid "
-"was going well."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:161
-msgid ""
-"Exactally. On the other hand, if we on our own raid the fortress while the "
-"elves are talking ransom with the orcs, it would probably create enough "
-"confusion to be able to pull the raid off successfully."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:166
-msgid ""
-"Orcs are rather dumb creatures and I bet that Rakshas fellow gave strict "
-"orders not to touch the princess. Without his direct orders they most likely "
-"wouldn't touch her."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:171
-msgid ""
-"But still, I wouldn't trust those orcs staying stupid forever. If we do go "
-"ahead with this raid we are going to have to be in and out like lightning."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:176
-msgid ""
-"The Shinsplitters will be invaluable for a job like this. They are fierce "
-"and un-retreating and will not stop attacking until either they or their "
-"opponent lies dead. No fortress can stand long against them."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:181
-msgid ""
-"Ha ha, I like this plan. Once we get our hands on this little sorceress the "
-"elves will be forced to do whatever we want them to."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:186
-msgid ""
-"Remember Ro'Arthian, we want willing allies not hostages. If we rescue their "
-"princess the elves may or may not help us, but that is a risk we'll have to "
-"take."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:191
-msgid ""
-"Knowing the nature of elves in general, I am sure they would offer some sort "
-"of assistance out of gratitude."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:196
-msgid ""
-"And at least it would prevent the orcs from getting rich on ransom money."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:201
-msgid "Pah, weak soft humans. Have it your way if you must."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:206
-msgid ""
-"So it is settled then. Tallin, I'll remain here once again and hold the "
-"fort. The orcs still haven't given up their attack on the southern tunnels."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:211
-msgid ""
-"The situation seems to be pretty much a stalemate right now but it is still "
-"wise for someone to stay here and handle any situation that might come up."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:216
-#, fuzzy
-msgid "Sounds good to me!"
-msgstr "Det låter bra."
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:221
-msgid ""
-"And Tallin, one more thing, this is going to be a quick in and out raid, you "
-"don't need to haul around your whole caravan of gold."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:226
-msgid ""
-"I think you should just take as much as you think you'll need and leave the "
-"rest here. We'll store it in the tunnels furthest away from the attacking "
-"orcs just in case they manage to break thorugh."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:231
-msgid "Good idea! Come on men, lets go!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:280
-msgid "Rescue the Princess"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:288
-#, fuzzy
-msgid "Death of Ro'Arthian"
-msgstr "Tallin dör"
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:292
-#, fuzzy
-msgid "Death of Ro'Sothian"
-msgstr "Tallin dör"
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:483
-msgid ""
-"Upon emerging from the mouth of a hidden tunnel near the fortress, Tallin "
-"and his men surveyed the scene before them."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:488
-msgid "So there is this fortress. Pretty impressive if you ask me."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:494
-msgid ""
-"Yeah, it seems like they dammed up the river to make moats for their castle."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:500
-msgid ""
-"Are we here to sight-see or to rescue this blasted sorceress? And if you "
-"really want to sight-see then check out that orcish encampment south of us."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:506
-msgid ""
-"Hmmm, I guess the orcs figured that just having the gaurds wasn't enough. "
-"Get too it people, we gotta rescue this princess before the orcs get too "
-"smart."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:512
-#, fuzzy
-msgid "INTRUDERS! KILL THEM!!!"
-msgstr "INKRÄKTARE! PÅ DEM!"
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:527
-#, fuzzy
-msgid ""
-"Argh! I am finished, but our campaign must... not end... free... the.... "
-"princess.... and ..... save..... our...... people......."
-msgstr ""
-"Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... Säkra... "
-"gruvorna... Och...rädda... Vårt...folk..."
-
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1516
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:549
-msgid "Farewell my friends. I now go to join my fallen brothers."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:561
-msgid "No Stalrag! Without you what will become of us Shinsplitters?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:566
-msgid ""
-"Join Tallin.... He is your new.... leader.... Never... betray.... him......."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:572
-msgid "Your death shall not go unavenged brave Stalrag. DEATH TO THE ORCS!!!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:578
-#, fuzzy
-msgid "DIE YOU FOUL SCUM!!!"
-msgstr "GÖR DIG REDO ATT DÖ, DIN VIDRIGE ORCH!"
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:592
-msgid "Oh no Marcus! We have failed to rescue the princess!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:598
-msgid "Failed? Never! The word failure is not in our dictionary."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:635
-msgid "There we go, let's give this one more shot!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:640
-msgid "Just try not to kill yourself again."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:657
-msgid "The forces of good can never be defeated by the likes of you!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:663
-msgid ""
-"Yeah, try taking a bath and you MIGHT be able to kill him for good *wink "
-"wink*. But for the time being, WOLA!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:697
-#, fuzzy
-msgid "I heard that Theta."
-msgstr "Här, jag hoppas det här gör någon nytta."
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:702
-msgid "Hey, just trying to give him an incentive to drown himself."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:708
-msgid "Don't worry, I'll do that for him."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:728
-msgid "You just think you are so tough don't you?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:753
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:798
-msgid "I have had enough! Come on brother, let's get outta here."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:780
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:825
-msgid ""
-"Dang it! They're gone, and the creatures they control are leaving too. We "
-"have been defeated."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:858
-msgid ""
-"I am free! Thank you my saviors. But if you don't mind me asking, who in the "
-"world are you?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:864
-msgid "Later princess, first let's get outta here!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:892
-msgid ""
-"Hey, those intruders are going to free the elf! We can't let that happen! "
-"Kill her! Kill the elf!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:898
-msgid "Darn it! We wern't fast enough."
-msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:4
 msgid "Infested Caves"
@@ -1192,7 +796,6 @@ msgstr ""
 "och utrustning från våra gamla allierade, dvärgarna."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:383
-#, fuzzy
 msgid ""
 "The dwarves of Knalga are themselves in desperate need off help. Come to our "
 "keep talk to our leader, Lord Hamel. I am sure we can work out a way to help "
@@ -1336,7 +939,6 @@ msgstr ""
 "ger oss längre ner i grottorna."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:741
-#, fuzzy
 msgid "Holy cow, what are those things!"
 msgstr "Men vad i hela friden är det där för något?!"
 
@@ -1350,13 +952,12 @@ msgid ""
 msgstr "Se på de där yxorna. De där skeletten var nog dvärgar en gång i tiden!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:759
-#, fuzzy
 msgid ""
 "Stand firm men, the dwarven defenders rise again. Now it remains to be seen "
 "whether or not they recognize us as friends."
 msgstr ""
-"Håll stånd, mannar, dvärgarnas försvarare har återuppstått. Nu får vi se om "
-"de känner igen oss som vänner eller ej."
+"Håll stånd, mannar, dvärgarnas försvarare har rest sig. Nu får vi se om de "
+"känner igen oss som vänner eller ej."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:778
 msgid "They are attacking us!"
@@ -1539,9 +1140,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:151
-#, fuzzy
 msgid "Thank's Hamel."
-msgstr "Tack så mycket, furst Hamel."
+msgstr "Tack, Hamel."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:157
 msgid "Pahhh, thank YOU!"
@@ -1718,7 +1318,6 @@ msgid "YEEAAAAHHHHH!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:540
-#, fuzzy
 msgid "ROOOOAAAARRRRR!!!"
 msgstr "ROOOOOOAAAARRRR!"
 
@@ -1770,13 +1369,12 @@ msgid "Come on big boy, lets see whatchya got."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:722
-#, fuzzy
 msgid ""
 "Arrrrgh! I have done my best..... but I can go no further.... stop..... "
 "the .... orcs..... save the dwarves...... save.....Wesnoth........."
 msgstr ""
-"Arrrrgh! Jag har gjort så gott jag kan... Men nu går det inte längre... Ni "
-"andra... måste fortsätta... vår kamp...."
+"Arrrrgh! Jag har gjort så gott jag kan... Men nu går det inte längre... "
+"Stoppa...orcherna... Rädda...dvärgarna... Rädda...Wesnoth..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3322
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:727
@@ -1820,12 +1418,10 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:864
-#, fuzzy
 msgid "HAHAHAHAHA, GOT YOU SUCKERS!"
-msgstr "HAHAHAHAHA, DUMSKALLAR, TROR NI ATT NI KAN DÖDA MIG?"
+msgstr "HAHAHAHAHA, ERA DUMSKALLAR!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:875
-#, fuzzy
 msgid "Uh oh! We're cut off."
 msgstr "Oj då! Vi sitter fast!"
 
@@ -1842,9 +1438,8 @@ msgid "Oh yeah!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:897
-#, fuzzy
 msgid "HAHAHAHAHA!"
-msgstr "HAHAHAHAHAHAHA!"
+msgstr "HAHAHAHAHA!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:902
 msgid "Oooooooh! Time to start the fun!"
@@ -1859,9 +1454,8 @@ msgid "This doesn't look good..."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:946
-#, fuzzy
 msgid "Argh! I have been slain!"
-msgstr "Ahhh! Jag är förrådd!"
+msgstr "Argh! Jag är förgjord!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:951
 msgid ""
@@ -2096,9 +1690,8 @@ msgid "See!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:143
-#, fuzzy
 msgid "So what are you trying to say?"
-msgstr "Tallin, vad gör du?"
+msgstr "Så vad är det du försöker säga?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:148
 msgid ""
@@ -2151,9 +1744,8 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:324
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1035
-#, fuzzy
 msgid "Death of Tallin or Stalrag."
-msgstr "Tallin dör"
+msgstr "Tallin eller Stalrag dör"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:423
 msgid ""
@@ -2188,9 +1780,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:453
-#, fuzzy
 msgid "Hold it! What's going on here!"
-msgstr "Hej, vad försiggår här?"
+msgstr "Stopp där! Vad försiggår här?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:459
 msgid "Ro'Sothian, is that you?"
@@ -2615,9 +2206,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1451
-#, fuzzy
 msgid " *snicker*"
-msgstr "*gnäll*"
+msgstr "*gnägg*"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1458
 msgid ""
@@ -2665,6 +2255,10 @@ msgid ""
 "never forget!"
 msgstr ""
 
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1516
+msgid "Farewell my friends. I now go to join my fallen brothers."
+msgstr ""
+
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1521
 msgid ""
 "Dang it! We have failed in our mission. Without more allies we will never be "
@@ -2696,7 +2290,6 @@ msgid "Uh oh, these passages seem to be well guarded."
 msgstr "Hoppsan, de här gångarna verkar välbevakade."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:584
-#, fuzzy
 msgid ""
 "Won't make a difference in the end, for we shall smash that old bag of bones "
 "and reduce him to powder. HEAR THAT YOU OLD SKELETON?"
@@ -2797,9 +2390,8 @@ msgid "Uh oh! We are trapped!"
 msgstr "Oj då! Vi sitter fast!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:908
-#, fuzzy
 msgid "Maybe next time we should read the signs."
-msgstr "Nästa gång borde vi kanske läsa skyltarna!"
+msgstr "Nästa gång borde vi kanske läsa skyltarna."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:926
 msgid "ANY FURTHER AND YOU SHALL DIE!"
@@ -2815,9 +2407,8 @@ msgstr "PÅ DEM!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1137
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1168
-#, fuzzy
 msgid "A door, hmmmmmm. And a big big lock."
-msgstr "En dörr, hmmmm."
+msgstr "En dörr, hmmmm. Och ett jättestort lås."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1142
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1173
@@ -2826,7 +2417,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1147
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1178
-#, fuzzy
 msgid " *SMASH*."
 msgstr "*BANK*"
 
@@ -2862,7 +2452,6 @@ msgid "Oh yeah! Showdown time!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1259
-#, fuzzy
 msgid " *SMASH*"
 msgstr "*BANK*"
 
@@ -2879,14 +2468,12 @@ msgid " *BOOM!!!*"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1284
-#, fuzzy
 msgid " *CRASH!!!*"
 msgstr "*KRASCH*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1300
-#, fuzzy
 msgid "There we go."
-msgstr "Så var vi nu här..."
+msgstr "Ser där, ja."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1310
 msgid ""
@@ -2981,7 +2568,6 @@ msgid "Wow! I there is at least 2000 gold in here!"
 msgstr "Wow! Det finns åtminstone 2000 guld härinne!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1528
-#, fuzzy
 msgid "Holy cow! 5000 gold!!!"
 msgstr "Jösses! 5000 guld!!!"
 
@@ -3032,7 +2618,6 @@ msgid "Funny, where did I hear that before?"
 msgstr "Lustigt, var har jag hört det där förut?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1703
-#, fuzzy
 msgid "GUARDS! KILL THEM!"
 msgstr "VAKTER! DÖDA DEM!"
 
@@ -3150,7 +2735,6 @@ msgid "Oh, sorry."
 msgstr "Åh, förlåt."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1970
-#, fuzzy
 msgid ""
 "Finally! I am free. Lord Tallin, I am forever in your debt! We will follow "
 "you to the end of the World if need be."
@@ -3354,10 +2938,10 @@ msgid "Take your best shot."
 msgstr "Kom igen, gör ditt värsta."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2552
-#, fuzzy
 msgid "Holy cow! What did I just let out of that cage! Look out everyone."
 msgstr ""
-"Vad i hela friden var det jag släppte ut ur grottan! Se upp allesammans!"
+"Jösses! Vad i hela friden var det jag släppte ut ur buren! Se upp "
+"allesammans!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2558
 msgid "Oooooh, cool, it's a drake!"
@@ -3451,7 +3035,6 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2905
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3053
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3199
-#, fuzzy
 msgid "I see now. It is impossible to destroy him by ordinary means."
 msgstr "Nu förstår jag. Det går inte att förgöra honom med vanliga metoder."
 
@@ -3511,9 +3094,8 @@ msgid "Well, obviously clubs and arrows won't work."
 msgstr "Tja, klubbor och pilar fungerar ju inte."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2959
-#, fuzzy
 msgid "HAHAHAHAHAHA, DEATH HAS NO EFFECT ON ME YOU FOOLS!"
-msgstr "HAHAHAHAHAHA, JAG FRUKTAR INTE DÖDEN, ERA DUMSKALLAR!"
+msgstr "HAHAHAHAHAHA, JAG KAN INTE DÖ, ERA DUMSKALLAR!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3001
 msgid "HAHAHAHAHA, I CAN NEVER BE DESTROYED!"
@@ -3548,7 +3130,6 @@ msgid "Good. We finally got him. He is just dissolving."
 msgstr "Bra. Vi fick honom till slut. Han upplöses ju bara."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3264
-#, fuzzy
 msgid ""
 "Curses on you you blasted mages, curses on you you blasted dwarves, curses "
 "on you you blasted humans, and CURSES ON YOU YOU BLASTED TALLIN! MAY YOUR "
@@ -3566,13 +3147,12 @@ msgid "May you shut your ugly mouth and hurry up and die."
 msgstr "Måtte du stänga din fula mun och dö någon gång."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3276
-#, fuzzy
 msgid ""
 "MAY THE EARTH OPEN UP AND SWALLOW YOU! MAY ALL YOUR TEETH FALL OUT! MAY YOU "
 "BECOME A WEAK SKINNY OLD MAN! MAY............."
 msgstr ""
 "MÅTTE JORDEN ÖPPNA SIG OCH UPPSLUKA DIG! MÅTTE ALLA DINA TÄNDER FALLA UT! "
-"MÅTTE DU BLI EN SVAG BENIG GAMMAL MAN! MÅTTE..."
+"MÅTTE DU BLI EN SVAG BENIG GAMMAL GUBBE! MÅTTE..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3281
 msgid "Finally! He has been reduced to dust."
@@ -3639,7 +3219,6 @@ msgstr ""
 "allierade har lyckat bryta sina bojor och än en gång lever i frihet."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:29
-#, fuzzy
 msgid ""
 "Yes, that is the main reason of our visit. We have managed to break free but "
 "in order to stay that way we need some proper weapons and armor; clubs and "
@@ -3647,9 +3226,7 @@ msgid ""
 msgstr ""
 "Ja, det är huvudsakligen därför som vi har kommit hit. Vi är befriat oss "
 "själva, men om vi skall kunna förbli fria så behöver vi ordentliga vapen och "
-"rustningar. I längden klarar vi det inte med klubbor och högafflar. Eftersom "
-"dvärgarna är kända som de bästa smederna och vapensmederna, så hoppas vi att "
-"ni kan hjälpa oss."
+"rustningar. Klubbor och högafflar duger inte i längden."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:34
 msgid ""
@@ -3730,20 +3307,16 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:79
-#, fuzzy
 msgid ""
 "That way we can also get our raw materials too so we can start turning the "
 "tide against those orcs... I know it will be extremely dangerous but it is "
 "better to die trying then to sit here and slowly starve to death."
 msgstr ""
-"Om vi går dit så får vi kanske reda på det. Låt oss slå ihop våra styrkor "
-"och marschera till gruvorna, och en gång för alla reda ut det här. På det "
-"sättet kan vi också få det råmaterial vi behöver för att vända striden mot "
-"orcherna... Jag vet att det blir mycket farligt, men det är bättre att dö på "
-"kuppen än att sitta här och långsamt svälta ihjäl."
+"På det sättet kan vi också få det råmaterial vi behöver för att vända "
+"striden mot orcherna... Jag vet att det blir mycket farligt, men det är "
+"bättre att dö på kuppen än att sitta här och långsamt svälta ihjäl."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:84
-#, fuzzy
 msgid ""
 "You're right! Form up men! To the mines! Let the guardsmen stay behind along "
 "with all of ours and Tallin's noncombatants - for their safety and to hold "
@@ -3751,7 +3324,7 @@ msgid ""
 msgstr ""
 "Så skall det låta! Formera er, mannar! Till gruvorna! Låt väktarna stanna "
 "kvar tillsammans med alla av Tallins icke-stridande - för deras säkerhets "
-"skull, och för att bevara borgen."
+"skull, och för att försvara borgen."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:89
 msgid ""
@@ -3808,20 +3381,27 @@ msgid ""
 "What's with this whole 'Master' business? It's starting to make me nervous."
 msgstr "Vad är det där med 'herre' egentligen? Det börjar gå mig på nerverna."
 
-#~ msgid "(Impossible)"
-#~ msgstr "(Omöjlig)"
+#~ msgid "Sounds good to me!"
+#~ msgstr "Låter bra i mina öron!"
+
+#~ msgid "Death of Ro'Arthian"
+#~ msgstr "Ro'Arthian dör"
+
+#~ msgid "Death of Ro'Sothian"
+#~ msgstr "Ro'Sothian dör"
+
+#~ msgid "INTRUDERS! KILL THEM!!!"
+#~ msgstr "INKRÄKTARE! PÅ DEM!"
 
 #~ msgid ""
-#~ "The People of Dwarven Doors are tired of being slaves to the orcs. "
-#~ "Perhaps their only chance for freedom is now upon them, - but do they "
-#~ "have the guts to take it? Version 0.4.1 Last updated 6/2/05."
+#~ "Argh! I am finished, but our campaign must... not end... free... the.... "
+#~ "princess.... and ..... save..... our...... people......."
 #~ msgstr ""
-#~ "Dvärgportarnas folk är trötta på att leva i slaveri under orcherna. "
-#~ "Kanske de nu har sin enda chans till frihet - men vågar de ta den? "
-#~ "Version 0.4.1, uppdaterad 2005-06-02."
+#~ "Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... "
+#~ "Säkra... gruvorna... Och...rädda... Vårt...folk..."
 
-#~ msgid "Pffff. Well, time to do some more door kicking."
-#~ msgstr "Pyttsan. Nå, dags att sparka ner lite fler dörrar."
+#~ msgid "DIE YOU FOUL SCUM!!!"
+#~ msgstr "DÖ, DITT VIDRIGA AVSKUM!"
 
-#~ msgid "Knock Knock Knock, anybody home?"
-#~ msgstr "Knack, knack. Är det någon hemma?"
+#~ msgid "I heard that Theta."
+#~ msgstr "Jag hörde det där, Theta."
