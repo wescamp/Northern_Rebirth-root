@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-07-29 18:16+0200\n"
+"POT-Creation-Date: 2005-07-29 23:25+0200\n"
 "PO-Revision-Date: 2005-06-03 08:00+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -134,12 +134,10 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:268
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:159
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:284
 msgid "Death of Tallin"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:164
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:297
 msgid "Turns run out"
 msgstr ""
 
@@ -507,7 +505,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:237
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:672
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:533
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:897
 msgid "No Tallin, I can't do it without you!"
 msgstr ""
@@ -551,7 +548,6 @@ msgid ""
 "get the mines and forges running again."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:870
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:990
 msgid "Sounds good to me."
 msgstr ""
@@ -568,376 +564,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:1011
 msgid "Thank you Lord."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:45
-msgid "Elvish Princess"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:51
-msgid ""
-"After securing the help of the mages (well actually more like Liches now), "
-"the party returned back to Knalga."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:56
-msgid ""
-"Hamel was very surprised to see that Tallin had managed to convince both the "
-"Liches and Stalrag to join their cause. They soon got down to business, "
-"planning and readying themselves for the final confrontation."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:61
-msgid ""
-"Gryphons were immediately sent out to scout out the number, formation and "
-"deployment of the orcish forces, and to keep an eye out for anyone who might "
-"be of help to their cause."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:66
-msgid ""
-"One day a gryphon came screeching into the caves with the news that a large "
-"elvish force from the east was coming in this direction. Messages were "
-"quickly dispatched to the elves asking their purpose. The haughty reply was "
-"that it was none of their business and stay out of their way if they knew "
-"what was good for them."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:71
-msgid ""
-"Before the humans and dwarves could respond to this message, another gryphon "
-"screeched in with the news that the orcs were holding an elvish sorceress "
-"prisoner. Although this in itself wasn't surprising the significant fact was "
-"that she was being held in a nearly impenetrable fortress with only the "
-"strongest, hardened orcish veterans guarding her."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:76
-msgid ""
-"After a lightning like gryphon raid, and interrogating the orcish archer "
-"they brought as prisoner, it was discovered that this sorceress was in fact "
-"a very important elvish princess who the orcs were holding for ransom."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:81
-msgid "A council was quickly held..."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:86
-msgid ""
-"So, this sorceress is some very important princess among the elves. That "
-"probably explains what the elves are doing so far away from their forests."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:91
-msgid ""
-"Yeah, they are probably either going to pay the ransom, or they will fight "
-"for her. From the reports it seems like they are prepared to do both."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:96
-msgid ""
-"Pahhh, who cares. Let the elves and orcs cut themselves to pieces. It will "
-"just make things easier for us."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:101
-msgid ""
-"Hah! I see that your brain his now rotted away entirely. Just think skull-"
-"head what would happen if they didn't fight and paid the ransom instead?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:106
-msgid "Do you want to die dwarf?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:111
-msgid ""
-"Peace peace! If you two want to kill something there are plenty of orcs "
-"outside."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:116
-msgid ""
-"But you do have a point Stalrag, and I am sure that is exactly what the orcs "
-"want too. If the elves pay the ransom then things would probably get pretty "
-"sticky for us."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:121
-msgid "Hmmm. What I see here is a perfect opportunity to get some more allies."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:126
-msgid ""
-"How is that Hamel? Judging from the reply those elves gave us before I don't "
-"think we can just go up to them and say, 'Hey, we'll help you get your "
-"princess back if you'll join us."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:131
-msgid "Dito!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:136
-msgid "Shut up lich!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:141
-msgid ""
-"Of course we won't do that. As a matter of fact I think it's best that we "
-"don't say anything to the elves at all."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:146
-msgid "Why is that?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:151
-msgid ""
-"Well, say we do join up with the elves - assuming they will let us - and we "
-"make a combined raid on the fortress, what will the orcs most likely do "
-"knowing that they failed to get the ransom?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:156
-msgid ""
-"Knowing orcs, they will probably kill the princess, especially if the raid "
-"was going well."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:161
-msgid ""
-"Exactally. On the other hand, if we on our own raid the fortress while the "
-"elves are talking ransom with the orcs, it would probably create enough "
-"confusion to be able to pull the raid off successfully."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:166
-msgid ""
-"Orcs are rather dumb creatures and I bet that Rakshas fellow gave strict "
-"orders not to touch the princess. Without his direct orders they most likely "
-"wouldn't touch her."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:171
-msgid ""
-"But still, I wouldn't trust those orcs staying stupid forever. If we do go "
-"ahead with this raid we are going to have to be in and out like lightning."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:176
-msgid ""
-"The Shinsplitters will be invaluable for a job like this. They are fierce "
-"and un-retreating and will not stop attacking until either they or their "
-"opponent lies dead. No fortress can stand long against them."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:181
-msgid ""
-"Ha ha, I like this plan. Once we get our hands on this little sorceress the "
-"elves will be forced to do whatever we want them to."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:186
-msgid ""
-"Remember Ro'Arthian, we want willing allies not hostages. If we rescue their "
-"princess the elves may or may not help us, but that is a risk we'll have to "
-"take."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:191
-msgid ""
-"Knowing the nature of elves in general, I am sure they would offer some sort "
-"of assistance out of gratitude."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:196
-msgid ""
-"And at least it would prevent the orcs from getting rich on ransom money."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:201
-msgid "Pah, weak soft humans. Have it your way if you must."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:206
-msgid ""
-"So it is settled then. Tallin, I'll remain here once again and hold the "
-"fort. The orcs still haven't given up their attack on the southern tunnels."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:211
-msgid ""
-"The situation seems to be pretty much a stalemate right now but it is still "
-"wise for someone to stay here and handle any situation that might come up."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:216
-msgid "Sounds good to me!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:221
-msgid ""
-"And Tallin, one more thing, this is going to be a quick in and out raid, you "
-"don't need to haul around your whole caravan of gold."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:226
-msgid ""
-"I think you should just take as much as you think you'll need and leave the "
-"rest here. We'll store it in the tunnels furthest away from the attacking "
-"orcs just in case they manage to break thorugh."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:231
-msgid "Good idea! Come on men, lets go!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:280
-msgid "Rescue the Princess"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:288
-msgid "Death of Ro'Arthian"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:292
-msgid "Death of Ro'Sothian"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:483
-msgid ""
-"Upon emerging from the mouth of a hidden tunnel near the fortress, Tallin "
-"and his men surveyed the scene before them."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:488
-msgid "So there is this fortress. Pretty impressive if you ask me."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:494
-msgid ""
-"Yeah, it seems like they dammed up the river to make moats for their castle."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:500
-msgid ""
-"Are we here to sight-see or to rescue this blasted sorceress? And if you "
-"really want to sight-see then check out that orcish encampment south of us."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:506
-msgid ""
-"Hmmm, I guess the orcs figured that just having the gaurds wasn't enough. "
-"Get too it people, we gotta rescue this princess before the orcs get too "
-"smart."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:512
-msgid "INTRUDERS! KILL THEM!!!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:527
-msgid ""
-"Argh! I am finished, but our campaign must... not end... free... the.... "
-"princess.... and ..... save..... our...... people......."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1516
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:549
-msgid "Farewell my friends. I now go to join my fallen brothers."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:561
-msgid "No Stalrag! Without you what will become of us Shinsplitters?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:566
-msgid ""
-"Join Tallin.... He is your new.... leader.... Never... betray.... him......."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:572
-msgid "Your death shall not go unavenged brave Stalrag. DEATH TO THE ORCS!!!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:578
-msgid "DIE YOU FOUL SCUM!!!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:592
-msgid "Oh no Marcus! We have failed to rescue the princess!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:598
-msgid "Failed? Never! The word failure is not in our dictionary."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:635
-msgid "There we go, let's give this one more shot!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:640
-msgid "Just try not to kill yourself again."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:657
-msgid "The forces of good can never be defeated by the likes of you!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:663
-msgid ""
-"Yeah, try taking a bath and you MIGHT be able to kill him for good *wink "
-"wink*. But for the time being, WOLA!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:697
-msgid "I heard that Theta."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:702
-msgid "Hey, just trying to give him an incentive to drown himself."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:708
-msgid "Don't worry, I'll do that for him."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:728
-msgid "You just think you are so tough don't you?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:753
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:798
-msgid "I have had enough! Come on brother, let's get outta here."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:780
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:825
-msgid ""
-"Dang it! They're gone, and the creatures they control are leaving too. We "
-"have been defeated."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:858
-msgid ""
-"I am free! Thank you my saviors. But if you don't mind me asking, who in the "
-"world are you?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:864
-msgid "Later princess, first let's get outta here!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:892
-msgid ""
-"Hey, those intruders are going to free the elf! We can't let that happen! "
-"Kill her! Kill the elf!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Elvish_Princess.cfg:898
-msgid "Darn it! We wern't fast enough."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:4
@@ -2493,6 +2119,10 @@ msgid ""
 "Great! Those orcs will never know what hit them. Now lets get back to the "
 "caves and start planning on the best way teach those orcs a lesson they will "
 "never forget!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1516
+msgid "Farewell my friends. I now go to join my fallen brothers."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1521
