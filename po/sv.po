@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-29 23:25+0200\n"
-"PO-Revision-Date: 2005-07-29 20:32+0200\n"
+"PO-Revision-Date: 2005-08-02 17:15+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.1\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Northern_Rebirth.cfg:15
 msgid "(Newbe)"
@@ -3265,13 +3265,13 @@ msgid ""
 msgstr ""
 "Men till saken nu, vi har i många år varit hänvisade till dessa tunnlar. Vi "
 "har nästan helt varit avskurna från källor till mat, metaller, kort sagt "
-"alla sorters resurser."
+"alla sorters tillgångar."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:54
 msgid ""
 "So basically, we need resources right? Is there any source for them nearby?"
 msgstr ""
-"Så vad det hela hänger på är att få tag i resurser, eller hur? Finns det "
+"Så vad det hela hänger på är att få tag i tillgångar, eller hur? Finns det "
 "någon källa i närheten?"
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:59
@@ -3380,28 +3380,3 @@ msgstr ""
 msgid ""
 "What's with this whole 'Master' business? It's starting to make me nervous."
 msgstr "Vad är det där med 'herre' egentligen? Det börjar gå mig på nerverna."
-
-#~ msgid "Sounds good to me!"
-#~ msgstr "Låter bra i mina öron!"
-
-#~ msgid "Death of Ro'Arthian"
-#~ msgstr "Ro'Arthian dör"
-
-#~ msgid "Death of Ro'Sothian"
-#~ msgstr "Ro'Sothian dör"
-
-#~ msgid "INTRUDERS! KILL THEM!!!"
-#~ msgstr "INKRÄKTARE! PÅ DEM!"
-
-#~ msgid ""
-#~ "Argh! I am finished, but our campaign must... not end... free... the.... "
-#~ "princess.... and ..... save..... our...... people......."
-#~ msgstr ""
-#~ "Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... "
-#~ "Säkra... gruvorna... Och...rädda... Vårt...folk..."
-
-#~ msgid "DIE YOU FOUL SCUM!!!"
-#~ msgstr "DÖ, DITT VIDRIGA AVSKUM!"
-
-#~ msgid "I heard that Theta."
-#~ msgstr "Jag hörde det där, Theta."
