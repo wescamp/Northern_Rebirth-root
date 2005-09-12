@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-30 10:31+0200\n"
-"PO-Revision-Date: 2005-08-02 17:15+0200\n"
+"PO-Revision-Date: 2005-09-10 16:50+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: Northern_Rebirth.cfg:15
 msgid "(Newbe)"
-msgstr "Nybörjare"
+msgstr "(Nybörjare)"
 
 #: Northern_Rebirth.cfg:15
 msgid "Peasant"
@@ -57,6 +57,11 @@ msgid ""
 "the Northlands to the glory that they once were, or doom them to an eternity "
 "of bloody chaos."
 msgstr ""
+"För Dvärgportarnas folk var valet enkelt: antingen arbeta för orcherna som "
+"värdelösa slavar till slutet av sina ynkliga liv, eller riskera dessa samma "
+"liv och resa sig mot sina grymma härskare. Lite anade de att resultatet av "
+"deras kamp skulle antingen återställa nordländerna till dess forna glans, "
+"eller döma dem till en evighet av blodigt kaos. "
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:7
 msgid "Breaking the Chains"
@@ -150,6 +155,9 @@ msgid ""
 "this opportunity, Tallin, a young, brave and intelligent peasant somehow "
 "managed to steal a considerable amount of his "
 msgstr ""
+"Al'tar, deras 'mästare' attackerades av en närliggande orchstam. Tallin, en "
+"ung, modig och intelligent bonde, tog detta tillfälle att stjäla en "
+"anmärkningsvärd del av hans"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:155
 msgid "Defeat enemy leaders"
@@ -204,6 +212,8 @@ msgid ""
 "Brave words Tallin, but the idea is insane. We don't have any weapons, any "
 "armor, or any training. What are we going to fight them with, pitchforks!?"
 msgstr ""
+"Modiga ord, Tallin, men idén är vansinnig. Vi har varken några vapen, några "
+"rustningar eller någon träning. Vad skall vi strida mot dem med, högafflar?!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:203
 msgid ""
@@ -211,19 +221,23 @@ msgid ""
 "outnumber the orcs, not to speak of the fact that they are killing each-"
 "other."
 msgstr ""
+"Om vi måste använda högafflar, så låt oss göra det. Vi är många fler än "
+"orcherna, bortsett från det faktum att de dödar varandra."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:209
 msgid "But still Tallin, this is going to be a slaughter."
-msgstr ""
+msgstr "Men ändå, Tallin, det här kommer att bli en slakt."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:215
 msgid ""
 " *sigh* Yes I know. But would you rather live as slaves to the orcs forever?"
 msgstr ""
+"*suck* Ja, jag vet. Men skulle du hellre vilja att vi levde som orchernas "
+"slavar för alltid?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:221
 msgid "Never! I would rather die!"
-msgstr ""
+msgstr "Aldrig! Jag skulle hellre dö!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:227
 msgid "Then to arms!"
@@ -233,13 +247,14 @@ msgstr "Till vapen!"
 msgid "You piece of dirt! How dare you step onto my land!"
 msgstr "Din skitstövel! Hur vågar du sätta din fot på min mark!"
 
+# Ändrade till härskare eftersom de pratar om ordet senare och härskare låter bättre där.
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:236
 msgid ""
 "You puny weakling, this land now belongs to my master! Surrender now and he "
 "MIGHT let you be his slave."
 msgstr ""
-"Ditt ynkliga kräk, den här marken tillhör nu min herre! Ge dig nu så låter "
-"han dig KANSKE leva som hans slav."
+"Ditt ynkliga kräk, den här marken tillhör nu min härskare! Ge dig nu så "
+"låter han dig KANSKE leva som hans slav."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:240
 msgid ""
@@ -270,11 +285,11 @@ msgid ""
 "master."
 msgstr ""
 "Garrugch misslyckades med uppdrag, men Al'tar död av bondeslavar. Bäst "
-"berätta för herre."
+"berätta för härskaren."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:298
 msgid "Master needs more meat for wolves. Peasants good meat."
-msgstr "Herre behöver mer kött till vargar. Bönder bra kött."
+msgstr "Härskaren behöver mer kött till vargar. Bönder bra kött."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:319
 msgid ""
@@ -367,11 +382,11 @@ msgstr "Uppdrag? Vad då för uppdrag?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:471
 msgid "Ha Ha! Look at them go."
-msgstr ""
+msgstr "Ha Ha! Se hur de går."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:494
 msgid "Ha Ha! The idiots are killing eachoter!"
-msgstr ""
+msgstr "Ha ha! De idioterna dödar varandra!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:4
 msgid "Clearing the Mines"
@@ -723,8 +738,9 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:285
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:318
+#, fuzzy
 msgid "Woha! Look at that fortress."
-msgstr ""
+msgstr "Ha Ha! Se hur de går."
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:324
 msgid ""
@@ -855,8 +871,9 @@ msgid "Alright, let's move out people!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:524
+#, fuzzy
 msgid "Come on boys, let's give it to em!"
-msgstr ""
+msgstr "Kom igen grabben, så får vi se vad du går för."
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:781
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:808
@@ -895,7 +912,7 @@ msgstr "Besegra alla fiendeledare"
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1069
 #, fuzzy
 msgid "Death of Ro'Arthian"
-msgstr "Tallin dör"
+msgstr "Fånga Ro'Arthian."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:478
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1443
@@ -954,8 +971,9 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:545
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:639
 #: Northern_Rebirth/scenarios/Showdown.cfg:1049
+#, fuzzy
 msgid "Yes, it might be a drama, but do you have to make it so dramatic?"
-msgstr ""
+msgstr "*himlar med ögonen* Theta, måste du alltid vara så dramatisk?"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:931
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:551
@@ -1051,7 +1069,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:785
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:765
 msgid "Farewell my friends. I now go to join my fallen brothers."
-msgstr ""
+msgstr "Farväl, mina vänner. Jag går nu till mina fallna bröder."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:779
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1149
@@ -1363,8 +1381,9 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:146
+#, fuzzy
 msgid "Why is that?"
-msgstr ""
+msgstr "Vad är det för arbete?"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:151
 msgid ""
@@ -1562,8 +1581,9 @@ msgid "Don't worry, I'll do that for him."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:741
+#, fuzzy
 msgid "You just think you are so tough don't you?"
-msgstr ""
+msgstr "Ni monster tror att ni är så tuffa, va? Nå, kolla det här."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:757
 #: Northern_Rebirth/scenarios/Introductions.cfg:802
@@ -1992,8 +2012,9 @@ msgid "Well here we have our leader and hero, Tallin."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:270
+#, fuzzy
 msgid " *rolls eyes*"
-msgstr ""
+msgstr "*himlar med ögonen* Kvinnor!"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:276
 msgid ""
@@ -2045,8 +2066,9 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:330
+#, fuzzy
 msgid "Ahh, it was nothing Princess."
-msgstr ""
+msgstr "Ah, tja, det var värt ett försök."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:336
 msgid ""
@@ -2744,7 +2766,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:24
 msgid "Old Friend"
-msgstr ""
+msgstr "En gammal vän"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:32
 msgid ""
@@ -2752,6 +2774,8 @@ msgid ""
 "death of their friends, Tallin and his people made their way back to the "
 "mines."
 msgstr ""
+"Fullastade med guld och fyllda med triumf över segern, blandat med sorg över "
+"sina vänners död, tog sig Tallin och hans folk tillbaka till gruvorna."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:37
 msgid ""
@@ -2764,6 +2788,13 @@ msgid ""
 "clang of hammers and picks from the dwarves forging weapons and mining the "
 "ore."
 msgstr ""
+"När de kom fram möttes de av en mycket välkommen syn: nya försvar hade dykt "
+"upp överallt, försvar som påminde mycket om de legendariska dvärgaförsvaren "
+"från förr. Alla var de bemannade av kvicka och välrustade dvärgar som "
+"hälsade dem välkomna. När de nådde själva gruvorna möttes de av bolmande rök "
+"från de ursinnigt arbetade smedjorna, högar av nya vapen och rustningar för "
+"människor och dvärgar tillika, och den öronbedövande klangen av hammare och "
+"hackor från dvärgarna som smidde vapen och arbetade i gruvan."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:43
 msgid ""
@@ -2771,6 +2802,8 @@ msgid ""
 "warmly and arrangements were quickly made for all their food and "
 "accommodations, as wall as care for the sick and wounded."
 msgstr ""
+"De hittade Hamel i en smedja hamrandes på en ny yxa. Han hälsade dem varmt "
+"och man ordnade snabbt för logi och omhändertagandet av de sjuka och skadade."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:49
 msgid ""
@@ -2778,32 +2811,41 @@ msgid ""
 "keep.  While there was much grieving over the men who had died, they were "
 "all overjoyed to be together again."
 msgstr ""
+"Alla kvinnor och barn hade blivit hämtade från det gamla dvärgafästet. Även "
+"om det fanns mycket sorg över de män som dött var de överlyckliga över att "
+"de var tillsammans igen."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:54
 msgid ""
 "After everything had been taken care of the humans and dwarves once again "
 "made council."
 msgstr ""
+"Efter att allting hade tagits om hand samlades återigen människorna och "
+"dvärgarna till rådslag."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:60
 msgid "Well Hamel, you guyz seem to be doing ok."
-msgstr ""
+msgstr "Nå, Hamel, ni grabbar verkar må bra."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:65
 msgid "Indeed. Thanks to you Tallin Knalga is rising again!"
-msgstr ""
+msgstr "Sant. Tack vare dig, Tallin reser sig Knalga igen."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:71
 msgid ""
 "We have managed to clear the connecting tunnels to here and to the old keep "
 "as well as other parts of Knalga."
 msgstr ""
+"Vi har lyckats rensa tunnlarna som leder hit och till det gamla fästet såväl "
+"som andra delar av Knalga."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:76
 msgid ""
 "It is slow and dangerous work, mostly due to the trolls. But it has been "
 "made easier because of the skeletons."
 msgstr ""
+"Det är ett långsamt och farligt arbete, mest på grund av trollen. Men det "
+"har blivit lättare tack vare skeletten. "
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:82
 msgid ""
@@ -2811,14 +2853,16 @@ msgid ""
 "fell apart. So, there are many tunnels that are infested with nothing but "
 "piles of old bones."
 msgstr ""
+"De slogs mot trollen, men när du förgjorde Malifor föll de bara samman. Så "
+"det finns många tunnlar som inte är bebodda av något annat än gamla benhögar."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:88
 msgid "Great! How about the weapons and armor?"
-msgstr ""
+msgstr "Gott! Hur blir det med vapnen och rustningarna?"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:94
 msgid "As you can see Tallin, there are heaps of them, all ready to go."
-msgstr ""
+msgstr "Som du kan se, Tallin, finns det högar av dem, alla redo att användas."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:99
 msgid ""
@@ -2826,12 +2870,16 @@ msgid ""
 "bow, as well as some of your own men who have grown strong from their own "
 "experience can teach others how to wield them."
 msgstr ""
+"Dessutom kan några av de dvärgar som är experter på svärd, spikklubba och "
+"båge, såväl som några av dina mer erfarna mannar, lära andra att slåss."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:105
 msgid ""
 "I didn't know that you dwarves knew swordplay. I thought you all fought with "
 "axes, hammers or those thunder weapons."
 msgstr ""
+"Jag kände inte till att ni dvärgar kände till svärdskonsten. Jag trodde ni "
+"alla kämpade med yxor, hammare eller de där åskvapnen."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:111
 msgid ""
@@ -2839,12 +2887,17 @@ msgid ""
 "swords. If we really want to claim to be expert weapon-smiths we must also "
 "be expert at wielding the weapons we make."
 msgstr ""
+"Ja, det är sant att vi föredrar våra yxor och hammare, men ändå, vi GÖR "
+"svärd. Om vi verkligen vill vara experter på vapensmide måste vi också vara "
+"experter på att använda vapnen vi tillverkar."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:116
 msgid ""
 "Believe me, there are some dwarves out there that are really good. Same "
 "thing applies with bows, maces and any other weapons we make."
 msgstr ""
+"Tro mig, det finns dvärgar som är riktigt skickliga. Samma sak gäller bågar, "
+"spikklubbor och alla andra vapen vi tillverkar."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:122
 msgid ""
@@ -2852,6 +2905,9 @@ msgid ""
 "booty from Malifor's treasury and I am sure we will be able to pay you "
 "generously."
 msgstr ""
+"Det är mycket bra! Så vad är priset på era vapen? Vi har samlat mycket "
+"skatter från Malifors skattkammare och jag är säker på att vi kan betala er "
+"generöst."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:128
 msgid ""
@@ -2859,10 +2915,15 @@ msgid ""
 "heck it's because of you that we have started rebuilding Knalga in the first "
 "place, so don't talk about price to us."
 msgstr ""
+"PRIS! Förolämpa oss inte, Tallin. Du har gjort så mycket för att hjälpa oss "
+"dvärgar - det är ju faktiskt tack vare dig som vi över huvud taget började "
+"återuppbygga Knalga, så tala inte om pris med oss."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:134
 msgid "But don't you need the gold to help rebuild Knalga? And we have plenty."
 msgstr ""
+"Men behöver ni inte guldet för att återuppbygga Knalga? Och vi har mer än "
+"nog."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:140
 msgid ""
@@ -2870,12 +2931,16 @@ msgid ""
 "fraction of the riches that we will find, and are finding every day now. So "
 "no!"
 msgstr ""
+"Tallin, Knalga var en enormt rik nation. Malifors skatter är ingenting mot "
+"de skatter vi kommer att hitta, och hittar för varje dag som går. Så, nej!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:145
 msgid ""
 "And I am sure you will need all the gold you can get in the coming months to "
 "rebuild your own community."
 msgstr ""
+"Och jag är säker på att ni kommer att behöva allt guld ni kan få tag på de "
+"kommande månaderna för att återuppbygga ert eget samhälle."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:151
 msgid "Thank's Hamel."
@@ -2883,7 +2948,7 @@ msgstr "Tack, Hamel."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:157
 msgid "Pahhh, thank YOU!"
-msgstr ""
+msgstr "Pahhh, TACK!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:163
 msgid ""
@@ -2891,11 +2956,16 @@ msgid ""
 "many years now. In addition, as a young dwarf I have been trained in the art "
 "of leading men - or dwarves anyway."
 msgstr ""
+"Och Tallin, en sak till, jag har lett vårt folk i strid många år nu. "
+"Dessutom blev jag, i min ungdom, tränad i konsten att leda män - eller i "
+"alla fall dvärgar."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:169
 msgid ""
 "But anyhow, what I am saying is that you should learn these skills from me."
 msgstr ""
+"Men hur som helst, vad jag menar är att du borde lära dig dessa färdigheter "
+"av mig."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:174
 msgid ""
@@ -2903,28 +2973,37 @@ msgid ""
 "bad with that sword you picked up somewhere in the line - but really, get "
 "serious. It is high time you learned how to be a REAL leader of men."
 msgstr ""
+"Jag vet att du är mycket imponerande med högaffeln, och du är inte helt usel "
+"med det där svärdet du har - men det duger inte. Det är hög tid att du lär "
+"dig att bli en RIKTIG ledare."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:180
 msgid ""
 "And now that we have some time while your men get equipped and trained, it "
 "is the perfect opportunity for you to learn."
 msgstr ""
+"Och nu när vi har lite tid medan dina mannar utrustas och tränas har vi ett "
+"perfekt tillfälle att lära dig."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:186
 msgid "I would be honored Lord Hamel."
-msgstr ""
+msgstr "Det skulle vara mig en stor ära, furst Hamel."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:192
 msgid ""
 "Ahhhh quit with the formality. Now first things first, one of the most "
 "important things about being a leader is...."
 msgstr ""
+"Ahh, sluta upp med det där formella. Nu, först och främst, en av de "
+"viktigaste sakerna med att vara en ledare är...."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:198
 msgid ""
 "Thus, the humans rested for many days while they were equipped with new arms "
 "and armor and trained by the dwarves."
 msgstr ""
+"Så kom det sig att människorna vilade flera dagar medan de utrustades med "
+"nya vapen och rustningar och tränades av dvärgar."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:204
 msgid ""
@@ -2933,12 +3012,18 @@ msgid ""
 "pounding of drums and the clash of steel as the humans and dwarves hurried "
 "to arm themselves."
 msgstr ""
+"Men freden varade inte i evighet. Tidigt en morgon väcktes Tallin, mörbultad "
+"från topp till tå efter sin träning, av smattret från trumpeter, muller från "
+"trummor och skramlet av stål när människorna och dvärgarna skyndade att "
+"beväpna sig."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:210
 msgid ""
 "He hurriedly found Hamel who informed him that a massive host of orcs had "
 "arrived at the gates of the new Knalga."
 msgstr ""
+"Han skyndade sig att hitta Hamel som berättade att en stor härskara av "
+"orcher hade anlänt vid det nya Knalgas portar."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:216
 msgid ""
@@ -2947,34 +3032,42 @@ msgid ""
 "If the humans couldn't stop them then they could always retreat into the "
 "caves."
 msgstr ""
+"Efter ett snabbt krigsråd beslutades det att dvärgarna skulle förstärka de "
+"inre försvaren medan Tallin och människorna gick ut och mötte dem. Om "
+"människorna inte kunde stoppa dem kunde de alltid slå till reträtt in i "
+"grottorna."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:264
 msgid "Defeat Rakshas... if you can..."
-msgstr ""
+msgstr "Besegra Rakshas... Om du kan..."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:409
 msgid "So here is the human who dares defy me!"
-msgstr ""
+msgstr "Så här är människan som vågar trotsa mig!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:415
 msgid "Defy you? Who are you, what do you want?"
-msgstr ""
+msgstr "Trotsa dig? Vem är du, och vad vill du?"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:421
 msgid ""
 "I am Emperor Rakshas, leader of the orcish people. My mission is to unite "
 "all the orcish people and finnish the job that we started years ago."
 msgstr ""
+"Jag är kejsar Rakshas, orchernas ledare. Mitt uppdrag är att ena alla orcher "
+"och slutföra det arbete som vi påbörjade för åratal sedan."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:428
 msgid "What job is that?"
-msgstr ""
+msgstr "Vad är det för arbete?"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:434
 msgid ""
 "Stupid human, to become the overlords of Knalga. That treachery on the part "
 "of the dwarves thwarted us for many years but in the end it's all the same."
 msgstr ""
+"Dumma människa, att bli Knalgas härskare. Dvärgarnas förräderi hindrade oss "
+"i många år, men i det långa loppet har det ingen betydelse."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:441
 msgid ""
@@ -2982,6 +3075,9 @@ msgid ""
 "the finest weapons. Then we shall sweep down upon Wesnoth and settle scores "
 "with them once and for all."
 msgstr ""
+"Dvärgarna kommer snart att kräla vid mina fötter och utrusta mitt folk med "
+"de bästa av vapen. Sedan skall vi svepa ner över Wesnoth och få vår hämnd en "
+"gång för alla."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:447
 msgid ""
@@ -2989,6 +3085,8 @@ msgid ""
 "because you have some wild and far out plan doesn't make you a leader of "
 "your people."
 msgstr ""
+"Dåre, du tror att ditt folk kommer att följa en vekling som du? Bara för att "
+"du har någon galen och långsökt plan blir du inte ditt folks ledare."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:453
 msgid ""
@@ -2996,64 +3094,76 @@ msgid ""
 "little wimp with big big daydreams. Don't be an old ladies. All of you are "
 "far stronger then him!"
 msgstr ""
+"Orcher, varför följer ni denna vekling till ledare? Han är bara en liten "
+"ynkrygg med stora dagdrömmar. Var inga kärringar. Ni är alla mycket starkare "
+"än honom!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:459
 msgid ""
 "ANY WHO OPPOSE ME WILL DIE! AS ALL OF YOU ORCS KNOW. I AM THE MASTER! KILL "
 "THE HUMAN RABBLE!"
 msgstr ""
+"ALLA SOM SÄTTER SIG EMOT MIG KOMMER ATT DÖ! SOM ALLA NI ORCHER VET. JAG ÄR "
+"HÄRSKAREN! DÖDA MÄNNISKOPACKET!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:467
 msgid "Ahhh well, it was worth a try."
-msgstr ""
+msgstr "Ah, tja, det var värt ett försök."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:474
 msgid "Tallin, remember when we defeated the orcs back in Dwarven Doors?"
 msgstr ""
+"Tallin, kommer du ihåg när vi besegrade orcherna borta vid Dvärgportarna?"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:480
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:492
 msgid "Yeah?"
-msgstr ""
+msgstr "Ja?"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:486
 msgid "And remember those wolves on the way to the mines?"
-msgstr ""
+msgstr "Och du minns de där vargarna på vägen till gruvorna?"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:498
 msgid ""
 "They both were talking about, 'The Master.' I think we finally have the "
 "pleasure of meeting him."
 msgstr ""
+"De båda talade om 'härskaren'. Jag tror att vi nu till slut har fått nöjet "
+"att träffa honom."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:504
 msgid "Oh! Wait a sec, he is saying something else."
-msgstr ""
+msgstr "Åh! Vänta lite, han säger någonting mer."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:510
 msgid ""
 "YOU KILLED MY WARRIORS, YOU KILLED MY WOLVES, NOW YOUR DEFIANCE ENDS HERE "
 "YOUU HUMAN WORM! MY WOLVES WILL EAT THE LIVING FLESH OFF YOUR BONES!"
 msgstr ""
+"DU DÖDADE MINA KRIGARE, DU DÖDADE MINA VARGAR, DITT TROTSANDE SLUTAR HÄR DIN "
+"MÄNNISKOMASK! MINA VARGAR KOMMER ATT ÄTA KÖTTET FRÅN DINA BENKNOTOR!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:516
 msgid ""
 "Yep, it's him alright. Well men, it's time to end this menace once and for "
 "all! FOR DWARVEN DOORS!"
 msgstr ""
+"Japp, nog är det han alltid. Nåja, mannar, det är dags att avsluta detta hot "
+"en gång för alla! FÖR DVÄRGPORTARNA!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:522
 msgid "FOR DWARVEN DOORS!"
-msgstr ""
+msgstr "FÖR DVÄRGPORTARNA!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:528
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:869
 msgid "CHARGE!!!"
-msgstr ""
+msgstr "ANFALL!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:534
 msgid "YEEAAAAHHHHH!"
-msgstr ""
+msgstr "JAAAAAAA!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:540
 msgid "ROOOOAAAARRRRR!!!"
@@ -3066,40 +3176,40 @@ msgstr "Ahhhhhhh!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:565
 msgid "You monsters think you are so tough don't you? Well check this out."
-msgstr ""
+msgstr "Ni monster tror att ni är så tuffa, va? Nå, kolla det här."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:600
 msgid "Woha! That trick is a bit hard on the constitution."
-msgstr ""
+msgstr "Woah! Det där tricket tar lite på en."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:605
 msgid "Well be grateful that you are alive."
-msgstr ""
+msgstr "Nå, var glad att du lever."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:610
 msgid "Hehehehe, thank you honey."
-msgstr ""
+msgstr "Hehehehe, tack raring."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:616
 msgid "Thank the lords of light not me!"
-msgstr ""
+msgstr "Tacka Ljusets herrar, inte mig!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:638
 msgid ""
 "Oh dear. Did you just go and kill yourself again Marcus? Well, I'll fix that."
-msgstr ""
+msgstr "Åh, kära nån. Gick du just och dog, Marcus? Nåja, vi fixar det."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:672
 msgid "Marcus! You bad boy, always getting into trouble."
-msgstr ""
+msgstr "Marcus! Din stygga pojke, du hamnar alltid i trubbel."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:677
 msgid "Sorry, won't do it again. Promise!"
-msgstr ""
+msgstr "Förlåt, jag lovar att inte göra om det."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:697
 msgid "Come on big boy, lets see whatchya got."
-msgstr ""
+msgstr "Kom igen grabben, så får vi se vad du går för."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:722
 msgid ""
@@ -3119,6 +3229,8 @@ msgid ""
 "Geez, we have been fighting them for three whole days and nights now with no "
 "end in sight. Now the forth night is approaching, what should we do?"
 msgstr ""
+"Jösses, vi har slagits mot dem i tre hela dagar nu utan något slut i sikte. "
+"Och nu är den fjärde natten på väg. Vad skall vi göra?"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:746
 msgid ""
@@ -3126,29 +3238,36 @@ msgid ""
 "and Rakshas is very well guarded. The only possible outcome to all this is "
 "more slaughter."
 msgstr ""
+"Det verkar hopplöst att fortsätta så här. Orchernas antal är obegränsat och "
+"Rakshas är mycket välbevakad. Den enda möjliga utgången av allt detta är mer "
+"slaktande."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:753
 msgid ""
 "I propose that we retreat back into the caves and consult with the dwarves."
 msgstr ""
+"Jag föreslår att vi slår till reträtt tillbaka in i grottorna för att rådslå "
+"med dvärgarna."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:764
 msgid "I agree Tallin, it is pointless to cary on."
-msgstr ""
+msgstr "Jag håller med Tallin, det är hopplöst att fortsätta."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:770
 msgid "Very well. EVERYONE! FALL BACK!"
-msgstr ""
+msgstr "Nåväl. ALLIHOP, TILLBAKA!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:776
 msgid "Awwwww! Just when I was having the most fun!"
-msgstr ""
+msgstr "Äsch! Just när det var som roligast!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:798
 msgid ""
 "So your forces are managing to advance upon me are they? Very impressive but "
 "it shall do you no good. KNIGHTS!!!"
 msgstr ""
+"Så era trupper lyckas avancera mot mig? Mycket imponerande, men det kommer "
+"inte att göra någon nytta. RIDDARE!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:864
 msgid "HAHAHAHAHA, GOT YOU SUCKERS!"
@@ -3161,14 +3280,16 @@ msgstr "Oj då! Vi sitter fast!"
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:881
 msgid "Oh hell! Form up men, back to back, don't let them penetrate our ranks."
 msgstr ""
+"Fördömt! Formera er, mannar, rygg mot rygg, låt dem inte bryta våra linjer."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:886
 msgid "That's not all my old friends. GENNERALS, CALL THE RESERVES!"
 msgstr ""
+"Det där är inte alla mina gamla vänner. GENERALER, KALLA IN RESERVERNA!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:892
 msgid "Oh yeah!"
-msgstr ""
+msgstr "Ja!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:897
 msgid "HAHAHAHAHA!"
@@ -3176,15 +3297,15 @@ msgstr "HAHAHAHAHA!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:902
 msgid "Oooooooh! Time to start the fun!"
-msgstr ""
+msgstr "Åh! Dags för det roliga!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:907
 msgid "You are so dead you human verman!"
-msgstr ""
+msgstr "Ni är så döda, människo-avskum!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:933
 msgid "This doesn't look good..."
-msgstr ""
+msgstr "Det här ser inte bra ut..."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:946
 msgid "Argh! I have been slain!"
@@ -3194,78 +3315,96 @@ msgstr "Argh! Jag är förgjord!"
 msgid ""
 "Killed him! Got his gold too. Lets see hmmmmm about 500 gold pieces. Not bad."
 msgstr ""
+"Fick honom! Och hans guld också. Låt mig se, hmmm, omkring 500 guldmynt. "
+"Inte illa."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:961
 msgid "They have killed one of my generals! REINFORCEMENTS!"
-msgstr ""
+msgstr "De har dödat en av mina generaler! FÖRSTÄRKNINGAR!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1002
 msgid ""
 "My death will only make the master's punishment for you worse you fools!"
-msgstr ""
+msgstr "Min död kommer bara att göra straffet värre för er, era dårar!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1007
 msgid "Your death makes your master's punishment from us one step closer!"
-msgstr ""
+msgstr "Din död tar din härskares straff ett steg närmare!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1012
 msgid "But my my, what's in that big pouch?  300 gold! Not bad."
 msgstr ""
+"Men oj, vad kan det finnas i den där stora penningpungen? 300 guld! Inte "
+"illa."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1022
 msgid "You vermin will pay for that! REINFORCEMENTS!"
-msgstr ""
+msgstr "Ni avskum kommer att få betala för det där! FÖRSTÄRKNINGAR!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1061
 msgid "Ahhhh! The defiles have slain me!"
-msgstr ""
+msgstr "Ah! De dräpte mig!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1066
 msgid ""
 "Geez, you sound like some sort of religious fanatic! Well, like any "
 "religious zealot, do you have some gold for me?"
 msgstr ""
+"Du låter som någon sorts religiös fanatiker! Tja, då kanske du har något "
+"guld åt mig?"
 
+# ö
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1071
 msgid "Ahhh yes 400 gold. Praise the Master *snicker* ."
-msgstr ""
+msgstr "Ahhh ja! 400 guld. Prisa härskaren."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1081
 msgid ""
 "What! My loyal Flang is gone! You human worms shall pay! REINFORCEMENTS!"
 msgstr ""
+"Vad! Min lojale Flang är borta! Ni maskar till människor ska få betala! "
+"FÖRSTÄRKNINGAR!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1120
 msgid ""
 "What! I die! But how can this be? The master told me that I would always be "
 "one of his generals."
 msgstr ""
+"Vad! Jag dör! Men hur kunde detta ske? Härskaren sade mig att jag alltid "
+"skulle vara en av hans generaler."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1125
 msgid ""
 "You lived as a fool and shall die as one. Now lets see how much money your "
 "master pays a fool."
 msgstr ""
+"Du har levt som en dåre och du skall också dö som en. Låt oss nu se hur "
+"mycket pengar din härskare betalar en dåre."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1130
 msgid ""
 "600 gold! Wow! The 'Master' must be an even greater fool then I thought!"
 msgstr ""
+"600 guld! Oj! 'Härskaren' måste vara en ännu större dåre än jag trodde!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1140
 msgid ""
 "You foolish humans! You shall all soon be meat for my wolves! REINFORCEMENTS!"
 msgstr ""
+"Dåraktiga människor! Ni kommer snart att bli foder åt mina vargar!"
+"FÖRSTÄRKNINGAR!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:4
 msgid "Settling Disputes"
-msgstr ""
+msgstr "Att klara upp dispyter"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:8
 msgid ""
 "Thus Tallin and his men made an orderly withdraw into the caves with the "
 "orcs right behind them."
 msgstr ""
+"Så drog sig Tallin och hans mannar tillbaka in i grottorna med orcherna i "
+"hälarna."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:13
 msgid ""
@@ -3273,20 +3412,24 @@ msgid ""
 "got though the defenses the well prepared dwarves fell on the already "
 "bloodied orcs."
 msgstr ""
+"Men dvärgarna var mer än redo för dem och så snart människorna kom förbi "
+"försvarslinjerna var dvärgarna över de redan nedblodade orcherna."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:18
 msgid ""
 "The battle raged on as wave after wave of orcs crashed onto the dwarven "
 "defenses and shattered."
 msgstr ""
+"Striden rasade på medan våg efter våg av orcher sköljde mot dvärgarnas "
+"försvar och splittrades."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:23
 msgid "As the battle raged on Tallin again made council with Hamel."
-msgstr ""
+msgstr "Medan striden rasade rådslog Tallin ännu en gång med Hamel."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:28
 msgid "So how did it go?"
-msgstr ""
+msgstr "Så hur gick det?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:33
 msgid ""
@@ -3294,6 +3437,9 @@ msgid ""
 "no end in sight. Every time we killed an orc it seemed that two more would "
 "take his place. One thing is for sure, we can't win like this."
 msgstr ""
+"Det var våldsamt och blodigt. Vi kämpade mot dem i fyra dagar och tre nätter "
+"utan slut i sikte. Varje gång vi dödade en orch verkade det som om två nya "
+"tog dess plats. En sak är säker, vi kan inte vinna på det här sättet."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:38
 msgid ""
@@ -3301,12 +3447,18 @@ msgid ""
 "the orcs of far longer and with less losses then you would have been able to "
 "do in the open field. I see that my training has had an affect on you."
 msgstr ""
+"Så ni blåste till reträtt. Ett klokt beslut. Våra försvar kommer att kunna "
+"hålla tillbaka orcherna mycket längre och med mindre förluster än ni skulle "
+"ha kunnat göra ute på öppna fältet. Jag ser att din träning har gett "
+"resultat."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:43
 msgid ""
 "No doubt, but what should we do from here? The number of humans and dwarves "
 "is limited, unlike the orcs whose numbers seem unlimited."
 msgstr ""
+"Tveklöst, men vad skall vi göra nu? Människornas och dvärgarnas antal är "
+"begränsat, till skillnad från orcherna vars antal verkar ändlöst."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:48
 msgid ""
@@ -3315,16 +3467,23 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:53
+#, fuzzy
 msgid ""
 "Orcs are fickle and if we negotiate a treaty with them - assuming they will "
 "accept - it will just be broken as soon as the next orcish warlord rises."
 msgstr ""
+"Det är sant. Men vi kommer aldrig att kunna nå någon långsiktig lösning utan "
+"att krossa orcherna. Orcher är opålitliga och om vi förhandlar fram ett "
+"avtal med dem - om de nu skulle acceptera det - så skulle det bara brytas så "
+"fort nästa krigsherre reser sig bland dem."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:58
 msgid ""
 "Then what shall we do? Can we assassinate this Rakshas fellow somehow and "
 "throw them into disarray once more."
 msgstr ""
+"Men vad skall vi då göra? Kan vi lönnmörda den där Rakshas-typen på något "
+"sätt och få dem splittrade igen?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:63
 msgid ""
@@ -3332,10 +3491,14 @@ msgid ""
 "alert to that threat now. Anyway, it is just a temporary solution. Soon "
 "another strong leader will arise and we will be faced with the same problem."
 msgstr ""
+"Det skulle vara mycket svårt. Vi gjorde det förra gången och de kommer utan "
+"tvivel att vara mer på sin vakt för det hotet nu. Men det är hur som helst "
+"bara en tillfällig lösning. Snart skulle en ny stark ledare resa sig och vi "
+"skulle stå inför samma problem igen."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:68
 msgid "Well, back to the drawing board. What should we do?"
-msgstr ""
+msgstr "Tja, tillbaka till ritbordet. Vad skall vi göra?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:73
 msgid ""
@@ -3343,11 +3506,15 @@ msgid ""
 "them on multiple fronts, or divide them into smaller groups, or cut them off "
 "from their supplies. The possibilities are endless."
 msgstr ""
+"Jag tycker att vi borde försöka skaffa fler allierade. På det sättet kan vi "
+"möta dem på flera fronter, eller dela upp dem i mindre grupper, eller skära "
+"av dem från deras tillgångar. Möjligheterna är ändlösa."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:78
 msgid ""
 "Wise words, but who is there in these wild Northlands that would help us?"
 msgstr ""
+"Visa ord, men vilka finns det i dessa vilda nordländer som skulle hjälpa oss?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:83
 msgid ""
@@ -3355,6 +3522,9 @@ msgid ""
 "themselves. They would only help us if something drastic happened to them "
 "and they needed our help. What about Wesnoth?"
 msgstr ""
+"Du kan räkna bort alverna. De är alldeles för egoistiska, de bryr sig bara "
+"om sig själva. De skulle bara hjälpa oss om någonting drastiskt hände dem "
+"och de behövde vår hjälp. Vad tror du om Wesnoth?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:88
 msgid ""
@@ -3362,17 +3532,24 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:92
+#, fuzzy
 msgid ""
 "The last thing we heard about them was years ago when Price Konrad passed "
 "through here. At that time the evil queen Asheviere was ruling and it was "
 "said that she was in alliance with the orcs."
 msgstr ""
+"Wesnoth är för långt bort och vi har ingen aning om vilket politiskt läge de "
+"är i. Det senaste jag hörde från dem var åratal sedan när prins Konrad "
+"passerade här igenom. På den tiden härskade den onda drottningen Asheviere "
+"och det sades att hon var allierad med orcherna."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:97
 msgid ""
 "And then that Princess Li'sar was in hot pursuit of Konrad as well. I wonder "
 "whatever happened to them."
 msgstr ""
+"Och sedan var den där Prinsessan Li'sar på jakt efter Konrad också. Jag "
+"undrar vad som hände med dem."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:102
 msgid ""
@@ -3380,39 +3557,52 @@ msgid ""
 "eastern tunnels in search of the Scepter of Fire so he could claim his place "
 "as ruler."
 msgstr ""
+"Den sista gången någon dvärg såg Konrad var när han var på väg mot de östra "
+"tunnlarna på jakt efter Eldspiran för att kunna göra anspråk på tronen."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:107
 msgid ""
 "Geez, what a fool's quest. Everyone in these Northlands knows that the "
 "Scepter is long gone."
 msgstr ""
+"Jösses, vilket dåraktigt uppdrag. Alla i nordländerna vet att spiran är "
+"sedan länge försvunnen."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:112
 msgid ""
 "But anyhow we're getting off track here. Where can we find allies in these "
 "wild Northlands?"
 msgstr ""
+"Men hur som helst, vi börjar tappa tråden här. Var kan vi hitta allierade i "
+"dessa vilda nordländer?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:117
 msgid ""
 "Tallin, before I was captured by Malfor, I used to be in contact with a "
 "powerful magician called Ro'Arthian and his brother Ro'Sothian."
 msgstr ""
+"Tallin, innan jag blev tillfångatagen av Malfor brukade jag vara i kontakt "
+"med en kraftfull magiker vid namn Ro'Arthian och hans bror Ro'Sothian."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:122
 msgid "Ro'Arthian pah! Don't utter that cursed name!"
-msgstr ""
+msgstr "Ro'Arthian, pah! Yttra inte det där förbannade namnet!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:127
 msgid "Why Hamel, what is the story with him?"
-msgstr ""
+msgstr "Vadå, Hamel, vad är det med honom?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:132
+#, fuzzy
 msgid ""
 "I have heard all about him from my good friend Stalrag. He is - or was "
 "anyway, haven't heard from him in years - the chief of the villages that lay "
 "along the Mountain Pass."
 msgstr ""
+"Jag har hört allt om honom från min gode vän Stalrag. Han är - eller var i "
+"alla fall, jag har inte hört något från honom på flera år - hövding över "
+"byarna som låg längs Bergspasset. De där fördömda magikerna har länge "
+"terroriserat honom och hans folk."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:137
 msgid "Those foul mages have long terrorized him and his people."
@@ -3424,14 +3614,17 @@ msgid ""
 "if say... the elves decided to come in and level Knalga so they can grow "
 "another big forest on top."
 msgstr ""
+"Kom ihåg Hamel, det finns alltid två sidor av varje berättelse. Vad skulle "
+"du säga om, låt säga... alverna bestämde sig för att komma in och jämna "
+"Knalga med marken för att kunna plantera ännu en stor skog ovanpå."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:147
 msgid "Those filthy elves! I'll...."
-msgstr ""
+msgstr "De där smutsiga alverna! Jag skall..."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:152
 msgid "See!"
-msgstr ""
+msgstr "Där ser du!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:157
 msgid ""
@@ -3444,8 +3637,9 @@ msgid "Hehe, something like that."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:167
+#, fuzzy
 msgid " 'rolls eyes'"
-msgstr ""
+msgstr "*himlar med ögonen* Kvinnor!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:172
 #, fuzzy
@@ -3459,10 +3653,15 @@ msgid ""
 "them to help us. What's more, if Stalrag is still around we could use his "
 "help too."
 msgstr ""
+"Jag föreslår att vi reser till bergspasset där de bor och ser hur "
+"situationen är. Om trollkarlarna fortfarande lever skulle vi kanske kunna "
+"övertala dem att hjälpa oss. Dessutom, om Stalrag fortfarande finns "
+"däromkring så skulle vi kunna få användning för hans hjälp också."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:182
+#, fuzzy
 msgid "I don't really see how just two mages can help us Father."
-msgstr ""
+msgstr "Jag förstår bara inte riktigt hur två magiker skulle kunna hjälpa oss."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:187
 msgid ""
@@ -3470,36 +3669,47 @@ msgid ""
 "the wild such as ogres, gryphons, and sometimes even trolls! How about "
 "having some of those on your side for once."
 msgstr ""
+"De är inte bara två magiker. De har också stor makt över vilda varelser som "
+"resar, gripar och ibland även troll! Vad sägs om att ha några av dem på er "
+"sida för en gångs skull?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:192
 msgid "That sounds really good. What do you think Hamel?"
-msgstr ""
+msgstr "Det låter väldigt bra. Vad tycker du, Hamel?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:197
 msgid ""
 "Hrmph. These are desperate times. If that lunatic of a mage will agree to "
 "help I guess we don't have any other choice."
 msgstr ""
+"Hrmph. Detta är desperata tider. Om den där galningen till magiker kommer "
+"att gå med på att hjälpa så antar jag att vi inte har mycket till val."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:202
 msgid ""
 "Hey, we have had experiences with crazy mages ourselves. Believe me, they "
 "are dangerous! You will feel a lot better with some of them on your side."
 msgstr ""
+"Vi har faktiskt haft erfarenheter av galna magiker också. Tro mig, de är "
+"farliga! Du kommer att känna dig mycket bättre med några av dem på din sida."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:207
 msgid ""
 "Anyhow it looks like we are in agreement. Now how exactly do we get to this "
 "mountain pass?"
 msgstr ""
+"Hur som helst verkar det som om vi är överens. Men hur, exakt, tar vi oss "
+"till det här bergspasset?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:212
 msgid "And so Tallin and his party set out to secure the help of the mages."
 msgstr ""
+"Och så gav Tallin och hans grupp sig av för att försäkra sig om magikernas "
+"hjälp."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:353
 msgid "Save Stalrag from Ro'Sothian."
-msgstr ""
+msgstr "Rädda Stalrag från Ro'Sothian"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:357
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1068
@@ -3511,16 +3721,20 @@ msgid ""
 "Upon arriving at the mountain pass it appeared to Tallin and his men that "
 "they were just a bit too late."
 msgstr ""
+"När Tallin och hans mannar anlände till bergspasset såg det ut som om de "
+"hade kommit lite för sent."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:461
 msgid "HAH! I finally have you you wretched dwarf!"
-msgstr ""
+msgstr "HAH! Äntligen har jag dig, din erbarmliga lilla dvärg!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:469
 msgid ""
 "Argh! You blasted mages! How many times do I have to kill you two before you "
 "will leave us in peace!"
 msgstr ""
+"Argh! Sabla magiker! Hur många gånger måste jag ha ihjäl er två innan ni "
+"lämnar oss ifred?!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:474
 msgid ""
@@ -3530,6 +3744,11 @@ msgid ""
 "mouth of this pass as a warning for any other fools like you! And unlike us "
 "you WON'T come back."
 msgstr ""
+"Lämna ER ifred! Det är din sort som aldrig lämnar OSS ifred. Ända sedan ni "
+"förbaskade dvärgar byggde den där förbannade vägen har ni alltid plågat oss! "
+"Men nu är det slut med det! Efter att jag dödat dig kommer jag att klyva "
+"ditt kadaver och hänga det vid passets mynning som en varning till andra "
+"dårar som du! Och till skillnad från oss kommer du INTE att återvända."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:480
 msgid ""
@@ -3537,6 +3756,9 @@ msgid ""
 "But know this, the Shinsplitters will NEVER submit! We will defy you to our "
 "last breath!"
 msgstr ""
+"Nåväl, din förbannade magiker! Jag kommer nu att sluta mig till skaran av "
+"andra ni dödat. Men vet detta, knäkrossarna kommer ALDRIG att underkasta "
+"sig! Vi kommer att trotsa er till våra sista andetag!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:486
 msgid "Hold it! What's going on here!"
@@ -3544,22 +3766,25 @@ msgstr "Stopp där! Vad försiggår här?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:492
 msgid "Ro'Sothian, is that you?"
-msgstr ""
+msgstr "Ro'Sothian, är det du?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:498
+#, fuzzy
 msgid ""
 "Not now Father. If you can't see, I happen to be a little busy at the moment."
 msgstr ""
+"Inte nu, far. Om du inte märkt det så råkar jag vara lite upptagen för "
+"tillfället."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:531
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:703
 msgid "Hang on a sec Ro'Sothian, you don't want to kill him."
-msgstr ""
+msgstr "Vänta lite, Ro'Sothian, jag tror inte att du vill döda honom."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:537
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:709
 msgid "Huh!? He killed me!"
-msgstr ""
+msgstr "Va?! Han dödade mig!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:543
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:715
@@ -3570,6 +3795,11 @@ msgid ""
 "managed to break free of the orcs and together with Lord Hamel from Knalga, "
 "they are starting to reclaim Knalga from the chaos that it was in."
 msgstr ""
+"Åh... Jag förstår. Men i vilket fall som helst, Ro'Sothian, lyssna på oss. "
+"Vi är i desperat behov av er hjälp. Här är Tallin från samhället "
+"Dvärgportarna. Som du vet var Dvärgportarnas folk förslavat av orcherna "
+"många år. De har nu lyckats bryta sig fria från orcherna och tillsammans men "
+"furst Hamel från Knalga börjar de återerövra Knalga från det kaos det var i."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:550
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:722
@@ -3577,6 +3807,8 @@ msgid ""
 "So? What does this have to do with me? And hurry up, my staff is buzzing to "
 "blast this little vermin once and for all."
 msgstr ""
+"Och? Vad har detta att göra med mig? Och skynda på, de mina väntar på att få "
+"bli av med den här lilla ohyran en gång för alla."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:556
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:728
@@ -3586,6 +3818,10 @@ msgid ""
 "an orcish stronghold. We can't let that happen! That's why we have come "
 "here, to seek yours and your brothers help in defeating the orcs."
 msgstr ""
+"Nej! Lyssna på mig, min vän. Orcherna är på uppgång igen och de hotar att "
+"slutföra sin erövring av Knalga och förvandla det till ett orchfäste. Vi kan "
+"inte låta det ske! Det är anledningen till att vi har kommit hit, för att "
+"söka din och din brors hjälp med att besegra orcherna."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:563
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:734
@@ -3593,52 +3829,65 @@ msgid ""
 "Take your begging and shove it father! We don't help no-one. Not even you "
 "and ESPECIALLY not any dwarf!"
 msgstr ""
+"Ta ditt tiggande och försvinn, far! Vi hjälper ingen. Inte ens du och "
+"SÄRSKILT inte någon dvärg!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:568
 msgid ""
 "Anyhow, I tire of this, prepare to die you dwarf! And the rest of you, get "
 "lost and don't come back, unless you're anxious to meet your makers!"
 msgstr ""
+"Hur som helst, jag börjar tröttna på det här, bered dig döden, dvärg! Och "
+"resten av er, försvinn och kom inte tillbaka om ni inte är otåliga att möta "
+"era skapare."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:574
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:758
 msgid "Uh oh, he is gathering energy for a cold blast."
-msgstr ""
+msgstr "Åh nej, han samlar energi för en köldstöt."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:581
 msgid "Quick Theta, we got to stop him. Lets go!"
-msgstr ""
+msgstr "Fort, Theta, vi måste stoppa honom. Kom igen!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:671
 msgid ""
 "Ro'Sothian! How are you doing my old friend! Boy you sure look... erm.... "
 "different!"
 msgstr ""
+"Ro'Sothian! Hur mår du, min gamle vän! Jösses, du ser verkligen... erm... "
+"annorlunda ut!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:678
 msgid ""
 "Camerin! Great Lords of Darkness, I haven't seen you in ages! Here, let me "
 "just finish off this little vermin and I'll be right over."
 msgstr ""
+"Camerin! Mörkrets stora herrar, jag har inte sett er på åratal! Här, låt mig "
+"bara göra slut på den här lilla ohyran och så kommer jag strax."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:684
 msgid " *aside* Camerin, you know him?"
-msgstr ""
+msgstr "*viskande* Camerin, känner du honom?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:690
 msgid " *aside* Duh! His brother Ro'Arthian is the one who taught me magic!"
-msgstr ""
+msgstr "*viskande* Tss! Hans bror Ro'Arthian är den som lärde mig magi!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:696
 msgid " *aside* Oh....!"
-msgstr ""
+msgstr "*viskande* Åh...!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:740
+#, fuzzy
 msgid ""
 "Now wait a sec my friend. You won't believe what a blast it is fighting with "
 "these guyz. You get to fry skeletons, orcs, trolls, and wolves by the "
 "thousands! Come on old pal, be a sport."
 msgstr ""
+"Vänta lite, min vän. Du kan inte ana hur mycket kul du kommer att få när du "
+"går med de här killarna. Du kommer att få spränga skelett, orcher, troll och "
+"vargar i tusental! Kom igen nu, gamle polare!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:746
 msgid ""
@@ -3646,81 +3895,102 @@ msgid ""
 "raving mad! Do you really think we would help anyone! ESPECIALLY a bunch of "
 "dwarves!"
 msgstr ""
+"Camerin, du har alltid varit lite knasig. Nu märker jag att du har blivit "
+"spritt språngande galen! Tror du verkligen att vi skulle hjälpa någon! "
+"SÄRSKILT ett gäng dvärgar!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:752
+#, fuzzy
 msgid ""
 "Anyhow, I tire of this, prepare to die you dwarf! And the rest of you, get "
 "lost and don't come back, unless you're tired of life!"
 msgstr ""
+"Hur som helst, jag börjar tröttna på det här, bered dig döden, dvärg! Och "
+"resten av er, försvinn och kom inte tillbaka om ni inte är otåliga att möta "
+"era skapare."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:765
 msgid "Quick honey, we got to stop him. Lets go!"
-msgstr ""
+msgstr "Fort, raring, vi måste stoppa honom. Kom igen!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:772
 msgid "Hey, are you two going to hog all the fun for yourselves?"
-msgstr ""
+msgstr "Hallå där, tänker ni ha allt det roliga för er själva?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:778
 msgid "Alright alright, hang on!"
-msgstr ""
+msgstr "Okej, okej. Kom med!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:905
 msgid "BROTHER! HELP ME!"
-msgstr ""
+msgstr "BRODER! HJÄLP MIG!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:912
 msgid ""
 " *booming voice coming from all directions* SO YOU MAGES HAVE THE AUDACITY "
 "TO ATTACK MY BROTHER! YOU SHALL DIE FOR YOUR FOLLY!"
 msgstr ""
+"*dånande röst som kommer från alla riktningar* SÅ NI MAGIKER HAR FRÄCKHETEN "
+"ATT ANFALLA MIN BROR! NI SKALL DÖ FÖR ERT DÅRSKAP!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:918
 msgid ""
 "Ro'Arthian, listen to me. We don't want to fight with you, we have come here "
 "to seek your assistance."
 msgstr ""
+"Ro'Arthian, lyssna på mig. Vi vill inte slåss med dig, vi har kommit hit för "
+"att be om hjälp."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:924
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:937
 msgid "No answer"
-msgstr ""
+msgstr "Inget svar"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:930
 msgid ""
 "I know you can hear me Ro'Arthian. Please, the fate of every creature in the "
 "north depends on your help."
 msgstr ""
+"Jag vet att du kan höra mig, Ro'Arthian. Snälla, alla varelsers öde i norden "
+"beror på din hjälp."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:943
 msgid ""
 "Give it up father, he isn't answering. I am afraid we may have to use um... "
 "more forceful means to convince him."
 msgstr ""
+"Glöm det, far, han svarar inte. Jag är rädd att vi kan bli tvungna att "
+"använda våldsammare metoder för att övertyga honom."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:949
 msgid " *sigh* Yes, you are right."
-msgstr ""
+msgstr "*suck* Ja, du har rätt."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:955
 msgid "Put Ro'Sothian into that jail over there until we capture his brother."
 msgstr ""
+"Sätt Ro'Sothian i det där fängelset där borta tills vi fångat hans bror."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:970
 msgid "And someone keep an eye on him. We don't want him to get away."
 msgstr ""
+"Och någon måste hålla ett öga på honom. Vi vill inte att han kommer undan."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:982
 msgid ""
 "And Stalrag, you have heard our case. Will you help us capture these mages "
 "and after that, help us to defeat the orcs?"
 msgstr ""
+"Och Stalrag, du har hört vår berättelse. Kommer du att hjälpa oss att fånga "
+"de där magikerna och, efter det, hjälpa oss att besegra orcherna?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:989
 msgid ""
 "You have saved my life Lord Tallin. The least I can do is help you defeat "
 "your enemies."
 msgstr ""
+"Du har räddat mitt liv, furst Tallin. Det minsta jag kan göra är att hjälpa "
+"dig att besegra dina fiender."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:995
 msgid ""
@@ -3729,44 +3999,58 @@ msgid ""
 "these mages and convince them to help us, will you be willing to fight "
 "alongside them?"
 msgstr ""
+"Inte bara mina fiender, Stalrag, de är fiender till varje varelse som inte "
+"vill bli slav under orcherna. Och Stalrag, om vi lyckas fånga dessa magiker "
+"och övertala dem att hjälpa oss, kommer du att vara villig att kämpa sida "
+"vid sida med dem?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1002
+#, fuzzy
 msgid ""
 "You are asking for a bit much Lord. You have no idea of how many of my "
 "people those mages have killed. To take them as allies will be a disgrace to "
 "the sacrifice those brave dwarves have made."
 msgstr ""
+"Du ber om för mycket, ers nåd. Ni har ingen aning om hur många av mitt folk "
+"dessa magiker har dödat. Att ta dem som allierade skulle vara en skam för de "
+"offer som dessa modiga dvärgar gjort."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1008
 msgid ""
 "I respect your feelings Stalrag. I can relate because we ourselves are "
 "fighting the orcs for the freedom of our homeland as well."
 msgstr ""
+"Jag respekterar dina känslor, Stalrag. Jag kan förstå, eftersom vi själva "
+"också bekämpar orcherna för frihet i vårt hemland."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1014
 msgid ""
 "But think of the whole picture Stalrag. Is not Knalga the true homeland of "
 "all dwarves?"
 msgstr ""
+"Men tänk på helheten, Stalrag. Är inte Knalga det sanna hemlandet för alla "
+"dvärgar?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1021
 msgid "Yes........?"
-msgstr ""
+msgstr "Ja...?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1027
 msgid ""
 "And wouldn't you love to see Knalga rise once again to it's former glory?"
-msgstr ""
+msgstr "Och skulle du inte vilja se Knalga återuppstå i all sin forna glans?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1035
 msgid "I would give my life if necessary."
-msgstr ""
+msgstr "Jag skulle ge mitt liv om det vore nödvändigt."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1041
 msgid ""
 "Yes. But you don't need to sacrifice your life just yet. The only thing you "
 "must sacrifice is your resentment towards these mages."
 msgstr ""
+"Ja. Men du måste inte offra ditt liv ännu. Det enda du måste offra är din "
+"harm med dessa magiker."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1049
 msgid ""
@@ -3774,16 +4058,21 @@ msgid ""
 "about it. But for the time being I will be more then happy to teach those "
 "mages one more lesson."
 msgstr ""
+"Hrmph. Jag ser att Hamel har undervisat dig, ers nåd. I vilket fall som "
+"helst skall jag tänka på saken. Men för tillfället kommer jag vara mer än "
+"lycklig för att få lära de där magikerna ännu en läxa."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1055
 msgid ""
 "Alright... and oh, by the way, call me Tallin. I don't know where this "
 "'Lord' business comes from."
 msgstr ""
+"Okej... Och, åh, förresten, kalla mig Tallin. Jag vet inte var det här med "
+"'furst' kommer ifrån."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1064
 msgid "Capture Ro'Arthian."
-msgstr ""
+msgstr "Fånga Ro'Arthian."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1090
 msgid ""
@@ -3791,93 +4080,101 @@ msgid ""
 "die in your arms! So that I may feel the kiss of your lips on mine one last "
 "time!"
 msgstr ""
+"Ack! Jag är döende! Markus, älskling, jag önskar att du vore vid min sida så "
+"att jag kunde få dö i dina armar! Så att jag skulle få känna dina läppar mot "
+"mina en sista gång!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1096
 msgid " *rolls eyes* Theta, do you always have to be so dramatic?"
-msgstr ""
+msgstr "*himlar med ögonen* Theta, måste du alltid vara så dramatisk?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1107
 msgid "Um..... Father? You wife just got killed..."
-msgstr ""
+msgstr "Öh... Far? Din fru dog just..."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1112
 msgid "Oh right. I CALL UPON THE LORDS OF LIGHT TO GRANT YOU LIFE!"
-msgstr ""
+msgstr "Åh, visst ja. JAG ÅKALLAR LJUSETS HERRAR FÖR ATT SKÄNKA DIG LIV!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1147
 msgid ""
 "Theta, you should know by now that it is very un-holy-like to make such "
 "expressions in public."
 msgstr ""
+"Theta, du borde veta vid det här laget att det är typ ganska vanhelgande att "
+"göra sådana uttalanden offentligt."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1152
 msgid "Come on honey! Those were my dying words!"
-msgstr ""
+msgstr "Kom igen, sötnos! Det där var mina dödsord!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1157
 msgid " *rolls eyes* Women!"
-msgstr ""
+msgstr "*himlar med ögonen* Kvinnor!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1174
 msgid "Argh! I'll just come back and finish you in my next life."
 msgstr ""
+"Argh! Men jag skall komma tillbaka och göra slut på dig i mitt nästa liv."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1180
 msgid "Which might be sooner then you think."
-msgstr ""
+msgstr "Vilket kan bli snarare än du tror."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1214
 msgid "See?"
-msgstr ""
+msgstr "Ser du?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1219
 msgid "Now where did he go!?"
-msgstr ""
+msgstr "Vart försvann han nu då?!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1239
 msgid "Come on you thug. *raspberry* "
-msgstr ""
+msgstr "Kom igen din, buse. *hallon*"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1291
 msgid "Ha! I am free! Alright, you foul traitors will pay!"
-msgstr ""
+msgstr "Ha! Jag är fri! Okej, ni onda förrädare skall få betala!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1296
 msgid "Oh no, he got away! Quick men, we must capture him again!"
-msgstr ""
+msgstr "Åh nej, han kom undan! Fort, mannar, vi måste fånga honom igen!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1319
 msgid "Ahhhh! Not again!"
-msgstr ""
+msgstr "Ahhhh! Inte igen!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1324
 msgid ""
 "Come on Ro'Sothian, we really don't have to be doing this. Come, join us!"
 msgstr ""
+"Kom igen, Ro'Sothian, vi behöver inte hålla på så här. Kom, anslut dig till "
+"oss!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1330
 msgid "Never!"
-msgstr ""
+msgstr "Aldrig!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1335
 msgid "Sigh, we'll talk later."
-msgstr ""
+msgstr "Suck, vi får prata senare."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1341
 msgid "Back to jail my friend."
-msgstr ""
+msgstr "Tillbaks till fängelset, min vän."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1362
 msgid "Ro'Arthian, are you ready to talk yet?"
-msgstr ""
+msgstr "Ro'Arthian, är du redo att prata än?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1368
 msgid "Fine you trespassers. What do you want?"
-msgstr ""
+msgstr "Okej då, era inkräktare. Vad vill ni?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1374
 msgid "Well... first why don't you tell us what you want."
-msgstr ""
+msgstr "Tja... Varför börjar inte du med att säga vad du vill."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1380
 msgid ""
@@ -3885,14 +4182,17 @@ msgid ""
 "you, all your henchmen and those dwarvish vermin off of my land! And STAY "
 "off!"
 msgstr ""
+"Vad jag vill? Jag skall lära er vad jag vill! Jag vill att era stinkande "
+"kadaver, alla era hejdukar och denna dvärgohyra skall bort från mitt land! "
+"Och HÅLL ER BORTA!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1386
 msgid "So basically, you want to be left alone in peace. Right?"
-msgstr ""
+msgstr "Så i grund och botten vill du bli lämna ifred. Eller hur?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1392
 msgid " *words dripping in sarcasm* Wow! Someone FINALLY figured it out!"
-msgstr ""
+msgstr "*ord drypande i sarkasm* Oj! Någon lyckades ÄNTLIGEN klura ut det!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1398
 msgid ""
@@ -3900,6 +4200,8 @@ msgid ""
 "request. We are simply a band of peasants trying to fight for the freedom of "
 "our homeland."
 msgstr ""
+"Nåväl! Lyssna då. Just nu har vi inte makt nog att uppfylla din önskan. Vi "
+"är blott en grupp bönder som försöker kämpa för vårt hemlands frihet."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1404
 msgid ""
@@ -3907,6 +4209,9 @@ msgid ""
 "law and order into these Northlands, I am sure we will have at least some "
 "authority."
 msgstr ""
+"Men när vi lyckats besegra orcherna, återupprättat Knalga och fört lag och "
+"ordning till dessa nordländer, är jag säker på att vi åtminstone kommer att "
+"ha någon auktoritet."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1410
 msgid ""
@@ -3914,28 +4219,41 @@ msgid ""
 "ever set foot on your land. If any of my men violates this law they shall be "
 "punished with death, and I am sure I can say the same of Hamel as well."
 msgstr ""
+"Jag svär härmed följande: när den stunden kommer skall ingen man eller dvärg "
+"någonsin sätta sin fot på ditt land. Om någon av mina mannar bryter mot "
+"denna lag skall straffet vara döden. Jag är säker på att jag svära i Hamels "
+"namn också."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1416
 msgid ""
 "However Ro'Arthian, in order for that to come about, we must crush the "
 "orcish host. But we can't do that without your help. Will you join us?"
 msgstr ""
+"Hur som helst, Ro'Arthian, för att det skall komma att hända måste vi krossa "
+"orchernas här. Men vi kan inte göra det utan din hjälp. Förenar du dig med "
+"oss?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1422
+#, fuzzy
 msgid ""
 "Think of it Ro'Arthian, it is a fair bargain. If you don't agree to Tallin's "
 "proposal then the endless war you two wage with the dwarves shall never be "
 "resolved. You have been haunting these mountains for far to long. It is high "
 "time for you and your brother to rest in peace."
 msgstr ""
+"Tänk på saken, Ro'Arthian, det är en bra affär. Om du inte går med på "
+"Tallins rättvisa förslag kommer det ändlösa krig ni två bedriver med "
+"dvärgarna aldrig bli löst. Ni kommer aldrig kunna vila i frid. Ni har "
+"hemsökt dessa berg alltför länge. Det är hög tid för dig och din bror att gå "
+"till vila."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1428
 msgid "Hrmph. What do you think brother?"
-msgstr ""
+msgstr "Hrmph. Vad säger du, broder?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1448
 msgid " *shrugs* I don't think we really have any choice."
-msgstr ""
+msgstr "*rycker på axlarna* Jag antar att vi inte har något val."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1454
 msgid ""
@@ -3945,28 +4263,40 @@ msgid ""
 "become legends! 'The two terrible mages, risen from the dead to devastate "
 "the orcish hordes!'"
 msgstr ""
+"Kom igen, killar, det kommer att bli kul! De där orcherna kommer aldrig att "
+"begripa vad som hände! Tillsammans kommer vi att slita dem i bitar! Om ni "
+"planerar att dra er tillbaka efter det här, kommer det här bli det perfekta "
+"tillfället för er att få ett imponerande slut! Ni killar kommer att bli "
+"legender! 'De två fruktansvärda magikerna, uppstigna från de döda för att "
+"ödelägga orchernas horder!'"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1460
 msgid ""
 "Very well Tallin. We accept under the terms that your people will forever "
 "leave us in peace after this."
 msgstr ""
+"Nåväl, Tallin. Vi accepterar på villkor att ditt folk för alltid kommer att "
+"lämna oss ifred efter detta."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1466
 msgid ""
 "Ro'Arthian, I am not of royal blood but I am a man of my word. I will uphold "
 "my oath even at the cost of my life."
 msgstr ""
+"Ro'Arthian, jag är inte av kungligt blod men jag är en man av mitt ord. Jag "
+"kommer att hålla min ed på bekostnad av mitt eget liv."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1472
 msgid "Very well. The orcish hosts shall feel our wrath!"
-msgstr ""
+msgstr "Nåväl. Orchernas härar skall få känna vår vrede!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1478
 msgid ""
 "Wait a second Tallin. Are you saying that we should abandon our homeland to "
 "these wretched mages!?"
 msgstr ""
+"Vänta en sekund, Tallin. Säger du att vi skall ge upp vårt hemland till "
+"dessa ondskefulla magiker?!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:994
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1343
@@ -3981,26 +4311,34 @@ msgid ""
 "sacrifice one person; to save a town we should be willing to sacrifice a "
 "family; and to save a nation we should be willing to sacrifice a town."
 msgstr ""
+"Lyssna här, Stalrag, det sägs att för att rädda en familj, måste vi vara "
+"beredda att offra en person; för att rädda en stad måste vi vara beredda att "
+"offra en familj; och för att rädda en nation måste vi vara beredda att offra "
+"en stad."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1497
 msgid "So Stalrag, it's up to you. Do you want to save Knalga or not?"
-msgstr ""
+msgstr "Så, Stalrag, det är upp till dig. Vill du rädda Knalga eller inte?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1503
 msgid ""
 " *glares at Ro'Arthian* Very well Tallin. We don't like it, but if that's "
 "what is needed to save Knalga, we shall do it."
 msgstr ""
+"*sneglar på Ro'Arthian* Nåväl, Tallin. Vi gillar det inte, men om det är vad "
+"som behövs för att rädda Knalga, så må det vara så."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1509
 msgid ""
 "Thank you Stalrag. I am sure that the sacrifice of you and your people will "
 "always be remembered."
 msgstr ""
+"Tack, Stalrag. Jag är säker på att ditt och ditt folks offer alltid kommer "
+"att vara ihågkommet."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1515
 msgid " *mumbles* Not a very big compensation."
-msgstr ""
+msgstr "*mumlar* Ingen vidare kompensation."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1521
 msgid ""
@@ -4009,10 +4347,14 @@ msgid ""
 "with you you shall be able to recruit them. In addition, I can train some of "
 "your people in the basics of magic so you can recruit mages as well."
 msgstr ""
+"Hur som helst, Tallin, jag tänkte bara att du borde få veta att jag har "
+"makten att kontrollera många varelser, som gripar, troll och resar. Så medan "
+"jag är med dig kommer du kunna rekrytera dem. Dessutom kan jag träna några "
+"av ditt folk i magins grunder så att du kan rekrytera magiker också."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1527
 msgid "The Shinsplitters will also be at your service Tallin."
-msgstr ""
+msgstr "Knäkrossarna kommer också att stå till din tjänst, Tallin."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1534
 msgid ""
@@ -4020,12 +4362,17 @@ msgid ""
 "caves and start planning on the best way teach those orcs a lesson they will "
 "never forget!"
 msgstr ""
+"Utmärkt! De där orcherna kommer aldrig att få begripa vad som hände. Låt oss "
+"nu gå tillbaka till grottorna och börja planera det bästa sättet att lära de "
+"där orcherna en läxa de aldrig glömmer!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1556
 msgid ""
 "Dang it! We have failed in our mission. Without more allies we will never be "
 "able to defeat the orcs."
 msgstr ""
+"Fördömt! Vi misslyckades med vårt uppdrag. Utan fler allierade kommer vi "
+"aldrig att kunna besegra orcherna."
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:26
 #: Northern_Rebirth/scenarios/Showdown.cfg:26
@@ -4321,8 +4668,9 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:764
 #: Northern_Rebirth/scenarios/Showdown.cfg:878
+#, fuzzy
 msgid "FOR DWARVEN DOORS!!!"
-msgstr ""
+msgstr "FÖR DVÄRGPORTARNA!"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:770
 #: Northern_Rebirth/scenarios/Showdown.cfg:884
@@ -4348,8 +4696,9 @@ msgstr "Tallin dör"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1018
 #: Northern_Rebirth/scenarios/Showdown.cfg:1142
+#, fuzzy
 msgid "You think you're so tough don't you?"
-msgstr ""
+msgstr "Ni monster tror att ni är så tuffa, va? Nå, kolla det här."
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1258
 #: Northern_Rebirth/scenarios/Showdown.cfg:1382
@@ -4989,8 +5338,9 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1243
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:898
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:878
+#, fuzzy
 msgid "Hey! Where is he going?"
-msgstr ""
+msgstr "Vart försvann han nu då?!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1249
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:904
@@ -5151,8 +5501,9 @@ msgstr "Besegra alla fiendeledare"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1642
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1260
+#, fuzzy
 msgid "Haha! Look at them run!"
-msgstr ""
+msgstr "Ha Ha! Se hur de går."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:9
 msgid ""
@@ -5488,7 +5839,7 @@ msgstr "En dörr, hmmmm. Och ett jättestort lås."
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1142
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1173
 msgid "Sorry folks, this is just too tempting."
-msgstr ""
+msgstr "Ledsen, det här är bara för frestande."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1147
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1178
@@ -5516,15 +5867,15 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1243
 msgid "Pffff. Should I kick it in?"
-msgstr ""
+msgstr "Pffff. Skall jag sparka in den?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1247
 msgid "Open that door!"
-msgstr ""
+msgstr "Öppna den där dörren!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1254
 msgid "Oh yeah! Showdown time!"
-msgstr ""
+msgstr "Åh, jaså! Upp till bevis!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1259
 msgid " *SMASH*"
@@ -5532,15 +5883,15 @@ msgstr "*BANK*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1264
 msgid " *BOOM*"
-msgstr ""
+msgstr " *BOOM*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1274
 msgid "Tough doors, but they're just about down."
-msgstr ""
+msgstr "Starka dörrar, men de är precis på väg att ge efter."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1279
 msgid " *BOOM!!!*"
-msgstr ""
+msgstr " *BOOM!!!*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1284
 msgid " *CRASH!!!*"
@@ -5603,7 +5954,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1404
 msgid "Just wait a sec."
-msgstr ""
+msgstr "Vänta lite, bara."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1436
 msgid "The Treasury"
@@ -6052,7 +6403,7 @@ msgstr "Ha, den kan prata!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2608
 msgid "It's a 'he', and  yes, they're actually very intelligent creatures."
-msgstr ""
+msgstr "Det är en 'han', och ja, de är faktiskt väldigt intelligenta varelser."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2613
 msgid ""
@@ -6299,6 +6650,8 @@ msgid ""
 "Since dwarves are known to be the finest metalworkers and weapon-smiths we "
 "were hoping that you would be able to help us."
 msgstr ""
+"Eftersom dvärgarna är kända för att vara de bästa metallhantverkarna och "
+"vapensmederna hoppades vi att du skulle kunna hjälpa oss."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:39
 msgid ""
@@ -6371,6 +6724,8 @@ msgid ""
 "Perhaps if we go there we can find out. Let us combine our forces and march "
 "to the mines and settle this mater once and for all."
 msgstr ""
+"Vi kanske kan få reda på det om vi går dit. Låt oss slå ihop våra trupper, "
+"marschera till gruvorna och avgöra det här en gång för alla."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:79
 msgid ""
@@ -6440,9 +6795,10 @@ msgid ""
 "tell Master."
 msgstr ""
 "Titta, där går ju vår lunch! Hmm, de är starkare än vi trodde. Bäst vi "
-"berättar för vår herre."
+"berättar för vår härskare."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:287
 msgid ""
 "What's with this whole 'Master' business? It's starting to make me nervous."
-msgstr "Vad är det där med 'herre' egentligen? Det börjar gå mig på nerverna."
+msgstr ""
+"Vad är det där med 'härskare' egentligen? Det börjar gå mig på nerverna."
