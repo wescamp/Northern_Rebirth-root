@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-08-30 10:31+0200\n"
-"PO-Revision-Date: 2005-09-10 16:50+0200\n"
-"Last-Translator: tephlon\n"
+"PO-Revision-Date: 2005-10-28 12:15+0200\n"
+"Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -708,7 +708,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:1011
 msgid "Thank you Lord."
-msgstr "Tack, furste."
+msgstr "Tack, ers nåd."
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:4
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:4
@@ -738,9 +738,8 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:285
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:318
-#, fuzzy
 msgid "Woha! Look at that fortress."
-msgstr "Ha Ha! Se hur de går."
+msgstr "Oj! Titta på den där fästningen."
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:324
 msgid ""
@@ -791,9 +790,8 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:337
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:370
-#, fuzzy
 msgid "RAKSHAS!!!"
-msgstr "*KRASCH*"
+msgstr "RAKSHAS!!!"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:343
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:376
@@ -847,9 +845,8 @@ msgid " *blushes slightly*"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:460
-#, fuzzy
 msgid " *wink wink*"
-msgstr "*blink* *blink*"
+msgstr "*blink blink*"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:466
 msgid " *raises eyebrow* Very well princess."
@@ -861,9 +858,8 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:422
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:490
-#, fuzzy
 msgid "It's done."
-msgstr "Ja, det är det."
+msgstr "Det är redan gjort."
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:428
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:496
@@ -871,9 +867,8 @@ msgid "Alright, let's move out people!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:524
-#, fuzzy
 msgid "Come on boys, let's give it to em!"
-msgstr "Kom igen grabben, så får vi se vad du går för."
+msgstr "Kom igen grabbar, nu tar vi dem!"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:781
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:808
@@ -886,7 +881,6 @@ msgstr "Kom igen grabben, så får vi se vad du går för."
 #: Northern_Rebirth/scenarios/Showdown.cfg:925
 #: Northern_Rebirth/scenarios/Showdown.cfg:955
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1231
-#, fuzzy
 msgid "Defeat the enemy leaders"
 msgstr "Besegra alla fiendeledare"
 
@@ -910,9 +904,8 @@ msgstr "Besegra alla fiendeledare"
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1241
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:471
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1069
-#, fuzzy
 msgid "Death of Ro'Arthian"
-msgstr "Fånga Ro'Arthian."
+msgstr "Ro'Arthian dör"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:478
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1443
@@ -934,17 +927,15 @@ msgstr "Fånga Ro'Arthian."
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1245
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:475
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1073
-#, fuzzy
 msgid "Death of Ro'Sothian"
-msgstr "Tallin dör"
+msgstr "Ro'Sothian dör"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:869
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:489
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:583
 #: Northern_Rebirth/scenarios/Showdown.cfg:993
-#, fuzzy
 msgid "Ahhhh! Save me my husband!"
-msgstr "Ahhh! Jag är förrådd!"
+msgstr "Ahhh! Rädda mig, min make!"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:875
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:495
@@ -971,9 +962,8 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:545
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:639
 #: Northern_Rebirth/scenarios/Showdown.cfg:1049
-#, fuzzy
 msgid "Yes, it might be a drama, but do you have to make it so dramatic?"
-msgstr "*himlar med ögonen* Theta, måste du alltid vara så dramatisk?"
+msgstr "Ja, det kanske är ett drama, men måste du göra det så dramatiskt?"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:931
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:551
@@ -1112,21 +1102,19 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:1290
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:818
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:798
-#, fuzzy
 msgid "DIE YOU FOUL SCUM!!!"
-msgstr "GÖR DIG REDO ATT DÖ, DIN VIDRIGE ORCH!"
+msgstr "DÖ, VIDRIGA AVSKUM!"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1180
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:800
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:894
 #: Northern_Rebirth/scenarios/Showdown.cfg:1304
-#, fuzzy
 msgid ""
 "Argh! I am finished, but our campaign must... not end... kill..... "
 "Rakshas..... and ..... save..... our...... people......."
 msgstr ""
-"Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... Finn..."
-"dvärgarna... Och... Rädda...vårt...folk..."
+"Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... Döda..."
+"Rakshas... Rädda...vårt...folk..."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:833
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:917
@@ -1381,9 +1369,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:146
-#, fuzzy
 msgid "Why is that?"
-msgstr "Vad är det för arbete?"
+msgstr "Varför då?"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:151
 msgid ""
@@ -1466,9 +1453,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:216
-#, fuzzy
 msgid "Sounds good to me!"
-msgstr "Det låter bra."
+msgstr "Det låter bra i mina öron!"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:221
 msgid ""
@@ -1520,18 +1506,16 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:525
-#, fuzzy
 msgid "INTRUDERS! KILL THEM!!!"
 msgstr "INKRÄKTARE! PÅ DEM!"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:540
-#, fuzzy
 msgid ""
 "Argh! I am finished, but our campaign must... not end... free... the.... "
 "princess.... and ..... save..... our...... people......."
 msgstr ""
-"Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... Säkra... "
-"gruvorna... Och...rädda... Vårt...folk..."
+"Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... Rädda... "
+"prinsessan... Och...rädda... Vårt...folk..."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:841
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:579
@@ -1568,9 +1552,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:710
-#, fuzzy
 msgid "I heard that Theta."
-msgstr "Här, jag hoppas det här gör någon nytta."
+msgstr "Jag hörde det där, Theta."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:715
 msgid "Hey, just trying to give him an incentive to drown himself."
@@ -1581,9 +1564,8 @@ msgid "Don't worry, I'll do that for him."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:741
-#, fuzzy
 msgid "You just think you are so tough don't you?"
-msgstr "Ni monster tror att ni är så tuffa, va? Nå, kolla det här."
+msgstr "Du tror att du är så tuff, va?"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:757
 #: Northern_Rebirth/scenarios/Introductions.cfg:802
@@ -2012,9 +1994,8 @@ msgid "Well here we have our leader and hero, Tallin."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:270
-#, fuzzy
 msgid " *rolls eyes*"
-msgstr "*himlar med ögonen* Kvinnor!"
+msgstr " *himlar med ögonen*"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:276
 msgid ""
@@ -2041,22 +2022,20 @@ msgid "You're right Elenia, Tallin is truly a hero."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:306
-#, fuzzy
 msgid ""
 "Not at all Princess. I am simply a small peasant trying to free my people "
 "from enslavement."
 msgstr ""
-"Bara Tallin. Jag är inte någon furste, blott en enkel bonde som försöker "
-"återge vårt folk friheten."
+"Inte alls, prinsessa. Jag är blott en enkel bonde som försöker återge vårt "
+"folk friheten."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:312
 msgid "And a modest one too!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:318
-#, fuzzy
 msgid "Hehehe."
-msgstr "Hehehehehe"
+msgstr "Hehehe."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:324
 msgid ""
@@ -2066,9 +2045,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:330
-#, fuzzy
 msgid "Ahh, it was nothing Princess."
-msgstr "Ah, tja, det var värt ett försök."
+msgstr "Ah, ingen orsak, prinsessa."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:336
 msgid ""
@@ -2122,9 +2100,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:378
-#, fuzzy
 msgid "Sounds good. Lets get moving people."
-msgstr "Det låter bra."
+msgstr "Det låter bra. Sätt fart, allihop."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:399
 msgid ""
@@ -2227,9 +2204,8 @@ msgid " *sigh* Oh well. It wasn't as if we weren't expecting this."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:532
-#, fuzzy
 msgid "See, I told you so!"
-msgstr "Var det inte det jag sade?!"
+msgstr "Det var ju det jag sade!"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:538
 msgid ""
@@ -2253,9 +2229,8 @@ msgid "Your efforts to destroy us are in vain you foul creature."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:635
-#, fuzzy
 msgid "There we go, payback time!"
-msgstr "Så där ja! Den här vägen grabbar!"
+msgstr "Se där ja, nu skall ni få!"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1361
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2175
@@ -2278,13 +2253,12 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Introductions.cfg:867
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:832
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:812
-#, fuzzy
 msgid ""
 "Argh! I am finished, but our campaign must... not end... get... back.... "
 "to.... Knalga..... and ..... save..... our...... people......."
 msgstr ""
-"Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... Säkra... "
-"gruvorna... Och...rädda... Vårt...folk..."
+"Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... Gå till... "
+"Knalga... Och...rädda... Vårt...folk..."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:890
 msgid "Alas, your mission to secure our help has failed!"
@@ -2457,9 +2431,8 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:417
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:417
-#, fuzzy
 msgid "Very wise."
-msgstr "Okej."
+msgstr "Mycket klokt."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:423
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:423
@@ -2635,9 +2608,8 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:577
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:627
-#, fuzzy
 msgid "Thanks friend."
-msgstr "Tack, Hamel."
+msgstr "Tack, min vän."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:587
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:637
@@ -3467,15 +3439,13 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:53
-#, fuzzy
 msgid ""
 "Orcs are fickle and if we negotiate a treaty with them - assuming they will "
 "accept - it will just be broken as soon as the next orcish warlord rises."
 msgstr ""
-"Det är sant. Men vi kommer aldrig att kunna nå någon långsiktig lösning utan "
-"att krossa orcherna. Orcher är opålitliga och om vi förhandlar fram ett "
-"avtal med dem - om de nu skulle acceptera det - så skulle det bara brytas så "
-"fort nästa krigsherre reser sig bland dem."
+"Orcher är opålitliga och om vi förhandlar fram ett avtal med dem - om de nu "
+"skulle acceptera det - så skulle det bara brytas så fort nästa krigsherre "
+"reser sig bland dem."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:58
 msgid ""
@@ -3532,16 +3502,14 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:92
-#, fuzzy
 msgid ""
 "The last thing we heard about them was years ago when Price Konrad passed "
 "through here. At that time the evil queen Asheviere was ruling and it was "
 "said that she was in alliance with the orcs."
 msgstr ""
-"Wesnoth är för långt bort och vi har ingen aning om vilket politiskt läge de "
-"är i. Det senaste jag hörde från dem var åratal sedan när prins Konrad "
-"passerade här igenom. På den tiden härskade den onda drottningen Asheviere "
-"och det sades att hon var allierad med orcherna."
+"Det senaste jag hörde från dem var åratal sedan när prins Konrad passerade "
+"här igenom. På den tiden härskade den onda drottningen Asheviere och det "
+"sades att hon var allierad med orcherna."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:97
 msgid ""
@@ -3593,7 +3561,6 @@ msgid "Why Hamel, what is the story with him?"
 msgstr "Vadå, Hamel, vad är det med honom?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:132
-#, fuzzy
 msgid ""
 "I have heard all about him from my good friend Stalrag. He is - or was "
 "anyway, haven't heard from him in years - the chief of the villages that lay "
@@ -3601,8 +3568,7 @@ msgid ""
 msgstr ""
 "Jag har hört allt om honom från min gode vän Stalrag. Han är - eller var i "
 "alla fall, jag har inte hört något från honom på flera år - hövding över "
-"byarna som låg längs Bergspasset. De där fördömda magikerna har länge "
-"terroriserat honom och hans folk."
+"byarna som låg längs Bergspasset."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:137
 msgid "Those foul mages have long terrorized him and his people."
@@ -3637,12 +3603,10 @@ msgid "Hehe, something like that."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:167
-#, fuzzy
 msgid " 'rolls eyes'"
-msgstr "*himlar med ögonen* Kvinnor!"
+msgstr " *himlar med ögonen*"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:172
-#, fuzzy
 msgid "So anyway, what are you trying to say?"
 msgstr "Så vad är det du försöker säga?"
 
@@ -3659,9 +3623,9 @@ msgstr ""
 "däromkring så skulle vi kunna få användning för hans hjälp också."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:182
-#, fuzzy
 msgid "I don't really see how just two mages can help us Father."
-msgstr "Jag förstår bara inte riktigt hur två magiker skulle kunna hjälpa oss."
+msgstr ""
+"Jag förstår bara inte riktigt hur två magiker skulle kunna hjälpa oss, far."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:187
 msgid ""
@@ -3769,7 +3733,6 @@ msgid "Ro'Sothian, is that you?"
 msgstr "Ro'Sothian, är det du?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:498
-#, fuzzy
 msgid ""
 "Not now Father. If you can't see, I happen to be a little busy at the moment."
 msgstr ""
@@ -3879,7 +3842,6 @@ msgid " *aside* Oh....!"
 msgstr "*viskande* Åh...!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:740
-#, fuzzy
 msgid ""
 "Now wait a sec my friend. You won't believe what a blast it is fighting with "
 "these guyz. You get to fry skeletons, orcs, trolls, and wolves by the "
@@ -3900,14 +3862,12 @@ msgstr ""
 "SÄRSKILT ett gäng dvärgar!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:752
-#, fuzzy
 msgid ""
 "Anyhow, I tire of this, prepare to die you dwarf! And the rest of you, get "
 "lost and don't come back, unless you're tired of life!"
 msgstr ""
-"Hur som helst, jag börjar tröttna på det här, bered dig döden, dvärg! Och "
-"resten av er, försvinn och kom inte tillbaka om ni inte är otåliga att möta "
-"era skapare."
+"Hur som helst, jag börjar tröttna på det här. Bered dig på döden, dvärg! Och "
+"resten av er, försvinn och kom inte tillbaka om ni inte är trötta på livet!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:765
 msgid "Quick honey, we got to stop him. Lets go!"
@@ -4005,7 +3965,6 @@ msgstr ""
 "vid sida med dem?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1002
-#, fuzzy
 msgid ""
 "You are asking for a bit much Lord. You have no idea of how many of my "
 "people those mages have killed. To take them as allies will be a disgrace to "
@@ -4234,7 +4193,6 @@ msgstr ""
 "oss?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1422
-#, fuzzy
 msgid ""
 "Think of it Ro'Arthian, it is a fair bargain. If you don't agree to Tallin's "
 "proposal then the endless war you two wage with the dwarves shall never be "
@@ -4243,9 +4201,8 @@ msgid ""
 msgstr ""
 "Tänk på saken, Ro'Arthian, det är en bra affär. Om du inte går med på "
 "Tallins rättvisa förslag kommer det ändlösa krig ni två bedriver med "
-"dvärgarna aldrig bli löst. Ni kommer aldrig kunna vila i frid. Ni har "
-"hemsökt dessa berg alltför länge. Det är hög tid för dig och din bror att gå "
-"till vila."
+"dvärgarna aldrig bli löst. Ni har hemsökt dessa berg alltför länge. Det är "
+"hög tid för dig och din bror att gå till vila."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1428
 msgid "Hrmph. What do you think brother?"
@@ -4668,7 +4625,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:764
 #: Northern_Rebirth/scenarios/Showdown.cfg:878
-#, fuzzy
 msgid "FOR DWARVEN DOORS!!!"
 msgstr "FÖR DVÄRGPORTARNA!"
 
@@ -4680,9 +4636,8 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:912
 #: Northern_Rebirth/scenarios/Showdown.cfg:942
 #: Northern_Rebirth/scenarios/Showdown.cfg:972
-#, fuzzy
 msgid "Death of Anita"
-msgstr "Tallin dör"
+msgstr "Anita dör"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:798
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:825
@@ -4690,21 +4645,18 @@ msgstr "Tallin dör"
 #: Northern_Rebirth/scenarios/Showdown.cfg:916
 #: Northern_Rebirth/scenarios/Showdown.cfg:946
 #: Northern_Rebirth/scenarios/Showdown.cfg:976
-#, fuzzy
 msgid "Death of Hamel"
-msgstr "Tallin dör"
+msgstr "Hamel dör"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1018
 #: Northern_Rebirth/scenarios/Showdown.cfg:1142
-#, fuzzy
 msgid "You think you're so tough don't you?"
-msgstr "Ni monster tror att ni är så tuffa, va? Nå, kolla det här."
+msgstr "Du tror att du är så tuff, va?"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1258
 #: Northern_Rebirth/scenarios/Showdown.cfg:1382
-#, fuzzy
 msgid "I.... love..... you..... Tallin..... don't.... forget.... me."
-msgstr "...inte...göra...mig...illa?"
+msgstr "Jag...älskar...dig... Tallin... Glöm...mig...inte..."
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1264
 #: Northern_Rebirth/scenarios/Showdown.cfg:1388
@@ -4739,17 +4691,16 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1437
 msgid "Just see the fate of one who offends the Northern Elves."
-msgstr ""
+msgstr "Skåda ödet som drabbar den som förorättar nordalverna."
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1443
 msgid "Or the dwarves of Knalga."
-msgstr ""
+msgstr "Eller Knalgas dvärgar."
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1325
 #: Northern_Rebirth/scenarios/Showdown.cfg:1454
-#, fuzzy
 msgid "Or the people of Dwarven Doors."
-msgstr "Dvärgportarnas folk hälsar dig, vän."
+msgstr "Eller Dvärgportarnas folk."
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1331
 #: Northern_Rebirth/scenarios/Showdown.cfg:1460
@@ -4933,9 +4884,8 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:79
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:84
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:79
-#, fuzzy
 msgid "I know Tallin."
-msgstr "Tack så mycket, Tallin."
+msgstr "Jag vet, Tallin."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:84
 msgid "Were you able to pursue them?"
@@ -5099,22 +5049,20 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:451
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:469
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:453
-#, fuzzy
 msgid "Haha! This is gonna be fun!"
-msgstr "Åh, det här blir skoj!"
+msgstr "Haha! Det här blir skoj!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:461
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:477
-#, fuzzy
 msgid "Defeat the enemy leaders or"
-msgstr "Besegra alla fiendeledare"
+msgstr "Besegra alla fiendeledare, eller"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:465
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1430
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:482
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1083
 msgid "Resist as long as you can"
-msgstr ""
+msgstr "Håll stånd så länge som möjligt"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:495
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:517
@@ -5148,16 +5096,14 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:550
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:572
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:552
-#, fuzzy
 msgid "Hehe, sorry."
-msgstr "Åh, förlåt."
+msgstr "Hehe, förlåt."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:567
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:589
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:569
-#, fuzzy
 msgid "Ack! I have been brained!"
-msgstr "Ahhh! Jag är förrådd!"
+msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:573
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:595
@@ -5188,9 +5134,8 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:625
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:647
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:627
-#, fuzzy
 msgid "Hehe, sorry!"
-msgstr "Åh, förlåt."
+msgstr "Hehe, förlåt."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:648
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:670
@@ -5205,13 +5150,12 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:810
-#, fuzzy
 msgid ""
 "Argh! I am finished, but our campaign must... not end... kill..... "
 "Rakshas ..... and ..... save..... our...... people......."
 msgstr ""
-"Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... Finn..."
-"dvärgarna... Och... Rädda...vårt...folk..."
+"Argh! Det är slut med mig, men vårt fälttåg får...inte ta slut... Döda..."
+"Rakshas... Och... Rädda...vårt...folk..."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:940
 msgid "Pew, they are defeated at last."
@@ -5253,9 +5197,8 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:982
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1140
-#, fuzzy
 msgid "Thank you sir."
-msgstr "Tack, furste."
+msgstr "Tack, ers nåd."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:988
 msgid "If you guyz are quite finished exchanging pleasantries..."
@@ -5338,9 +5281,8 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1243
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:898
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:878
-#, fuzzy
 msgid "Hey! Where is he going?"
-msgstr "Vart försvann han nu då?!"
+msgstr "Hallå! Vart är han på väg?"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1249
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:904
@@ -5389,9 +5331,8 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1366
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1019
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:999
-#, fuzzy
 msgid "ROOOAAARRRR!!!"
-msgstr "ROOOOOOAAAARRRR!"
+msgstr "ROOOAAARRRR!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1372
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1025
@@ -5439,9 +5380,8 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1426
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1079
-#, fuzzy
 msgid "Help Tallin defeat the enemy leaders or"
-msgstr "Besegra alla fiendeledare"
+msgstr "Hjälp Tallin att besegra alla fiendeledare, eller"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1545
 msgid "Princess! We have finally found you!"
@@ -5495,15 +5435,13 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1613
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1059
-#, fuzzy
 msgid "Help Tallin defeat the enemy leaders"
-msgstr "Besegra alla fiendeledare"
+msgstr "Hjälp Tallin att besegra alla fiendeledare"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1642
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1260
-#, fuzzy
 msgid "Haha! Look at them run!"
-msgstr "Ha Ha! Se hur de går."
+msgstr "Haha! Se hur de springer!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:9
 msgid ""
@@ -5561,7 +5499,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:463
-#, fuzzy
 msgid "Kill the enemy leaders"
 msgstr "Besegra alla fiendeledare"
 
