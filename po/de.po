@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-12-20 20:22+0100\n"
-"PO-Revision-Date: 2005-12-04 19:36+0100\n"
+"PO-Revision-Date: 2006-02-25 10:56+0100\n"
 "Last-Translator:  <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -16,12 +16,11 @@ msgstr ""
 
 #: Northern_Rebirth.cfg:8
 msgid "Northern Rebirth"
-msgstr ""
+msgstr "Wiedergeburt des Nordens"
 
 #: Northern_Rebirth.cfg:15
-#, fuzzy
 msgid "(Newbie)"
-msgstr "(Neuling)"
+msgstr "(Anfänger)"
 
 #: Northern_Rebirth.cfg:15
 msgid "Peasant"
@@ -52,9 +51,8 @@ msgid "RoyalGuard"
 msgstr "Leibgardist"
 
 #: Northern_Rebirth.cfg:20
-#, fuzzy
 msgid " Version 1.10 Complete! Last updated 12/16/05."
-msgstr "Version 0.7 Letztes Update: 7/28/05."
+msgstr " Version 1.10 Vollständig! Letztes Update: 16. 12. 2005."
 
 #: Northern_Rebirth.cfg:20
 msgid ""
@@ -65,7 +63,7 @@ msgid ""
 "the Northlands to the glory that they once were, or doom them to an eternity "
 "of bloody chaos."
 msgstr ""
-"Für die Bewohner der Zwergenpforte gab es lediglich zwei Möglichkeiten: "
+"Für die Bewohner Zwergenpfortes gab es lediglich zwei Möglichkeiten: "
 "Entweder als wertlose Sklaven der Orks bis ans Ende ihres Lebens zu schuften "
 "oder eben dieses Leben zu riskieren um sich gegen ihre grausamen "
 "Unterdrücken zu erheben. Sie konnten nicht ahnen, dass ihr Aufstand entweder "
@@ -84,6 +82,12 @@ msgid ""
 "com). Special thanks also to all those who have given valuable feedback or "
 "helped whenever I got stuck with the code."
 msgstr ""
+"Bevor das Spiel beginnt, möchte ich folgenden Menschen danken, weil sie mir "
+"großzügig die Verwendung ihrer Bilder erlaubt haben: Jonathon Earl Bowser "
+"(www.jonathonart.com), Jim (www.sporeboy.com) und Mark Zug (http://www."
+"markzug.com). Besonderen Dank auch an jene, welche mir wertvolle Hinweise "
+"gegeben haben oder mir geholfen haben, falls ich mal mit dem Skript in eine "
+"Sackgasse geraten war."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:17
 msgid ""
@@ -421,9 +425,8 @@ msgid "Ha Ha! Look at them go."
 msgstr "Ha! Ha! Sieh sie dir an."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:508
-#, fuzzy
 msgid "Ha Ha! The fools are killing eachoter!"
-msgstr "Ha! Ha! Diese Idioten schlagen sich gegenseitig tot!"
+msgstr "Ha! Ha! Diese Trottel schlagen sich gegenseitig tot!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:4
 msgid "Clearing the Mines"
@@ -656,9 +659,8 @@ msgid "Yeah right buddy."
 msgstr "Na klar, Kumpel."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:873
-#, fuzzy
 msgid "Clear the Mines"
-msgstr "Die Minen säubern."
+msgstr "Säuberung der Minen"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:815
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:842
@@ -671,9 +673,8 @@ msgid "Death of Hamel"
 msgstr "Hamel stirbt"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:886
-#, fuzzy
 msgid "Turns Run Out"
-msgstr "Runden laufen aus"
+msgstr "Runden abgelaufen"
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:231
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:905
@@ -1325,17 +1326,20 @@ msgstr "Oh, ich mochte den Kerl."
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:1086
 msgid "Move you stupid orcs! I am trying to recruit here!"
 msgstr ""
+"Verschwindet, ihr blöden Orks! Ich versuche hier Soldaten einzuberufen!"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:880
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:1092
 msgid "Suit yourself you dumb troll!"
-msgstr ""
+msgstr "Reiß dich am Riemen, dummer Troll!"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:886
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:1098
 msgid ""
 "Awww, aren't they the most loving, sharing bunch of orcs you have ever seen?"
 msgstr ""
+"Ohh, sie sind nicht der freundlichste und teilnahmsvollste Haufen Orks den "
+"ihr je gesehen habt?"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:998
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1357
@@ -1661,9 +1665,8 @@ msgstr ""
 "jemand hier bleibt, um alle unerwarteten Situationen zu beantworten."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:216
-#, fuzzy
 msgid "Sounds good to me! Come on men, lets go!"
-msgstr "Gute Idee! Auf geht's, Männer!"
+msgstr "Die Idee gefällt mir! Auf geht's, Männer!"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:266
 msgid "Rescue the Princess"
@@ -1698,15 +1701,14 @@ msgstr ""
 "gleich im Süden hinweisen."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:495
-#, fuzzy
 msgid ""
 "Hmmm, I guess the orcs figured that just having the guards wasn't enough. "
 "Get too it people, we gotta rescue this princess before the orcs get too "
 "smart."
 msgstr ""
-"Hmm, ich vermute die Orks haben erkannt dass die Wachen alleine nicht "
-"ausreichen um die Prinzessin zu beschützen. Wir sollten uns beeilen und die "
-"Prinzessin befreien bevor die Orks den Braten riechen."
+"Hmm, ich vermute die Orks haben erkannt, dass die Wachen alleine nicht "
+"ausreichen, um die Prinzessin zu beschützen. Beeilung Leute, wir müssen die "
+"Prinzessin retten, bevor die Orks den Braten riechen."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:501
 msgid "INTRUDERS! KILL THEM!!!"
@@ -1854,13 +1856,12 @@ msgid "Neep Neep!"
 msgstr "Flapp, Flapp."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:253
-#, fuzzy
 msgid ""
 "Calm down $name.user_description. Come what may, we'll handle them. Come on "
 "now, lets find those dwarves!"
 msgstr ""
 "Beruhig dich.{role=Supporter.user_description}. Komme da was wolle, wir "
-"kriegen das schon hin. Nun auf, lass uns diese Zwerge finden."
+"schaffen das schon. Nun auf, lass uns diese Zwerge finden!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:262
 msgid ""
@@ -1941,16 +1942,18 @@ msgstr "Grüße von den Einwohner von Zwergenpforte, mein Freund."
 msgid ""
 "Dwarven Doors? I thought you people were enslaved by the orcs years ago."
 msgstr ""
+"Zwergenpforte? Ich dachte, die Einwohner wären vor Jahren von den Orks "
+"versklavt worden."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:393
-#, fuzzy
 msgid ""
 "Yes we were but we have managed to overthrow them for the time being. In "
 "order to stay free we now seek help and equipment from our old allies, the "
 "dwarves."
 msgstr ""
-"Wir haben die tyrannische Herrschaft der Orks abgeschüttelt und suchen die "
-"Hilfe unserer alten Verbündeten, der Zwerge."
+"Wir haben die tyrannische Herrschaft der Orks fürs erste abgeschüttelt. Um "
+"unsere Freiheit zu erhalten suchen wir nun die Hilfe unserer alten "
+"Verbündeten, der Zwerge."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:397
 msgid ""
@@ -2075,14 +2078,14 @@ msgid "He's gone completely insane!"
 msgstr "Er ist vollkommen verrückt geworden!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:680
-#, fuzzy
 msgid ""
 "Argh! I am finished, but our campaign must... not end... $name."
 "user_description ... find... the.... dwarves.... and ..... save..... "
 "our...... people......."
 msgstr ""
 "Argh!... Ich bin erledigt, aber unser Feldzug darf hier ... nicht ...enden. "
-"Findet... dieZwerge ... und ... rette ... unsere ... Leute..."
+"$name.user_description, finde... die Zwerge ... und ... rette ... unsere ... "
+"Leute..."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:707
 msgid ""
@@ -2704,9 +2707,8 @@ msgstr "Guter Einwand. Hat irgendjemand einen Vorschlag?"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:358
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:360
-#, fuzzy
 msgid "Actually, I do have suggestion."
-msgstr "Tatsächlich habe ich einen Vorschlag."
+msgstr "In der Tat habe ich einen Vorschlag."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:364
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:366
@@ -2797,7 +2799,7 @@ msgstr "Großartig!"
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:417
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:419
 msgid "Smart!"
-msgstr ""
+msgstr "Pfiffig!"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:423
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:425
@@ -2806,17 +2808,15 @@ msgstr "Klingt spannend."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:428
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:430
-#, fuzzy
 msgid ""
 "Rising to his feet and Hamel raised his hands and waited for the clamor to "
 "die down."
 msgstr ""
-"Hamel steht auf, erhebt seine hand und wartet darauf, dass der Tumult um ihn "
+"Hamel steht auf, erhebt seine Hand und wartet darauf, dass der Tumult um ihn "
 "abebbt."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:434
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:436
-#, fuzzy
 msgid ""
 "Over time, Tallin has proved himself to be a wise, courageous and capable "
 "leader. He is respected by humans, elves and dwarves alike. I therefore "
@@ -3024,7 +3024,7 @@ msgstr "Danke, mein Freund."
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:595
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:647
 msgid "Alfred, your assistance has also been of great help to us."
-msgstr ""
+msgstr "Alfred, deine Unterstützung war uns ebenfalls eine große Hilfe."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:600
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:652
@@ -3032,11 +3032,13 @@ msgid ""
 "Pah, think nothing of it. It sure makes an interesting story to tell the "
 "folks back home."
 msgstr ""
+"Ach, macht euch keinen Kopf darüber. Ich bin mir sicher, mit dieser "
+"Geschichte kann ich zu Hause Eindruck schinden."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:606
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:658
 msgid "So you would like to return to your home?"
-msgstr ""
+msgstr "Du möchtest also gerne nach Hause zurückkehren?"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:611
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:663
@@ -3045,6 +3047,10 @@ msgid ""
 "nature for it to be otherwise. There is just one problem, Malifor forced me "
 "into this body and I don't know how to get out of it."
 msgstr ""
+"Ja, die Toten sollten im Totenreich bleiben. Alles andere ist ein Verstoß "
+"gegen die natürlich Ordnung der Welt. Da gibt es nur ein Problem, Malifor "
+"hat mich in diesen Körper gezwungen und I weiß nicht, wie ich von ihm "
+"loskomme."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:617
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:669
@@ -3052,6 +3058,8 @@ msgid ""
 "I believe Theta and I can help you with that Alfred. Have no worries, you "
 "shall soon be home."
 msgstr ""
+"Ich denke, Theta und ich können dir bei diesem Problem helfen. Keine Sorge "
+"Alfred, du wirst bald zu Hause sein."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:622
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:674
@@ -3059,11 +3067,13 @@ msgid ""
 "Thank you father, and thank you again Tallin for all that you have done, "
 "both for the world of the living and the dead."
 msgstr ""
+"Dank euch, Vater, und dank dir, Tallin, für alles was du getan hast - für "
+"die Welt der Lebenden wie jene der Toten."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:628
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:680
 msgid "My thanks to you as well Alfred. May you rest in peace."
-msgstr ""
+msgstr "Ich danke dir ebenfalls Alfred. Hoffentlich findest du nun Frieden."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:638
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:690
@@ -3198,7 +3208,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:692
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:782
-#, fuzzy
 msgid ""
 "Hamel, assisted by the Northern Alliance continued to rebuild Knalga and "
 "before long it shone once again in all it's former glory. Under the "
@@ -3206,11 +3215,11 @@ msgid ""
 "they did before, from all corners of the known - and unknown - world to "
 "trade with the Dwarves of Knalga."
 msgstr ""
-"Hamel fuhr, unterstützt durch den Nordischen Bund, fort, Knalga "
-"wiederaufzubauen und schon bald schien das Zwergenkönigreich in alter "
-"Pracht. Unter dem Schutz des Nordischen Bundes kamen wieder Angehörige aller "
-"Rassen und Völker der bekannten wie unbekannten Welt nach Zwergenpforte um "
-"mit den Zwergen von Knalga zu handeln."
+"Hamel fuhr fort, unterstützt durch den Nordischen Bund, Knalga wieder "
+"aufzubauen und schon bald schien das Zwergenkönigreich in alter Pracht. "
+"Unter dem Schutz des Nordischen Bundes kamen wieder Angehörige aller Rassen "
+"und Völker der bekannten wie unbekannten Welt nach Zwergenpforte um mit den "
+"Zwergen von Knalga zu handeln."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:697
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:788
@@ -4185,14 +4194,13 @@ msgstr ""
 "sie auf unserer Seite weißt."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:207
-#, fuzzy
 msgid ""
 "And Tallin, one more thing, if all goes well this shouldn't be a major "
 "battle and hence, hauling around your whole caravan of gold is a bit of an "
 "overkill."
 msgstr ""
-"Oh, Tallin, eins noch. Du planst einen Überfall, keinen Feldzug. Du brauchst "
-"nicht deine ganze Schatzkammer mitzuschleppen."
+"Oh, Tallin, eins noch: Dies soll ein Überfall werden, keine große Schlacht. "
+"Daher wäre es etwas übertrieben deine ganze Schatzkammer mitzunehmen."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:212
 msgid ""
@@ -4206,11 +4214,8 @@ msgstr ""
 "Fall, dass die Orks durchbrechen."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:217
-#, fuzzy
 msgid "Good idea. Now how exactly do we get to this mountain pass?"
-msgstr ""
-"Nun gut, es sieht aus als hätte wir uns geeinigt. Aber wie kommen wir nun zu "
-"diesem Pass?"
+msgstr "Nun gut, aber wie kommen wir nun zu diesem Pass?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:222
 msgid "And so Tallin and his party set out to secure the help of the mages."
@@ -4883,16 +4888,16 @@ msgid "Showdown"
 msgstr "Die Entscheidungsschlacht"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:34
-#, fuzzy
 msgid ""
 "After recovering their gold the party once again took up Rakshas's trail. "
 "They soon received a report from a scouting gryphon that in an enormous "
 "fortress a few leagues west from them, Rakshas was rallying a massive orcish "
 "force."
 msgstr ""
-"Nur einen Augenblick später landete ein Greif auf der Lichtung. Er "
-"berichtete, dass Rakshas nur wenige Wegstunden entfernt eine große Armee "
-"versammelte."
+"Nachdem sie ihr Gold zurückerobert hatte setzte sich die Truppe sofort "
+"wieder auf Rakshas' Spur. Nur einen Augenblick später landete ein Greif auf "
+"der Lichtung. Er  berichtete, dass Rakshas nur wenige Wegstunden entfernt "
+"eine große Armee versammelte."
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:46
 #: Northern_Rebirth/scenarios/Showdown.cfg:39
@@ -4904,17 +4909,16 @@ msgstr ""
 "näherte, in der Rakshas seine Truppen versammelte."
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:44
-#, fuzzy
 msgid ""
 "Battle plans were quickly made and the party quickly split themselves - and "
 "their gold - into three groups. Two of the groups immediately set off "
 "northwest, and southwest respectively while the third group rested for an "
 "hour and then set of directly west."
 msgstr ""
-"Schnell wurden Schlachpläne festgelegt und die Gruppe teilte sich in drei "
-"Abteilungen. Zwei der Gruppen marschierten in süd- und nordwestlicher "
-"Richtung, während die dritte noch eine Stunde wartete bevor sie direkt nach "
-"Westen aufbrach."
+"Schnell wurden Schlachpläne festgelegt und die Gruppe teilte sich, "
+"einschließlich des Goldes, in drei Abteilungen. Zwei der Gruppen "
+"marschierten in süd- und nordwestlicher Richtung, während die dritte noch "
+"eine Stunde wartete bevor sie direkt nach Westen aufbrach."
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:56
 #: Northern_Rebirth/scenarios/Showdown.cfg:49
@@ -5149,14 +5153,14 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1392
 #: Northern_Rebirth/scenarios/Showdown.cfg:1394
-#, fuzzy
 msgid "Geez, look at all those orcs pouring out of that fortress."
-msgstr "Wenige Stunden später rückten alle Abteilungen auf die Festung vor."
+msgstr "Himmel, schau wie viele Orks aus der Festung strömen."
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1398
 #: Northern_Rebirth/scenarios/Showdown.cfg:1400
 msgid "And not just any orcs either, those are all hardened veterans!"
 msgstr ""
+"Und nicht irgendwelche Orks, dies sind alles schlachterprobte Veteranen!"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1404
 #: Northern_Rebirth/scenarios/Showdown.cfg:1406
@@ -5164,22 +5168,21 @@ msgid ""
 "Yeah. Obviously this is going to take some time. Set up the field "
 "fortifications men. We'll lay siege to him until he starves!"
 msgstr ""
+"Ja. Dies wird offensichtlich einige Zeit dauern. Baut befestigte Lager "
+"Männer! Wir belagern seine Burg und werden ihn aushungern."
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1441
 #: Northern_Rebirth/scenarios/Showdown.cfg:1443
 msgid "And set up camps for units to rest and tend heal the wounded."
-msgstr ""
+msgstr "Und baut Lager für die Verwundeten und die erschöpften Kämpfer."
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1510
-#, fuzzy
 msgid "Ahhhh! Farewell friends. I now go to join Hidel."
-msgstr ""
-"Lebt wohl meine Freunde. Ich werde mich nun meinen gefallenen Brüdern "
-"anschließen."
+msgstr "Lebt wohl meine Freunde. Ich schließe mich nun Hidel an."
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1516
 msgid "Sisal! Noooo! Not you too!"
-msgstr ""
+msgstr "Sisal! Nein! Nicht du auch!"
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:32
 msgid ""
@@ -6258,9 +6261,8 @@ msgstr ""
 "Tallin folgte den Zauberern ohne die Hauptmacht der zwergischen Truppen."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:581
-#, fuzzy
 msgid "There he goes! Quick, get him!"
-msgstr "Dort ist er! Ihm nach!"
+msgstr "Dort ist er! Schnappt ihn euch!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:586
 msgid "I don't think so you living vermin."
@@ -6271,49 +6273,48 @@ msgid ""
 "Ahh drats! Well let's hurry up and kill these Revenants, there is only two "
 "of them so they shouldn't last long."
 msgstr ""
+"Ahh, Dreck. Gut, beeilen wir uns und erledigen diese Wiedergänger, es sind "
+"bloß zwei, das sollte nicht langer dauern."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:598
 msgid "Get past the revenants."
-msgstr ""
+msgstr "Überwinde die Wiedergänger."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:624
 msgid "Uh... Which way?"
-msgstr ""
+msgstr "Oh? Wo lang nun?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:630
 msgid "Blast it! We lost him."
-msgstr ""
+msgstr "Verflucht! Wir haben ihn verloren!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:636
-#, fuzzy
 msgid ""
 "Anyhow, it won't make a difference in the end, because we will hunt him down "
 "and crush him to powder. HEAR THAT YOU OLD SKELETON?"
 msgstr ""
 "Das wird keinen Unterschied machen. Am Ende werden wir den alten Knochensack "
-"kriegen und zu Staub zermahlen.  KANNST DU DAS HÖREN, ALTER KLAPPERGESTELL?"
+"kriegen und zu Staub zermalmen.  KANNST DU DAS HÖREN, ALTES KLAPPERGESTELL?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:642
 msgid " *faint cackle of laughter in the distance*"
 msgstr "*In der Ferne verhallendes Gelächter*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:648
-#, fuzzy
 msgid "Yeah! This is gonna be fun!"
-msgstr "Haha! Ja, das sieht nach Spaß aus."
+msgstr "Haha! Ja, das verspricht Spaß!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:654
-#, fuzzy
 msgid ""
 "Anyhow, lets proceed with caution. Nobody goes off by himself. We don't know "
 "what could be lurking in these tunnels."
 msgstr ""
 "Egal, lasst uns vorsichtig vorgehen. Niemand stürmt alleine vor, wir wissen "
-"nicht was für Hinterhalte uns erwarten."
+"nicht, was hier alles in den Tunnlen herumkriecht."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:660
 msgid "Find Malifor and Destroy Him"
-msgstr ""
+msgstr "Finde Malifor und vernichte ihn."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:735
 msgid ""
@@ -6338,53 +6339,64 @@ msgid ""
 "Wow! Incredible! I wonder what such a powerful artifact is doing hidden all "
 "the way back here..."
 msgstr ""
+"Toll! Unglaublich! Ich frage mich, warum ein derart mächtiges Artefakt in "
+"dieser vergessenen Ecke versteckt ist."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:797
 msgid "Thats.... that's the Rod of Justice!"
-msgstr ""
+msgstr "Das! Das ist der Stab der Gerechtigkeit!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:803
-#, fuzzy
 msgid "Do you know anything about it Camerin?"
-msgstr "Willst du sterben, Zwerg?"
+msgstr "Camerin, weißt du irgend etwas darüber?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:809
 msgid ""
 "I don't think there is a person alive who really knows anything about it. "
 "There are very few people who even knows it exists!"
 msgstr ""
+"Ich bezweifle, dass es einen lebenden Menschen gibt, der die wahre Macht des "
+"Stabes kennt. Nur wenige wissen überhaupt von seiner Existenz!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:815
 msgid "And how did you come to know about it."
-msgstr ""
+msgstr "Und woher weißt du von dem Stab?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:821
 msgid ""
 "Some of the most ancient elvish legends have some vague mention of this "
 "artifact. But beyond that..."
 msgstr ""
+"Einige der ältesten elfischen Legenden erwähnen diese Stab schemenhaft, aber "
+"darüber hinaus..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:827
 msgid ""
 "Interesting. I wonder who - or what - could have created such a powerful "
 "artifact. There must be one heck of a story behind this thing."
 msgstr ""
+"Spannend. I frage mich, wer -- oder was -- solch ein mächtiges Artefakt "
+"erschaffen haben mag. Es muss eine wirklich epische Vergangenheit haben."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:848
 msgid ""
 "Caution! Tunnel flooded and infested with aquatic monsters. Enter at the "
 "cost of your life."
 msgstr ""
+"Vorsicht! Tunnel sind geflutet und mit Unterwasser-Monstern verseucht. Wer "
+"eintritt, ist in Lebensgefahr."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:853
 msgid ""
 "Interesting. It seems like someone really doesn't want us going down this "
 "tunnel."
 msgstr ""
+"Interessant, es scheint, als wolle uns jemand wirklich von diesem Tunnel "
+"fern halten."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:869
 msgid "Hey, an underground lake."
-msgstr ""
+msgstr "Seht mal, ein unterirdischer See!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:873
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:874
@@ -6405,12 +6417,11 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:899
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:900
 msgid "Tentacle"
-msgstr ""
+msgstr "Tentakel"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:905
-#, fuzzy
 msgid "Ack! What are those things!"
-msgstr "Heiliges Bananenrohr, was sind das für Dinger?"
+msgstr "Hilfe! Was sind das für Dinger?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:919
 msgid ""
@@ -6418,12 +6429,17 @@ msgid ""
 "underwater creature. They like pommeling you to death and then drag you "
 "under for dinner."
 msgstr ""
+"Oh ja, diese Teile. Pass auf, das sind die Arme von irgendeinem Unterwasser-"
+"Wesen. Sie schlagen dich gerne tot und verputzen dich anschließend als "
+"Zwischenmahlzeit."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:925
 msgid ""
 "Then how do we get past? I can see that the passage continues to both the "
 "north and south and we still haven't found Malifor yet..."
 msgstr ""
+"Wie sollen wir vorbeikommen? I sehe einen unerforschten Weg nach Norden und "
+"Süden, und Malifor haben wir auch noch nicht gefunden."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:931
 msgid ""
@@ -6431,114 +6447,121 @@ msgid ""
 "destroy it completely. But if we destroy it's arms we would be relatively "
 "safe for the time being. By the time it grows them back we will be long gone."
 msgstr ""
+"Diese Art von Wesen erholt sich im Laufe der Zeit, von daher bezweifle ich, "
+"dass wir es töten können. Aber wenn wir seine Tentakel verstümmeln sollten "
+"wir einigermaßen sicher sein, bevor sie nachgewachsen sind werden wir schon "
+"verschwunden sein."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:937
-#, fuzzy
 msgid "Well let's get to it then."
-msgstr "Lass uns nachsehen was dahinter ist."
+msgstr "Na dann, lasst es uns hinter uns bringen."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:959
-#, fuzzy
 msgid "Hmm, what is this thing?"
-msgstr "Warum, was ist das Problem mit ihm?"
+msgstr "Hmm, was ist das hier?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:976
 msgid "EEEEEEEEEEEEEEEE!"
-msgstr ""
+msgstr "IIIeeeehhhh!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:981
-#, fuzzy
 msgid "AHHHHHHHHH!"
-msgstr "HAHAHAHAHAHAHA!"
+msgstr "AHHHHHHHHH!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:987
 msgid "... wait a second, who are you?"
-msgstr ""
+msgstr "... Moment mal, wer bist du?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:992
 msgid "I.... I am one of Tallin's men..."
-msgstr ""
+msgstr "Ich... Ich bin einer von Tallins Männern..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:997
-#, fuzzy
 msgid "Who is this Tallin?"
-msgstr "Wie kommst du darauf, Tallin?"
+msgstr "Tallin, wer ist das?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1008
-#, fuzzy
 msgid "What is your purpose in coming here?"
-msgstr "Das ist euer Problem, Mensch, nicht meines."
+msgstr "Was ist der Grund eures Besuches?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1013
 msgid "We seek the lich Malifor."
-msgstr ""
+msgstr "Wir suchen den Leichnam Malifor."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1019
 msgid ""
 "Malifor!... *goes a bit more paler (if possible)* What business do you have "
 "with him?"
 msgstr ""
+"Malifor! *wird noch ein wenig blasser* In welcher Angelegenheit reist ihr zu "
+"ihm?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1025
 msgid "We seek to crush and destroy him."
-msgstr ""
+msgstr "Wir wollen ihn zerschmettern und vernichten!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1031
 msgid ""
 "Oh thank God! Finally there is someone here in force to deal with that "
 "menace. You must have been sent by the High Kalian of Hiera'Shirsha?"
 msgstr ""
+"Oh, den Himmeln sei Dank! Endlich ist jemand mit genügend Kraft, um der "
+"Plage Herr zu werden! Ich vermute, die High Kalian von Hiera'Shirsha haben "
+"euch gesandt?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1037
-#, fuzzy
 msgid "The what!?"
-msgstr "Theta!"
+msgstr "Was zum...!?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1043
 msgid "Err, I think we might be in different... uh... 'time zones' here."
-msgstr ""
+msgstr "Ähhh... Ich glaube, wir befinden uns in unterschiedlichen Zeiten..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1048
 msgid "I beg my pardon. Say, what year is it anyway?"
-msgstr ""
+msgstr "Ich bitte um Entschuldigung. Welches Jahr haben wir überhaupt?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1054
 msgid "Uh... 534 YW..."
-msgstr ""
+msgstr "Ähh... 534 YW"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1059
 msgid "Huh!? Can't be, the last year I remember it was 14318 AD!"
 msgstr ""
+"Das ist nicht möglich! Das letzte Jahr, an das ich mich erinnere, war 14318 "
+"AD!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1065
 msgid "?????"
-msgstr ""
+msgstr "?????"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1071
 msgid "Different calendars folks."
-msgstr ""
+msgstr "Unterschiedliche Kalender, Leute."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1077
 msgid "I see, but say, who are you?"
-msgstr ""
+msgstr "Ich verstehe, aber, wer bist du?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1082
 msgid "What? How can you not know who I am?"
-msgstr ""
+msgstr "Was? Wie könnt ihr nicht wissen, wer ich bin?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1088
 msgid "The times have changed my friend."
-msgstr ""
+msgstr "Die Zeiten haben sich geändert, mein Freund."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1093
 msgid ""
 "Right... sorry about that. My name is Lord Alfred and I am... or was... the "
 "ruler of the great kingdom of Garet-Desh."
 msgstr ""
+"Das ist wahr. Verzeiht mir. Ich bin, oder besser warm Alfred, König des "
+"Reiches von Garet-Desh."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1100
 msgid "What happened to you? Why are you a ghost?"
-msgstr ""
+msgstr "Was ist passiert? Warum bist du ein Geist?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1105
 msgid ""
@@ -6547,11 +6570,13 @@ msgid ""
 "suddenly wrenched from my peace and forced into this body by a terrible "
 "power."
 msgstr ""
+"Nun, im Laufe der Zeit wurde ich alt und starb, wie es das Schicksal aller "
+"Menschen ist. Ich kehrte ins Totenreich ein, wo ich lange in Frieden lebte, "
+"bis mich plötzlich eine schreckliche Macht in diesen Körper gezerrt hat."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1111
-#, fuzzy
 msgid "Let me guess, Malifor?"
-msgstr "Du sprichst von Malifor?"
+msgstr "Lass mich raten, Malifor?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1116
 msgid ""
@@ -6560,71 +6585,77 @@ msgid ""
 "tunnels ever since. Apparently some monster lives in these waters and so "
 "nobody will come down here."
 msgstr ""
+"Das stimmt. Er hat versucht mich zu einem seiner willenlosen Sklaven zu "
+"machen, aber ich konnte seiner Macht widerstehen und fliehen. Seitdem "
+"verstecke ich mich hier in diesen überfluteten Tunneln. Scheinbar wohnt in "
+"dem See irgendein Ungeheuer, von daher kommt niemand hier herunter."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1122
 msgid "Would you join us to defeat this evil creature?"
-msgstr ""
+msgstr "Würdest du dich unserem Kampf gegen Malifor anschließen?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1127
 msgid ""
 "Wouldn't miss it. Maybe after he is destroyed me and my kind can live... "
 "err.... be dead peacefully."
 msgstr ""
+"Möchte es nicht verpassen. Vielleicht finden ich und meine Leute Frieden, "
+"sobald er zerstört ist."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1132
 msgid ""
 "Keep following these flooded tunnels. I think they might lead you directly "
 "to Mailfor."
 msgstr ""
+"Folgt den überfluteten Gängen, ich denke, sie führen euch direkt zu Malifor."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1138
 msgid "Great! Foreword men!"
-msgstr ""
+msgstr "Großartig! Vorwärts, Männer!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1155
 msgid ""
 "Just great, I am cold, wet, and tired and what have we here? Another dead "
 "end. This place is starting to get on my nerves!"
 msgstr ""
+"Wirklich großartig. Mir ist kalt, ich friere und bin müde und was haben wir "
+"hier? Eine weitere Sackgasse! Diese Höhlen gehen mir langsam auf die Nerven!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1170
 msgid "Ssssh! I hear something."
-msgstr ""
+msgstr "Pst! Ich höre etwas!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1174
 msgid "Sea Serpent"
-msgstr ""
+msgstr "Seeschlange"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1178
-#, fuzzy
 msgid "ROOOAAARRR!"
-msgstr "ROOOAAARRRR!"
+msgstr "BRRÜÜÜÜLLLLL!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1183
-#, fuzzy
 msgid "Ahhhhh!"
-msgstr "Ahhhh!"
+msgstr "Ahhhhh!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1199
 msgid "Hold it people, there is something just ahead!"
-msgstr ""
+msgstr "Seid still, etwas ist direkt vor uns!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1302
 msgid " *sniff* I smell humans."
-msgstr ""
+msgstr "*schnüffeln* Ich rieche Menschenfleisch!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1307
 msgid "You are just plain deaf. I heard them coming from a mile off."
-msgstr ""
+msgstr "Du bist schlicht taub. Ich habe sie schon vor 'ner Stunde gehört."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1312
 msgid "Ahh shut up. Let's go kill them."
-msgstr ""
+msgstr "Ach, Klappe. Lasst uns sie einfach töten."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1334
-#, fuzzy
 msgid "A door, and a big big lock hmmmmm."
-msgstr "Eine Tür. Hmm. Und ein stabiles Schloß."
+msgstr "Eine Tür unnd ein stabiles Schloß. Hmmm..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1339
 msgid "Sorry folks, this is just too tempting."
@@ -6639,6 +6670,8 @@ msgstr "*KRAWUMM*"
 msgid ""
 "Hmmmm, this door sure is locked up pretty good. I wonder what's behind it."
 msgstr ""
+"Hmmmm, diese Tür ist fest verriegelt. Ich frage mich, was dahinter versteckt "
+"ist."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1393
 msgid ""
@@ -6651,23 +6684,23 @@ msgstr ""
 "versteckt."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1407
-#, fuzzy
 msgid "Oh yeah, holy water!"
-msgstr "Juhu, Zeit für die Abrechnung!"
+msgstr "Spitze, Weihwasser!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1421
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1441
 msgid ""
 "Warning! These bottles contain toxic waste. Causes disintegration on contact."
 msgstr ""
+"Achtung! Diese Flaschen enthalten Giftmüll.  Führt bei Berührung zu Zerfall."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1426
 msgid "Ha ha, for skeletons anyway."
-msgstr ""
+msgstr "Ha ha, zumindest für Skelette."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1446
 msgid " *rolls eyes* Oh the hazardous life of a skeleton."
-msgstr ""
+msgstr "*verdreht die Augen* Oh, das gefährliche Leben eines Skelettes..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1468
 msgid "The Treasury"
@@ -6682,7 +6715,6 @@ msgid "The Dungeon"
 msgstr "Das Verlies"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1502
-#, fuzzy
 msgid "Malifor the Great's Study."
 msgstr "Studierzimmer Malifors des Großen"
 
@@ -6691,24 +6723,20 @@ msgid "There we go! This way guyz!"
 msgstr "Das ist der richtige Weg! Hier entlang!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1521
-#, fuzzy
 msgid "Wow! I there is at least 1000 gold in here!"
-msgstr "Wow! Hier gibt es mindestens 2000 Goldstücke!"
+msgstr "Wow! Hier gibt es mindestens 1000 Goldstücke!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1542
-#, fuzzy
 msgid "Holy cow! 500 gold!"
-msgstr "Heiliger Strohsack! 5000 Gold!"
+msgstr "Heiliger Strohsack! 500 Gold!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1563
-#, fuzzy
 msgid "800 gold! We're rich!!!"
-msgstr "3000 Gold! Wir sind reich!"
+msgstr "800 Gold! Wir sind reich!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1584
-#, fuzzy
 msgid "What a horde! 2 000 gold!"
-msgstr "Was für ein Hort! 10.000 Gold!"
+msgstr "Was für ein Hort! 2.000 Gold!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1605
 msgid "500 gold! Not bad!"
@@ -6834,13 +6862,12 @@ msgstr ""
 "die Skelette haben uns eingefangen."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1842
-#, fuzzy
 msgid ""
 "Funny, why would The Bag of Bones keep you as his prisoners? He doesn't "
 "really seem to be the merciful type."
 msgstr ""
-"Seltsam, warum hat der alte Knochensack euch gefangengehalten? Er wirkte "
-"nicht besonders gnädig."
+"Seltsam, warum hat der alte Knochensack euch gefangengehalten? Er machte "
+"nicht gerade den Eindruck eines barmherzigen Samariters."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1859
 msgid ""
@@ -6887,6 +6914,8 @@ msgstr "Hehehehehe"
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2085
 msgid "And that's why they look so young too - all this regenerating stuff."
 msgstr ""
+"Und das ist auch der Grund für ihr jugendliches Aussehen -- sie stellen sich "
+"beständig wieder her!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2114
 msgid "Oh my, she is almost dead!"
@@ -7092,17 +7121,18 @@ msgid ""
 "Hey, there is an escape tunnel right behind this cell. The hole wasn't big "
 "enough for me to go through but one of you might fit."
 msgstr ""
+"Heh, es gibt einen Fluchttunnel hinter dieser Zelle. Für mich war die "
+"Öffnung zu schmal, aber einer von euch könnte durchpassen."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2492
 msgid ""
 "Hey you are right. Hmmm, it is pretty small, let's see if I can make it "
 "bigger."
-msgstr ""
+msgstr "Du hast Recht. Mal sehen, ob ich sie etwas vergrößern kann."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2503
-#, fuzzy
 msgid "There we go. Now let's see where this tunnel leads to."
-msgstr "Auf geht's, auf einen neuen Versuch."
+msgstr "Da wären wir. Nun lasst uns herausfinden, wo diese Tunnel hinführen."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2516
 msgid "ROOOOOOAAAARRRR!"
@@ -7124,15 +7154,13 @@ msgid "What the...!"
 msgstr "Was zum...!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2620
-#, fuzzy
 msgid "How can it be?! Our axes and hammers are failing."
-msgstr ""
-"Wie kann das sein? Unser Hämmer und Äxte lassen uns im Stich! Wir müssen "
-"etwas anderes versuchen."
+msgstr "Wie kann das sein? Unser Hämmer und Äxte lassen uns im Stich!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2626
 msgid "Blast it! Now where did he go? Let's find him and try something else!"
 msgstr ""
+"Verflucht! Wo ist er hin? Wir müssen ihn finden und etwas anderes versuchen!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2660
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2830
@@ -7200,6 +7228,8 @@ msgstr "Nun, Keulen und Pfeile funktionieren offensichtlich nicht."
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2773
 msgid "Oh darn, he disappeared. Let's find him and try a different weapon."
 msgstr ""
+"Verdammt, er ist verschwunden. Wir müssen ihn finden und eine andere Waffe "
+"versuchen."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2884
 msgid "HAHAHAHAHAHA, DEATH HAS NO EFFECT ON ME YOU FOOLS!"
@@ -7219,7 +7249,7 @@ msgstr "Nun, es sind offensichtlich keine Klingen."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2943
 msgid "And look, he's gone. Now we gotta find him all over again!"
-msgstr ""
+msgstr "Guck, er ist weg. Nun müssen wir ihn nochmal suchen!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3038
 msgid "HAHAHAHAHAHA, I AM IMMORTAL!"
@@ -7238,6 +7268,8 @@ msgid ""
 "Look, he disappeared again. Let's find him and try using a different weapon "
 "on him."
 msgstr ""
+"Er ist schon wieder verschwunden. Lasst uns ihn finden und eine andere Waffe "
+"ausprobieren."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3187
 msgid "AHHHHHH! YOU BLASTED MAGE!"
@@ -7301,72 +7333,76 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3277
 msgid "They are trying to free the prisoners! Stop them!"
-msgstr ""
+msgstr "Sie versuchen die Gefangenen zu befreien! Haltet sie auf!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3282
-#, fuzzy
 msgid "Good luck my friend."
-msgstr "Zurück in den Käfig, mein Freund."
+msgstr "Viel Glück mein Freund."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3334
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3758
 msgid "Intruders! Get them!"
-msgstr ""
+msgstr "Eindringlinge! Schnappt sie!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3339
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3763
 msgid "Bring it on!"
-msgstr ""
+msgstr "Bringen wir es hinter uns."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3415
 msgid ""
 "They are attacking the master's study! We must stop them! Call the reserves!"
 msgstr ""
+"Sie greifen das Studierzimmer an! Wir müssen sie aufhalten! Ruft die "
+"Verstärkung!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3420
 msgid " 'The master's study' eh? I bet we'll find Mailfor there!"
-msgstr ""
+msgstr "Des Meisters Studierzimmer?, was? Ich wette, da finden wir Malifor."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3486
 msgid "Ugh, a dead body!"
-msgstr ""
+msgstr "Iih, eine Leiche."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3502
 msgid "Here's another body."
-msgstr ""
+msgstr "Noch eine Leiche."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3518
 msgid "And another..."
-msgstr ""
+msgstr "Und noch eine..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3534
 msgid ""
 "Gee, what's with all these bodies floating around? Is this river some sort "
 "of body disposal?"
 msgstr ""
+"Warum zum Geier treiben diese ganzen Leichen hier herum? Ist dieser Fluss "
+"eine Art von Deponie für Leichen?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3553
 msgid "The Great Chamber"
-msgstr ""
+msgstr "Die große Kammer"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3558
 msgid " 'The Great Chamber'? Hmmm, wonder what that could be."
-msgstr ""
+msgstr "\"Die große Kammer\"? Hm, was das wohl sein mag."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3574
 msgid ""
 "So This is the Great Chamber eh? Doesen't look like there is much to see "
 "here."
 msgstr ""
+"Das ist also die große Kammer? Hier scheint es ja nicht viel zu sehen zu "
+"geben."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3581
 msgid " *rumble*"
-msgstr ""
+msgstr "*Rumpeln*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3586
-#, fuzzy
 msgid "Uh oh, I think I spoke too soon."
-msgstr "Ups, da habe ich mich wohl zu früh gegreut..."
+msgstr "Ups, da habe ich mich wohl zu früh gefreut..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3595
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3701
@@ -7380,52 +7416,58 @@ msgid ""
 "What was that? Oh shoot - there are two big slabs of rock cutting off our "
 "retreat!"
 msgstr ""
+"Was war das? Verflixt, zwei große Steinplatten haben uns den Rückzug "
+"versperrt."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3712
 msgid "Hsssssssss"
-msgstr ""
+msgstr "Hsssssssss"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3717
-#, fuzzy
 msgid "This doesn't look good."
-msgstr "Das sieht nicht gut aus..."
+msgstr "Das sieht nicht gut aus."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3723
 msgid "Great Chamber my foot! It should be called, 'The Death Chamber.'"
 msgstr ""
+"Große Kammer, meine Güte. Sie hätten es \"die Kammer des Todes\" nennen "
+"sollen!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3740
-#, fuzzy
 msgid "Alright, here we go."
-msgstr "Auf geht's."
+msgstr "Alles klar, nun geht's los."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3871
 msgid "Halt! Who goes there? Friend or foe?"
-msgstr ""
+msgstr "Halt! Wer dort? Freund oder Feind?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3876
 msgid "Depends. Are you loyal to Malifor?"
-msgstr ""
+msgstr "Das kommt darauf an -- steht ihr loyal zu Malifor?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3881
 msgid ""
 "Never! If you have been sent by Malifor then know that we will never yield! "
 "Bring it on!"
 msgstr ""
+"Niemals! Wenn ihr von Malifor geschickt wurdet, wisst, dass wir uns niemals "
+"ergeben werden!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3886
 msgid ""
 "Hold it now, we aren't friends of Malifor in the least, rather we have come "
 "to destroy him."
 msgstr ""
+"Beruhigt euch, wir sind keine Verbündeten Malifors. Wir sind hier um ihn zu "
+"vernichten."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3891
 msgid "Finally! You don't know how long we have been waiting for this day."
-msgstr ""
+msgstr "Endlich! Du hast keine Ahnung, wie lange wir auf diesen Tag warten!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3896
 msgid "How did you get here and how long have you been here?"
-msgstr ""
+msgstr "Wie seid ihr hierher gekommen und wie lange versteckt ihr euch schon?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3901
 msgid ""
@@ -7433,51 +7475,56 @@ msgid ""
 "escape. Since then we have barely managed to survive on whatever we have "
 "been able to steel or raid from Malifor."
 msgstr ""
+"Wir waren ursprünglich Gefangene Malifors, aber es gelang uns einen Tunnel "
+"zu graben und zu fliehen. Seitdem konnten wir uns gerade so am Leben halten, "
+"mit dem was wir stehlen oder rauben konnten."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3906
 msgid "So I bet by now you have tunnels all over the place."
-msgstr ""
+msgstr "Ich wette, ihr habt den ganzen Komplex mit Tunneln durchzogen."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3911
 msgid ""
 "That's right. For instance, that seemingly blank wall to the south there is "
 "actually a hidden entrance to the treasury."
 msgstr ""
+"Das stimmt. So ist zum Beispiel der scheinbar natürliche Steinwall im Süden "
+"in Wirklichkeit ein versteckter Eingang zur Schatzkammer."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3916
-#, fuzzy
 msgid "Awesome, let's go!"
-msgstr "Beeindruckend!"
+msgstr "Toll, weiter geht's!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3934
 msgid ""
 " *sigh* Great. More water. And there doesn't even seem to be anything down "
 "this tunnel, either friend or foe."
 msgstr ""
+"*Seufzt* Wunderbar. Mehr Wasser. Und es scheint in diesem Tunnel nichts zu "
+"geben, weder Freund noch Feind."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3964
 msgid "Hmmm, another door. Boy is this one sure locked up."
-msgstr ""
+msgstr "Hmm, noch eine Tür. Junge, die hier ist verrammelt und verriegelt."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3970
 msgid "Anything you can't handle?"
-msgstr ""
+msgstr "Etwas, was du nicht alleine schaffst?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3975
-#, fuzzy
 msgid "Nope. Should I open it?"
-msgstr "Pfff. Soll ich sie eintreten?"
+msgstr "Nepp. Soll ich sie öffnen?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3979
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4408
 msgid "Go for it!"
-msgstr ""
+msgstr "Fang an!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4032
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4241
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4501
 msgid "You wretched vermin, I have had it with you! Guards!"
-msgstr ""
+msgstr "Ihr erbärmliches Ungeziefer, ich habe euch satt. Wachen!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4106
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4315
@@ -7486,18 +7533,21 @@ msgid ""
 "You invaded my kingdom, drove me from my mines, raided my dungeon, and "
 "plundered my treasury Your audacity ends here!"
 msgstr ""
+"Ihr habt mein Reich angegriffen, mich aus meinen Minen vertrieben, meine "
+"Verliese überfallen und meine Schatzkammer geplündert. Eure Dreistigkeit "
+"endet hier!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4112
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4321
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4581
-#, fuzzy
 msgid ""
 "You are wrong Malifor, for you shall be the one who is destroyed. You are "
 "cruel, merciless and a terror to all that lives. The world will be a better "
 "place once with you gone!"
 msgstr ""
-"Malifor, du bist grausam, gnadenlos und ein Schrecken alles Lebendem. Die "
-"Welt wird ein besserer Ort sein, sobald du zu Staub zermahlen bist!"
+"Du irrst, Malifor, denn du bist es, der zerstört werden wird. Du bist "
+"grausam, gnadenlos und ein Schrecken für alles Lebende. Die Welt wird einer "
+"schönerer Ort sein, nachdem du sie verlassen hast!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4118
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4327
@@ -7518,6 +7568,8 @@ msgid ""
 "Fools! Don't think it's so easy to kill me. Your corpses shall all soon be "
 "serving me. Fall on them my hordes!"
 msgstr ""
+"Narren! Es ist nicht derart einfach mich zu töten. Eure Leichen werden mir "
+"schon bald dienen. Fallt über sie her, meine Horden!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4142
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4351
@@ -7530,52 +7582,52 @@ msgid ""
 "It looks like this is it folks, here is the door to Malifor's study. Are we "
 "all ready for this?"
 msgstr ""
+"Es scheint, dies ist es. Das ist die Tür zu Malifors Studienzimmer. Sind wir "
+"alle bereit?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4189
-#, fuzzy
 msgid "Yeah, open those doors!"
-msgstr "Ja! Nieder mit den Orks!"
+msgstr "Ja, öffnet diese Türen!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4393
 msgid "Hey, check this out, it looks like some sort of leaver."
-msgstr ""
+msgstr "Sieh dir das mal an! Es sieht aus wie eine Art Hebel."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4399
 msgid "Probably for that door right there."
-msgstr ""
+msgstr "Vermutlich für die Tür gleich rechts."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4404
 msgid "Should I throw it?"
-msgstr ""
+msgstr "Soll ich Hebel umlegen?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4415
-#, fuzzy
 msgid "Ok, here we go!"
-msgstr "Auf geht's."
+msgstr "Ok, jetzt geht's um die Wurst!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4420
 msgid " *creek*....."
-msgstr ""
+msgstr "*quietsch...*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4425
 msgid "Nothing. That door is not moving."
-msgstr ""
+msgstr "Nichts. Die Tür bewegt sich nicht einen Spaltbreit."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4430
 msgid "Why don't you try 'knocking'."
-msgstr ""
+msgstr "Warum versuchst du es nicht einmal mit \"Anklopfen\"?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4435
 msgid "Ok."
-msgstr ""
+msgstr "OK."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4440
 msgid " *BANG*"
-msgstr ""
+msgstr "*KNALL*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4445
 msgid "Anybody home?"
-msgstr ""
+msgstr "Jemand zu Hause?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4450
 msgid " *BOOM*"
