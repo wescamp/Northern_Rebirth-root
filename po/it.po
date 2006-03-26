@@ -1,55 +1,58 @@
+# translation of northern-rebirth-it.po to Italian
+# Luciano Montanaro <mikelima@cirulla.net>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: northern-rebirth-it\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:47+0100\n"
-"PO-Revision-Date: 2005-06-03 08:00+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-03-26 13:29+0200\n"
+"Last-Translator: Luciano Montanaro <mikelima@cirulla.net>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: Northern_Rebirth.cfg:8
 msgid "Northern Rebirth"
-msgstr ""
+msgstr "La rinascita del Nord"
 
 #: Northern_Rebirth.cfg:15
 msgid "(Newbie)"
-msgstr ""
+msgstr "(Principiante)"
 
 #: Northern_Rebirth.cfg:15
 msgid "Peasant"
-msgstr ""
+msgstr "Bracciante"
 
 #: Northern_Rebirth.cfg:16
 msgid "Spearman"
-msgstr ""
+msgstr "Lanciere"
 
 #: Northern_Rebirth.cfg:16
 msgid "(Easy)"
-msgstr ""
+msgstr "(Facile)"
 
 #: Northern_Rebirth.cfg:17
 msgid "(Normal)"
-msgstr ""
+msgstr "(Normale)"
 
 #: Northern_Rebirth.cfg:17
 msgid "Swordsman"
-msgstr ""
+msgstr "Spadaccino"
 
 #: Northern_Rebirth.cfg:18
 msgid "(Hard)"
-msgstr ""
+msgstr "(Difficile)"
 
 #: Northern_Rebirth.cfg:18
 msgid "RoyalGuard"
-msgstr ""
+msgstr "Guardia reale"
 
 #: Northern_Rebirth.cfg:20
 msgid " Version 1.10 Complete! Last updated 12/16/05."
-msgstr ""
+msgstr "Versione 1.10 Completa! Ultimo aggiornamento 16/12/2005."
 
 #: Northern_Rebirth.cfg:20
 msgid ""
@@ -60,10 +63,16 @@ msgid ""
 "the Northlands to the glory that they once were, or doom them to an eternity "
 "of bloody chaos."
 msgstr ""
+"Per il popolo delle Porte dei Nani la scelta è semplice: lavorare come "
+"schiavi per gli orchi fino alla fine delle loro miserabili vite, o mettere "
+"le stesse vite a rischio e ribellarsi contro i dominatori crudeli. Non "
+"avevano idea che il risultato della loro piccola lotta avrebbe restaurato le "
+"Terre del Nord alla gloria di un tempo, oppure destinarle per sempre ad "
+"un'eternità di caos sanguinario."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:7
 msgid "Breaking the Chains"
-msgstr ""
+msgstr "Spezzare le catene"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:13
 msgid ""
@@ -73,6 +82,12 @@ msgid ""
 "com). Special thanks also to all those who have given valuable feedback or "
 "helped whenever I got stuck with the code."
 msgstr ""
+"Prima di iniziare voglio esprimere i miei ringraziamenti alle seguenti "
+"persone per la generosa concessione della loro opera artistica: Jonathon "
+"Earl Bowser (www.jonathonart.com), Jim (www.sporeboy.com) e Mark Zug (http://"
+"www.markzug.com). Ringraziamenti speciali anche a tutti coloro che hanno "
+"fornito preziosi commenti o mi hanno aiutato tutte le volte che mi sono "
+"incastrato fra il codice."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:17
 msgid ""
@@ -83,6 +98,13 @@ msgid ""
 "brought here to be distributed throughout the surface nations. As a result "
 "of all this trade, Dwarven Doors was a very rich and prosperous community."
 msgstr ""
+"Molto tempo fa, lontano nel nord di Wesnoth, appena fuori dalle miniere dei "
+"nani di Knalga, c'era una fiorente comunità nota come le Porte dei Nani. "
+"Cibo e legname da tutta Wesnoth ed anche da molte terre elfiche era mandato "
+"qui per essere venduto ai nani, mentre minerali, metalli e manufatti "
+"venivano mandati qui dai nani per essere distribuiti alle nazioni di "
+"superficie. Il risultato di tutto questo commercio rese le Porte dei Nani "
+"una comunità prospera."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:21
 msgid ""
@@ -91,24 +113,34 @@ msgid ""
 "community. In order to achieve that end they built many towers and "
 "fortifications in and around the community."
 msgstr ""
+"Poiché Porte dei Nani si trovava direttamente sul percorso dei nemici "
+"bramosi di invadere Knalga, i nani acconsentirono a prendere la "
+"responsabilità della difesa della comunità, Per far ciò, costruirono molte "
+"torri e fortificazioni all'interno ed ai confini della comunità."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:25
 msgid ""
 "The years that passed were peaceful and prosperous, that is until the orcs "
 "came... "
 msgstr ""
+"Gli anni passarono pacifici e prosperosi, finché un giorno arrivarono gli "
+"orchi..."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:29
 msgid ""
 "In a fierce battle that raged for one whole year, the orcs finally "
 "overpowered the combined defenses of the humans and dwarves."
 msgstr ""
+"In una fiera guerra che si protrasse per un intero anno, gli orchi "
+"riuscirono a sopraffare le difese combinate degli umani e dei nani."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:33
 msgid ""
 "The dwarves were pushed back into the caves where the battle raged on for "
 "many more years, while the people of Dwarven Doors were enslaved by the orcs."
 msgstr ""
+"I nani vennero ricacciati nelle miniere dove la battaglia continuò per molti "
+"altri anni, mentre il popolo di Porte del Nani fu reso schiavo dagli orchi."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:37
 msgid ""
@@ -116,6 +148,9 @@ msgid ""
 "orcs, until the day that Prince Konrad of Wesnoth passed through on his "
 "quest for the Scepter of Fire."
 msgstr ""
+"Passarono molti anni durante i quali il popolo di Porte dei Nani lavorò in "
+"schiavitù per gli orchi, fino al giorno in cui il principe Konrad di Wesnoth "
+"passò da qui nella sua ricerca dello Scettro di Fuoco."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:41
 msgid ""
@@ -142,7 +177,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:169
 msgid "Defeat enemy leaders"
-msgstr ""
+msgstr "Sconfiggi i condottieri nemici"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:603
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:665
@@ -170,7 +205,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:878
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:270
 msgid "Death of Tallin"
-msgstr ""
+msgstr "Morte di Tallin"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1644
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:485
@@ -181,7 +216,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1262
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:283
 msgid "Turns run out"
-msgstr ""
+msgstr "Fine dei turni"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:205
 msgid ""
@@ -204,20 +239,21 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:223
 msgid "But still Tallin, this is going to be a slaughter."
-msgstr ""
+msgstr "Ma in ogni caso, Tallin, questa sarà una carneficina."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:229
 msgid ""
 " *sigh* Yes I know. But would you rather live as slaves to the orcs forever?"
 msgstr ""
+"*sigh* Sì, lo so. Ma preferireste vivere come schiavi degli orchi per sempre?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:235
 msgid "Never! I would rather die!"
-msgstr ""
+msgstr "Mai! Piuttosto la morte!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:241
 msgid "Then to arms!"
-msgstr ""
+msgstr "Allora, alle armi!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:246
 msgid "You piece of dirt! How dare you step onto my land!"
@@ -247,7 +283,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:287
 msgid "YES! We did it! We are free!"
-msgstr ""
+msgstr "SÌ! Ce l'abbiamo fatta! Siamo liberi!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:308
 msgid ""
@@ -271,7 +307,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:344
 msgid "Eh?"
-msgstr ""
+msgstr "Eh?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:349
 msgid ""
@@ -303,11 +339,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:379
 msgid "This is one of the the entrances to the dwarven caves."
-msgstr ""
+msgstr "Questa è uno degli ingressi alle miniere dei nani."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:383
 msgid "Aaaaah! Trolls! The caves are infested with trolls!"
-msgstr ""
+msgstr "Aaaah! Troll! Le miniere sono infestate dai troll!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:430
 msgid "What the... *gurgle* Hey! Look... a slave... uprising!"
@@ -319,19 +355,19 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:440
 msgid "Ugh!"
-msgstr ""
+msgstr "Ugh!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:445
 msgid "Not a very bright one was he?"
-msgstr ""
+msgstr "Non era molto sveglio, vero?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:458
 msgid "No! I have failed in my  mission!"
-msgstr ""
+msgstr "No! Ho fallito la missione!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:463
 msgid "Mission? What mission?"
-msgstr ""
+msgstr "Missione? Che missione?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:485
 msgid "Ha Ha! Look at them go."
@@ -381,11 +417,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:593
 msgid "WHO GOES THERE?"
-msgstr ""
+msgstr "CHI VA LÀ?"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:599
 msgid "Oops, I spoke too soon."
-msgstr ""
+msgstr "Oops, ho parlato troppo presto."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:605
 msgid " *wince* You can turn the volume down pal."
@@ -450,7 +486,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:692
 msgid "....!"
-msgstr ""
+msgstr "....!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:697
 msgid ""
@@ -461,7 +497,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:704
 msgid "Tallin, are you ok?!"
-msgstr ""
+msgstr "Tallin, va tutto bene?!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:711
 msgid ""
@@ -476,11 +512,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:721
 msgid "Tallin! No!"
-msgstr ""
+msgstr "Tallin! No!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:727
 msgid "Tallin, what are you doing?"
-msgstr ""
+msgstr "Tallin, che cosa stai facendo?"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:733
 msgid ".....Death!..... Blood!...."
@@ -488,37 +524,38 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:747
 msgid "Ahhh! I have been betrayed!"
-msgstr ""
+msgstr "Ah! Sono stato tradito!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2609
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:756
 msgid "HAHAHAHAHAHAHA!"
-msgstr ""
+msgstr "AH! AH! AH! AH!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:763
 msgid "TALLIN!"
-msgstr ""
+msgstr "TALLIN!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:247
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:778
 msgid "Ahhhh!"
-msgstr ""
+msgstr "Ahhhh!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:788
 msgid "Die you foul traitor!"
-msgstr ""
+msgstr "Muori, maledetto traditore!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:821
 msgid "Ahhhh! What.... happened....?....What.....have.....I.....done?"
-msgstr ""
+msgstr "Ahhh! Che cosa... è successo?... Che... cosa... ho fatto?"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:830
 msgid "You stupid wizard, you just killed one of my most promising generals!"
 msgstr ""
+"Stupido stregone, hai appena ucciso uno dei miei più promettenti generali!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:837
 msgid "And you are next you bag of bones! Come on men! Attack!"
-msgstr ""
+msgstr "E tu sei il prossimo, sacco d'ossa! Andiamo, uomini! All'attacco!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:847
 msgid ""
@@ -550,11 +587,11 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:869
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:882
 msgid "Death of Hamel"
-msgstr ""
+msgstr "Morte di Hamel"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:886
 msgid "Turns Run Out"
-msgstr ""
+msgstr "Fine dei turni"
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:231
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:905
@@ -576,17 +613,19 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:911
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:522
 msgid "No Tallin, I can't do it without you!"
-msgstr ""
+msgstr "No, Tallin! Non posso farcela senza di te!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:929
 msgid "No! Without the dwarfish weapons we have no hope!"
-msgstr ""
+msgstr "No! Senza le armi dei nani non abbiamo speranza!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:947
 msgid ""
 "HAHAHAHA, you puny weaklings think you can destroy me? FOOLS! You will all "
 "soon be serving me!"
 msgstr ""
+"AH! AH! AH! voi deboli vermi credete di potermi distruggere? PAZZI! Presto "
+"sarete tutti miei servi!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:969
 msgid "Oh no, he just.... disappeared."
@@ -620,7 +659,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:1004
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:856
 msgid "Sounds good to me."
-msgstr ""
+msgstr "Per me va bene."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:1014
 msgid "With all respect Lord Hamel, some of us would like to accompany Tallin."
@@ -682,12 +721,12 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:305
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:338
 msgid "Where is my gold!"
-msgstr ""
+msgstr "Dov'è il mio oro?"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:311
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:344
 msgid "It's Rakshas!"
-msgstr ""
+msgstr "È Rakshas!"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:316
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:349
@@ -717,7 +756,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:339
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:372
 msgid "RAKSHAS!!!"
-msgstr ""
+msgstr "RAKSHAS!!!"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:345
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:378
@@ -752,7 +791,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:438
 msgid "Hidel?"
-msgstr ""
+msgstr "Hidel?"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:444
 msgid ""
@@ -768,7 +807,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:456
 msgid " *blushes slightly*"
-msgstr ""
+msgstr " *arrossisce un po'*"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:462
 msgid " *wink wink*"
@@ -808,7 +847,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:555
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1243
 msgid "Defeat the enemy leaders"
-msgstr ""
+msgstr "Sconfiggi i condottieri nemici"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:478
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1454
@@ -831,7 +870,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1253
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:274
 msgid "Death of Ro'Arthian"
-msgstr ""
+msgstr "Morte di Ro'Arthian"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:482
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1458
@@ -854,7 +893,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1257
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:278
 msgid "Death of Ro'Sothian"
-msgstr ""
+msgstr "Morte di Ro'Sothian"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:885
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:491
@@ -994,7 +1033,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:803
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:550
 msgid "No Stalrag! Without you what will become of us Shinsplitters?"
-msgstr ""
+msgstr "No, Stalrag! Senza di te che cosa sarà di noi spaccatibie?"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1167
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1168
@@ -1014,7 +1053,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:814
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:561
 msgid "Your death shall not go unavenged brave Stalrag. DEATH TO THE ORCS!!!"
-msgstr ""
+msgstr "La tua morte sarà vendicata, coraggioso Stalrag. MORTE AGLI ORCHI!!!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:800
 #: Northern_Rebirth/scenarios/Showdown.cfg:1179
@@ -1040,7 +1079,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:837
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:916
 msgid "Alas, you must continue your mission without me!"
-msgstr ""
+msgstr "Ahimè, dovrai continuare la missione senza di me!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:868
 #: Northern_Rebirth/scenarios/Showdown.cfg:1262
@@ -1048,13 +1087,15 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Introductions.cfg:923
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:947
 msgid "Anita no! Please don't die!"
-msgstr ""
+msgstr "Anita, no! Ti prego, non morire!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:874
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:953
 msgid ""
 "I am sorry Elenia, we tried our best. *sigh* I will never forget you Anita."
 msgstr ""
+"Mi spiace, Elenia, abbiamo fatto del nostro meglio. *sigh* Non ti "
+"dimenticherò mai, Anita."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:893
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:972
@@ -1099,7 +1140,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1415
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:911
 msgid "Krash!"
-msgstr ""
+msgstr "Krash!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1617
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1707
@@ -1197,7 +1238,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:45
 msgid "Elvish Princess"
-msgstr ""
+msgstr "Principessa elfica"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:51
 msgid ""
@@ -1246,7 +1287,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:81
 msgid "A council was quickly held..."
-msgstr ""
+msgstr "Si tenne rapidamente un consiglio..."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:86
 msgid ""
@@ -1274,7 +1315,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:106
 msgid "Do you want to die dwarf?"
-msgstr ""
+msgstr "Vuoi morire, nano?"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:111
 msgid ""
@@ -1404,7 +1445,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:266
 msgid "Rescue the Princess"
-msgstr ""
+msgstr "Salva la principessa"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:472
 msgid ""
@@ -1436,7 +1477,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:501
 msgid "INTRUDERS! KILL THEM!!!"
-msgstr ""
+msgstr "INTRUSI! UCCIDETELI!!!"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:516
 msgid ""
@@ -1454,7 +1495,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:581
 msgid "Oh no Marcus! We have failed to rescue the princess!"
-msgstr ""
+msgstr "Oh no, Marcus! Non siamo riusciti a salvare la principessa!"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:587
 msgid "Failed? Never! The word failure is not in our dictionary."
@@ -1521,7 +1562,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:4
 msgid "Infested Caves"
-msgstr ""
+msgstr "Miniere infestate"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:9
 msgid ""
@@ -1577,7 +1618,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:273
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:433
 msgid "Finally!"
-msgstr ""
+msgstr "Finalmente!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:278
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:438
@@ -1659,7 +1700,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:993
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:402
 msgid "Very well."
-msgstr ""
+msgstr "Molto bene."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:417
 msgid ""
@@ -1716,7 +1757,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:596
 msgid "Err... ok...."
-msgstr ""
+msgstr "Err... va bene..."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:601
 msgid " *Is it safe to have this lunatic with us?*"
@@ -1740,7 +1781,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:642
 #: Northern_Rebirth/scenarios/Introductions.cfg:287
 msgid "Wow!"
-msgstr ""
+msgstr "Uau!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:661
 msgid "YEAH! DIE SCUM DIE!"
@@ -1781,7 +1822,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:771
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:822
 msgid "Skeletons!"
-msgstr ""
+msgstr "Scheletri!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:777
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:828
@@ -1799,12 +1840,12 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:873
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:918
 msgid "They are attacking us!"
-msgstr ""
+msgstr "Ci attaccano!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:879
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:924
 msgid "Destroy them!"
-msgstr ""
+msgstr "Distruggeteli!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:943
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:984
@@ -1843,11 +1884,13 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:22
 msgid "Introductions"
-msgstr ""
+msgstr "Presentazioni"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:197
 msgid "After rescuing the princess the party quickly withdrew into the caves."
 msgstr ""
+"Dopo aver salvato la principessa il gruppo si ritirò rapidamente nelle "
+"miniere."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:202
 msgid ""
@@ -1857,7 +1900,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:233
 msgid "Sister! Don't you recognize me?"
-msgstr ""
+msgstr "Sorella! Non mi riconosci?"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:239
 msgid ""
@@ -1873,7 +1916,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:251
 msgid "You mean Malifor?"
-msgstr ""
+msgstr "Vuoi dire Malifor?"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:257
 msgid ""
@@ -2114,11 +2157,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:563
 msgid "Move Tallin to the Signpost in the north"
-msgstr ""
+msgstr "Muovi Tallin sul segnale nel nord"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:597
 msgid "Ack! Stupid Troll!"
-msgstr ""
+msgstr "Acc! Stupido troll!"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:603
 msgid "Your efforts to destroy us are in vain you foul creature."
@@ -2134,7 +2177,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1375
 #: Northern_Rebirth/scenarios/Introductions.cfg:655
 msgid "Argh!"
-msgstr ""
+msgstr "Argh!"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:661
 msgid ""
@@ -2183,7 +2226,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:5
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:5
 msgid "Epilogue"
-msgstr ""
+msgstr "Epilogo"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:9
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:9
@@ -2312,22 +2355,22 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:407
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:405
 msgid "Awesome!"
-msgstr ""
+msgstr "Fantastico!"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:413
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:411
 msgid "Great!"
-msgstr ""
+msgstr "Ottimo!"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:419
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:417
 msgid "Smart!"
-msgstr ""
+msgstr "Bello!"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:425
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:423
 msgid "Sounds like fun."
-msgstr ""
+msgstr "Sembra divertente."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:430
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:428
@@ -2389,7 +2432,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:484
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:482
 msgid "Stalrag?"
-msgstr ""
+msgstr "Stalrag?"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:491
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:489
@@ -2417,7 +2460,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:526
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:524
 msgid "Camerin?"
-msgstr ""
+msgstr "Camerin?"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:532
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:530
@@ -2428,7 +2471,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:552
 msgid "Elenia?"
-msgstr ""
+msgstr "Elenia?"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:558
 msgid ""
@@ -2458,12 +2501,12 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1871
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:582
 msgid "Thank you Tallin."
-msgstr ""
+msgstr "Grazie, Tallin."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:602
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:550
 msgid "Krash?"
-msgstr ""
+msgstr "Krash?"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:607
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:555
@@ -2499,7 +2542,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:629
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:577
 msgid "Thanks friend."
-msgstr ""
+msgstr "Grazie, amici."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:647
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:595
@@ -2601,7 +2644,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:751
 msgid "Well spoken!"
-msgstr ""
+msgstr "Ben detto!"
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:757
 msgid "I may be foolish to say this Tallin, but... yes."
@@ -2673,7 +2716,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:24
 msgid "Old Friend"
-msgstr ""
+msgstr "Vecchi amici"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:32
 msgid ""
@@ -2879,7 +2922,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:264
 msgid "Defeat Rakshas... if you can..."
-msgstr ""
+msgstr "Sconfiggi Rakshas... se ci riesci..."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:413
 msgid "So here is the human who dares defy me!"
@@ -2973,25 +3016,25 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:526
 msgid "FOR DWARVEN DOORS!"
-msgstr ""
+msgstr "PER LE PORTE DEI NANI!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:532
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:870
 msgid "CHARGE!!!"
-msgstr ""
+msgstr "CARICA!!!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:538
 msgid "YEEAAAAHHHHH!"
-msgstr ""
+msgstr "YEEAAAAHHHHH!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:544
 msgid "ROOOOAAAARRRRR!!!"
-msgstr ""
+msgstr "ROOOOAAAARRRRR!!!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1940
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:563
 msgid "Ahhhhhhh!"
-msgstr ""
+msgstr "Ahhhhhhh!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:569
 msgid "You monsters think you are so tough don't you? Well check this out."
@@ -3020,11 +3063,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:676
 msgid "Marcus! You bad boy, always getting into trouble."
-msgstr ""
+msgstr "Marcus! Ragazzaccio, ci metti sempre nei guai."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:681
 msgid "Sorry, won't do it again. Promise!"
-msgstr ""
+msgstr "Mi dispiace, non lo farò più. Promessa!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:723
 msgid ""
@@ -3095,7 +3138,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:898
 msgid "HAHAHAHAHA!"
-msgstr ""
+msgstr "AH! AH! AH! AH!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:903
 msgid "Oooooooh! Time to start the fun!"
@@ -3354,7 +3397,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:152
 msgid "See!"
-msgstr ""
+msgstr "Guarda!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:157
 msgid ""
@@ -3433,12 +3476,12 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:367
 msgid "Save Stalrag from Ro'Sothian."
-msgstr ""
+msgstr "Salva Stalrag da Ro'Sothian."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:371
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1100
 msgid "Death of Tallin or Stalrag."
-msgstr ""
+msgstr "Morte di Tallin o Stalrag."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:488
 msgid ""
@@ -3601,7 +3644,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:937
 msgid "BROTHER! HELP ME!"
-msgstr ""
+msgstr "FRATELLO! AIUTAMI!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:944
 msgid ""
@@ -3618,7 +3661,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:956
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:969
 msgid "No answer"
-msgstr ""
+msgstr "Nessuna risposta"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:962
 msgid ""
@@ -3685,7 +3728,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1053
 msgid "Yes........?"
-msgstr ""
+msgstr "Sì...?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1059
 msgid ""
@@ -3717,7 +3760,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1096
 msgid "Capture Ro'Arthian."
-msgstr ""
+msgstr "Cattura Ro'Arthian."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1122
 msgid ""
@@ -3762,7 +3805,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1246
 msgid "See?"
-msgstr ""
+msgstr "Vedi?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1251
 msgid "Now where did he go!?"
@@ -3787,11 +3830,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1359
 msgid "Never!"
-msgstr ""
+msgstr "Mai!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1364
 msgid "Sigh, we'll talk later."
-msgstr ""
+msgstr "Sigh, ne parleremo più tardi."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1370
 msgid "Back to jail my friend."
@@ -4109,7 +4152,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:834
 #: Northern_Rebirth/scenarios/Showdown.cfg:864
 msgid "Death of Anita"
-msgstr ""
+msgstr "La morte di Anitha"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1271
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1272
@@ -4119,7 +4162,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:1277
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1278
 msgid "Nooooooooooo!"
-msgstr ""
+msgstr "Nooooooooooo!"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1293
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1294
@@ -4272,7 +4315,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:4
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:4
 msgid "Stolen Gold"
-msgstr ""
+msgstr "L'oro rubato"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:9
 msgid ""
@@ -4313,7 +4356,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:34
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:40
 msgid "What do you mean?"
-msgstr ""
+msgstr "Cosa intendi?"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:39
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:39
@@ -4818,13 +4861,13 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1005
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1026
 msgid "GRRRRRRR!"
-msgstr ""
+msgstr "GRRRRRRR!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1381
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1010
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1031
 msgid "ROOOAAARRRR!!!"
-msgstr ""
+msgstr "ROOOAAARRRR!!!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1387
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1016
@@ -4862,7 +4905,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1047
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1068
 msgid "What! Drakes! Fire! Ahhhhhh!"
-msgstr ""
+msgstr "Che cosa! Draghi! Fuoco! Ahhhh!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1423
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1052
@@ -4877,7 +4920,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1557
 msgid "Princess! We have finally found you!"
-msgstr ""
+msgstr "Principessa! Alla fine vi abbiamo trovata!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1563
 msgid ""
@@ -4900,7 +4943,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1581
 msgid "With pleasure Princess! Quickly men, set up a base!"
-msgstr ""
+msgstr "Con piacere, principessa! Uomini, veloci! preparate una base!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1600
 msgid ""
@@ -4928,7 +4971,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1625
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1070
 msgid "Help Tallin defeat the enemy leaders"
-msgstr ""
+msgstr "Aiuta Tallin a sconfiggere i condottieri nemici"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1654
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1272
@@ -4992,7 +5035,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:467
 msgid "Kill the enemy leaders"
-msgstr ""
+msgstr "Uccidi i condottieri nemici"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:10
 msgid ""
@@ -5242,7 +5285,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:869
 msgid "Hey, an underground lake."
-msgstr ""
+msgstr "Ehi, un lago sotterraneo."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:873
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:874
@@ -5263,7 +5306,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:899
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:900
 msgid "Tentacle"
-msgstr ""
+msgstr "Tentacolo"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:905
 msgid "Ack! What are those things!"
@@ -5299,11 +5342,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:976
 msgid "EEEEEEEEEEEEEEEE!"
-msgstr ""
+msgstr "EEEEEEEEEEEEEEEE!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:981
 msgid "AHHHHHHHHH!"
-msgstr ""
+msgstr "AHHHHHHHHH!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:987
 msgid "... wait a second, who are you?"
@@ -5363,7 +5406,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1065
 msgid "?????"
-msgstr ""
+msgstr "?????"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1071
 msgid "Different calendars folks."
@@ -5443,15 +5486,15 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1174
 msgid "Sea Serpent"
-msgstr ""
+msgstr "Serpente marino"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1178
 msgid "ROOOAAARRR!"
-msgstr ""
+msgstr "ROOOAAARRR!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1183
 msgid "Ahhhhh!"
-msgstr ""
+msgstr "Ahhhhh!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1199
 msgid "Hold it people, there is something just ahead!"
@@ -5614,12 +5657,12 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1742
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1888
 msgid "Marcus!"
-msgstr ""
+msgstr "Marcus!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1748
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1894
 msgid "Theta!"
-msgstr ""
+msgstr "Theta!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1754
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1900
@@ -5890,7 +5933,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2516
 msgid "ROOOOOOAAAARRRR!"
-msgstr ""
+msgstr "ROOOOOOAAAARRRR!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2522
 msgid ""
@@ -5963,7 +6006,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2756
 msgid "COME AND GET ME!"
-msgstr ""
+msgstr "VENITE A PRENDERMI!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2762
 msgid "Geez, how are we going to kill him?"
@@ -6071,12 +6114,12 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3282
 msgid "Good luck my friend."
-msgstr ""
+msgstr "Buona fortuna, amico."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3334
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3758
 msgid "Intruders! Get them!"
-msgstr ""
+msgstr "Intrusi! Prendeteli!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3339
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3763
@@ -6147,7 +6190,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3712
 msgid "Hsssssssss"
-msgstr ""
+msgstr "Hsssssssss"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3717
 msgid "This doesn't look good."
@@ -6159,35 +6202,39 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3740
 msgid "Alright, here we go."
-msgstr ""
+msgstr "Bene, eccoci qui."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3871
 msgid "Halt! Who goes there? Friend or foe?"
-msgstr ""
+msgstr "Alt! Chi va là? Amico o nemico?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3876
 msgid "Depends. Are you loyal to Malifor?"
-msgstr ""
+msgstr "Dipende. Sei leale a Malifor?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3881
 msgid ""
 "Never! If you have been sent by Malifor then know that we will never yield! "
 "Bring it on!"
 msgstr ""
+"Giammai! Se siete stati mandati da Malifor, sappiate che non cederemo mai. "
+"Venite avanti!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3886
 msgid ""
 "Hold it now, we aren't friends of Malifor in the least, rather we have come "
 "to destroy him."
 msgstr ""
+"Aspetta un attimo, non siamo affatto amici di Malinor, piuttosto, veniamo "
+"per distruggerlo."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3891
 msgid "Finally! You don't know how long we have been waiting for this day."
-msgstr ""
+msgstr "Finalmente! Non sapete quanto abbiamo aspettato questo giorno."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3896
 msgid "How did you get here and how long have you been here?"
-msgstr ""
+msgstr "Come siete arrivati qui e da quanto tempo siete qui?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3901
 msgid ""
@@ -6218,20 +6265,20 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3964
 msgid "Hmmm, another door. Boy is this one sure locked up."
-msgstr ""
+msgstr "Hmmm, un'altra porta. Ragazzi, questa è chiusa a chiave per bene."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3970
 msgid "Anything you can't handle?"
-msgstr ""
+msgstr "È un compito troppo difficile per te?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3975
 msgid "Nope. Should I open it?"
-msgstr ""
+msgstr "Per niente. Devo aprirla?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3979
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4408
 msgid "Go for it!"
-msgstr ""
+msgstr "Certo, fallo!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4032
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4241
@@ -6277,7 +6324,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4351
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4610
 msgid "Just wait a sec."
-msgstr ""
+msgstr "Aspetta un attimo."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4185
 msgid ""
@@ -6303,7 +6350,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4415
 msgid "Ok, here we go!"
-msgstr ""
+msgstr "Bene, eccoci qui."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4420
 msgid " *creek*....."
@@ -6319,7 +6366,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4435
 msgid "Ok."
-msgstr ""
+msgstr "Va bene."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4440
 msgid " *BANG*"
@@ -6327,7 +6374,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4445
 msgid "Anybody home?"
-msgstr ""
+msgstr "C'è nessuno in casa?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:4450
 msgid " *BOOM*"
@@ -6467,15 +6514,15 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:212
 msgid "Hey look, there is our meat! Come on boys, lunchtime!"
-msgstr ""
+msgstr "Ehi, guarda, ecco la nostra carne! Venite ragazzi, è ora di pranzo!"
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:218
 msgid "I don't think so buddy."
-msgstr ""
+msgstr "Non credo proprio, amico."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:276
 msgid "Ok, here is the entrance to the dwarven mines lets go!"
-msgstr ""
+msgstr "Bene, ecco l'ingresso alle miniere dei nani, andiamo!"
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:281
 msgid ""
