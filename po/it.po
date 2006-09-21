@@ -1,4 +1,3 @@
-# translation of northern-rebirth-it.po to Italian
 # Andrea Calvani <stildurak@yahoo.it>, 2006.
 # Luciano Montanaro <mikelima@cirulla.net>, 2006.
 msgid ""
@@ -21,7 +20,7 @@ msgstr "La rinascita del Nord"
 
 #: Northern_Rebirth.cfg:15
 msgid "(Newbie)"
-msgstr "(Principiante)"
+msgstr "(principiante)"
 
 #: Northern_Rebirth.cfg:15
 msgid "Peasant"
@@ -29,23 +28,23 @@ msgstr "Contadino"
 
 #: Northern_Rebirth.cfg:16
 msgid "Spearman"
-msgstr "Lanciere"
+msgstr "Fante"
 
 #: Northern_Rebirth.cfg:16
 msgid "(Easy)"
-msgstr "(Facile)"
+msgstr "(facile)"
 
 #: Northern_Rebirth.cfg:17
 msgid "(Normal)"
-msgstr "(Normale)"
+msgstr "(normale)"
 
 #: Northern_Rebirth.cfg:17
 msgid "Swordsman"
-msgstr "Spadaccino"
+msgstr "Maestro di spada"
 
 #: Northern_Rebirth.cfg:18
 msgid "(Hard)"
-msgstr "(Difficile)"
+msgstr "(difficile)"
 
 #: Northern_Rebirth.cfg:18
 msgid "RoyalGuard"
@@ -68,7 +67,7 @@ msgstr ""
 "schiavi per gli orchi fino alla fine delle loro miserabili vite, o mettere "
 "quelle stesse vite a rischio e ribellarsi contro i crudeli dominatori. Non "
 "avevano idea che il risultato della loro piccola lotta avrebbe restaurato le "
-"Terre del Nord alla gloria di un tempo, oppure consegnarle per sempre ad "
+"Terre del Nord alla gloria di un tempo, oppure consegnarle per sempre a "
 "un'eternità di caos sanguinoso."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:7
@@ -101,7 +100,7 @@ msgid ""
 msgstr ""
 "Molto tempo fa, lontano nel nord di Wesnoth, appena fuori dalle miniere dei "
 "nani di Knalga, c'era una fiorente comunità nota come le Porte dei Nani. "
-"Cibo e legname da tutta Wesnoth ed anche da molte terre elfiche veniva "
+"Cibo e legname da tutta Wesnoth e anche da molte terre elfiche veniva "
 "mandato qui per essere venduto ai nani, mentre minerali, metalli e "
 "attrezzature venivano mandati qui dai nani per essere distribuiti alle "
 "nazioni di superficie. Il risultato di tutto questo commercio rese le Porte "
@@ -117,7 +116,7 @@ msgstr ""
 "Poiché Porte dei Nani si trovava direttamente sul percorso dei nemici "
 "bramosi di invadere Knalga, i nani acconsentirono a prendere la "
 "responsabilità della difesa della comunità, Per far ciò, costruirono molte "
-"torri e fortificazioni all'interno ed ai confini della comunità."
+"torri e fortificazioni all'interno e ai confini della comunità."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:25
 msgid ""
@@ -132,8 +131,8 @@ msgid ""
 "In a fierce battle that raged for one whole year, the orcs finally "
 "overpowered the combined defenses of the humans and dwarves."
 msgstr ""
-"Alla fine di una fiera guerra che infuriò per un intero anno, gli orchi "
-"riuscirono a sopraffare le difese combinate di umani e nani."
+"Alla fine di una dura guerra che infuriò per un intero anno, gli orchi "
+"riuscirono a sopraffare le difese combinate di uomini e nani."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:33
 msgid ""
@@ -185,11 +184,11 @@ msgid ""
 "this opportunity, Tallin, a young, brave and intelligent peasant somehow "
 "managed to steal a considerable amount of his "
 msgstr ""
-"Al'tar, il loro 'padrone', venne attaccato da una tribù di orchi confinante. "
-"Approfittando di questa opportunità, Tallin, un giovane, coraggioso e "
-"intelligente contadino in qualche modo riuscì a rubare una quantità "
-"considerevole del tesoro del suo padrone e a fuggire all'interno di una "
-"rovina nella foresta per radunare i suoi compagni."
+"Al'tar, il loro \"padrone\", venne attaccato da una tribù di orchi "
+"confinante. Approfittando di questa opportunità, Tallin, un giovane, "
+"coraggioso e intelligente contadino in qualche modo riuscì a rubare una "
+"quantità considerevole del tesoro del suo padrone e a fuggire all'interno di "
+"una rovina nella foresta per radunare i suoi compagni."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:169
 msgid "Defeat enemy leaders"
@@ -1436,11 +1435,6 @@ msgid ""
 "that she was being held in a nearly impenetrable fortress with only the "
 "strongest, hardened orcish veterans guarding her."
 msgstr ""
-"Before the humans and dwarves could respond to this message, another gryphon "
-"screeched in with the news that the orcs were holding an elvish sorceress "
-"prisoner. Although this in itself wasn't surprising the significant fact was "
-"that she was being held in a nearly impenetrable fortress with only the "
-"strongest, hardened orcish veterans guarding her."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:76
 msgid ""
@@ -1557,7 +1551,7 @@ msgid ""
 msgstr ""
 "Be', mettiamo che ci uniamo agli elfi - ammesso che ce lo permettano - e che "
 "facciamo un attacco combinato alla fortezza; che cosa faranno gli orchi "
-"sapendo che non sono riusciti ad ottenere il riscatto?"
+"sapendo che non sono riusciti a ottenere il riscatto?"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:156
 msgid ""
@@ -1640,7 +1634,7 @@ msgstr "Almeno questo impedirà di arricchire gli orchi con il riscatto."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:201
 msgid "Pah, weak soft humans. Have it your way if you must."
-msgstr "Puah, deboli, teneri umani. Fai a modo tuo, se devi."
+msgstr "Puah, deboli, teneri uomini. Fai a modo tuo, se devi."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:206
 msgid ""
@@ -1761,7 +1755,7 @@ msgstr "Ti ho sentito, Theta."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:691
 msgid "Hey, just trying to give him an incentive to drown himself."
-msgstr "Ehi, ho solo provato ad incoraggiarlo ad affogarsi."
+msgstr "Ehi, ho solo provato a incoraggiarlo ad affogarsi."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:697
 msgid "Don't worry, I'll do that for him."
@@ -1925,7 +1919,7 @@ msgstr "Davvero? Oh benissimo, ci sto!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:379
 msgid "Hold it right there you... Hey! A human!"
-msgstr "Fermo là tu... Ehi! Un umano!"
+msgstr "Fermo là tu... Ehi! Un uomo!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:384
 msgid "Greetings from the people of Dwarven Doors friend."
@@ -1943,9 +1937,8 @@ msgid ""
 "order to stay free we now seek help and equipment from our old allies, the "
 "dwarves."
 msgstr ""
-"Sì, ma siamo riusciti a rovesciarli, per il momento. Per continuare ad "
-"essere liberi, stiamo cercando aiuto ed equipaggiamento dai nostri alleati, "
-"i nani."
+"Sì, ma siamo riusciti a rovesciarli, per il momento. Per continuare a essere "
+"liberi, stiamo cercando aiuto ed equipaggiamento dai nostri alleati, i nani."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:397
 msgid ""
@@ -1983,7 +1976,7 @@ msgstr "PREPARATI A MORIRE, LURIDO ORCO!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:560
 msgid "Hold it! I am no orc, I am a human!"
-msgstr "Fermo! Non sono un orco, sono un umano!"
+msgstr "Fermo! Non sono un orco, sono un uomo!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:565
 msgid ""
@@ -1991,7 +1984,7 @@ msgid ""
 "since then the the only living - and non-living - things I have seen are "
 "orcs, trolls and skeletons."
 msgstr ""
-"Un umano! Stupefacente, non ho più visto umani da quando gli orchi hanno "
+"Un uomo! Stupefacente, non ho più visto uomini da quando gli orchi hanno "
 "attaccato. Da allora le uniche creature viventi - e non viventi - che ho "
 "visto sono stati orchi, troll e scheletri."
 
@@ -2257,7 +2250,7 @@ msgid ""
 "whatever critters he can find to crush the orcs."
 msgstr ""
 "Poi lui e la sua banda male in arnese hanno seguito Malifor e l'hanno "
-"ridotto in polvere. Ora sta costruendo un'alleanza fra umani, nani, maghi "
+"ridotto in polvere. Ora sta costruendo un'alleanza fra uomini, nani, maghi "
 "caduti e qualunque creatura possa trovare per sconfiggere gli orchi."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:305
@@ -2321,11 +2314,11 @@ msgid ""
 "prisoner. By helping you defeat them it would be serving our own cause just "
 "as much as it would be serving yours."
 msgstr ""
-"Questo non equivarrebbe ad estinguere il nostro debito con te, Tallin. "
-"Questo Rakshas è un nemico anche per tutti gli Elfi del Nord. Non più di "
-"pochi mesi fa gli orchi hanno attaccato le nostre foreste e mi hanno presa "
-"prigioniera. Aiutandoti a sconfiggerli, noi serviremmo alla nostra causa "
-"come serviremmo alla tua."
+"Questo non equivarrebbe a estinguere il nostro debito con te, Tallin. Questo "
+"Rakshas è un nemico anche per tutti gli Elfi del Nord. Non più di pochi mesi "
+"fa gli orchi hanno attaccato le nostre foreste e mi hanno presa prigioniera. "
+"Aiutandoti a sconfiggerli, noi serviremmo alla nostra causa come serviremmo "
+"alla tua."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:359
 msgid ""
@@ -2398,7 +2391,7 @@ msgstr ""
 "L'unico problema - o il maggiore, se vogliamo - sono quei maledetti orchi. "
 "Si sono uniti tutti sotto quel tizio chiamato Rakshas e sono determinati a "
 "fare di Knalga una roccaforte orchesca, schiavizzando o uccidendo qualunque "
-"umano, nano o qualunque altra creatura lungo la strada."
+"uomo, nano o qualunque altra creatura lungo la strada."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:422
 msgid "So what does this have to do with me?"
@@ -2487,7 +2480,7 @@ msgstr "Abbiamo già tonnellate d'oro! Non ne abbiamo bisogno di altro!"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:525
 msgid "That is your concern not mine human."
-msgstr "Questo è un problema tuo, non mio, umano."
+msgstr "Questo è un problema tuo, non mio, uomo."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:531
 msgid " *sigh* Oh well. It wasn't as if we weren't expecting this."
@@ -2536,7 +2529,7 @@ msgid ""
 "Stupid Troll, maybe next time you should try killing someone who can be "
 "killed."
 msgstr ""
-"Stupido troll, forse la prossima volta dovresti provare ad uccidere qualcuno "
+"Stupido troll, forse la prossima volta dovresti provare a uccidere qualcuno "
 "che può essere ucciso."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:813
@@ -2699,8 +2692,8 @@ msgid ""
 "mater what race they come from - even orcs."
 msgstr ""
 "Quindi ciò che propongo è la creazione di un corpo neutrale, composto da "
-"umani, nani, elfi, draghi, troll o chiunque voglia farne parte, di qualunque "
-"razza siano, anche orchi."
+"uomini, nani, elfi, draghi, troll o chiunque voglia farne parte, di "
+"qualunque razza siano, anche orchi."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:378
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:376
@@ -2712,7 +2705,7 @@ msgid ""
 msgstr ""
 "Questo corpo non reclamerebbe nessuna sovranità su nessun regno, razza o "
 "terra ma esisterebbe solo per portare pace e giustizia ai paesi a sud e ad "
-"est del Grande Oceano, a nord di Wesnoth e ad ovest delle Foreste degli Elfi."
+"est del Grande Oceano, a nord di Wesnoth e a ovest delle Foreste degli Elfi."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:384
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:382
@@ -2790,9 +2783,9 @@ msgid ""
 "propose that Tallin be made the head of this new body."
 msgstr ""
 "Ancora una volta, Tallin ha dimostrato di essere una guida saggia, "
-"coraggiosa e capace. È rispettato dagli umani, e allo stesso modo dagli elfi "
-"e dai nani. Propongo perciò che Tallin venga eletto capo di questo nuovo "
-"corpo."
+"coraggiosa e capace. È rispettato dagli uomini, e allo stesso modo dagli "
+"elfi e dai nani. Propongo perciò che Tallin venga eletto capo di questo "
+"nuovo corpo."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:441
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:439
@@ -3102,7 +3095,7 @@ msgid ""
 "seventy years ahead of you... at most."
 msgstr ""
 "Tallin, sei sicuro? La durata della vita degli elfi è molto lunga, "
-"paragonata a quella degli umani. Lei vivrà per almeno un altro migliaio di "
+"paragonata a quella degli uomini. Lei vivrà per almeno un altro migliaio di "
 "anni, mentre tu hai a malapena settant'anni davanti a te... al massimo."
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:745
@@ -3248,7 +3241,7 @@ msgstr ""
 "tempo, erano sorte dappertutto. Tutte erano presidiate da nani ben armati e "
 "allerta, che li salutorono boriosamente. Subito dopo aver raggiunto le "
 "miniere si imbatterono in nuvole di fumo provenienti dalle fucine andanti a "
-"pieno ritmo, mucchi di nuove armi e armature per umani e nani in egual "
+"pieno ritmo, mucchi di nuove armi e armature per uomini e nani in egual "
 "misura, e il clangore assordante dei martelli e dei picconi dai nani "
 "all'opera."
 
@@ -3277,7 +3270,7 @@ msgid ""
 "After everything had been taken care of the humans and dwarves once again "
 "made council."
 msgstr ""
-"Dopo aver fatto tutto il necessario, umani e nani si riunirono ancora una "
+"Dopo aver fatto tutto il necessario, uomini e nani si riunirono ancora una "
 "volta in consiglio."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:60
@@ -3461,7 +3454,7 @@ msgid ""
 "Thus, the humans rested for many days while they were equipped with new arms "
 "and armor and trained by the dwarves."
 msgstr ""
-"Così gli umani rimasero a Knalga per parecchi giorni, mentre venivano "
+"Così gli uomini rimasero a Knalga per parecchi giorni, mentre venivano "
 "equipaggiati con le nuove armi e venivano addestrati dai nani."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:204
@@ -3473,7 +3466,7 @@ msgid ""
 msgstr ""
 "Purtroppo quella pace non era fatta per durare. Un mattino presto Tallin "
 "(dolorante da capo a piedi per l'addestramento) trasalì per lo squillo di "
-"trombe, martellio di tamburi e clangori metallici, quando umani e nani si "
+"trombe, martellio di tamburi e clangori metallici, quando uomini e nani si "
 "affrettavano per armarsi."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:210
@@ -3492,7 +3485,7 @@ msgid ""
 "caves."
 msgstr ""
 "Dopo un veloce consiglio di guerra fu deciso che i nani avrebbero rinforzato "
-"le difese interne, mentre Tallin e gli umani sarebbero andati fuori per "
+"le difese interne, mentre Tallin e gli uomini sarebbero andati fuori per "
 "bloccarli. Se non fossero riusciti a farlo, avrebbero sempre potuto "
 "ritirarsi nelle grotte."
 
@@ -3502,7 +3495,7 @@ msgstr "Sconfiggi Rakshas... se ci riesci..."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:413
 msgid "So here is the human who dares defy me!"
-msgstr "Ecco quindi l'umano che osa sfidarmi!"
+msgstr "Ecco quindi l'uomo che osa sfidarmi!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:419
 msgid "Defy you? Who are you, what do you want?"
@@ -3526,7 +3519,7 @@ msgid ""
 "Stupid human, to become the overlords of Knalga. That treachery on the part "
 "of the dwarves thwarted us for many years but in the end it's all the same."
 msgstr ""
-"Stupido umano, di divenire il dominatore di Knalga. I trucchi dei nani ci "
+"Stupido uomo, di divenire il dominatore di Knalga. I trucchi dei nani ci "
 "hanno rallentato per molti anni, ma la fine non cambierà."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:445
@@ -3555,8 +3548,8 @@ msgid ""
 "far stronger then him!"
 msgstr ""
 "Compagni orchi, perché seguite un capo così debole? È solo un piccolo inetto "
-"che fa sogni ad occhi aperti. Non comportatevi da vecchiette. Chiunque di "
-"voi è molto più forte di lui."
+"che fa sogni a occhi aperti. Non comportatevi da vecchiette. Chiunque di voi "
+"è molto più forte di lui."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:463
 msgid ""
@@ -3645,7 +3638,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:609
 msgid "Well be grateful that you are alive."
-msgstr "Be', sei fortunato ad essere ancora vivo."
+msgstr "Be', sei fortunato a essere ancora vivo."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:614
 msgid "Hehehehe, thank you honey."
@@ -3719,23 +3712,25 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:865
 msgid "HAHAHAHAHA, GOT YOU SUCKERS!"
-msgstr ""
+msgstr "AHAHAHAHA, VI ABBIAMO PRESI, IMBECILLI!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:876
 msgid "Uh oh! We're cut off."
-msgstr ""
+msgstr "Uh oh! Ci hanno tagliato fuori."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:882
 msgid "Oh hell! Form up men, back to back, don't let them penetrate our ranks."
 msgstr ""
+"Al diavolo! Uomini, in formazione, schiena contro schiena, non permettetegli "
+"di penetrare le nostre fila!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:887
 msgid "That's not all my old friends. GENNERALS, CALL THE RESERVES!"
-msgstr ""
+msgstr "Non è finita, amici miei. GENERALI, CHIAMATE LE RISERVE!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:893
 msgid "Oh yeah!"
-msgstr ""
+msgstr "Oh siiiì!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:898
 msgid "HAHAHAHAHA!"
@@ -3755,7 +3750,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:947
 msgid "Argh! I have been slain!"
-msgstr ""
+msgstr "Argh! Sono stato ucciso!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:952
 msgid ""
@@ -3827,13 +3822,13 @@ msgstr ""
 msgid ""
 "600 gold! Wow! The 'Master' must be an even greater fool then I thought!"
 msgstr ""
-"600 monete d'oro! Uau! Il 'padrone' deve essere anche più sciocco di quel "
+"600 monete d'oro! Uau! Il \"padrone\" deve essere anche più sciocco di quel "
 "che pensavo!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1141
 msgid ""
 "You foolish humans! You shall all soon be meat for my wolves! REINFORCEMENTS!"
-msgstr "Pazzi umani! Sarete carne per i miei lupi! RINFORZI!"
+msgstr "Pazzi uomini! Sarete carne per i miei lupi! RINFORZI!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:4
 msgid "Settling Disputes"
@@ -3853,7 +3848,7 @@ msgid ""
 "got though the defenses the well prepared dwarves fell on the already "
 "bloodied orcs."
 msgstr ""
-"I nani erano più che preparati ad accoglierli, però, ed appena gli umani "
+"I nani erano più che preparati ad accoglierli, però, e appena gli uomini "
 "oltrepassarono le difese i nani, ben preparati, si calarono sugli orchi già "
 "insanguinati."
 
@@ -3862,7 +3857,7 @@ msgid ""
 "The battle raged on as wave after wave of orcs crashed onto the dwarven "
 "defenses and shattered."
 msgstr ""
-"La battaglia infuriò, ed orde su orde di orchi si schiantarono sulle difese "
+"La battaglia infuriò e orde su orde di orchi si schiantarono sulle difese "
 "dei nani, distruggendosi."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:23
@@ -3900,7 +3895,7 @@ msgid ""
 "No doubt, but what should we do from here? The number of humans and dwarves "
 "is limited, unlike the orcs whose numbers seem unlimited."
 msgstr ""
-"Senza dubbio, ma che cosa dovremmo fare ora? Il nnumero di umani e nani è "
+"Senza dubbio, ma che cosa dovremmo fare ora? Il numero di uomini e nani è "
 "limitato, a differenza degli orchi che sembrano non finire mai."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:48
@@ -3966,8 +3961,8 @@ msgid ""
 "and they needed our help. What about Wesnoth?"
 msgstr ""
 "Possiamo escludere gli elfi. Sono gente egoista, interessati solo a se "
-"stessi. Ci aiuterebbero solo se capitasse loro qualcosa di molto drastico, "
-"ed avessero bisogno del nostro aiuto. Forse Wesnoth?"
+"stessi. Ci aiuterebbero solo se capitasse loro qualcosa di molto drastico e "
+"avessero bisogno del nostro aiuto. Forse Wesnoth?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:88
 msgid ""
@@ -4098,7 +4093,7 @@ msgid ""
 "having some of those on your side for once."
 msgstr ""
 "Non sono solo due maghi. Hanno un grande controllo sulle creature selvagge "
-"come ogri, grifoni ed a volte anche troll! Che ne pensi di avere un po' di "
+"come ogri, grifoni e a volte anche troll! Che ne pensi di avere un po' di "
 "quelle creature dalla nostra parte, per una volta!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:192
@@ -4193,7 +4188,7 @@ msgstr ""
 "voi nani avete costruito quella maledetta strada, ci avete dato problemi di "
 "continuo! Ora, finisce qui! Dopo che vi avrò ucciso, smembrerò le vostre "
 "carcasse e le appenderò all'ingresso del passo come avvertimento per altri "
-"pazzi come voi! Ed al contrario di noi, voi NON tornerete indietro."
+"pazzi come voi! E al contrario di noi, voi NON tornerete indietro."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:512
 msgid ""
@@ -4201,7 +4196,7 @@ msgid ""
 "But know this, the Shinsplitters will NEVER submit! We will defy you to our "
 "last breath!"
 msgstr ""
-"Molto bene, mago maledetto! Andrò ad unirmi a tutti i miei uomini che hai "
+"Molto bene, mago maledetto! Andrò a unirmi a tutti i miei uomini che hai "
 "ucciso. Ma sappilo, gli spaccatibie non si arrenderanno mai! Ti insulteremo "
 "fino all'ultimo respiro!"
 
@@ -4241,7 +4236,7 @@ msgstr ""
 "Oh... Capisco. Ma comunque, Ro'Sothian, ascolta. Abbiamo un disperato "
 "bisogno del tuo aiuto. Questo è Tallin della comunità di Porte dei Nani. Com "
 "sai, il popolo di Porte dei Nani fu ridotto in schiavitù dagli orchi per "
-"molti anni. Sono riusciti a liberarsi dagli orchi, ed assieme a lordHamel di "
+"molti anni. Sono riusciti a liberarsi dagli orchi e, assieme a lordHamel di "
 "Knalga, stanno cominciando a fare uscire Knalga dal caos in cui si trovava."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:582
@@ -4303,15 +4298,16 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:716
 msgid " *aside* Camerin, you know him?"
-msgstr ""
+msgstr " (a parte) Camerin, lo conosci?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:722
 msgid " *aside* Duh! His brother Ro'Arthian is the one who taught me magic!"
 msgstr ""
+" (a parte) Eh! Suo fratello Ro'Arthian è quello che mi ha insegnato la magia!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:728
 msgid " *aside* Oh....!"
-msgstr ""
+msgstr " (a parte) Oh....!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:772
 msgid ""
@@ -4484,15 +4480,16 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1128
 msgid " *rolls eyes* Theta, do you always have to be so dramatic?"
-msgstr ""
+msgstr " (rotea gli occhi) Theta, devi essere sempre così melodrammatica?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1139
 msgid "Um..... Father? You wife just got killed..."
-msgstr ""
+msgstr "Umh..... Padre? Vostra moglie è stata appena uccisa..."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1144
 msgid "Oh right. I CALL UPON THE LORDS OF LIGHT TO GRANT YOU LIFE!"
 msgstr ""
+"Oh bene. IO INVOCO SU DI TE I SIGNORI DELLA LUCE PER INFONDERTI LA VITA!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1179
 msgid ""
@@ -4506,7 +4503,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1189
 msgid " *rolls eyes* Women!"
-msgstr ""
+msgstr " (rotea gli occhi) Donne!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1206
 msgid "Argh! I'll just come back and finish you in my next life."
@@ -4864,7 +4861,7 @@ msgstr "PER HIDEL!!!"
 #: Northern_Rebirth/scenarios/Showdown.cfg:770
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:781
 msgid "FOR DWARVEN DOORS!!!"
-msgstr "PER DWARVEN DOORS!!!"
+msgstr "PER LE PORTE DEI NANI!!!"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:776
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:787
@@ -5183,8 +5180,8 @@ msgid ""
 "simply didn't have the manpower."
 msgstr ""
 "Abbiamo provato, Tallin, ma con gli orchi ancora all'opera alle difese "
-"meridionali ed altri gruppi di troll che tentavano do infiltrarsi da tutte "
-"le parte, non avevamo abbastanza uomini."
+"meridionali e altri gruppi di troll che tentavano do infiltrarsi da tutte le "
+"parte, non avevamo abbastanza uomini."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:94
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:115
@@ -5339,7 +5336,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:457
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:474
 msgid "Haha! This is gonna be fun!"
-msgstr "AH! AH! Sarà divertente!"
+msgstr "Ah! Ah! Sarà divertente!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:465
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:482
@@ -5499,7 +5496,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1010
 msgid "Oh right. Onward men!"
-msgstr ""
+msgstr "Oh bene. Avanti uomini!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1102
 msgid ""
@@ -5551,7 +5548,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:846
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:867
 msgid " *sniff sniff*"
-msgstr ""
+msgstr " *sniff sniff*"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1220
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:851
@@ -5563,7 +5560,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:857
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:878
 msgid " *flap flap flap*"
-msgstr ""
+msgstr " *flap flap flap*"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1263
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:894
@@ -5601,13 +5598,13 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:987
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1008
 msgid "Hey! Look who's back!"
-msgstr ""
+msgstr "Ehi! Guarda chi è tornato!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1369
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:998
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1019
 msgid "And look, he brought his friends too!"
-msgstr ""
+msgstr "E guarda, si è portato pure degli amici!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1376
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1005
@@ -5645,13 +5642,13 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1034
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1055
 msgid "Awww, what a darling!"
-msgstr ""
+msgstr "Oh, che carino!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1411
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1040
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1061
 msgid "Tell that to the trolls."
-msgstr ""
+msgstr "Dillo ai troll."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1418
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1047
@@ -5663,12 +5660,12 @@ msgstr "Che cosa! Draghi! Fuoco! Ahhhh!"
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1052
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1073
 msgid "Shut your mouth you coward!"
-msgstr ""
+msgstr "Taci, codardo!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1441
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1091
 msgid "Help Tallin defeat the enemy leaders or"
-msgstr ""
+msgstr "Aiuta Tallin a sconfiggere i comandanti nemici o"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1557
 msgid "Princess! We have finally found you!"
@@ -5713,12 +5710,13 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1610
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1228
 msgid "Hey! Stand your ground you cowards!"
-msgstr ""
+msgstr "Ehi! Mantenete le posizioni, codardi!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1616
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1234
 msgid "You are a fool human! Watch how we will crush and destroy you!"
 msgstr ""
+"Sei uno sciocco, uomo! Osserva come ti schiacceremo e ti distruggeremo!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1625
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1070
@@ -5728,7 +5726,7 @@ msgstr "Aiuta Tallin a sconfiggere i condottieri nemici"
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1654
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1272
 msgid "Haha! Look at them run!"
-msgstr ""
+msgstr "Ahah! Guarda come corrono!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:9
 msgid ""
@@ -5860,7 +5858,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1150
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1326
 msgid "I am."
-msgstr ""
+msgstr "Sono io."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1156
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1332
@@ -5868,11 +5866,13 @@ msgid ""
 "Princess Anita sends you this gold along with the order to stay clear of any "
 "Northern Elf if you know what's good for you."
 msgstr ""
+"La principessa Anita ti manda questo oro con l'ordine di star lontano dagli "
+"elfi del nord se tieni alla pelle."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1161
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1337
 msgid "Why? What did I ever do to the Northern Elves?"
-msgstr ""
+msgstr "Perché? Cosa ho mai fatto agli elfi del nord?"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1167
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1343
@@ -5891,12 +5891,12 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1184
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1360
 msgid "You dare insult our princess!"
-msgstr ""
+msgstr "Come osi insultare la nostra principessa!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1190
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1366
 msgid "You better get lost elf before we kill you."
-msgstr ""
+msgstr "Smamma, elfo, prima che ti uccida."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1196
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1372
@@ -5904,6 +5904,8 @@ msgid ""
 "This insult will forever be remembered by the Northern Elves! The day will "
 "soon come when your race shall regret your folly!"
 msgstr ""
+"Gli elfi del nord non scorderanno mai questo insulto! Presto verrà il giorno "
+"in cui la tua razza si pentirà amaramente della vostra pazzia!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1212
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1388
@@ -5918,21 +5920,24 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:142
 msgid "The Pursuit"
-msgstr ""
+msgstr "L'inseguimento"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:453
 msgid ""
 "Leaving most of the dwarves behind, Tallin and the rest of his party set off "
 "to pursue the Sorcerer."
 msgstr ""
+"Lasciati alle spalle la maggior parte dei nani, Tallin e il resto del suo "
+"gruppo iniziò a inseguire lo stregone."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:581
 msgid "There he goes! Quick, get him!"
-msgstr ""
+msgstr "Per di qua! Presto, prendiamolo!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:586
+#, fuzzy
 msgid "I don't think so you living vermin."
-msgstr ""
+msgstr "Non penso proprio, living vermin"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:592
 msgid ""
@@ -5950,7 +5955,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:630
 msgid "Blast it! We lost him."
-msgstr ""
+msgstr "Dannazione! Lo abbiamo perso."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:636
 msgid ""
@@ -5974,7 +5979,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:660
 msgid "Find Malifor and Destroy Him"
-msgstr ""
+msgstr "Trova Malifor e distruggilo"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:735
 msgid ""
@@ -6102,51 +6107,55 @@ msgstr "AHHHHHHHHH!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:987
 msgid "... wait a second, who are you?"
-msgstr ""
+msgstr "... aspetta un momento, chi sei?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:992
 msgid "I.... I am one of Tallin's men..."
-msgstr ""
+msgstr "Io... io sono uni degli uomini di Tallin..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:997
 msgid "Who is this Tallin?"
-msgstr ""
+msgstr "Chi è questo Tallin?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1008
 msgid "What is your purpose in coming here?"
-msgstr ""
+msgstr "Cosa sei venuto a fare qua?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1013
 msgid "We seek the lich Malifor."
-msgstr ""
+msgstr "Stiamo cercando il lich Malifor"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1019
 msgid ""
 "Malifor!... *goes a bit more paler (if possible)* What business do you have "
 "with him?"
 msgstr ""
+"Malifor!... *diventa ancora più pallido (se possibile)* Cosa volete da lui?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1025
 msgid "We seek to crush and destroy him."
-msgstr ""
+msgstr "Lo vogliamo distruggere."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1031
 msgid ""
 "Oh thank God! Finally there is someone here in force to deal with that "
 "menace. You must have been sent by the High Kalian of Hiera'Shirsha?"
 msgstr ""
+"Oh, sia grazie agli dei! Finalmente c'è qualcuno qua con la forza per "
+"stroncare questa minaccia. Deve esere stato il supremo Kalian di "
+"Hiera'Shirsha a mandarvi?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1037
 msgid "The what!?"
-msgstr ""
+msgstr "Il supremo cosa?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1043
 msgid "Err, I think we might be in different... uh... 'time zones' here."
-msgstr ""
+msgstr "Err, penso che qui siamo in una diversa... eh... «zona temporale»."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1048
 msgid "I beg my pardon. Say, what year is it anyway?"
-msgstr ""
+msgstr "Domando scusa. Dimmi, in che anno siamo?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1054
 msgid "Uh... 534 YW..."
@@ -6166,25 +6175,27 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1077
 msgid "I see, but say, who are you?"
-msgstr ""
+msgstr "Lo vedo, ma dimmi: chi sei?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1082
 msgid "What? How can you not know who I am?"
-msgstr ""
+msgstr "Cosa? Come puoi non sapere chi sono io?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1088
 msgid "The times have changed my friend."
-msgstr ""
+msgstr "Il tempo passa, amico mio."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1093
 msgid ""
 "Right... sorry about that. My name is Lord Alfred and I am... or was... the "
 "ruler of the great kingdom of Garet-Desh."
 msgstr ""
+"Bene... sono spiacente. Io sono Lord Alfred e sono... o meglio sono stato... "
+"il sovrano del grande regno di Garet-Desh."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1100
 msgid "What happened to you? Why are you a ghost?"
-msgstr ""
+msgstr "Cosa ti è successo? Perché sei diventato un fantasma?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1105
 msgid ""
@@ -6196,7 +6207,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1111
 msgid "Let me guess, Malifor?"
-msgstr ""
+msgstr "Lasciami indovinare, Malifor?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1116
 msgid ""
@@ -6234,7 +6245,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1170
 msgid "Ssssh! I hear something."
-msgstr ""
+msgstr "Ssssh! Sento qualcosa."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1174
 msgid "Sea Serpent"
@@ -6250,7 +6261,7 @@ msgstr "Ahhhhh!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1199
 msgid "Hold it people, there is something just ahead!"
-msgstr ""
+msgstr "Fermi tutti, c'è qualcosa davanti a noi!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1302
 msgid " *sniff* I smell humans."
@@ -6258,11 +6269,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1307
 msgid "You are just plain deaf. I heard them coming from a mile off."
-msgstr ""
+msgstr "Sei proprio completamente sordo. Li ho sentiti arrivare da un miglio."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1312
 msgid "Ahh shut up. Let's go kill them."
-msgstr ""
+msgstr "Ah, zitto. Facciamoli fuori."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1334
 msgid "A door, and a big big lock hmmmmm."
@@ -6275,7 +6286,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1344
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1371
 msgid " *SMASH*."
-msgstr ""
+msgstr "THUD! CRASH!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1365
 msgid ""
@@ -6291,25 +6302,27 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1407
 msgid "Oh yeah, holy water!"
-msgstr ""
+msgstr "Oh sì, acqua benedetta!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1421
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1441
 msgid ""
 "Warning! These bottles contain toxic waste. Causes disintegration on contact."
 msgstr ""
+"Attenzione! Queste bottiglie contengono rifiuti tossici. Provocano "
+"disintegrazione al contatto."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1426
 msgid "Ha ha, for skeletons anyway."
-msgstr ""
+msgstr "Ah ah, per gli scheletri al meno."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1446
 msgid " *rolls eyes* Oh the hazardous life of a skeleton."
-msgstr ""
+msgstr "(rotea gli occhi) Oh, la pericolosa vita dello scheletro."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1468
 msgid "The Treasury"
-msgstr ""
+msgstr "Il tesoro"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1473
 msgid "The Treasury! Cool, lets go and get some booty!"
@@ -6317,54 +6330,56 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1487
 msgid "The Dungeon"
-msgstr ""
+msgstr "Le segrete"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1502
 msgid "Malifor the Great's Study."
-msgstr ""
+msgstr "Il laboratorio del grande Malifor"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1507
 msgid "There we go! This way guyz!"
-msgstr ""
+msgstr "Andiamo di qua! Da questa parte, ragazzi!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1521
 msgid "Wow! I there is at least 1000 gold in here!"
-msgstr ""
+msgstr "Wow! Ci sono almeno 1000 pezzi d'oro qua!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1542
 msgid "Holy cow! 500 gold!"
-msgstr ""
+msgstr "Merda secca! 500 pezzi!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1563
 msgid "800 gold! We're rich!!!"
-msgstr ""
+msgstr "800 pezzi! Siamo ricchi!!!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1584
 msgid "What a horde! 2 000 gold!"
-msgstr ""
+msgstr "Che tesoro! 2000 pezzi d'oro!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1605
 msgid "500 gold! Not bad!"
-msgstr ""
+msgstr "500 pezzi d'oro! Non male!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1626
 msgid "1000 gold! Wow! Where is that bag of bones getting all this?"
-msgstr ""
+msgstr "1000 pezzi d'oro! Wow! Dove li ha presi quel sacco d'ossa?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1664
 msgid "Freedom at last, thank you Lord Tallin."
-msgstr ""
+msgstr "Finalmente liberi, grazie a voi, lord tallin."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1671
 msgid ""
 "Just Tallin, I am no lord, just a simple peasant trying to restore our "
 "people to freedom."
 msgstr ""
+"Chiamami Tallin, non sono un lord, solo un semplice contadino che cerca di "
+"restituire la libertà al nostro popolo."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1686
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1831
 msgid "But anyhow, who are you? How did you end up down here?"
-msgstr ""
+msgstr "Comunque, chi sei? Come hai fatto a finire quaggiù?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1690
 msgid ""
@@ -6373,12 +6388,19 @@ msgid ""
 "trolls and then by these fiends! We managed to somehow survive the orcs and "
 "trolls but when these skeletons appeared we were captured."
 msgstr ""
+"Mi chiamano sorella Theta. Mio marito Marcus e io eravamo i consiglieri e "
+"guaritori dei nobili dei nani. Quindi, naturalmente, gli orchi hanno "
+"attaccato, seguiti dai troll e poi da questi demoni! Siamo riusciti a "
+"sopravvivere in qualche maniera agli orchi e ai troll ma quando sono apparsi "
+"questi scheletri ci hanno catturato."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1697
 msgid ""
 "Funny, why would The Bag of Bones keep you as his prisoners. He didn't seem "
 "to be the merciful type."
 msgstr ""
+"Divertente, e perché il «sacco d'ossa» vi avrebbe fatti prigionieri? Non mi "
+"pare che sia un tipo misericordioso."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1702
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1847
@@ -6387,6 +6409,9 @@ msgid ""
 "was a way to counteract our holy attacks. His kind are very vulnerable to "
 "such attacks, as I am sure you know by now."
 msgstr ""
+"Non ci ha lasciati vivere per pietà, voleva studiarci per vedere se c'era "
+"una maniera di rispondere ai nostri attacchi sacri. La sua genia è molto "
+"vulnerabile a questi attacchi cosiì come ora certamente lo sapete anche voi."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1709
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1854
@@ -6394,6 +6419,8 @@ msgid ""
 "Yes indeed. But anyhow, you are now free to go wherever you like. May the "
 "Lords of Light guide your path."
 msgstr ""
+"Sì, effettivamente. Ma comunque sia, ora siete liberi di andare dove volete. "
+"Possa il signore della luce guidare la vostra strada.."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1714
 msgid ""
@@ -6404,7 +6431,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1721
 msgid "Very well, you are most welcome to join us."
-msgstr ""
+msgstr "Benissimo, siete i benvenuti tra di noi."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1742
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1888
@@ -6419,12 +6446,12 @@ msgstr "Theta!"
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1754
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1900
 msgid "Please folks, not now."
-msgstr ""
+msgstr "Per favore gente, non adesso."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1759
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1905
 msgid "Oh, sorry."
-msgstr ""
+msgstr "Oh, spiacente."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1809
 msgid ""
@@ -6434,7 +6461,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1816
 msgid "It's just Tallin, no lord. And no problem."
-msgstr ""
+msgstr "Solo Tallin, niente lord. E non c'è di che."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1835
 msgid ""
@@ -6483,7 +6510,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2001
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2078
 msgid "Hehehehehe"
-msgstr ""
+msgstr "Eheheheheh"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2085
 msgid "And that's why they look so young too - all this regenerating stuff."
@@ -6523,7 +6550,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2180
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2270
 msgid "....thanks."
-msgstr ""
+msgstr "...grazie."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2186
 msgid ""
@@ -6627,45 +6654,49 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2433
 msgid "The bastards!"
-msgstr ""
+msgstr "Che bastardi!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2438
 msgid "Probably another one of Malifor's experiments."
-msgstr ""
+msgstr "Probabilmente è un'altro degli esperimenti di Malifor."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2445
 msgid "I don't know, see if it talks."
-msgstr ""
+msgstr "Non so, vediamo se parla."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2450
 msgid "Hey big guy. We arn't gonna hurt you. We wanna be your friends."
-msgstr ""
+msgstr "Ehi, ragazzone. Non ti faremo del male. Vogliamo diventare tuoi amici."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2455
 msgid ".....not..... going..... to...... hurt.... me?"
-msgstr ""
+msgstr "... non... mi... farete... del... male?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2461
 msgid "Hey, it talks!"
-msgstr ""
+msgstr "Ehi, parla!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2467
 msgid "It's a 'he', and  yes, they're actually very intelligent creatures."
-msgstr ""
+msgstr "Eh sì, in realtà sono creature molto intelligenti."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2472
 msgid ""
 "Hush! I am trying to talk to him. Nope, we'll never hurt you. But if you "
 "want to you can hurt some skeletons."
 msgstr ""
+"Zitto! Sto cercando di parlare con lui. No, non ti faremo del male. Ma se "
+"vuoi, possiamo distruggere qualche scheletro assieme."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2477
 msgid "Skeletons! GRRRRRRRR!!!"
-msgstr ""
+msgstr "Scheletri! GRRRRRRRR!!!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2482
 msgid "Look out! He is ready to go! Hey, is that smoke coming out of his ears?"
 msgstr ""
+"Gaurdate! È proprio pronto per andare! Ehi, cos'è quel fumo che gli esce "
+"dalle orecchie?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2487
 msgid ""
@@ -6694,11 +6725,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2543
 msgid "HAHAHAHAHA, FOOLS, YOU THINK YOU CAN KILL ME?"
-msgstr ""
+msgstr "AHAHAHAHAH, SCIOCCHI, PENSATE DI POTERMI UCCIDERE?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2615
 msgid "What the...!"
-msgstr ""
+msgstr "Ma che... !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2620
 msgid "How can it be?! Our axes and hammers are failing."
@@ -6754,7 +6785,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2714
 msgid "HAHAHAHAHAHA, YOUR IDIOCY AMUSES ME GREATLY!"
-msgstr ""
+msgstr "AHAHAHAHAHAH, LA TUA STUPIDITÀ È DAVVERO DIVERTENTE!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2756
 msgid "COME AND GET ME!"
@@ -6766,57 +6797,58 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2767
 msgid "Well, obviously clubs and arrows won't work."
-msgstr ""
+msgstr "Be', naturalmente mazze e frecce non servono."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2773
 msgid "Oh darn, he disappeared. Let's find him and try a different weapon."
-msgstr ""
+msgstr "Oh dannato, è scomparso. Troviamolo e proviamo un'altra arma."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2884
 msgid "HAHAHAHAHAHA, DEATH HAS NO EFFECT ON ME YOU FOOLS!"
-msgstr ""
+msgstr "AHAHAHAHAHAH, LA MORTE NON HA EFFETTO SU DI ME, SCIOCCHI!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2926
 msgid "HAHAHAHAHA, I CAN NEVER BE DESTROYED!"
-msgstr ""
+msgstr "AHAHAHAHAHA, NON POTRÒ MAI ESSERE DISTRUTTO!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2932
 msgid "No, there has to be a way!"
-msgstr ""
+msgstr "No, ci deve essere un modo!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2937
 msgid "Well, it isn't gonna be blades."
-msgstr ""
+msgstr "Be', non saranno le spade."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2943
 msgid "And look, he's gone. Now we gotta find him all over again!"
-msgstr ""
+msgstr "E guarda, se ne è andato. Adesso dobbiamo di nuovo cercarlo da capo!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3038
 msgid "HAHAHAHAHAHA, I AM IMMORTAL!"
-msgstr ""
+msgstr "AHAHAHAHAHAH, SONO IMMORTALE!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3103
 msgid "YOU PUNY MORTALS SHALL SOON BE SERVING ME!"
-msgstr ""
+msgstr "YOU PUNY MORTALS PRESTO SARETE AL MIO SERVIZIO!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3109
 msgid "That blasted skeleton! Even fire has no affect on him!"
-msgstr ""
+msgstr "Dannato scheletro! Nemmeno il fuoco ha effetto su di lui!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3115
 msgid ""
 "Look, he disappeared again. Let's find him and try using a different weapon "
 "on him."
 msgstr ""
+"Guarda, è di nuovo scomparso. Troviamolo e proviamo un'altra arma su di lui."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3187
 msgid "AHHHHHH! YOU BLASTED MAGE!"
-msgstr ""
+msgstr "AHHHHHH! MAGO MALEDETTO!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3193
 msgid "Good. We finally got him. He is just dissolving."
-msgstr ""
+msgstr "Bene. Lo abbiamo preso. Si sta già dissolvendo."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3199
 msgid ""
@@ -6838,15 +6870,15 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3216
 msgid "Finally! He has been reduced to dust."
-msgstr ""
+msgstr "Finalmente! L'abbiamo ridotto in polvere."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3222
 msgid "At last! Victory is ours! Good job men!."
-msgstr ""
+msgstr "Finalmente! Abbiamo vinto! Ben lavoro, uomini!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3227
 msgid "So where to now Tallin?"
-msgstr ""
+msgstr "Dove andiamo adesso, Tallin?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3234
 msgid ""
@@ -6889,15 +6921,15 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3486
 msgid "Ugh, a dead body!"
-msgstr ""
+msgstr "Agh, un morto!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3502
 msgid "Here's another body."
-msgstr ""
+msgstr "Qui ce n'è un altro."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3518
 msgid "And another..."
-msgstr ""
+msgstr "E un altro ancora..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3534
 msgid ""
@@ -6918,6 +6950,7 @@ msgid ""
 "So This is the Great Chamber eh? Doesen't look like there is much to see "
 "here."
 msgstr ""
+"Quindi questa è la grande camera, eh? Non mi pare ci sia molto da vedere qua."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3581
 msgid " *rumble*"
@@ -6925,7 +6958,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3586
 msgid "Uh oh, I think I spoke too soon."
-msgstr ""
+msgstr "Oh oh, mi sa che ho parlato troppo presto."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3595
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3701
@@ -7148,9 +7181,9 @@ msgid ""
 "After reaching the dwarvish keep and tending to their wounded the humans - "
 "lead by Tallin, and dwarves - lead by the Dwarvish Lord Hamel made council."
 msgstr ""
-"Dopo essere giunti alla fortezza dei nani ed aver curato i feriti, gli umani "
-"- sotto il comando di Tallin, ed i nani - condotti dal signore dei nani "
-"Hamel si riunirono in consiglio."
+"Dopo essere giunti alla fortezza dei nani e aver curato i feriti, gli uomini "
+"- sotto il comando di Tallin, e i nani - condotti dal signore dei nani Hamel "
+"si riunirono in consiglio."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:14
 msgid ""
@@ -7171,8 +7204,8 @@ msgid ""
 "Thank you human. It is also a great relief to see that our allies of old "
 "have managed to break their bonds and live as freemen once again."
 msgstr ""
-"Grazie, umano. È anche un gran sollievo vedere che i nostri antichi alleati "
-"sono riusciti a spezzare le catene ed a vivere da uomini liberi nuovamente."
+"Grazie, uomo. È anche un gran sollievo vedere che i nostri antichi alleati "
+"sono riusciti a spezzare le catene e a vivere di nuovo da uomini liberi."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:29
 msgid ""
@@ -7181,7 +7214,7 @@ msgid ""
 "pitchforks just won't do it in the long run."
 msgstr ""
 "Sì, questo è il motivo principale della nostra visita. Siamo riusciti a "
-"liberarci, ma per restare liberi, ci servono armi ed armature appropriate; "
+"liberarci, ma per restare liberi, ci servono armi e armature appropriate; "
 "randelli e forconi non saranno sufficienti, a lungo andare."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:34
@@ -7189,7 +7222,7 @@ msgid ""
 "Since dwarves are known to be the finest metalworkers and weapon-smiths we "
 "were hoping that you would be able to help us."
 msgstr ""
-"Dato che i nani sono noti come i migliori metallurghi ed armaioli, speriamo "
+"Dato che i nani sono noti come i migliori metallurghi e armaioli, speriamo "
 "che possiate aiutarci."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:39
@@ -7275,12 +7308,16 @@ msgid ""
 "I don't think I'm all that crazy about facing those trolls again any time "
 "soon. Lets take the mountains."
 msgstr ""
+"Non penso di essere così folle da affrontare di nuovo questi troll tanto "
+"presto. Raggiungiamo le montagne."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:207
 msgid ""
 "However, once the party left the caves they found that they faced a new "
 "threat."
 msgstr ""
+"Comunque, una volta usciti dalle caverne il gruppo scoprì di dover "
+"affrontare una nuova minaccia."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:212
 msgid "Hey look, there is our meat! Come on boys, lunchtime!"
