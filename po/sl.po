@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-12-08 15:15+0100\n"
+"POT-Creation-Date: 2007-01-12 17:05+0100\n"
 "PO-Revision-Date: 2005-06-03 08:00+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -151,6 +151,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:643
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:705
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:101
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:525
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1498
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1679
@@ -162,10 +163,12 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:624
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:541
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1146
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:86
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:186
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:851
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:878
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:905
+#: Northern_Rebirth/scenarios/Compelled.cfg:71
 #: Northern_Rebirth/scenarios/Introductions.cfg:565
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:535
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:557
@@ -177,10 +180,13 @@ msgstr ""
 msgid "Death of Tallin"
 msgstr ""
 
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:105
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1692
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:555
 #: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1159
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:90
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:191
+#: Northern_Rebirth/scenarios/Compelled.cfg:75
 #: Northern_Rebirth/scenarios/Introductions.cfg:579
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:578
 #: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1334
@@ -623,6 +629,49 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:997
 msgid "Thank you Lord."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Compelled.cfg:6
+msgid "Compelled"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Compelled.cfg:12
+msgid ""
+"Note: This work on this branch of the campaign is in progress. It will be "
+"completed by version 2.0."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Compelled.cfg:16
+msgid ""
+"Thus, compelled by some strange and irresistible force, Tallin - with eyes "
+"glazed and mind unthinking - surrendered to the will of his new master."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Compelled.cfg:20
+msgid ""
+"He was first stripped of his weapons and armor and then cast into solitary "
+"confinement. He remained there for months, never being allowed to see the "
+"light of day, being fed only enough food to keep him alive. During this time "
+"he was forced to study the most dark and forbidden arts. His body grew "
+"feeble and emaciated and any remaining independent willpower was brutally "
+"crushed as he was molded fully to the whims of his master."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Compelled.cfg:24
+msgid ""
+"Tallin never knew exactly how much time passed, but eventually he was "
+"declared fit for service and summoned before Malifor. He was given the basic "
+"power to animate corpses and sent to a distant network of tunnels to clear "
+"out a group of trolls who had taken up residence there."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Compelled.cfg:67
+msgid "Kill the Troll Leaders"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:382
+#: Northern_Rebirth/scenarios/Compelled.cfg:278
+msgid "Argh! I have failed my master."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:4
@@ -1556,6 +1605,7 @@ msgstr ""
 msgid "Neep Neep!"
 msgstr ""
 
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:488
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:249
 msgid "Ahhhh!"
 msgstr ""
@@ -3120,6 +3170,7 @@ msgstr ""
 msgid "Oh yeah!"
 msgstr ""
 
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:459
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1015
 msgid "HAHAHAHAHA!"
 msgstr ""
@@ -3205,6 +3256,146 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:1258
 msgid ""
 "You foolish humans! You shall all soon be meat for my wolves! REINFORCEMENTS!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:6
+msgid "Protecting the Master"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:21
+msgid ""
+"As Tallin sat staring blankly at the body of his former friend - loathing "
+"and hating what he had become - he received urgent summons from his master."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:25
+msgid ""
+"As it turned out, the attack Tallin had been sent to take care of had been a "
+"decoy. While Tallin was away, Tallin's former friends had attacked Malifor's "
+"study with overwhelming force."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:29
+msgid ""
+"Although Tallin was glad at heart to see Malifor in such distress, he "
+"unwillingly rushed to his master's aid. When he got there he found that all "
+"the outer defenses had been smashed and Malifor had bolted himself up in his "
+"study. Bound by the will of his master he and his minions took up positions "
+"outside Malifor's study door."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:82
+msgid "Resist Till the End of Turns"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:381
+msgid "Look, the traitor Tallin has come to protect his master."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:387
+msgid " Camerin! Please get out of here. Don't make me kill you too."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:393
+msgid ""
+"Fat chance buddy. I can handle the likes of you in my sleep. Fall on them "
+"boys!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:409
+msgid "At last, I am free..."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:424
+msgid " *BOOM!*"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:465
+msgid "What the.... NO!!!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:471
+msgid "HEEEEE-YAAAAA!!!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:498
+msgid ""
+"CURSES ON YOU YOU BLASTED MAGES, CURSES ON YOU YOU BLASTED HUMANS, CURSES ON "
+"YOU YOU BLASTED DWARVES! MAY YOUR MISERABLE LIVES BE FULL OF TORTURE! MAY "
+"YOUR PEOPLE NEVER BE FREE! MAY ALL YOUR NEAR AND DEAR DESERT YOU! MAY A "
+"THUNDERBOLT HIT YOUR HEAD! MAY..."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3202
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:504
+msgid "May you shut your ugly mouth and hurry up and die."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3208
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:510
+msgid ""
+"MAY THE EARTH OPEN UP AND SWALLOW YOU! MAY ALL YOUR TEETH FALL OUT! MAY YOU "
+"BECOME A WEAK SKINNY OLD MAN! MAY............."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3213
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:520
+msgid "Finally! He has been reduced to dust."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:526
+msgid ""
+"Malifor is dead... what have I done? What am I going to do? I must flee this "
+"place!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:532
+msgid "Hey, there goes the traitor Tallin!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:538
+msgid ""
+"Let him go. He was not acting under his free will and thus there is no blame "
+"attached to him. I have known of many such poor souls. If he does trouble us "
+"in the future however, we should not spare him."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:544
+msgid ""
+"Besides, he will probably just go and drown himself in the nearest river "
+"anyway so why bother."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:562
+msgid "Ahhh! Master, help me!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:568
+msgid "Serves you right, you useless piece of junk."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:584
+msgid "Master! Tallin is taking my villages!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:590
+msgid "Shut up you idiot. I know what I am doing."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:596
+msgid ""
+"Agreed. And if you don't keep your mouth shut then I will personally shut it "
+"for you!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:601
+msgid " *Gulp*"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:618
+msgid ""
+"Hmmm, you aren't as bad as I thought Tallin. Unfortunately for you however, "
+"we aren't ready to give up just yet."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:4
@@ -4288,6 +4479,104 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1376
 msgid "Just see the fate of one who offends the dwarves of Knalga."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:6
+msgid "Slave of the Undead"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:12
+msgid "Having completed his mission, Tallin reported back to his master."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:16
+msgid ""
+"Well done my loyal slave. I see you have successfully completed your mission."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:21
+msgid "Yes master."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:26
+msgid ""
+"Very well. Now, I have a new mission for you. Your old friends are becoming "
+"a bit of an annoyance. Instead of just giving up as they should, they keep "
+"foolishly attempting to attack me time and again. This time they have "
+"attacked and seized one of the northern entrances. Although I can easily "
+"defeat them as I have done several times when you were in training, this "
+"time I want you to take care of them. Consider it a test of your loyalty."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:31
+msgid "...as you command ...master."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:36
+msgid ""
+"Good boy. Now, I am giving you the power to raise more powerful types of "
+"undead. In addition, I will put under you command a few disembodied spirits "
+"as well as some of my more promising adepts. Use them wisely. Now, go and "
+"destroy those vermin!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:41
+msgid ""
+"Upon hearing the order of his master to kill his friends, something that had "
+"been dormant inside Tallin these last few months revolted. However, the "
+"control that Malifor had over him was so great that he had little choice but "
+"to obey his master. Thus, with his free will madly struggling to break gees "
+"of the Lich, Talliln made his way to the northern entrance."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:97
+msgid "Destroy the Invaders"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:330
+msgid "My God! Tallin is that you?"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:335
+msgid " $betrayed_friend.user_description, I..."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:341
+msgid "Come on Tallin, talk to me!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:346
+msgid ".........."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:352
+msgid "Tallin come on! Don't let that lich control you!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:357
+msgid "... KILL THE RABBLE!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:363
+msgid "No Tallin! Stop!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:368
+msgid "Deaf to the calls of his friend, Tallin commenced the attack."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:397
+msgid "What have I done..."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:422
+msgid ""
+"You fool! You have spared the humans and betrayed me! But I don't have to "
+"worry, I have already foreseen that possibility."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:454
+msgid "What the... everybody get out! The roof of the cave is collapsing!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:4
@@ -6051,20 +6340,6 @@ msgid ""
 "on you you blasted humans, and CURSES ON YOU YOU BLASTED TALLIN! MAY YOUR "
 "MISERABLE LIVES BE FULL OF TORTURE! MAY YOUR PEOPLE NEVER BE FREE! MAY ALL "
 "YOUR NEAR AND DEAR DESERT YOU! MAY A THUNDERBOLT HIT YOUR HEAD! MAY..."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3202
-msgid "May you shut your ugly mouth and hurry up and die."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3208
-msgid ""
-"MAY THE EARTH OPEN UP AND SWALLOW YOU! MAY ALL YOUR TEETH FALL OUT! MAY YOU "
-"BECOME A WEAK SKINNY OLD MAN! MAY............."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3213
-msgid "Finally! He has been reduced to dust."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3219
