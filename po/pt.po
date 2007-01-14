@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-01-13 15:09+0100\n"
+"POT-Creation-Date: 2007-01-14 20:36+0100\n"
 "PO-Revision-Date: 2005-08-30 10:31+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -188,23 +188,13 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:937
 #: Northern_Rebirth/scenarios/Showdown.cfg:967
 #: Northern_Rebirth/scenarios/Showdown.cfg:993
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:441
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:463
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:567
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:541
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1146
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:77
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:167
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:851
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:878
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:905
 #: Northern_Rebirth/scenarios/Compelled.cfg:67
 #: Northern_Rebirth/scenarios/Introductions.cfg:510
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:536
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:558
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:564
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1172
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1321
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:828
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:238
 msgid "Death of Tallin"
@@ -213,14 +203,10 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:93
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1589
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1683
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:555
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1159
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:81
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:172
 #: Northern_Rebirth/scenarios/Compelled.cfg:71
 #: Northern_Rebirth/scenarios/Introductions.cfg:524
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:578
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1334
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:251
 msgid "Turns run out"
 msgstr ""
@@ -578,9 +564,6 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:953
 #: Northern_Rebirth/scenarios/Showdown.cfg:979
 #: Northern_Rebirth/scenarios/Showdown.cfg:1005
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:863
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:890
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:917
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:832
 msgid "Death of Hamel"
 msgstr ""
@@ -696,7 +679,6 @@ msgstr ""
 msgid "Argh! I have failed my master."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:4
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:4
 msgid "The Eastern Flank"
 msgstr ""
@@ -743,12 +725,10 @@ msgstr ""
 msgid "Hey, look who is here!"
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:302
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:316
 msgid "Where is my gold!"
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:308
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:322
 msgid "It's Rakshas!"
 msgstr ""
@@ -770,12 +750,10 @@ msgid ""
 "mashed to paste and fed to the whelps."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:330
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:344
 msgid "Hahahaha! Very g..."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:336
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:350
 msgid "RAKSHAS!!!"
 msgstr ""
@@ -792,7 +770,6 @@ msgid ""
 "between us. Stand and fight!"
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:354
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:368
 msgid ""
 "Pah! I have better things to do then stamp out your insignificant life. "
@@ -848,7 +825,6 @@ msgstr ""
 msgid "Ro'Arthian, send a message to Hamel. Tell him it's time."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:421
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:492
 msgid "It's done."
 msgstr ""
@@ -865,14 +841,8 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:932
 #: Northern_Rebirth/scenarios/Showdown.cfg:962
 #: Northern_Rebirth/scenarios/Showdown.cfg:988
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:436
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:458
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:846
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:873
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:900
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:531
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:553
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1315
 msgid "Defeat the enemy leaders"
 msgstr ""
 
@@ -883,19 +853,9 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:941
 #: Northern_Rebirth/scenarios/Showdown.cfg:971
 #: Northern_Rebirth/scenarios/Showdown.cfg:997
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:445
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:467
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:545
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1150
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:855
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:882
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:909
 #: Northern_Rebirth/scenarios/Introductions.cfg:514
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:540
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:562
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:568
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1176
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1325
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:242
 msgid "Death of Ro'Arthian"
 msgstr ""
@@ -907,19 +867,9 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:945
 #: Northern_Rebirth/scenarios/Showdown.cfg:975
 #: Northern_Rebirth/scenarios/Showdown.cfg:1001
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:449
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:471
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:549
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1154
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:859
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:886
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:913
 #: Northern_Rebirth/scenarios/Introductions.cfg:518
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:544
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:566
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:572
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1180
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1329
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:246
 msgid "Death of Ro'Sothian"
 msgstr ""
@@ -945,7 +895,6 @@ msgstr ""
 msgid "Suit yourself, you dumb troll!"
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:883
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:634
 msgid ""
 "Awww, aren't they the most loving, sharing bunch of orcs you have ever seen?"
@@ -954,264 +903,8 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1102
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:921
 #: Northern_Rebirth/scenarios/Showdown.cfg:1091
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:889
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1405
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:640
 msgid " *snicker*"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:9
-msgid ""
-"After breaking out of their encirclement the party continued their pursuit "
-"of the trolls."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:14
-msgid ""
-"By now however they had lost all hope of recovering their gold and instead "
-"just hoped they could reach Rakshas before he could make good use of it."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:19
-msgid ""
-"Following the bank of a river they soon entered a valley, at the mouth of "
-"wich stood a massive orcish fortress."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:284
-msgid "Woha! Look at that fortress."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:290
-msgid ""
-"Yes, and my gryphons have reported that this is a very strategically "
-"important fortress for the orcs. As a matter of fact it is the anchor for "
-"their entire eastern flank."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:296
-msgid "Hey look who is here!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:313
-msgid "Right here master."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:319
-msgid ""
-"Ahhhhh, very good my loyal servant. You will be greatly rewarded for this! "
-"Tell me, what news do you have on that human vermin that keeps evading my "
-"clutches?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:324
-msgid ""
-"We trapped him and by now I am sure they all have been mashed to paste and "
-"fed to the whelps."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:342
-msgid ""
-"What!? YOU! YOU ANNOYING DISGUSTING LITTLE VERMIN! DON'T YOU KNOW HOW TO "
-"DIE!?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:348
-msgid ""
-"Sorry pal, but the only one who will be dying here is you and anyone who "
-"comes between us. Stand and fight!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:390
-msgid ""
-"Blast it. The coward has fled. Quickly men, we must storm this fortress "
-"before he can start spending that gold."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:396
-msgid "Yeah! Down with the orcs!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:403
-msgid "Ro'Arthian, send a message to Hammel. Tell him it's time."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold.cfg:436
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:427
-msgid "Alright, let's move out people!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:488
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:934
-msgid "Ahhhh! Save me my husband!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:494
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:940
-msgid " *rolls eyes* Dramatic as always."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:531
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:977
-msgid "Theta, when this is all over, you should go and join a theater."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:538
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:984
-msgid "Hey, don't you always say that life is nothing but a a drama?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:544
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:990
-msgid "Yes, it might be a drama, but do you have to make it so dramatic?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:550
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:996
-msgid "Of course I do!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:567
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1013
-msgid "Alas! So.... close."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:573
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1019
-msgid ""
-"Hey, that's not right. The good guyz aren't supposed to die. Oh well, i'll "
-"fix that."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3346
-#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3530
-#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3757
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:608
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1054
-msgid "There we go."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:614
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1060
-msgid "Ahh yes, that's better."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:659
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:704
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:746
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:791
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1105
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1150
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:769
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:814
-msgid "I have had enough! Come on brother, let's get outta here."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:686
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:731
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:773
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:818
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1132
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1177
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:796
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:841
-msgid ""
-"Dang it! They're gone, and the creatures they control are leaving too. "
-"Without them this is hopeless."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:749
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:836
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1195
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:859
-msgid "Farewell my friends. I now go to join my fallen brothers."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:765
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:852
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1211
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:875
-msgid "No Stalrag! Without you what will become of us Shinsplitters?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:770
-msgid ""
-"Shinsplitters... join Tallin.... He is your new.... leader.... Never... "
-"betray.... him......."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:776
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:863
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1222
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:886
-msgid "Your death shall not go unavenged brave Stalrag. DEATH TO THE ORCS!!!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:782
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:869
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1228
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:892
-msgid "DIE YOU FOUL SCUM!!!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:796
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1242
-msgid ""
-"Argh! I am finished, but our campaign must... not end... kill..... "
-"Rakshas..... and ..... save..... our...... people......."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:802
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:889
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1248
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:912
-msgid "No Tallin, I can't do it without you!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:818
-msgid ""
-"Alright the orc's eastern flank has been ripped open. Now let's go settle "
-"scores with Rakshas once and for all!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:834
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1182
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1273
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1481
-msgid " *roars in pain*"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:840
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1188
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1279
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1487
-msgid "Krash!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:846
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1194
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1285
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1493
-msgid "It's no good Tallin, he is gone."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:852
-msgid "You wretched monsters are going to pay for this!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:858
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1206
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1297
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1505
-msgid "Awww, I liked that guy!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:871
-msgid "Move you stupid orcs! I am trying to recruit here!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Eastern_Flank_Alone.cfg:877
-msgid "Suit yourself you dumb troll!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:6
@@ -2100,12 +1793,10 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:5
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:5
 msgid "Epilogue"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:9
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:9
 msgid ""
 "The dead and wounded being cared for and after the party having died down, "
 "everyone gathered together in the conquered castle to decide on their next "
@@ -2113,7 +1804,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:313
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:310
 msgid ""
 "So, Rakshas has been defeated and all the armies that he has gathered have "
 "been crushed. This takes care of many problems but if we don't take proper "
@@ -2121,19 +1811,16 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:320
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:317
 msgid "How is that Tallin?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:326
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:323
 msgid ""
 "As we have discussed before with the dwarves, Rakshas alone wasn't our main "
 "problem, our main problem is the nature of the orcs themselves."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:332
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:329
 msgid ""
 "Orcs in general are very numerous and warlike. This usually isn't a problem "
 "since they are almost always fighting amongst themselves. If, however, a "
@@ -2142,19 +1829,16 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:338
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:335
 msgid ""
 "So basically, we have to see to it that the orcs do not unite under one "
 "strong, warlike leader in the future."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:344
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:341
 msgid "Exactally."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:350
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:347
 msgid ""
 "Another thing to consider people is that we don't just want to keep the orcs "
 "from ruling the Northlands, but we want to make the Northlands a safe place "
@@ -2164,17 +1848,14 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:356
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:353
 msgid "Good point. Does anybody have any ideas?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:362
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:359
 msgid "Actually, I do have suggestion."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:368
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:365
 msgid ""
 "Wither or not any of us like it, the fact is that orcs are here to stay. "
 "They have just as much right to live here and be treated fairly as everyone "
@@ -2182,7 +1863,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:374
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:371
 msgid ""
 "So what I propose is the creation of a neutral body, composed of humans, "
 "dwarves, elves, drakes, trolls or anyone else who would like to join, no "
@@ -2190,7 +1870,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:380
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:377
 msgid ""
 "This body would not claim sovereignty over any land, race or territory but "
 "exist solely for the purpose of bringing peace and justice to the lands "
@@ -2199,7 +1878,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:386
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:383
 msgid ""
 "The first purpose of this body would be to go to go to each orcish tribe and "
 "make an agreement with them that would ensure that the problems we have had "
@@ -2207,7 +1885,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:392
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:389
 msgid ""
 "Right now the orcs have just experienced a crushing defeat so it shouldn't "
 "be too hard to get them to agree. In the future, if they should go back on "
@@ -2216,47 +1893,39 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:398
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:395
 msgid ""
 "That is the basic outline of my proposal. Does anybody here approve of it?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:403
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:400
 msgid ""
 "Hearing the words of the wise mage, the whole assembly erupted with cries of "
 "approval."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:409
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:406
 msgid "Awesome!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:415
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:412
 msgid "Great!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:421
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:418
 msgid "Smart!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:427
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:424
 msgid "Sounds like fun."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:432
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:429
 msgid ""
 "Rising to his feet and Hamel raised his hands and waited for the clamor to "
 "die down."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:438
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:435
 msgid ""
 "Over time, Tallin has proved himself to be a wise, courageous and capable "
 "leader. He is respected by humans, elves and dwarves alike. I therefore "
@@ -2264,7 +1933,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:443
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:440
 msgid ""
 "Once again the council erupted into thunderous approval. The tumult lasted "
 "for some time and at long last Tallin rose to his feet and held up his hands "
@@ -2272,61 +1940,51 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:449
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:446
 msgid ""
 "I thank everyone for the love and honor bestowed upon me. In honor of that "
 "love I accept this responsibility."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:454
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:451
 msgid ""
 "The ensuing uproar threatened to erupt into a full blown celebration but "
 "Tallin finally managed to calm everyone down."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:460
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:457
 msgid ""
 "One thing is for certain, I cannot do this task all by myself; I will need "
 "the help of all of you."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:466
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:463
 msgid ""
 "Father Marcus, this whole plan is your idea. Would you and your wife be "
 "willing to stand by my side and support me?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:472
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:469
 msgid ""
 "Gladly Tallin. We will stand by your side till the end of time if need be."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:486
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:483
 msgid "Stalrag?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:493
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:490
 msgid "I am yours to command my lord."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:499
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:496
 msgid " 'Lord' Oh no!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:505
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:502
 msgid "Hehe, better get used to it."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:511
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:508
 msgid ""
 "You have led the myself and The Shinsplitters well and we are all very fold "
 "of you. In maintaining justice in these Northlands we will always be at your "
@@ -2334,12 +1992,10 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:528
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:525
 msgid "Camerin?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:534
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:531
 msgid ""
 "Heck yeah! It has been a total blast being with you. I wouldn't even think "
 "of leaving now!"
@@ -2378,26 +2034,22 @@ msgid "Thank you Tallin."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:604
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:551
 msgid "Krash?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:609
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:556
 msgid ""
 "I am sorry Tallin but me and my friends had better be getting back to our "
 "people."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:615
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:562
 msgid ""
 "No need to feel sorry Krash for you and your friends have been of invaluable "
 "help to us. The entire Northlands are in your debt."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:620
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:567
 msgid ""
 "As you have said once before Tallin, let's not let debts get between us. I "
 "will spread the word amongst my people and if anyone want's to join you they "
@@ -2407,36 +2059,30 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:625
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:572
 msgid ""
 "And if you are ever in desperate need of help then come to us. The gryphons "
 "will show you the way."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:631
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:578
 msgid "Thanks friend."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:649
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:596
 msgid "Alfred, your assistance has also been of great help to us."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:654
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:601
 msgid ""
 "Pah, think nothing of it. It sure makes an interesting story to tell the "
 "folks back home."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:660
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:607
 msgid "So you would like to return to your home?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:665
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:612
 msgid ""
 "Yes. The dead should stay in the land of the dead. It is against the laws of "
 "nature for it to be otherwise. There is just one problem, Malifor forced me "
@@ -2444,26 +2090,22 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:671
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:618
 msgid ""
 "I believe Theta and I can help you with that Alfred. Have no worries, you "
 "shall soon be home."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:676
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:623
 msgid ""
 "Thank you father, and thank you again Tallin for all that you have done, "
 "both for the world of the living and the dead."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:682
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:629
 msgid "My thanks to you as well Alfred. May you rest in peace."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:692
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:639
 msgid ""
 "Ro'Arthian and Ro'Sothian, you two have also been of invaluable help. As per "
 "our agreement you may return to your pass and I will see to it that guards "
@@ -2471,7 +2113,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:698
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:645
 msgid ""
 "Thank you Tallin. Our old bones are now weary of being animated long past "
 "their time. Now we are finally able to rest in peace. However, we have "
@@ -2481,14 +2122,12 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:713
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:660
 msgid ""
 "Stalrag, for years now we have fought each-other, but recent events have "
 "made us allies. I now go to eternal sleep; may we part as friends."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:719
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:666
 msgid "May your rest be peaceful and undisturbed Ro'Arthian."
 msgstr ""
 
@@ -2540,7 +2179,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:774
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:687
 msgid ""
 "Going by Father Marcus's advice, the Alliance first approached all the "
 "different orcish tribes and made agreements with them. If a Warlord would "
@@ -2556,7 +2194,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:784
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:693
 msgid ""
 "Hamel, assisted by the Northern Alliance continued to rebuild Knalga and "
 "before long it shone once again in all it's former glory. Under the "
@@ -2566,26 +2203,10 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge.cfg:790
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:698
 msgid ""
 "Thus, from a small, enslaved community, the people of Dwarven Doors - by "
 "their bravery, intelligence and courage - brought the Northlands out of "
 "their insanity and restored them to their former glory."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:676
-msgid ""
-"Once again I thank all of you. For those of you who are leaving, may the "
-"Lords of Light - or Darkness - guide you on your path. For those of you who "
-"are staying - come, we have much to do."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Northern_Rebirth_Epiloge_Alone.cfg:682
-msgid ""
-"Thus, Tallin and his friends went back to Dwarven Doors where they founded "
-"the Northern Alliance, a body dedicated to ensuring peace and justice in the "
-"Northlands. It was soon settled that the main headquarters of the Northern "
-"Alliance would be the new city of Dwarven Doors."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:24
@@ -3861,7 +3482,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:8
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:26
 msgid "Showdown"
 msgstr ""
 
@@ -3887,21 +3507,18 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:32
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:56
 msgid ""
 "The idea was to completely surround Rakshas on all sides, cutting off any "
 "chance of escape or reinforcements."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:520
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:512
 msgid ""
 "The group that went to the north was led by Ro'Arthian and was composed of "
 "trolls, orges and some selected mages."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:529
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:576
 msgid ""
 "The group that went to the north was led by Krash and his drake friends."
 msgstr ""
@@ -3919,8 +3536,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:566
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:524
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:588
 msgid "A few short hours later all the groups converged on the fortress."
 msgstr ""
 
@@ -3988,7 +3603,6 @@ msgid "Will they, now?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:873
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:788
 msgid "WHAT!?!?!"
 msgstr ""
 
@@ -3998,7 +3612,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:885
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:800
 msgid "But... but... how can this be?"
 msgstr ""
 
@@ -4007,17 +3620,14 @@ msgid "It's called 'The End', foul orc. Forward! FOR KNALGA!!!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:896
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:811
 msgid "FOR FRIENDSHIP!!!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:902
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:817
 msgid "FOR PEACE!!!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:908
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:823
 msgid "FOR FUN!"
 msgstr ""
 
@@ -4026,7 +3636,6 @@ msgid "FOR HIDEL!!!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:920
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:829
 msgid "FOR DWARVEN DOORS!!!"
 msgstr ""
 
@@ -4051,7 +3660,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1034
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1353
 msgid " *small voice lost in the uproar* Awww, is it over already?"
 msgstr ""
 
@@ -4074,23 +3682,19 @@ msgid "Or the humans of Dwarven Doors."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1080
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1393
 msgid ""
 " *gurggle* No!... this.... cannot.... be... happening.... to.... me....."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1086
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1399
 msgid "Such were the last words of of Rakshas the great!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1107
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1423
 msgid "Argh!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1113
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1429
 msgid ""
 "Hamel! Blast it, without the dwarves to hold the western flank we are as "
 "good as defeated."
@@ -4105,7 +3709,6 @@ msgid "Aye, and not just any orcs either, those are all hardened veterans!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1136
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1452
 msgid ""
 "Yeah. Obviously this is going to take some time. If necessary we can sit "
 "tight in our fortifications and siege them until they starve!"
@@ -4117,154 +3720,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1157
 msgid "Sisal! Noooo! Not you too!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:32
-msgid ""
-"After scattering the orc's entire eastern flank the party  set off after "
-"Rakshas."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:37
-msgid ""
-"They were soon intercepted by a gryphon that the liches had sent ahead to "
-"scout."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:41
-msgid ""
-"The gryphon reported that in an enormous fortress a few leagues west from "
-"them, Rakshas was rallying a massive orcish force."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:46
-msgid ""
-"The gryphon further reported that a few more legues west was a large "
-"hardened dwarvish force, steadily advancing on the orcish fortress."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:51
-msgid ""
-"Battle plans were quickly made and the party quickly split themselves into "
-"three groups. Two of the groups immediately set off northwest, and southwest "
-"respectively while the third group rested for an hour and then set of "
-"directly west."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:518
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:582
-msgid ""
-"Ro'Arthian's brother, Ro'Sothian went south with another crew of trolls, "
-"ogres and mages. Tallin himself let the western group."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:684
-msgid ""
-"RAKSHAS! YOU HAVE AVOIDED ME FOR THE LAST TIME! NOW COME OUT AND DIE LIKE A "
-"MAN!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:690
-msgid "What the...? How did he get here?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:696
-msgid ""
-"We crushed and scattered your entire eastern flank buddy, and now it's your "
-"turn!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:702
-msgid ""
-"Argh you frustrating little vermin! I am going to pluck your eyeballs out "
-"and..."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:708
-msgid "We don't have any eyeballs you idiot!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:714
-msgid ""
-"PAH! You fools, just know that you shall soon be outnumbered and surrounded. "
-"At this very moment my entire western army is marching this way. They will "
-"soon be here and scatter your puny forces like straw!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:782
-msgid "Will they now?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:794
-msgid ""
-"Your entire western army has been slaughtered my friend, and YOU will soon "
-"join them!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:806
-msgid "It's called 'The End' my friend. Alright people, FOR KNALGA!!!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:835
-msgid "FOR THE NORTH! CHARGE!!!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1216
-msgid ""
-"Shinsplitters... join Tallin.... He is your new.... leader.... trust..... "
-"and..... serve..... him.... as.... you...... have.....served....me."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1200
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1291
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1499
-msgid "You wretched monsters! You are going to pay for this!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1311
-msgid "Anita no! Please don't die!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1320
-msgid "I.... love..... you..... Tallin..... don't.... forget.... me."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1326
-msgid "Nooooooooooo!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1342
-msgid ""
-"At last! Rakshas has been slain and the orcish host has been crushed. Peace "
-"and prosperity will come back to the Northlands once again!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1347
-msgid ""
-"At these words every man, elf, dwarf, drake, lich, ogre, friendly troll, and "
-"gryphon sent out a thunderous cheer. Their long ordeal was finally over."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1370
-msgid ""
-"Die you murderous beast! No longer shall you terrorize the people of the "
-"North."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1376
-msgid "Just see the fate of one who offends the dwarves of Knalga."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1387
-msgid "Or the people of Dwarven Doors."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1440
-msgid "Geez, look at all those orcs pouring out of that fortress."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Showdown_Alone.cfg:1446
-msgid "And not just any orcs either, those are all hardened veterans!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:4
@@ -4368,8 +3823,6 @@ msgid "What the... everybody get out! The roof of the cave is collapsing!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:96
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:4
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:4
 msgid "Stolen Gold"
 msgstr ""
 
@@ -4403,8 +3856,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:127
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:34
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:40
 msgid "What do you mean?"
 msgstr ""
 
@@ -4413,8 +3864,6 @@ msgid "Yer gold, Tallin, we ha' failed to protect it."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:137
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:44
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:50
 msgid "My gold!? Why what happened? Start from the beginning. "
 msgstr ""
 
@@ -4470,8 +3919,6 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:195
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:305
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:405
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:115
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:135
 msgid "How long ago did the trolls make off with the gold?"
 msgstr ""
 
@@ -4532,8 +3979,6 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:250
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:341
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:441
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:151
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:171
 msgid "Thus the party set off to the northern tunnels to pursue the trolls."
 msgstr ""
 
@@ -4550,7 +3995,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:276
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:84
 msgid ""
 "This isn't looking good. Not only do we fail to get the princess but now we "
 "lost all of our gold! Seriously Hamel, I don't know if we're gonna make it."
@@ -4563,12 +4007,10 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:285
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:93
 msgid "Yeah, they ran off with all the rest of our gold instead."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:290
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:98
 msgid ""
 "Snap out of it Tallin! We are not in control of fate. We will do all we can "
 "to the best of our ability and leave the results to the gods."
@@ -4593,8 +4035,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:315
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:415
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:125
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:145
 msgid ""
 "Then we shall pursue them. Even if we don't catch them then we might be able "
 "to hit Rakshas before he has had a chance to put all that gold to good use."
@@ -4620,8 +4060,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:351
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:451
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:161
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:181
 msgid ""
 "Soon, the trail began to lead east, and then south. A few hours latter the "
 "party emerged from the tunnels into dawn's early light."
@@ -4654,7 +4092,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:385
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:115
 msgid ""
 "That's it! I have had enough from you worthless rabble. I will soon send a "
 "rider with the promised gold, and in the meantime, I'm leaving!"
@@ -4686,6 +4123,10 @@ msgid ""
 "of the orcs!"
 msgstr ""
 
+#: Northern_Rebirth/scenarios/Stolen_Gold.cfg:436
+msgid "Alright, let's move out people!"
+msgstr ""
+
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:446
 msgid ""
 "They met light resistance all along the trail of the trolls, which they "
@@ -4693,8 +4134,6 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:753
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:479
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:498
 msgid ""
 "However, upon emerging from the tunnels, the party found themselves "
 "surrounded."
@@ -4705,8 +4144,6 @@ msgid "Haha, suckers! We got you now!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:763
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:489
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:508
 msgid "Hahaha! They walked right into our trap."
 msgstr ""
 
@@ -4719,8 +4156,6 @@ msgid "Now let's make mush out of these puny creatures!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:778
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:504
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:523
 msgid "Oh no, we are surrounded!"
 msgstr ""
 
@@ -4729,32 +4164,23 @@ msgid "Heart shall be the harder as our strength lessens. Kill them all!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:790
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:516
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:535
 msgid "Yeeeahhhh! I like it!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:796
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:522
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:541
 msgid "Haha! Arn't you glad we came along brother?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:801
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:527
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:546
 msgid "Haha! This is gonna be fun!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:811
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:554
 msgid "Defeat the enemy leaders or"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:815
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1390
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:559
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1167
 msgid "Resist as long as you can"
 msgstr ""
 
@@ -4872,38 +4298,26 @@ msgid "Very well, people. The road ahead is clear, onward to victory!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1163
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:916
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:939
 msgid " *sniff sniff*"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1168
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:921
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:944
 msgid "What's up big guy?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1174
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:927
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:950
 msgid " *flap flap flap*"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1211
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:964
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:987
 msgid "Hey! Where is he going?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1217
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:970
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:993
 msgid "Krash man, you are gonna miss all the fun!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1223
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:976
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:999
 msgid "I think he has decided that it is time for him to part ways with us."
 msgstr ""
 
@@ -4916,26 +4330,18 @@ msgid "Farewell, Krash, may the lords of light guide your path."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1306
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1057
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1080
 msgid "Hey! Look who's back!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1314
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1068
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1091
 msgid "And look, he brought his friends too!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1321
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1075
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1098
 msgid "GRRRRRRR!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1326
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1080
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1103
 msgid "ROOOAAARRRR!!!"
 msgstr ""
 
@@ -4954,20 +4360,14 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1350
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1104
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1127
 msgid "Awww, what a darling!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1356
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1110
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1133
 msgid "Tell that to the trolls."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1363
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1117
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1140
 msgid "What! Drakes! Fire! Ahhhhhh!"
 msgstr ""
 
@@ -4976,7 +4376,6 @@ msgid "Shut your mouth, you coward!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1386
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1163
 msgid "Help Tallin defeat the enemy leaders or"
 msgstr ""
 
@@ -5026,13 +4425,11 @@ msgid "You are a fool, human! We shall crush and destroy you!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1570
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1140
 msgid "Help Tallin defeat the enemy leaders"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1599
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1693
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1344
 msgid "Haha! Look at them run!"
 msgstr ""
 
@@ -5044,417 +4441,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1655
 msgid "You are a fool, human! Watch how we will crush and destroy you!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:9
-msgid ""
-"Frustrated by their failure and puzzled by the presence of trolls so close "
-"to the dwarvish defenses, the party quickly made their way back to Knalga."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:14
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:20
-msgid ""
-"However, upon arriving there something seemed to be wrong. Instead of being "
-"hailed boisterously by the Dwarves as they usually did, they were met with "
-"silent guards with downcast eyes."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:18
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:24
-msgid ""
-"Fearing the worst Tallin rushed to find Hamel who also couldn't bear to meet "
-"his eyes."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:23
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:29
-msgid "Hamel what is wrong!? Why is everyone acting so strangely?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:29
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:35
-msgid ""
-"We are deeply ashamed of ourselves Tallin. We have failed the trust that you "
-"have given us."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:39
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:45
-msgid "Your gold Tallin, we have failed to protect it."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:49
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:55
-msgid ""
-"Well no sooner had you left then the orcs once again launched a massive "
-"assault."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:54
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:60
-msgid ""
-"Such a massive and fierce assault it was that we had to call upon all our "
-"reserves, and when that proved insufficient, we had no other choice then to "
-"call some men off the other defenses."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:59
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:65
-msgid ""
-"It was a ploy, no sooner had we thinned the ranks of the northern defenders "
-"then a small hardened group of trolls smashed through the defenses and made "
-"their way straight for your gold."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:64
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:70
-msgid ""
-"We eventually managed to beat them back but not before they made off with "
-"your entire stock of gold."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:69
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:75
-msgid ""
-"I am sorry Tallin, we did all that we could. I just wish we could have done "
-"more."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:74
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:80
-msgid ""
-"Oh no! That means that not only  have we had a huge loss, that means that "
-"all that gold goes to our enemies!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:79
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:85
-msgid "I know Tallin."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:89
-msgid ""
-"Don't give in to despair Tallin. At least you prevented the orcs from "
-"getting the ransom money."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:105
-msgid "You're right Hamel, sorry. Anyhow, were you able to pursue the trolls?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:110
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:130
-msgid ""
-"We tried Tallin, but with the orcs still crashing against our southern "
-"defenses and other groups of trolls trying to break through everywhere, we "
-"simply didn't have the manpower."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:120
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:140
-msgid "It couldn't have been more then a day now."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:130
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:150
-msgid ""
-"Hamel, rally the dwarves and prepare to make an all out offensive against "
-"the orcs. It's time to give them some of their own."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:135
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:155
-msgid ""
-"We will follow the trial of the trolls which will hopefully lead us back to "
-"Rakshas. If so we'll hit him from that direction."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:140
-msgid "Sounds like a plan to me. May the Mountain Gods be with you."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:146
-msgid "May the Lords of Light guide your path. Alright people, lets move out!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:156
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:176
-msgid ""
-"They met light resistance all along the trail of the trolls which they "
-"quickly overcame."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:484
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:503
-msgid "Haha suckers! We got you now!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:494
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:513
-msgid "And we have already sent the gold ahead to the master!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:499
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:518
-msgid "Now let's make a mush out of these puny creatures!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:510
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:529
-msgid "Who cares! Lets just kill them all!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:537
-msgid "Kill the enemy leaders"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:571
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:594
-msgid ""
-"You cruel creature! How dare you use your brute strength against such a "
-"frail creature as me."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:577
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:600
-msgid ""
-"Don't worry Theta, you will have plenty of opportunities to set him strait."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:614
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:637
-msgid "That's darned right!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:620
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:643
-msgid ""
-"Theta! Language like that coming from you! You should really stop hanging "
-"around the dwarves so much."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:626
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:649
-msgid "Hehe, sorry."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:643
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:666
-msgid "Ack! I have been brained!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:649
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:672
-msgid "Eeeeww! Gross! Ahh never mind, I'll get you cleaned up good."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:683
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:706
-msgid "Ahhh Theta, you would make such a good housewife!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:689
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:712
-msgid "Yes, if you would ever buy me a house! *pouty face*"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:695
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:718
-msgid ""
-"Geez Theta, don't you think that this isn't really a good time to talk about "
-"that?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:701
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:724
-msgid "Hehe, sorry!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:857
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:880
-msgid ""
-"Join Tallin.... He is your new.... leader.... Never... betray.... him......."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:883
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:906
-msgid ""
-"Argh! I am finished, but our campaign must... not end... get... back.... "
-"to.... Knalga..... and ..... save..... our...... people......."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:982
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1005
-msgid ""
-"Such a fierce, and at the same time gentle creature. He will be sorely "
-"missed."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:988
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1011
-msgid "Farewell Krash, may the lords of light guide your path."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1086
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1109
-msgid "Hurry friends, lets set up camp!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1092
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1115
-msgid "Yeah man! I knew we could count on you!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1098
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1121
-msgid ""
-"Hmmm, he must have smelled the scent of other drakes and somehow managed to "
-"convince them to help us."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Alone.cfg:1122
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1145
-msgid "Shut your mouth you coward!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:10
-msgid ""
-"Frustrated at the futility of their mission and puzzled by the presence of "
-"trolls so close to the dwarvish defenses, the party quickly made their way "
-"back to Knalga."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:15
-msgid ""
-"The princess walked apart from the rest who kept giving her cold glances "
-"which she returned in turn. The tension in the air was so thick that it "
-"could be cut with a knife."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:90
-msgid ""
-"See you wretched human! At least now you will appreciate the generosity of "
-"the elves."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:95
-msgid ""
-"Shut up you little snort! If it wasn't for you we wouldn't have lost our "
-"gold in the first place!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:100
-msgid "I wasn't talking to you lich! Learn to keep your maws shut."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:105
-msgid "Who is this little snot?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:110
-msgid ""
-"This is the famous and benevolent princess, in whose rescue we have "
-"sacrificed many lives and MUCH gold."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:120
-msgid "Begone you brat!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:125
-msgid ""
-"Anyhow Hamel, back to the issue of the stolen gold, were you able to pursue "
-"the trolls?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:161
-msgid ""
-"Sounds like a plan to me. The axe and hammer of every dwarf is thirsting for "
-"the blood of the orcs!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:166
-msgid "Alright, lets move out people!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1216
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1392
-msgid "Which one of you rabble is Tallin?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/The_Pursuit.cfg:865
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1222
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1398
-msgid "I am."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1228
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1404
-msgid ""
-"Princess Anita sends you this gold along with the order to stay clear of any "
-"Northern Elf if you know what's good for you."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1233
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1409
-msgid "Why? What did I ever do to the Northern Elves?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1239
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1415
-msgid ""
-"The ill treatment that she received while in your care is an insult to every "
-"Northern Elf. Consequently if you, or any of your henchmen show your face "
-"around us ever again you will be shot on sight."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1250
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1426
-msgid ""
-"Tell the princess to get of her high horse and stop acting like such a priss!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1256
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1432
-msgid "You dare insult our princess!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1262
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1438
-msgid "You better get lost elf before we kill you."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1268
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1444
-msgid ""
-"This insult will forever be remembered by the Northern Elves! The day will "
-"soon come when your race shall regret your folly!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1284
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1460
-msgid "Pff, elves. What a bunch of pricks!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1290
-msgid ""
-"Oh no! The elves have just given the humans a horde of gold! This is "
-"hopeless! Flee! Flee!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1297
-msgid ""
-"Hmmm, should we let the trolls run away or should we go ahead and finish "
-"them?"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1300
-msgid "Hey! Stand your ground you cowards!"
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Stolen_Gold_Gold.cfg:1306
-msgid "You are a fool human! Watch how we will crush and destroy you!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:6
@@ -5651,6 +4637,10 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:859
 msgid "Who is this Tallin?"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/The_Pursuit.cfg:865
+msgid "I am."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:870
@@ -6531,6 +5521,12 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3328
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3694
 msgid "Go for it!"
+msgstr ""
+
+#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3346
+#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3530
+#: Northern_Rebirth/scenarios/The_Pursuit.cfg:3757
+msgid "There we go."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3375
