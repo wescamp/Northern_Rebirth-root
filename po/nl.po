@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-01-14 20:36+0100\n"
-"PO-Revision-Date: 2007-01-05 16:01+0100\n"
+"PO-Revision-Date: 2007-02-12 09:09+0100\n"
 "Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
-"Language-Team: none\n"
+"Language-Team: none <foppe.benedictus@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -67,9 +67,8 @@ msgstr ""
 "veranderen."
 
 #: Northern_Rebirth.cfg:21
-#, fuzzy
 msgid " Version 1.18 Last updated 1/1/11."
-msgstr "Versie 1.17 compleet! Laatste update 01/05/07."
+msgstr "Versie 1.18 Laatste update 1/1/11."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:4
 msgid "Breaking the Chains"
@@ -279,17 +278,15 @@ msgstr ""
 "afslachten."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:217
-#, fuzzy
 msgid "But still, Tallin, this is going to be a slaughter."
 msgstr "Maar toch Tallin, het zal een slachtpartij worden."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:223
-#, fuzzy
 msgid ""
 " *sigh* Yes, well I know it. But would you rather live as slaves to the orcs "
 "forever?"
 msgstr ""
-"*zucht* Ja, dat weet ik. Maar wil je liever vooreeuwig leven als slaaf van "
+"*zucht* Ja, dat weet ik. Maar wil je liever voor eeuwig leven als slaaf van "
 "de Orks."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:229
@@ -301,26 +298,24 @@ msgid "Then it's time to fight!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:240
-#, fuzzy
 msgid "You clod of dung! How dare you step onto my land!"
 msgstr "Jij vuil stuk vreten! Hoe durf je op mijn land te komen!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:244
-#, fuzzy
 msgid ""
 "You puny weakling, this land now belongs to my master! Surrender now and he "
 "*might* let you be his slave."
 msgstr ""
 "Jij zielige zwakkeling, dit land behoort nu tot mijn meester! Geef je over "
-"en misschien mag je als slaaf werken."
+"en misschien mag je als zijn slaaf werken."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:248
-#, fuzzy
 msgid ""
 "Pahh! Grunts, attack! Whoever brings me the head of Garrugch will get five "
 "villages!"
 msgstr ""
-"Pff! Grunts val aan! Wie mij zijn hoofd brengt zal vijf dorpen krijgen!"
+"Pff! Grunts val aan! Wie mij het hoofd van Garrugch brengt zal vijf dorpen "
+"krijgen!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:262
 #, fuzzy
@@ -448,18 +443,16 @@ msgid "Mission? What mission?"
 msgstr "Missie? Welke missie?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:479
-#, fuzzy
 msgid "Hah! Look at them go."
 msgstr "Ha Ha! Kijk ze gaan."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:499
-#, fuzzy
 msgid "Hah! The fools are killing each other!"
-msgstr "Ha Ha! De sukkels bestrijden elkaar!"
+msgstr "Ha Ha! De sukkels gaan elkaar te lijf!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:4
 msgid "Clearing the Mines"
-msgstr "De mijnen schoonvegen"
+msgstr "De grote mijnschoonmaak"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:532
 msgid "When the party finally reached the mines they were not disappointed."
@@ -468,7 +461,6 @@ msgstr ""
 "teleurgesteld."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:538
-#, fuzzy
 msgid "Behold!  The Dwarven Mines."
 msgstr "Zie hier, de Dwergenmijnen."
 
@@ -503,7 +495,6 @@ msgstr ""
 "forten zijn gerepareert en ze hebben overal van die akelige skeletten."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:563
-#, fuzzy
 msgid ""
 "Fortunately, this entrance seems to be in disrepair. It doesn't look like "
 "they have noticed us yet."
@@ -520,7 +511,6 @@ msgid "Oops, I spoke too soon."
 msgstr "Oeps, ik sprak te voorbarig."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:580
-#, fuzzy
 msgid " *wince* You can turn the volume down, pal."
 msgstr "Je kunt het volume wel zachter zetten, vriend."
 
@@ -529,12 +519,10 @@ msgid "Maybe he needs a fireball..."
 msgstr "Misschien wil hij een vuurbal..."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:591
-#, fuzzy
 msgid "YOU DO NOT ANSWER. ALERT THE MASTER!"
 msgstr "JE ANTWOORD NIET, WAARSCHUW DE MEESTER!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:606
-#, fuzzy
 msgid "Who goes there? Ahhh, more slaves, I see."
 msgstr "Wie is daar? Ahh, meer slaven zie ik."
 
@@ -543,7 +531,6 @@ msgid "Others have made that mistake before. Who are you?"
 msgstr "Anderen hebben die fout eerder al gemaakt. Wie ben jij?"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:618
-#, fuzzy
 msgid ""
 "Who am I? *CACKLES WILDLY* I am Malifor the Great, the master of death! "
 "These tunnels, haunted by the ghosts of the dead dwarves of Knalga, are the "
@@ -554,13 +541,12 @@ msgstr ""
 "perfecte plaats voor mij om mijn kracht te gebruiken."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:625
-#, fuzzy
 msgid ""
 "You dared disturb the rest of those brave dwarves? You shall pay in blood!"
-msgstr "Je durft te rust van die brave Dwergen te verstoren!"
+msgstr ""
+"Je durft te rust van die brave Dwergen te verstoren? Je zal er voor boeten!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:630
-#, fuzzy
 msgid ""
 "HAHAHAHA! Your petty temper tantrums are most amusing, you puny dwarf. Soon "
 "I will finish the slaughter that the orcs have begun so promisingly, and "
@@ -573,14 +559,12 @@ msgstr ""
 "afdalen naar Wesnoth!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:637
-#, fuzzy
 msgid ""
 "Quit your ranting, you wretched bag of bones! Prepare to return to the dust!"
 msgstr ""
 "Stop maar met dagdromen stel botten! Wees voorbereid om tot stof te vergaan!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:642
-#, fuzzy
 msgid "HAHAHAHAHAHA! Such vast threats from one so small? HAHAHAHA!"
 msgstr "HAHAHAHAHAHA! Zulke grote dreigementen van iemand zo klein? HAHAHAHA!"
 
@@ -660,7 +644,7 @@ msgstr "HAHAHAHAHAHAHA!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:767
 msgid "What the! Where did he go?"
-msgstr ""
+msgstr "Wel alle! Waar is hij gebleven?"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:772
 msgid "Right here with me, fools! He is mine now."
@@ -3683,9 +3667,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:709
-#, fuzzy
 msgid "Quick, honey, we've got to stop him. Let's go!"
-msgstr "Snel Theta, we moeten hem stoppen. Laten we gaan!"
+msgstr "Snel schat, we moeten hem stoppen. Laten we gaan!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:716
 msgid "Hey, are you two going to hog all the fun for yourselves?"
@@ -3745,9 +3728,8 @@ msgid "Capture Ro'Arthian."
 msgstr "Vang Ro'Arthian."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:872
-#, fuzzy
 msgid "Death of Stalrag."
-msgstr "Dood van Tallin of Stalrag."
+msgstr "Dood van Stalrag."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:915
 msgid "Ha! I am free! Now you foul traitors will pay!"
@@ -4200,9 +4182,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:19
-#, fuzzy
 msgid "Yes, master."
-msgstr "Hier meerster."
+msgstr "Ja meester."
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:24
 msgid ""
@@ -4237,14 +4218,12 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:85
-#, fuzzy
 msgid "Destroy the Invaders"
-msgstr "Vernietig ze!"
+msgstr "Vernietig de indringers"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:309
-#, fuzzy
 msgid "My God! Tallin is that you?"
-msgstr "Ro'Sothian, ben jij dat?"
+msgstr "Mijn god! Tallin ben jij dat?"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:314
 msgid " $betrayed_friend.user_description, I..."
@@ -4255,9 +4234,8 @@ msgid "Come on Tallin, talk to me!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:325
-#, fuzzy
 msgid ".........."
-msgstr "Ja........?"
+msgstr ".........."
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:331
 msgid "Tallin, break free! Don't let that lich control you!"
@@ -4268,18 +4246,16 @@ msgid "... KILL THE RABBLE!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:342
-#, fuzzy
 msgid "No, Tallin! Stop!"
-msgstr "Tallin! Nee!"
+msgstr "Nee, Tallin! Stop!"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:347
 msgid "Deaf to the calls of his friend, Tallin commenced the attack."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:375
-#, fuzzy
 msgid "What have I done..."
-msgstr "Wel heb ik...!"
+msgstr "Wat heb ik gedaan..."
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:399
 msgid ""
@@ -4692,7 +4668,6 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:909
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1068
-#, fuzzy
 msgid "Thank you, sir."
 msgstr "Dank u Heer."
 
@@ -5239,7 +5214,6 @@ msgid "What happened to you? Why are you a ghost?"
 msgstr "Wat is er met je gebeurd? Waarom ben je een geest?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:967
-#, fuzzy
 msgid ""
 "I grew old and died as all men do and entered the land of the dead. I don't "
 "know how long I dwelled there, I was wrenched from my peace and forced into "
@@ -5247,15 +5221,13 @@ msgid ""
 msgstr ""
 "Ik werd oud en stierf zoals iedereen en kwam in het land der doden. Ik weet "
 "niet hoe lang ik daar geleefd heb, maar ik werd er plotseling weg gehaald en "
-"in dit lichaam gezet door een vrezelijke kracht."
+"in dit lichaam gezet door een vreselijke kracht."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:973
-#, fuzzy
 msgid "Let me guess. Malifor?"
 msgstr "Laat me raden, Malifor?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:978
-#, fuzzy
 msgid ""
 "Indeed. He tried to break my spirit into mindless slavery, but I resisted "
 "his power and fled. I have been hiding in these flooded tunnels ever since. "
@@ -5264,8 +5236,8 @@ msgid ""
 msgstr ""
 "Dat klopt. Hij heeft ook mij geprobeerd als herzenloze slaaf te laten "
 "werken, maar ik kon zijn kracht weerstaan en vluchtte. Ik heb me verstopt in "
-"deze ondergelopen tunnels sinds dien. Blijkbaar leeft er hier een monster en "
-"komt daarom niemand hier."
+"deze ondergelopen tunnels sinds dien. Er leeft in deze wateren een monster "
+"waarvoor Malifor angst heeft en daarom komt niemand hier."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:984
 msgid "Would you join us to defeat this evil creature?"
@@ -5287,7 +5259,6 @@ msgstr ""
 "Blijf deze ondergelopen tunnels volgen. Ik denk dat ze naar Malifor leiden."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1000
-#, fuzzy
 msgid "Great! Forward, men!"
 msgstr "Geweldig! Voorwaarts mannen!"
 
@@ -5316,9 +5287,8 @@ msgid "Ahhhhh!"
 msgstr "Ahhhhh!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1054
-#, fuzzy
 msgid "Hold it, people, there is something just ahead!"
-msgstr "Stop even, ik hoor iets verderop!"
+msgstr "Stop even, verderop hoor ik iets!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1095
 msgid " *sniff* I smell humans."
@@ -5334,9 +5304,8 @@ msgid "Ahh, shut up. Let's go kill them."
 msgstr "Ahh mond dicht. "
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1119
-#, fuzzy
 msgid "A door, and a big, *big* lock,  Hmmmmm..."
-msgstr "Een deur en een erg groot slot hmmmmm."
+msgstr "Een deur en een erg groot slot, hmmmmm."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1124
 msgid "Sorry folks, this is just too tempting."
@@ -5348,14 +5317,12 @@ msgid " *SMASH*."
 msgstr "*SMAK*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1150
-#, fuzzy
 msgid ""
 "Hmmmm, this door sure is locked up pretty tight. I wonder what's behind it."
 msgstr ""
 "Hmmm, deze deur is zeker goed op slot. Ik vraag me af wat er achter zit."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1176
-#, fuzzy
 msgid ""
 "Holy water! For a certainty, those skeletons won't like us getting our hands "
 "on this stuff. But that's probably why they kept them back here in the first "
@@ -5390,7 +5357,6 @@ msgid "The Treasury"
 msgstr "De schatkamer"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1247
-#, fuzzy
 msgid "The Treasury! Cool, let's go loot some booty!"
 msgstr "De schatkamer! Gaaf, kom en grijp wat je kan!"
 
@@ -5403,17 +5369,14 @@ msgid "Malifor the Great's Study."
 msgstr "Kabinet van Malifor de Grote."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1281
-#, fuzzy
 msgid "There we go! This way guys!"
-msgstr "Daar moeten we heen! Deze kant op heren!"
+msgstr "Daar moeten we heen! Deze kant op mannen!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1295
-#, fuzzy
 msgid "Wow! There is at least 1000 gold in here!"
 msgstr "Wow! Er liggen hier zeker 1000 goudstukken in!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1316
-#, fuzzy
 msgid "Holy Gods of Light! 500 gold!"
 msgstr "Hemelse koe! 500 goud!"
 
@@ -5434,7 +5397,6 @@ msgid "1000 gold! Wow! Where is that bag of bones getting all this?"
 msgstr "1000 goud! Wow! Waar haalt dat stel botten dat alles weg?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1436
-#, fuzzy
 msgid "Freedom at last. Thank you Lord Tallin."
 msgstr "Eindelijk vrijheid, dank u Heer Tallin."
 
@@ -5511,7 +5473,6 @@ msgstr "Erg goed, jullie zijn welkom."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1498
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1637
-#, fuzzy
 msgid "Thank you, Tallin."
 msgstr "Dank je Tallin."
 
@@ -5596,7 +5557,6 @@ msgstr ""
 "slaan om deze noordelijke streek weer schoon te krijgen."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1663
-#, fuzzy
 msgid "Please, folks, not now."
 msgstr "Alsjeblieft, niet nu."
 
@@ -5618,7 +5578,6 @@ msgid "Here, let me see her."
 msgstr "Hier, laat mij naar haar kijken."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1768
-#, fuzzy
 msgid "Wow, you guys are good."
 msgstr "Wow, jullie zijn echt goed."
 
