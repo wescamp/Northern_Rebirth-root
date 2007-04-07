@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Northern Rebirthde\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-03 21:08+0200\n"
+"POT-Creation-Date: 2007-04-07 18:04+0200\n"
 "PO-Revision-Date: 2006-09-17 17:23+0200\n"
 "Last-Translator: Stefan von Halenbach <vonHalenbach@users.sourceforge.net>\n"
 "Language-Team: german\n"
@@ -77,11 +77,11 @@ msgstr ""
 msgid " Version 1.18.4 Last updated 3/31/07."
 msgstr " Version 1.10 Vollständig! Letztes Update: 16. 12. 2005."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:4
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:27
 msgid "Breaking the Chains"
 msgstr "Die Ketten werden zerbrochen"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:10
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:33
 #, fuzzy
 msgid ""
 "Far to the north of Wesnoth, and hard by the dwarven caves of Knalga, there "
@@ -101,7 +101,7 @@ msgstr ""
 "Aufgrund dieser Handelstätigkeit war Zwergenpforte eine reiche und gut "
 "gedeihende Stadt."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:14
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:37
 msgid ""
 "The dwarves of Knalga, cannily reckoning the gains from trade, built strong "
 "fortifications around Dwarven Doors.  The people who called it home, dwarven "
@@ -111,7 +111,7 @@ msgid ""
 "settled northlands."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:18
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:41
 #, fuzzy
 msgid ""
 "For many years it was indeed so. Dwarven Doors was a peaceful and prosperous "
@@ -120,7 +120,7 @@ msgstr ""
 "Die Jahre waren friedlich und voller Reichtum, zumindest bis zu dem Tag, an "
 "dem die Orks kamen..."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:22
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:45
 msgid ""
 "The raids were mere probes, at first, and the orcs mere rabble.  But they "
 "grew more numerous, and threatening, and the raiding parties became war-"
@@ -129,7 +129,7 @@ msgid ""
 "and beseiged Dwarven Doors."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:25
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:48
 msgid ""
 "It was a time of doom and great deeds, of fire and blood and slaughter.  The "
 "men and dwarves of the city fought valiantly. But there were always, it "
@@ -139,7 +139,7 @@ msgid ""
 "affairs and struggles."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:28
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:51
 msgid ""
 "After a year and a day of grim battle the city fell.  Its streets ran with "
 "gore.  The dwarves were pushed back into the caverns of Knalga, while the "
@@ -148,7 +148,7 @@ msgid ""
 "their utter subjugation could not be averted forever."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:31
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:54
 #, fuzzy
 msgid ""
 "Dark years passed; human generations grew up in slavery, and came near to "
@@ -159,7 +159,7 @@ msgstr ""
 "Knechtschaft, bis eines Tages Konrad, Prinz von Wesnoth, auf seiner Suche "
 "nach dem Zepter des Feuers, vorbeikam."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:35
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:58
 #, fuzzy
 msgid ""
 "The peasants saw Konrad and his men battle their way through the orcish "
@@ -175,7 +175,7 @@ msgstr ""
 "Vielleicht könnten sie, eines Tages, ihre Heimat ebenfalls von den "
 "tyrannischen Orks befreien und endlich wieder frei sein."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:39
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:62
 msgid ""
 "There was one among these peasants named Tallin.  He had been a little "
 "child, barely out of his mother's arms, when Konrad broke the Orcish host.  "
@@ -185,7 +185,7 @@ msgid ""
 "young manhood, he could touch blades, and dream.  And he did."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:43
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:66
 msgid ""
 "Then one day Al'tar, the current 'master' of Dwarven Doors, was attacked by "
 "a neighboring tribe of orcs. Tallin seized his moment.  He managed to steal "
@@ -193,13 +193,13 @@ msgid ""
 "abandoned ruin in the forest to rally his fellow peasants."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:124
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:147
 msgid "Defeat enemy leaders"
 msgstr "Töte die gegnerischen Heerführer"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:480
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:542
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:831
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:841
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:60
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:791
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1366
@@ -213,7 +213,7 @@ msgstr "Töte die gegnerischen Heerführer"
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:821
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:847
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:43
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:128
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:151
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:248
 #: Northern_Rebirth/scenarios/Compelled.cfg:48
 #: Northern_Rebirth/scenarios/Introductions.cfg:491
@@ -228,14 +228,14 @@ msgstr "Tallin fällt in der Schlacht"
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1560
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1654
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:47
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:133
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:156
 #: Northern_Rebirth/scenarios/Compelled.cfg:52
 #: Northern_Rebirth/scenarios/Introductions.cfg:505
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:232
 msgid "Turns run out"
 msgstr "Rundenlimit überschritten"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:160
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:184
 #, fuzzy
 msgid ""
 "The orcs have gotten careless - look how easily I stole these weapons and "
@@ -247,7 +247,7 @@ msgstr ""
 "Möglichkeit sein, um diesen Abschaum endgültig loszuwerden. Immer feste "
 "druff!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:165
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:189
 #, fuzzy
 msgid ""
 "Brave words, Tallin, but moon-touched crazy ones. You have weapons for fewer "
@@ -258,7 +258,7 @@ msgstr ""
 "Waffen, noch Rüstung, außerdem haben wir keinerlei Ausbildung für den Kampf. "
 "Wie sollen wir sie bekämpfen, mit Heugabeln?"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:172
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:196
 #, fuzzy
 msgid ""
 "There's nothing wrong with pitchforks, I'll give these orcish weapons to any "
@@ -270,12 +270,25 @@ msgstr ""
 "in der Überzahl, abgesehen davon schlagen sich die Orks gegenseitig die "
 "Köpfe ein."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:178
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:201
+msgid ""
+"But their wolves run faster than we can walk, and their swords are sharper "
+"than our farm tools."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:208
+msgid ""
+"We must use our strength of numbers.  Stay shoulder-to shoulder with the man "
+"next to you; never get isolated, especially not on open ground.  Swarm them "
+"-- surround them, five or six to one, and they will go down."
+msgstr ""
+
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:214
 #, fuzzy
 msgid "But still, Tallin, this is going to be a slaughter."
 msgstr "Tallin, einige von uns werden dennoch niedergemetztelt werden."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:184
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:220
 #, fuzzy
 msgid ""
 " *sigh* Yes, well I know it. But would you rather live as slaves to the orcs "
@@ -284,20 +297,20 @@ msgstr ""
 "*Seufzt* Ja, ich weiß. Aber möchtest du lieber für den Rest deines Lebens "
 "Sklave der Orks bleiben?"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:190
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:226
 msgid "Never! I would rather die!"
 msgstr "Niemals! Lieber würde ich sterben!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:196
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:232
 msgid "Then it's time to fight!"
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:201
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:237
 #, fuzzy
 msgid "You clod of dung! How dare you step onto my land!"
 msgstr "Du Dreckskerl! Wie kannst du es wagen in mein Land einzudringen!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:205
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:241
 #, fuzzy
 msgid ""
 "You puny weakling, this land now belongs to my master! Surrender now and he "
@@ -306,7 +319,7 @@ msgstr ""
 "Du erbärmlicher Schwächling, dieses Land gehört nun meinem Herrn. Ergib dich "
 "jetzt und er wird dich VIELLEICHT zu einem seiner Knechte machen."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:209
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:245
 #, fuzzy
 msgid ""
 "Pahh! Grunts, attack! Whoever brings me the head of Garrugch will get five "
@@ -315,7 +328,7 @@ msgstr ""
 "Hah! Auf ihn, meine Krieger! Wer immer mir seinen Kopf bringt erhält fünf "
 "Dörfer!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:223
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:259
 #, fuzzy
 msgid ""
 "I die now, you orcish scum, but I die free! More will come after me. We will "
@@ -326,15 +339,15 @@ msgstr ""
 "wieder und wieder erheben, bis deine verrottenden Knochen ausgestreckt am "
 "Boden liegen!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:227
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:263
 msgid "Pahh! Grunts, put the rest of those peasant rabble back in chains."
 msgstr "Hah! Krieger, legt den Rest dieses Packs wieder in Ketten."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:242
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:278
 msgid "YES! We did it! We are free!"
 msgstr "JA! Wir haben es geschafft! Wir sind frei!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:263
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:299
 #, fuzzy
 msgid ""
 "Garrugch failed in mission, but Al'tar dead by peasant slaves. Better tell "
@@ -343,11 +356,11 @@ msgstr ""
 "Garrugchs ist mit seinem Auftrag gescheitert, doch Al'tar wurde von Sklaven "
 "erschlagen. Das sollte ich besser meinem Herrn berichten."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:267
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:303
 msgid "Master needs more meat for wolves. Peasants good meat."
 msgstr "Mein Herr benötigt Wolfsfutter. Bauern geben gutes Futter ab."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:291
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:327
 msgid ""
 "Uh oh! That orc has gone to tell his leader that we are now free. Soon they "
 "will be here in hordes to enslave us again... or worse..."
@@ -356,16 +369,16 @@ msgstr ""
 "Schon bald werden ihre Horden zurück sein, um uns wieder zu versklaven -- "
 "oder schlimmeres..."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:296
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:332
 #, fuzzy
 msgid "Don't worry, I think I have a way out of that."
 msgstr "Keine Angst, es gibt einen Ausweg."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:302
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:338
 msgid "Eh?"
 msgstr "Welchen?"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:307
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:343
 #, fuzzy
 msgid ""
 "Let's make our way into the caves and find out if there are any dwarves "
@@ -378,7 +391,7 @@ msgstr ""
 "schmieden. Und sollten die Orks dann zurückkommen, zeigen wir ihnen wo der "
 "Hammer hängt!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:312
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:348
 #, fuzzy
 msgid ""
 "Go into the caves! Find the dwarves! Are you out of your *mind*, Tallin? "
@@ -394,7 +407,7 @@ msgstr ""
 "können wir nicht in Höhlen kämpfen! Wir können schon kaum durch die Höhlen "
 "wandern ohne hinzufallen, wie sollen wir da kämpfen?"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:317
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:353
 #, fuzzy
 msgid ""
 "Not so. All you night-crawlers and hunters get yourselves the bows from the "
@@ -407,49 +420,49 @@ msgstr ""
 "wir das mit Sicherheit schaffen. Ich weiß, es wird hart und gefährlich, aber "
 "ich sehen keinen anderen Weg."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:321
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:357
 msgid "You can now recruit Thugs and Poachers"
 msgstr "Du kannst nun Wilddiebe und Strolche ausbilden."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:337
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:373
 msgid "This is one of the the entrances to the dwarven caves."
 msgstr "Dies ist einer der Eingänge zu den Zwergenhöhlen."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:341
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:377
 msgid "Aaaaah! Trolls! The caves are infested with trolls!"
 msgstr "Aaaaah! Trolle! Die Höhlen sind voller Trolle!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:388
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:424
 msgid "What the... *gurgle* Hey! Look... a slave... uprising!"
 msgstr "Was zum... *Gluckst*. Hey! Schau mal, ein Sklavenaufstand!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:393
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:429
 msgid " *STAB*"
 msgstr "*STECH ZU*"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:398
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:434
 msgid "Ugh!"
 msgstr "Ugh!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:403
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:439
 #, fuzzy
 msgid "Not a very bright one, was he?"
 msgstr "Der war nichts besonders hell, nech?"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:416
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:452
 msgid "No! I have failed in my  mission!"
 msgstr "Nein! Mein Auftrag ist gescheitert!"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:421
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:457
 msgid "Mission? What mission?"
 msgstr "Auftrag? Was für ein Auftrag?"
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:440
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:476
 #, fuzzy
 msgid "Hah! Look at them go."
 msgstr "Ha! Ha! Sieh sie dir an."
 
-#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:460
+#: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:496
 #, fuzzy
 msgid "Hah! The fools are killing each other!"
 msgstr "Ha! Ha! Diese Trottel schlagen sich gegenseitig tot!"
@@ -697,7 +710,7 @@ msgstr "Säuber die Minen"
 msgid "Death of Hamel"
 msgstr "Hamel fällt in der Schlacht"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:839
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:849
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:807
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:833
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:859
@@ -1101,7 +1114,7 @@ msgstr ""
 "Ohh, sie sind nicht der freundlichste und teilnahmsvollste Haufen Orks den "
 "ihr je gesehen habt?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1065
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1075
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:892
 #: Northern_Rebirth/scenarios/Showdown.cfg:1185
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:611
@@ -2519,8 +2532,8 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3531
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3698
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3939
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:805
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1119
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:815
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1129
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:321
 msgid "Very well."
 msgstr "Sehr gern."
@@ -4650,12 +4663,12 @@ msgid ""
 msgstr ""
 "Nach Ankunft am Pass schien es Tallin, er und seine Männer seien etwas spät."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:426
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:427
 #, fuzzy
 msgid "HAH! I finally have you, you wretched dwarf!"
 msgstr "HAH! Endlich habe ich dich, hinterhältiger Zwerg!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:433
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:434
 msgid ""
 "Argh! You blasted mages! How many times do I have to kill you two before you "
 "will leave us in peace!"
@@ -4663,7 +4676,7 @@ msgstr ""
 "Argh! Du verfluchter Magier! Wie oft muss ich dich töten bevor du uns "
 "endlich in Ruhe lässt?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:438
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:440
 #, fuzzy
 msgid ""
 "Leave YOU in peace! It is your kind that won't leave US in peace. Ever since "
@@ -4679,7 +4692,7 @@ msgstr ""
 "Nervensägen wie dich abzuschrecken! Und, im Gegensatz zu uns, wirst du NICHT "
 "zurückkehren."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:444
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:446
 #, fuzzy
 msgid ""
 "You cursed mage! I now go to join all of my men you have killed. But know "
@@ -4691,33 +4704,33 @@ msgstr ""
 "die Schienenmalmer werde sich niemals unterwerfen! Wir werden bis zu unserem "
 "letzten Atemzug gegen dich kämpfen!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:449
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:451
 msgid "Hold it! What's going on here!"
 msgstr "Haltet ein! Was geht hier vor?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:455
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:457
 msgid "Ro'Sothian, is that you?"
 msgstr "Ro'Sothian, bist du das?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:461
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:464
 #, fuzzy
 msgid "Not now, Father. I'm a little busy at the moment."
 msgstr ""
 "Nicht jetzt, Vater. Falls ihr es noch nicht bemerkt habt, ich bin gerade ein "
 "wenig beschäftigt."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:489
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:610
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:492
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:614
 #, fuzzy
 msgid "Hang on a sec, Ro'Sothian, you don't want to kill him."
 msgstr "Einen Moment Ro'Sothian, du möchtest ihn nicht töten."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:495
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:616
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:498
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:621
 msgid "Huh!? He killed me!"
 msgstr "Huh? Er hat mich getötet?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:500
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:503
 #, fuzzy
 msgid ""
 "Oh.... I see. Ro'Sothian, we come on more pressing business.  We are in "
@@ -4733,8 +4746,8 @@ msgstr ""
 "Orks befreien und sie versuchen Knalga wieder zu einstiger Größe zu "
 "verhelfen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:506
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:629
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:509
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:635
 msgid ""
 "So? What does this have to do with me? And hurry up, my staff is buzzing to "
 "blast this little vermin once and for all."
@@ -4742,7 +4755,7 @@ msgstr ""
 "So? Und was hat das mit mir zu tun? Und beil dich, mein Stab brennt darauf "
 "diese Kröte endgültig zu zerlegen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:511
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:514
 #, fuzzy
 msgid ""
 "Don't! Please, my friend, listen. The orcs are on the rise again and they "
@@ -4756,8 +4769,8 @@ msgstr ""
 "wir hierher gekommen, um dich und deinen Bruder um Hilfe gegen die Orks zu "
 "bitten."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:518
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:641
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:521
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:648
 #, fuzzy
 msgid ""
 "Take your begging and shove it, Father! We don't help no-one. Not even you "
@@ -4766,7 +4779,7 @@ msgstr ""
 "Nimm dein Gebettel und erstick daran, Vater! Wir helfen niemandem, und ganz "
 "besonders keinem Zwerg."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:523
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:526
 #, fuzzy
 msgid ""
 "I tire of this.  Prepare to die, dwarf! And the rest of you, get lost and "
@@ -4776,17 +4789,17 @@ msgstr ""
 "der Rest, mache euch vom Acker und bleibt weg, es sei denn ihr brennt darauf "
 "vor euren Schöpfer zu treten!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:529
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:665
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:532
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:674
 msgid "Uh oh, he is gathering energy for a cold blast."
 msgstr "Ohoh, er sammelt Energie für einen Kälteschlag."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:536
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:539
 #, fuzzy
 msgid "Quick, Theta, we've got to stop him. Let's go!"
 msgstr "Schnell Theta, wir müssen ihn aufhalten!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:578
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:581
 #, fuzzy
 msgid ""
 "Ro'Sothian! How are you doing, my old friend! Boy, you sure look... erm.... "
@@ -4795,7 +4808,7 @@ msgstr ""
 "Ro'Sothian! Wie geht es dir mein alter Freund? Du siehst äußerst, ähhm, "
 "verändert aus."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:585
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:589
 msgid ""
 "Camerin! Great Lords of Darkness, I haven't seen you in ages! Here, let me "
 "just finish off this little vermin and I'll be right over."
@@ -4804,19 +4817,19 @@ msgstr ""
 "mehr gesehen! Lass mich nur eben diese Kröte niedermachen und ich komme "
 "rüber."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:591
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:595
 msgid " *aside* Camerin, you know him?"
 msgstr "*flüsternd* Camerin, du kennst ihn?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:597
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:601
 msgid " *aside* Duh! His brother Ro'Arthian is the one who taught me magic!"
 msgstr "*leise* Und wie! Sein Bruder Ro'Arthian war mein Zaubermeister!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:603
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:607
 msgid " *aside* Oh....!"
 msgstr "*flüsternd* Ohh...."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:622
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:627
 #, fuzzy
 msgid ""
 "Oh.... I see. But we come on more pressing business. We are in desperate "
@@ -4832,7 +4845,7 @@ msgstr ""
 "Orks befreien und sie versuchen Knalga wieder zu einstiger Größe zu "
 "verhelfen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:635
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:641
 #, fuzzy
 msgid ""
 "Don't! Please, my friend, listen. The orcs are on the rise again and they "
@@ -4846,7 +4859,7 @@ msgstr ""
 "wir hierher gekommen, um dich und deinen Bruder um Hilfe gegen die Orks zu "
 "bitten."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:647
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:654
 #, fuzzy
 msgid ""
 "Hold a mement, my friend. You won't believe what a blast it is fighting with "
@@ -4858,7 +4871,7 @@ msgstr ""
 "Skelette, Trolle, Orks und Wölfe zu tausenden zu grillen! Schlag ein alter "
 "Kumpel, sei kein Spielverderber."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:653
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:661
 #, fuzzy
 msgid ""
 "Camerin, you were always a little crazy. Now I see you have gone stark "
@@ -4869,7 +4882,7 @@ msgstr ""
 "bist du vollkommen von der Rolle. Kannst du dir wirklich vorstellen, wir "
 "würden irgendjemandem helfen? Ganz besonders einem Haufen Zwerge?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:659
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:668
 #, fuzzy
 msgid ""
 "I tire of this; prepare to die, wretched dwarf! And the rest of you, get "
@@ -4879,25 +4892,25 @@ msgstr ""
 "der Rest, macht euch vom Acker und bleibt weg, es sei denn ihr brennt darauf "
 "vor euren Schöpfer zu treten!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:672
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:681
 #, fuzzy
 msgid "Quick, honey, we've got to stop him. Let's go!"
 msgstr "Schnell Liebling, wir müssen ihn aufhalten!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:679
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:688
 msgid "Hey, are you two going to hog all the fun for yourselves?"
 msgstr "Hej, wollt ihr beiden etwa den ganzen Spaß für euch allein?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:685
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:694
 #, fuzzy
 msgid "Alright, alright, hang on!"
 msgstr "Schon gut, kommt mit."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:749
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:759
 msgid "BROTHER! HELP ME!"
 msgstr "Bruder, hilf mir!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:756
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:766
 msgid ""
 " *booming voice coming from all directions* SO YOU MAGES HAVE THE AUDACITY "
 "TO ATTACK MY BROTHER! YOU SHALL DIE FOR YOUR FOLLY!"
@@ -4905,7 +4918,7 @@ msgstr ""
 "*von überall herkommende, dröhnende Stimme* IHR MAGIER HABT DIE DREISTIGKEIT "
 "MEINEN BRUDER ANZUGREIFEN! IHR WERDET FÜR EURE TORHEIT STERBEN!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:762
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:772
 msgid ""
 "Ro'Arthian, listen to me. We don't want to fight with you, we have come here "
 "to seek your assistance."
@@ -4913,12 +4926,12 @@ msgstr ""
 "Ro'Arthian, hör mir zu. Wir wollen nicht mit dir kämpfen, wir sind "
 "hergekommen weil wir deine Hilfe brauchen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:768
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:781
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:778
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:791
 msgid "No answer"
 msgstr "Stille."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:774
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:784
 #, fuzzy
 msgid ""
 "I know you can hear me, Ro'Arthian. Please, the fate of every creature in "
@@ -4927,7 +4940,7 @@ msgstr ""
 "Ich weiß, dass du mich hören kannst, Ro'Arthian. Bitte, das Schicksal aller "
 "Bewohner des Nordens liegt in deiner Hand."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:787
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:797
 #, fuzzy
 msgid ""
 "Give it up, father, he isn't answering. I am afraid we may have to use um... "
@@ -4936,46 +4949,46 @@ msgstr ""
 "Lasst es gut sein, Vater, er antwortet nicht. Ich fürchte wir müssen, äh, "
 "schlagendere Argumente verwenden, um ihn zu überzeugen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:793
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:803
 msgid " *sigh* Yes, you are right."
 msgstr "*Seufzt* Ich fürchte Ihr habt Recht."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:799
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:809
 msgid "Put Ro'Sothian into that jail over there until we capture his brother."
 msgstr "Setzt Ro'Sothian gefangen bis wir seinen Bruder überwunden haben."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:814
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:824
 msgid "And someone keep an eye on him. We don't want him to get away."
 msgstr ""
 "Und irgendjemand soll ein Auge auf ihn werfen, wir wollen nicht, dass er "
 "sich aus dem Staub macht."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:827
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:837
 msgid "Capture Ro'Arthian."
 msgstr "Fangt Ro'Arthian"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:835
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:845
 #, fuzzy
 msgid "Death of Stalrag."
 msgstr "Tod Tallins oder Stalrags"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:878
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:888
 #, fuzzy
 msgid "Ha! I am free! Now you foul traitors will pay!"
 msgstr ""
 "Ha! Ich bin wieder frei! Ihr stinkenden Verräter werdet für meine "
 "Gefangenschaft bezahlen!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:883
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:893
 #, fuzzy
 msgid "Oh no, he got away! Quick, men, we must capture him again!"
 msgstr "Oh nein, er ist geflohen! Schnell, wir müssen ihn wieder einfangen!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:903
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:913
 msgid "Ahhhh! Not again!"
 msgstr "Nein, nicht schon wieder!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:908
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:918
 #, fuzzy
 msgid ""
 "Come on, Ro'Sothian, we really don't have to be doing this. Come, join us!"
@@ -4983,34 +4996,34 @@ msgstr ""
 "Wir müssten dies wirklich nicht tun Ro'Sothian, wenn du dich uns "
 "anschliessen würdest..."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:914
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:924
 msgid "Never!"
 msgstr "Niemals!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:919
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:929
 msgid "Sigh, we'll talk later."
 msgstr "Na gut, wir werden später darüber sprechen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:925
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:935
 #, fuzzy
 msgid "Back to jail, my friend."
 msgstr "Zurück in den Käfig, mein Freund."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:945
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:955
 msgid "Ro'Arthian, are you ready to talk yet?"
 msgstr "Ro'Arthian, bist du nun bereit zu verhandeln?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:951
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:961
 #, fuzzy
 msgid "Fine, you trespassers. What do you want?"
 msgstr "Na gut, Eindringlinge. Was wollt ihr?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:957
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:967
 #, fuzzy
 msgid "Well... first why don't you tell us what you want?"
 msgstr "Erzähl doch erst einmal was du möchtest."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:963
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:973
 msgid ""
 "What do I want? I'll tell you what I want! I want the stinking carcasses of "
 "you, all your henchmen and those dwarvish vermin off of my land! And STAY "
@@ -5020,16 +5033,16 @@ msgstr ""
 "Gestalten von dir, all deiner Gefolgsleute und besonders dieser zwergischen "
 "Kröten außerhalb meines Landes wissen! Und zwar für immer!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:969
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:979
 msgid "So basically, you want to be left alone in peace. Right?"
 msgstr "Mit anderen Worten, du möchtest deine Ruhe?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:975
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:985
 #, fuzzy
 msgid " *words dripping sarcasm* Wow! Someone FINALLY figured it out!"
 msgstr "*Vor Sarkasmus triefend* Ein Weiser, der meine Worte versteht!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:981
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:991
 #, fuzzy
 msgid ""
 "Alright! Listen then. Right now we have very little power to grant your "
@@ -5040,7 +5053,7 @@ msgstr ""
 "zu gewähren. Wir sind lediglich eine Gruppe Bauern, die um ihre Freiheit "
 "kämpfen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:987
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:997
 #, fuzzy
 msgid ""
 "But when we defeat the orcish host, re-establish Knalga, and bring law and "
@@ -5051,7 +5064,7 @@ msgstr ""
 "und Recht und Ordnung in den Nordlanden einzuführen. Ich bin mir sicher, "
 "dass wir einiges an Autorität gewännen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:993
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1003
 #, fuzzy
 msgid ""
 "When that time comes, I hereby make a solemn oath: no man or dwarf shall "
@@ -5063,14 +5076,14 @@ msgstr ""
 "noch Zwerg jemals wieder einen Fuß auf dein Land setzen. Jeder, der sich "
 "diesem Gesetz wiedersetzt, ist des Todes."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:999
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1009
 #, fuzzy
 msgid ""
 "In order for that to come about, we must crush the orcish host. But we can't "
 "do that without your help. Will you join us?"
 msgstr "Um jedoch die Orks zu vernichten brauchen wir deine Hilfe, Ro'Arthian."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1005
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1015
 #, fuzzy
 msgid ""
 "Think of it, Ro'Arthian, it is a fair bargain. If you don't agree to "
@@ -5083,17 +5096,17 @@ msgstr ""
 "beide sucht diese Berge schon zu lange heim, es ist an der Zeit für dich und "
 "deinen Bruder Frieden zu finden."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1011
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1021
 #, fuzzy
 msgid "Hrmph. What do you think, brother?"
 msgstr "Grummel. Was denkst du, Bruder?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1029
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1039
 #, fuzzy
 msgid " *shrugs* I don't think we have any other choice left."
 msgstr "*Zuckt mit den Schultern* Ich fürchte wir haben keine Wahl."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1035
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1045
 #, fuzzy
 msgid ""
 "Come on, guys, it will be great! Those orcs will never know what hit them! "
@@ -5108,7 +5121,7 @@ msgstr ""
 "abzutreten! Ihr würdet zu Legenden werden! Die beiden furchterregenden "
 "Magier, auferstanden von den Toten um die orkischen Horden zu zermetzeln!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1041
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1051
 #, fuzzy
 msgid ""
 "Very well, Tallin. We accept under the terms that your people will forever "
@@ -5117,7 +5130,7 @@ msgstr ""
 "Nun gut, Tallin. Wir akzeptieren unter der Bedingung, dass eure Leute uns in "
 "Zukunft in Frieden lassen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1047
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1057
 #, fuzzy
 msgid ""
 "Ro'Arthian, I am not of royal blood, but I am a man of my word. I will "
@@ -5126,11 +5139,11 @@ msgstr ""
 "Ro'Arthian, selbst wenn ich nicht von königlichem Blut bin, so stehe ich "
 "doch zu meinem Wort. Ich werde diesen Schwur zu jedem Preis einhalten."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1053
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1063
 msgid "Very well. The orcish hosts shall feel our wrath!"
 msgstr "Nun gut. Die Orks sollen unsere Rache zu schmecken bekommen!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1059
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1069
 #, fuzzy
 msgid ""
 "Wait a second, Tallin. Are you saying that we should abandon our homeland to "
@@ -5139,7 +5152,7 @@ msgstr ""
 "Moment mal, Tallin. Sagtest du gerade, dass wir unsere Heimat an diese "
 "scheußlichen Magier abtreten sollen?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1071
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1081
 #, fuzzy
 msgid ""
 "Chief Stalrag, it is said that to save a family, we should be willing to "
@@ -5150,12 +5163,12 @@ msgstr ""
 "einen Menschen zu opfern, um eine Stadt zu retten, eine Familie und um ein "
 "Reich zu retten, sollten wir Willens sein eine Stadt zu opfern."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1077
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1087
 #, fuzzy
 msgid "Now, Stalrag, it is up to you. Do you want to save Knalga or not?"
 msgstr "Es liegt an dir, Stalrag, Bist du Willens Knalga zu retten?"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1083
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1093
 #, fuzzy
 msgid ""
 " *glares at Ro'Arthian* Very well, Tallin. We don't like it, but if that's "
@@ -5164,7 +5177,7 @@ msgstr ""
 "*starrt Ro'Arthian wütend an* Nun gut, wenn es denn sein muss. Zur Rettung "
 "Knalgas sind wir zu diesem Opfer bereit."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1089
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1099
 #, fuzzy
 msgid ""
 "Thank you, Stalrag. I am sure that the sacrifice of you and your people will "
@@ -5173,12 +5186,12 @@ msgstr ""
 "Danke Stalrag. Ich bin überzeugt, dieses Opfer wird in die Geschichte "
 "eingehen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1095
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1105
 #, fuzzy
 msgid " *mumbles* It's no great compensation."
 msgstr "*grummelt* Keine besonders hohe Entschädigung."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1101
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1111
 #, fuzzy
 msgid ""
 "I have the power to control many creatures, such as Gryphons, Trolls and "
@@ -5191,12 +5204,12 @@ msgstr ""
 "deine Leute in den Grundlagen der Magie unterrichten, deren Kräfte dir dann "
 "ebenfalls zur Verfügung stehen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1107
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1117
 #, fuzzy
 msgid "The Shinsplitters will be at your service, Tallin."
 msgstr "Die Schienenmalmer stehen ebenfalls zur Verfügung, Tallin."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1113
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1123
 msgid ""
 "My thanks, Stalrag and Ro'Arthian. However, I have sufficient forces under "
 "my control presently and I think that merging our forces will just create "
@@ -5204,7 +5217,7 @@ msgid ""
 "command of your trolls and ogres, until they are needed."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1125
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1135
 #, fuzzy
 msgid ""
 "Great. Now let's get back to the caves and start planning the best way teach "
@@ -5214,14 +5227,14 @@ msgstr ""
 "zurück nach Knalga! Dort werden wir uns einen Plan zurechtlegen, wie wir "
 "diesen Orks zeigen wo der Hammer hängt!"
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1149
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1159
 #, fuzzy
 msgid "Farewell, my friends. I now go to join my fallen brethren."
 msgstr ""
 "Lebt wohl meine Freunde. Ich werde mich nun meinen gefallenen Brüdern "
 "anschließen."
 
-#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1155
+#: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1165
 msgid ""
 "No! If Stalrag dies now none of his men will follow us. We are finished."
 msgstr ""
@@ -6552,12 +6565,12 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:575
 #, fuzzy
-msgid "What do you have there Abhai?"
+msgid "What do you have there, Abhai?"
 msgstr "Was meinst du?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:580
 msgid ""
-"This is the Great Rod of Justice my boy. It was an ancient artifact even "
+"This is the Great Rod of Justice, my boy. It was an ancient artifact even "
 "when I was young. They say it was crafted by the Great Gods themselves, and "
 "given to the first true Ruler of Men to ensure peace, harmony and above all "
 "- justice. For hundreds of years it did just that, for during the time it "
@@ -6583,13 +6596,14 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:597
-msgid "Why can't you wield it Abhai?"
-msgstr ""
+#, fuzzy
+msgid "Why can't you wield it, Abhai?"
+msgstr "Was meinst du?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:602
 msgid ""
 "I am a creature of the past, and thus my time to wield it is long gone. This "
-"is your era Tallin, and thus it is your responsibility to see to it that "
+"is your era, Tallin, and thus it is your responsibility to see to it that "
 "your people receive peace, prosperity and justice. Quickly, come forth or "
 "send one of your men for time is waning."
 msgstr ""
@@ -7020,7 +7034,8 @@ msgid "500 gold! Not bad!"
 msgstr "500 Gold! Kein schlechter Fang!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1452
-msgid "1000 gold! Wow! Where is that bag of bones getting all this?"
+#, fuzzy
+msgid "10,000 gold! Wow! Where is that bag of bones getting all this?"
 msgstr "1000 Gold! Wow! Woher hat der Knochensack das alles?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1488
