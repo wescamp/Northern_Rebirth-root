@@ -1,23 +1,36 @@
+# translation of cs.po to Czech
+# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007
+# 
+# Český překlad Northern Rebirth, tažení ke hře
+# Bitva o Wesnoth, http://www.wesnoth.org/
+# 
+# Czech translation of Northern Rebirth,
+# user campaign for Battle of Wesnoth
+# 
+# This file is distributed under the same licence
+# as Northern Rebirth
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-04-07 18:04+0200\n"
-"PO-Revision-Date: 2005-06-03 08:00+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2007-04-14 01:25+0100\n"
+"Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-Basepath: D:\\Dokumenty\\Translations\\Wescamp\\Northern_Rebirth-po"
+"\\\n"
 
 #: Northern_Rebirth.cfg:8
 msgid "Northern Rebirth"
-msgstr ""
+msgstr "Přerod Severu"
 
 #: Northern_Rebirth.cfg:16
 msgid "(Newbie)"
-msgstr ""
+msgstr "(nováček)"
 
 #: Northern_Rebirth.cfg:16
 msgid "Peasant"
@@ -29,7 +42,7 @@ msgstr "Kopiník"
 
 #: Northern_Rebirth.cfg:17
 msgid "(Easy)"
-msgstr ""
+msgstr "(jednoduchá)"
 
 #: Northern_Rebirth.cfg:18
 msgid "(Normal)"
@@ -41,11 +54,12 @@ msgstr "Bojovník s mečem"
 
 #: Northern_Rebirth.cfg:19
 msgid "(Hard)"
-msgstr ""
+msgstr "(obtížná)"
 
 #: Northern_Rebirth.cfg:19
+#, fuzzy
 msgid "RoyalGuard"
-msgstr ""
+msgstr "Královská stráž"
 
 #: Northern_Rebirth.cfg:21
 msgid ""
@@ -56,14 +70,21 @@ msgid ""
 "events that might either restore the Northlands to the glory they had once "
 "known, or doom them to an eternity of bloody chaos."
 msgstr ""
+"Lid od Trpasličích dveří měl na výběr ze dvou trpkých možností: buď dřít "
+"jako utlačovaní otroci pro skřety až do konce jejich krátkých a neradostných "
+"životů, nebo riskovat vše pro svobodu a povstat proti jejich krutým vládcům. "
+"Nic nevěděli o tom že jejich boj se stane počátkem velkých činů, které buď "
+"obnoví Severní kraje v jejich bývalé slávě anebo je navždy odsoudí ke "
+"krvavému chaosu."
 
 #: Northern_Rebirth.cfg:21
 msgid " Version 1.18.4 Last updated 3/31/07."
-msgstr ""
+msgstr " Verze 1.18.4 Poslední úpravy 31.3.07."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:27
+#, fuzzy
 msgid "Breaking the Chains"
-msgstr ""
+msgstr "Lámání řetězů"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:33
 msgid ""
@@ -76,6 +97,14 @@ msgid ""
 "trade mingled more with the other kindred races than was common elsewhere. "
 "Dwarven Doors grew populous and wealthy."
 msgstr ""
+"Daleko na sever od Wesnothu blízko trpasličích jeskyní Knalgy se kdysi "
+"nacházela vzkvétající smíšená komunita známá jako Trpasličí dveře. Potrava, "
+"dřevo a látky z celého Wesnothu i mnohých elfských zemí sem byly přiváženy k "
+"obchodu s trpaslíky, kteří na oplátku prodávali rudy, kovy a jejich "
+"trvanlivé výrobky k prodeji nadzemským národům. Trpaslíci a lidé zde žili a "
+"pracovali bok po boku, a dokonce i elfové přicházející za obchodem se mísili "
+"se spřízněnými rasami více než bylo jinde obvyklé. Trpasličí dveře bohatly a "
+"rozrůstaly se."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:37
 msgid ""
@@ -86,14 +115,22 @@ msgid ""
 "to fight off any bandit gang or petty warlord that could arise in the thinly-"
 "settled northlands."
 msgstr ""
+"Trpaslíci z Knalgy vybudovali z příjmů obchodu kolem Trpasličích dveří silná "
+"opevnění. Lidé i trpaslíci, kteří tu žili, věděli, že bohatství jejich města "
+"může široko daleko vyvolat závist - ale udržovali své zbraně naostřené a "
+"dokázali snadno odrazit nájezdy lupičských band nebo menších armád, které "
+"mohly v řídce obydlených severních krajích vzniknout."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:41
 msgid ""
 "For many years it was indeed so. Dwarven Doors was a peaceful and prosperous "
 "place. Until the orcs came... "
 msgstr ""
+"Tak to zůstalo po mnoho let. Trpasličí dveře byly klidné a prosperující "
+"místo. Dokud nepřiši skřeti..."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:45
+#, fuzzy
 msgid ""
 "The raids were mere probes, at first, and the orcs mere rabble.  But they "
 "grew more numerous, and threatening, and the raiding parties became war-"
@@ -101,6 +138,11 @@ msgid ""
 "Sword tribe, the chieftain called Khazg Black-Tusk; and he raised an army, "
 "and beseiged Dwarven Doors."
 msgstr ""
+"Zpočátku to byly spíše průzkumy než nájezdy, prováděné skřetí chátrou. Ale "
+"začaly nabývat na síle, z nájezdnických skupinek se staly organizované čety "
+"a pak ???; ohrožení se zvětšovalo. Pak z kmene Krvavého meče povstal velký "
+"vojevůdce, náčelník jménem Khazg Černý tesák, který sestavil celou armádu a "
+"oblehl s ní Trpasličí dveře."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:48
 msgid ""
@@ -111,7 +153,13 @@ msgid ""
 "away and fealt unthreatened by the orcs, and were wrapped up in their own "
 "affairs and struggles."
 msgstr ""
+"Byl to čas zkázy a velkých činů, ohně, krve a nakonec porážky. Lidé i "
+"trpaslíci z města statečně bojovali, ale skřetů jako by snad ani neubývalo, "
+"zatímco obránci ochabovali. Vládci ostatních zemí nevyslyšeli prosby o "
+"pomoc, neboť byli daleko, necítili se ohroženi skřety a byli zabráni do "
+"vlastních rozmíšek a problémů."
 
+# ulicemi tekla krev místo splašků ... ano, cynické...
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:51
 msgid ""
 "After a year and a day of grim battle the city fell.  Its streets ran with "
@@ -120,6 +168,10 @@ msgid ""
 "off from contact with the surface, the dwarves of Knalga fought on, but knew "
 "their utter subjugation could not be averted forever."
 msgstr ""
+"Po roce a dni krutých bojů město padlo. Ulicemi tekla krev proudem. "
+"Trpaslíci byli zatlačeni zpět do jeskyní Knalgy a lidé Trpasličích dveří, "
+"kteří přežili, zotročeni. I odříznuti od povrchu bojovali trpaslíci dále, "
+"ale věděli, že jejich konečná porážka nemůže být odvrácena."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:54
 msgid ""
@@ -127,6 +179,9 @@ msgid ""
 "forgetting that their ancestors had been free - until the day that Prince "
 "Konrad of Wesnoth passed through on his quest for the Scepter of Fire."
 msgstr ""
+"Temná léta plynula; generace lidí vyrůstaly v otroctví a téměř zapoměly, že "
+"jejich předkové byli volní - až do dne, kdy na svém tažení při hledání "
+"Ohnivého žezla prošel tímto krajem princ Konrád."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:58
 msgid ""
@@ -137,8 +192,15 @@ msgid ""
 "and to train in secret.  And the orcish masters, grown stupid from their own "
 "arrogance, did not see."
 msgstr ""
+"Sedláci viděli Konráda a jeho armádu probojovat si cestu skrz skřetí pozice; "
+"doslechli se i o tom jak bojoval za záchranu jeho domoviny z područí Ašvíry. "
+"V jejich srdcích opět zaplála naděje jako dlouho dušený, ale znovu zažehnutý "
+"plamen. Ti nejrozumnější a nejodvážnější z nich začali potají plánovat a "
+"připravovat se. A skřetí páni, zhloupělí ve své aroganci, udělali chybu - "
+"nevšimli si."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:62
+#, fuzzy
 msgid ""
 "There was one among these peasants named Tallin.  He had been a little "
 "child, barely out of his mother's arms, when Konrad broke the Orcish host.  "
@@ -147,7 +209,13 @@ msgid ""
 "craft. In secret, his mother even taught him letters.  As the boy grew to "
 "young manhood, he could touch blades, and dream.  And he did."
 msgstr ""
+"Když Konrád prorazil skřetími řadami, byl jeden ze sedláků jménem Tallin "
+"ještě malé dítě - stěží ??? - ale na ten den nikdy nezapomněl. Jeho otec byl "
+"kovář a zbrojař; skřeti takové lidi potřebovali, proto byla jeho rodina "
+"ušetřena nejhoršího. Tallinova matka jej v tajnosti naučila číst a psát. Jak "
+"chlapec rostl, mohl se dotýkat čepelí a snít. A on snil."
 
+# alt.: své věrné přátele?
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:66
 msgid ""
 "Then one day Al'tar, the current 'master' of Dwarven Doors, was attacked by "
@@ -155,10 +223,14 @@ msgid ""
 "a few weapons and a considerable amount of Al'Tar's gold. He fled to an "
 "abandoned ruin in the forest to rally his fellow peasants."
 msgstr ""
+"Jednoho dne byl Al'tar, současný „pán“ Trpasličích dveří, napaden sousedním "
+"kmenem skřetů. Tallin vycítil šanci. Povedlo se mu ukrást několik zbraní a "
+"nemalý díl Al'Tarovy pokladnice; pak uprchl k opuštěným ruinám v lese, aby "
+"shromáždil další sedláky."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:147
 msgid "Defeat enemy leaders"
-msgstr ""
+msgstr "Poraž nepřátelské vůdce"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:480
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:542
@@ -185,7 +257,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:789
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:219
 msgid "Death of Tallin"
-msgstr ""
+msgstr "Tallin zemře"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:64
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1560
@@ -196,7 +268,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Introductions.cfg:505
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:232
 msgid "Turns run out"
-msgstr "Počet kol vypršel."
+msgstr "Vyprší počet kol"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:184
 msgid ""
@@ -205,6 +277,9 @@ msgid ""
 "the only chance we got to be rid of these scum once and for all. Let's give "
 "it to 'em!"
 msgstr ""
+"Skřeti zpohodlněli a jsou bezstarostní - jen se podívej, jak snadno jsem jim "
+"ukradl tyto zbraně a lesklé zlato. A teď se pobíjejí navzájem. Toto by mohla "
+"být jediná šance zbavit se těch zmetků jednou provždy. Do nich!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:189
 msgid ""
@@ -220,12 +295,17 @@ msgid ""
 "easily outnumber the orcs, not to speak of the fact that they are killing "
 "each-other."
 msgstr ""
+"Na vidlích není nic špatného, sám si nechám vidle a dám ty zbraně komukoliv "
+"z vás, kdo si je bude chtít vzít. Je nás mnohem víc než skřetů, a to ani "
+"nemluvím o tom že se pobíjejí navzájem."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:201
 msgid ""
 "But their wolves run faster than we can walk, and their swords are sharper "
 "than our farm tools."
 msgstr ""
+"Ale jejich vlci běhají rychleji než my chodíme a jejich meče jsou ostřejší "
+"než naše zamědělské nástroje."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:208
 msgid ""
@@ -233,10 +313,13 @@ msgid ""
 "next to you; never get isolated, especially not on open ground.  Swarm them "
 "-- surround them, five or six to one, and they will go down."
 msgstr ""
+"Musíme využít naší početní převahy. Zůstaňte namačkaní na sebe, jeden vedle "
+"druhého; nenechte se nikdy oddělit, zvláště ne v otevřené krajině. Obkličte "
+"je po pěti nebo šesti na jednoho a uvidíte že nakonec padnou."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:214
 msgid "But still, Tallin, this is going to be a slaughter."
-msgstr ""
+msgstr "Ale i tak, Talline, tohle přece budou jatka."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:220
 msgid ""
@@ -246,11 +329,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:226
 msgid "Never! I would rather die!"
-msgstr ""
+msgstr "Nikdy! To raději zemřu!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:232
 msgid "Then it's time to fight!"
-msgstr ""
+msgstr "Pak nastal čas bojovat!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:237
 msgid "You clod of dung! How dare you step onto my land!"
@@ -267,20 +350,25 @@ msgid ""
 "Pahh! Grunts, attack! Whoever brings me the head of Garrugch will get five "
 "villages!"
 msgstr ""
+"Pch! Pěšáci, útok! Kdo mi donese Garrugchovu hlavu, dostane pět vesnic!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:259
+#, fuzzy
 msgid ""
 "I die now, you orcish scum, but I die free! More will come after me. We will "
 "rise again and again until we work a fitting vengeance on you!"
 msgstr ""
+"Umírám, ty skřetí zmetku, ale volný! Po mně přijdou další. Povstaneme znova "
+"a znova, dokud se na vás dost nepomstíme!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:263
 msgid "Pahh! Grunts, put the rest of those peasant rabble back in chains."
-msgstr ""
+msgstr "Pchhh! Pěšáci, dejte zbytek té sedlácké chátry do želez."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:278
+#, fuzzy
 msgid "YES! We did it! We are free!"
-msgstr ""
+msgstr "ANO! Dokázali jsme to! Konečně volný!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:299
 msgid ""
@@ -297,14 +385,16 @@ msgid ""
 "Uh oh! That orc has gone to tell his leader that we are now free. Soon they "
 "will be here in hordes to enslave us again... or worse..."
 msgstr ""
+"Jejda! ten skřet utíkal říct svému pánovi že jsme se osvobodili. Brzo jich "
+"tu budou hordy a znova nás zotročí... nebo ještě něco horšího..."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:332
 msgid "Don't worry, I think I have a way out of that."
-msgstr ""
+msgstr "Nestarejte se, myslím že vím jak z toho."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:338
 msgid "Eh?"
-msgstr ""
+msgstr "Eh?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:343
 msgid ""
@@ -313,6 +403,9 @@ msgid ""
 "armor that are better than this orcish crap. And then, when the orcs come "
 "back, we'll show 'em!"
 msgstr ""
+"Probojujme se do jeskyní a zjistěme jestli tam ještě stále žijí nějací "
+"trpaslíci. Třeba nám vyrobí lepší zbraně a brnění než tyhle skřetí zmetky. A "
+"pak, až se skřeti vrátí, ukážeme jim!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:348
 msgid ""
@@ -322,14 +415,23 @@ msgid ""
 "we can't fight in caves! We can hardly even *walk* in caves without tripping "
 "and killing ourselves, let alone fight!"
 msgstr ""
+"Jít do jeskyní! Najít trpaslíky! Což se pomátl, Talline? Ty jeskyně "
+"přetékají trolly a skřety. A říká se že trpaslíci které pobili při obraně "
+"Knalgy znova ožívají a ničí každého v jejich dosahu. A my přece nemůžeme "
+"bojovat v jeskyních! Sotva tam dokážeme chodit bez toho abychom na každém "
+"rohu zakopli a zabili se, jak tam pak máme bojovat?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:353
+#, fuzzy
 msgid ""
 "Not so. All you night-crawlers and hunters get yourselves the bows from the "
 "dead orcs or whatever else you can find. With you guys in the forefront I am "
 "sure we'll be able to manage. I know, it'll be tough and dangerous, but the "
 "orcs will roast us over slow fires if they catch us now."
 msgstr ""
+"Nemyslím. Vy tichošlápci a lovci si vezmete od mrtvých skřetů luky a co "
+"dalšího najdete. Když půjdete vpředu, určitě se nám to podaří. Vím, bude to "
+"těžké a nebezpečné, ale skřeti si nás pomaličku osmaží když nás teď chytí."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:357
 msgid "You can now recruit Thugs and Poachers"
@@ -341,31 +443,34 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:377
 msgid "Aaaaah! Trolls! The caves are infested with trolls!"
-msgstr ""
+msgstr "Áaaa! Trollové! Ty jeskyně jsou plné trollů!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:424
+#, fuzzy
 msgid "What the... *gurgle* Hey! Look... a slave... uprising!"
-msgstr ""
+msgstr "Co to... *glo* Hej! Tady je otrok... vzpoura!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:429
 msgid " *STAB*"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:434
+#, fuzzy
 msgid "Ugh!"
-msgstr ""
+msgstr "Ugh!"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:439
 msgid "Not a very bright one, was he?"
-msgstr ""
+msgstr "Že by teda byl nějak extra bystrý..."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:452
 msgid "No! I have failed in my  mission!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:457
+#, fuzzy
 msgid "Mission? What mission?"
-msgstr ""
+msgstr "Mise? Jaká mise?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:476
 msgid "Hah! Look at them go."
@@ -373,7 +478,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:496
 msgid "Hah! The fools are killing each other!"
-msgstr ""
+msgstr "Cha! Ti hlupáci se pobíjí navzájem!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:4
 msgid "Clearing the Mines"
@@ -383,9 +488,10 @@ msgstr ""
 msgid "When the party finally reached the mines they were not disappointed."
 msgstr ""
 
+# stát, stůjte, ... ?
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:499
 msgid "Behold!  The Dwarven Mines."
-msgstr ""
+msgstr "Pohleďte! Trpasličí doly."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:505
 msgid ""
@@ -395,26 +501,32 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:511
+#, fuzzy
 msgid ""
 "Grim gods of darkness! The whole place is swarming with undead! They have "
 "raised corpses to do their work."
 msgstr ""
+"U všech bohů temnot! Všude se tu hemží nemrtví! Oživili k práci spoustu "
+"mrtvol."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:517
 msgid ""
 "And they seem to have good security, too. Look, most of the fortifications "
 "are repaired and they have those nasty skeletons everywhere."
 msgstr ""
+"A zdá se, že se tu i dobře zabezpečili. Podívejte, většina opevnění je "
+"opravená a všude ti nechutní kostlivci."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:524
 msgid ""
 "Fortunately, this entrance seems to be in disrepair. It doesn't look like "
 "they have noticed us yet."
 msgstr ""
+"Naštěstí tenhle vchod vypadá rozpadlý. Nezdá se, že by si nás zatím všimli."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:529
 msgid "WHO GOES THERE?"
-msgstr ""
+msgstr "KDO TAM?"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:535
 msgid "Oops, I spoke too soon."
@@ -425,8 +537,9 @@ msgid " *wince* You can turn the volume down, pal."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:547
+#, fuzzy
 msgid "Maybe he needs a fireball..."
-msgstr ""
+msgstr "Třeba by chtěl fireball..."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:552
 msgid "YOU DO NOT ANSWER. ALERT THE MASTER!"
@@ -434,7 +547,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:567
 msgid "Who goes there? Ahhh, more slaves, I see."
-msgstr ""
+msgstr "Ko je tam? Á, už vidím, další služebníci."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:574
 msgid "Others have made that mistake before. Who are you?"
@@ -496,7 +609,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:640
 msgid "Tallin, are you OK?!"
-msgstr ""
+msgstr "Talline, jsi v pořádku?"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:647
 msgid ""
@@ -511,15 +624,16 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:657
 msgid "Tallin! No!"
-msgstr ""
+msgstr "Ne! Talline!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:663
 msgid "Tallin, what are you doing?"
-msgstr ""
+msgstr "Talline, co to děláš?"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:669
+#, fuzzy
 msgid ".....Death!..... Blood!...."
-msgstr ""
+msgstr ".....Smrt!..... Krev!...."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:683
 msgid "Ahhh! Treacherous human! Kill him, men!"
@@ -532,7 +646,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:728
 msgid "What the! Where did he go?"
-msgstr ""
+msgstr "Co to? Kam zmizel?"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:733
 msgid "Right here with me, fools! He is mine now."
@@ -559,14 +673,14 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:784
 msgid "Clear the Mines"
-msgstr ""
+msgstr "Vyčisti doly"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1047
 #: Northern_Rebirth/scenarios/Showdown.cfg:1073
 #: Northern_Rebirth/scenarios/Showdown.cfg:1099
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:793
 msgid "Death of Hamel"
-msgstr ""
+msgstr "Hamel zemře"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:849
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:807
@@ -574,7 +688,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:859
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:797
 msgid "Turns Run Out"
-msgstr ""
+msgstr "Vyprší počet kol"
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:192
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:816
@@ -589,7 +703,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:841
 msgid "Oh no, he just.... disappeared."
-msgstr ""
+msgstr "Ach ne, on prostě ... zmizel."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:847
 msgid ""
@@ -675,16 +789,17 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Compelled.cfg:44
 msgid "Kill the Troll Leaders"
-msgstr ""
+msgstr "Zabij trollí vůdce"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:332
 #: Northern_Rebirth/scenarios/Compelled.cfg:245
+#, fuzzy
 msgid "Argh! I have failed my master."
-msgstr ""
+msgstr "Argh! Selhal jsem, zklamal svého pána."
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:4
 msgid "The Eastern Flank"
-msgstr ""
+msgstr "Východní křídlo"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:9
 msgid ""
@@ -730,15 +845,15 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:287
 msgid "Where is my gold!"
-msgstr ""
+msgstr "Kde je mé zlato?!"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:293
 msgid "It's Rakshas!"
-msgstr ""
+msgstr "To je Rakshas!"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:298
 msgid "Right here, Master."
-msgstr ""
+msgstr "Tady jsme pane."
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:304
 msgid ""
@@ -815,10 +930,13 @@ msgid " *raises eyebrow* Very well, princess."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:430
+#, fuzzy
 msgid ""
 "Blast it. The coward has fled. Quickly men, we must storm this fortress "
 "before he can spend that gold."
 msgstr ""
+"Klatě. Ten zbabělec uprchl. Rychle, musíme ztéci tuto pevnost dříve než "
+"stihne utratit zlato."
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:436
 msgid "Aye! Down wi' the orcs!"
@@ -830,11 +948,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:463
 msgid "It's done."
-msgstr ""
+msgstr "A je to."
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:469
 msgid "Forward! Victory or death!"
-msgstr ""
+msgstr "Kupředu! Vítězství nebo smrt!"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:496
 msgid "Come on boys, let's give it to 'em!"
@@ -847,7 +965,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:502
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:524
 msgid "Defeat the enemy leaders"
-msgstr ""
+msgstr "Poraz nepřátelské vůdce"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:795
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1370
@@ -864,7 +982,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:533
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:223
 msgid "Death of Ro'Arthian"
-msgstr ""
+msgstr "Ro'Arthian zemře"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:799
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1374
@@ -881,7 +999,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:537
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:227
 msgid "Death of Ro'Sothian"
-msgstr ""
+msgstr "Ro'Sothian zemře"
 
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:562
 msgid ""
@@ -918,7 +1036,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:6
 msgid "Elvish Princess"
-msgstr ""
+msgstr "Elfí princezna"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:13
 msgid ""
@@ -1025,8 +1143,9 @@ msgid "The dwarf has a point, there."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:99
+#, fuzzy
 msgid "Shut up, lich!"
-msgstr ""
+msgstr "Sklapni, lichi!"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:104
 msgid ""
@@ -1120,7 +1239,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:215
 msgid "Rescue the Princess"
-msgstr ""
+msgstr "Zachraň princeznu"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:391
 msgid ""
@@ -1151,7 +1270,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:420
 msgid "INTRUDERS! KILL THEM!!!"
-msgstr ""
+msgstr "NARUŠITELÉ! ZABTE JE!!!"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:450
 msgid ""
@@ -1240,7 +1359,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:334
 msgid "I do have a suggestion."
-msgstr ""
+msgstr "Mám návrh."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:340
 msgid ""
@@ -1296,15 +1415,16 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:387
 msgid "Great!"
-msgstr ""
+msgstr "Vynikající!"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:393
 msgid "Smart!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:399
+#, fuzzy
 msgid "Sounds like fun."
-msgstr ""
+msgstr "To zní jako zábava."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:404
 msgid ""
@@ -1352,7 +1472,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:453
 msgid "Stalrag?"
-msgstr ""
+msgstr "Stalragu?"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:460
 msgid "I am yours to command, my lord Tallin."
@@ -1411,7 +1531,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:562
 msgid "Thank you Tallin."
-msgstr ""
+msgstr "Díky, Talline."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:582
 msgid "Krash?"
@@ -1446,7 +1566,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:609
 msgid "Thanks, friend."
-msgstr ""
+msgstr "Děkuji, příteli."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:627
 msgid "Alfred, your assistance has also been a great help to us."
@@ -1705,7 +1825,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:80
 msgid "At your service, sir."
-msgstr ""
+msgstr "K Vašim službám, pane."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:85
 msgid ""
@@ -1797,7 +1917,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:731
 msgid "Sisal, how do you fare?"
-msgstr ""
+msgstr "Sisal, jak se ti vede?"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:737
 msgid "Princess! You are here! How fares Hidel?"
@@ -1826,7 +1946,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:767
 msgid "So you have the gold?"
-msgstr ""
+msgstr "Takže máte zlato?"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:773
 msgid ""
@@ -1835,10 +1955,12 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:778
+#, fuzzy
 msgid ""
 "Grrr, Ha'Tuil has never failed in his mission. I will soon lay your severed "
 "heads at the feet of the Master!"
 msgstr ""
+"Grrr, Ha'Tuil nikdy neselhal. Brzo položím vaše useklé hlavy Pánovi k nohám!"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:784
 msgid ""
@@ -1849,11 +1971,11 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:816
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:842
 msgid "Defeat the orcs"
-msgstr ""
+msgstr "Poraz skřety"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:880
 msgid "Argh! I have failed!"
-msgstr ""
+msgstr "Argh! Selhal jsem!"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:886
 msgid ""
@@ -1866,7 +1988,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:906
 msgid "Sisal! Noooo!"
-msgstr ""
+msgstr "Sisal! Ne!"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:911
 msgid "Haha! We got the gold now!"
@@ -1915,8 +2037,9 @@ msgid "Thus armed, the mob began its descent."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:138
+#, fuzzy
 msgid "So here we are..."
-msgstr ""
+msgstr "Jsme skutečně poctěni."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:142
 msgid " *trip* OOF!!!"
@@ -1927,8 +2050,9 @@ msgid "Great idea, Tallin, I probably couldn't even fight a bat down here."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:165
+#, fuzzy
 msgid "Neep Neep!"
-msgstr ""
+msgstr "Níp! Níp!"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:433
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:169
@@ -1955,12 +2079,12 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:195
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:351
 msgid "Finally!"
-msgstr ""
+msgstr "Konečně!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:200
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:356
 msgid "At last!"
-msgstr ""
+msgstr "Konečně!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:206
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:362
@@ -1970,22 +2094,22 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:234
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:390
 msgid "Hey, what's going on in here?"
-msgstr ""
+msgstr "Hej, co se tu děje?"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:244
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:400
 msgid "We are killing lots of trolls and skeletons."
-msgstr ""
+msgstr "Pobíjíme hromady trollů a kostlivců."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:250
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:406
 msgid "Really! Did you save any for me?"
-msgstr ""
+msgstr "Vážně? Nezbyli pro mě nějací?"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:255
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:411
 msgid "Uh, not really..."
-msgstr ""
+msgstr "No, spíš ani ne..."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:261
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:417
@@ -2001,8 +2125,9 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:272
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:428
+#, fuzzy
 msgid "Really! Oh yeah, I am in!"
-msgstr ""
+msgstr "Vážně? Teda, do toho jdu!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:298
 msgid "Stand where ye be, you... Och! A human!"
@@ -2052,11 +2177,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:470
 msgid "PREPARE TO DIE, YOU FOUL ORC!"
-msgstr ""
+msgstr "PŘIPRAV SE NA SMRT, ŠPINAVÝ SKŘETE!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:474
 msgid "Hold it! I am no orc, I am a human!"
-msgstr ""
+msgstr "Nech toho! Nejsem skřet, ale člověk!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:479
 msgid ""
@@ -2064,6 +2189,8 @@ msgid ""
 "since then the the only living - and non-living - things I have seen are "
 "orcs, trolls and skeletons."
 msgstr ""
+"Člověk! Pozoruhodné, od doby co skřeti zaútočili jsem lidi neviděl. Všechny "
+"živé i neživé věci potom byly už jen skřeti, trollové a kostlivci."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:483
 msgid "How have you managed to survive all this time?"
@@ -2094,8 +2221,9 @@ msgid "Hordes of trolls and skeletons! Where!? Lets go burn em!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:510
+#, fuzzy
 msgid "Err... ok...."
-msgstr ""
+msgstr "Eee.. No jo..."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:515
 msgid " *Is it safe to have this lunatic with us?*"
@@ -2114,20 +2242,21 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:549
 msgid "Ahhh! Fire!"
-msgstr ""
+msgstr "Áááá! Oheň!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:554
 #: Northern_Rebirth/scenarios/Introductions.cfg:226
+#, fuzzy
 msgid "Wow!"
-msgstr ""
+msgstr "Hezky!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:572
 msgid "YEAH! DIE, SCUM, DIE!"
-msgstr ""
+msgstr "JOOOO! CHCÍPNI, NEŘÁDE, CHCÍPNI!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:577
 msgid "He's gone completely insane!"
-msgstr ""
+msgstr "On se úplně zbláznil!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:596
 msgid ""
@@ -2153,7 +2282,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:655
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:706
 msgid "Skeletons!"
-msgstr ""
+msgstr "Kosťáci!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:661
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:712
@@ -2177,12 +2306,12 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:755
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:796
 msgid "They are attacking us!"
-msgstr ""
+msgstr "Útočí na nás!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:761
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:802
 msgid "Destroy them!"
-msgstr ""
+msgstr "Zničte je!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:820
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:861
@@ -2190,34 +2319,36 @@ msgid ""
 "Hey look, it's an ancient door. It seems the trolls were too stupid to find "
 "how to open it."
 msgstr ""
+"Podívejte, starobylé dveře. Zdá se že trollové byli příliš pitomí na to aby "
+"je dokázali otevřít."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:825
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:866
 msgid "Well, let's see what's behind it."
-msgstr ""
+msgstr "Nu, podíváme se co je za nimi."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:829
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:870
 msgid "Alright. *Grunt* *Strain* It's not moving, it seems to be stuck."
-msgstr ""
+msgstr "Fajn. Takže... hek... nehýbou se, asi se zasekly."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:834
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:875
 msgid "Well, just kick it down then."
-msgstr ""
+msgstr "Tak je prostě vykopni."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:838
 msgid "...right."
-msgstr ""
+msgstr "...jasně."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:842
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:883
 msgid " *SMASH* "
-msgstr ""
+msgstr " *KŘACH*"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:879
 msgid "....right."
-msgstr ""
+msgstr "...jasně."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:6
 msgid "Introductions"
@@ -2228,6 +2359,7 @@ msgid ""
 "After rescuing the princess, Tallin and his allies quickly withdrew into the "
 "caves."
 msgstr ""
+"Po záchraně princezny se Tallin a jeho spojenci rychle stáhli do jeskyní."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:144
 msgid ""
@@ -2237,7 +2369,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:172
 msgid "Sister! Don't you recognize me?"
-msgstr ""
+msgstr "Sestro! Což mne nepoznáváš?"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:178
 msgid ""
@@ -2253,7 +2385,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:190
 msgid "You mean Malifor?"
-msgstr ""
+msgstr "Myslíš Malifora?"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:196
 msgid ""
@@ -2297,18 +2429,22 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:244
+#, fuzzy
 msgid " *eyes shining* You're right, Elenia, Tallin is truly a hero."
-msgstr ""
+msgstr " *rozzářené oči* Máš pravdu, Elenio, Tallin je opravdový hrdina."
 
+# peasant?
 #: Northern_Rebirth/scenarios/Introductions.cfg:250
 msgid ""
 "Not at all, Princess. I am no more than a humble peasant trying to free my "
 "people from enslavement."
 msgstr ""
+"Ani ne, princezno. Nejsem víc než pouhý sedlák snažící se osvobodit svůj lid "
+"z područí."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:256
 msgid "And a modest one too!"
-msgstr ""
+msgstr "A taky skromný!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1758
 #: Northern_Rebirth/scenarios/Introductions.cfg:262
@@ -2381,7 +2517,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Introductions.cfg:322
 #, fuzzy
 msgid "Sounds good...I mean, let it be so."
-msgstr "To zní dobře."
+msgstr "To zní dobře... myslím, ať to tak je."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:339
 msgid ""
@@ -2403,8 +2539,9 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:357
+#, fuzzy
 msgid "So what does this have to do with me?"
-msgstr ""
+msgstr "Aha, ale co to má co dělat se mnou?"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:363
 msgid ""
@@ -2436,7 +2573,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:393
 msgid "Peace! Peace!"
-msgstr ""
+msgstr "Klid! Klid!"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:399
 msgid ""
@@ -2485,7 +2622,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:465
 msgid "See, I told you so!"
-msgstr ""
+msgstr "Vidíš, já to říkal!"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:471
 msgid ""
@@ -2499,7 +2636,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:487
 msgid "Move Tallin to the Signpost in the north"
-msgstr ""
+msgstr "Přesuň Tallina na rozcestí na severu"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:526
 msgid "OK, I can see the dwarvish defenses just ahead. Lets go!"
@@ -2507,7 +2644,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:583
 msgid "Hey look, it's a troll!"
-msgstr ""
+msgstr "Hej! Podívej, to je troll!"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:587
 msgid ""
@@ -2517,7 +2654,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:24
 msgid "Old Friend"
-msgstr ""
+msgstr "Starý přítel"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:31
 msgid ""
@@ -2643,7 +2780,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:130
 msgid "Thank you, Hamel."
-msgstr ""
+msgstr "Děkuji, Hamele."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:135
 msgid "Pahhh, thank YOU!"
@@ -2760,7 +2897,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:485
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:496
 msgid "Yeah?"
-msgstr ""
+msgstr "No?"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:491
 msgid "And remember those wolves on the way to the mines?"
@@ -2790,12 +2927,12 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:525
 msgid "FOR DWARVEN DOORS!"
-msgstr ""
+msgstr "ZA TRPASLIČÍ DVEŘE!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:530
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:729
 msgid "CHARGE!!!"
-msgstr ""
+msgstr "VPŘED!!!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:536
 msgid "YEEAAAAHHHHH!"
@@ -2806,8 +2943,9 @@ msgid "ROOOOAAAARRRRR!!!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:548
+#, fuzzy
 msgid "Defeat Rakshas... if you can..."
-msgstr ""
+msgstr "Výborně! Pokud je porazím, stanu se lichem."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:552
 msgid "Or, resist till end of turns"
@@ -2822,8 +2960,9 @@ msgid "What the... Hey, where do you think you are running off to you coward!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:589
+#, fuzzy
 msgid "Stop him!"
-msgstr ""
+msgstr "Svedu ho."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:594
 msgid ""
@@ -2882,17 +3021,19 @@ msgid "Oh hell! Form up men, back to back, don't let them penetrate our ranks."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:741
+#, fuzzy
 msgid "That's not all, my friends. GENERALS, CALL THE RESERVES!"
-msgstr ""
+msgstr "Ale přátelé, to není vše. GENERÁLOVÉ, POVOLEJTE ZÁLOHY!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:747
+#, fuzzy
 msgid "Oh yeah!"
-msgstr ""
+msgstr "Uch, ach!"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:407
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:752
 msgid "HAHAHAHAHA!"
-msgstr ""
+msgstr "HAHAHAHAHA!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:757
 msgid "Oooooooh! Time to start the fun!"
@@ -2904,11 +3045,12 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:788
 msgid "This doesn't look good..."
-msgstr ""
+msgstr "To nevypadá dobře..."
 
+# zabit zní trošku obyčejně ;-)
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:800
 msgid "Argh! I have been slain!"
-msgstr ""
+msgstr "Argh! Byl jsem ubit!"
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:805
 msgid ""
@@ -2979,8 +3121,9 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:4
+#, fuzzy
 msgid "Protecting the Master"
-msgstr ""
+msgstr "Ochrana pána"
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:19
 msgid ""
@@ -3006,8 +3149,9 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:39
+#, fuzzy
 msgid "Resist Till the End of Turns"
-msgstr ""
+msgstr "Vydrž až do konce kol"
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:345
 msgid "Look, the traitor Tallin has come to protect his master."
@@ -3026,19 +3170,21 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:370
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:375
 msgid "At last, I am free..."
-msgstr ""
+msgstr "Konečně jsem osvobozen..."
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:384
+#, fuzzy
 msgid " *BOOM!*"
-msgstr ""
+msgstr "BUM!!!"
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:424
 msgid "What the.... NO!!!"
-msgstr ""
+msgstr "Co to... NE!!!"
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:430
+#, fuzzy
 msgid "HEEEEE-YAAAAA!!!"
-msgstr ""
+msgstr "HEEEEE-YAAAAA!!!"
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:457
 msgid ""
@@ -3050,8 +3196,9 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2645
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:463
+#, fuzzy
 msgid "May you shut your ugly mouth and hurry up and die."
-msgstr ""
+msgstr "Kdybys tak konečně sklapnul, pospíšíl si a chcípl."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2651
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:469
@@ -3063,13 +3210,14 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2656
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:479
 msgid "Finally! He has been reduced to dust."
-msgstr ""
+msgstr "Konečně! Zbyl z něj jen prášek."
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:485
 msgid ""
 "Malifor is dead... what have I done? What am I going to do? I must flee this "
 "place!"
 msgstr ""
+"Malifor je mrtvý.. co jsem to zase vyvedl? Co teď? Musím odsud uprchnout!"
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:491
 msgid "Hey, there goes the traitor Tallin!"
@@ -3122,7 +3270,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:4
 msgid "Ray of Hope"
-msgstr ""
+msgstr "Paprsek naděje"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:11
 msgid ""
@@ -3244,15 +3392,17 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:78
 msgid "How is that?"
-msgstr ""
+msgstr "A to jak?"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:83
+#, fuzzy
 msgid "You must find the Rod of Justice."
-msgstr ""
+msgstr "Musíš nalézt Hůl spravedlnosti."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:88
+#, fuzzy
 msgid "The Rod of Justice? I have never head of it."
-msgstr ""
+msgstr "Hůl spravedlnosti? Nikdy jsem o ní neslyšel."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:93
 msgid ""
@@ -3314,11 +3464,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:244
 msgid "Find the Rod of Justice"
-msgstr ""
+msgstr "Najdi Hůl spravedlnosti"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:252
 msgid "Death of Abhai"
-msgstr ""
+msgstr "Abhai zemře"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:793
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:794
@@ -3405,7 +3555,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:349
 msgid "Never! I refuse utter those cursed words!"
-msgstr ""
+msgstr "Nikdy! Odmítám vyslovit ta prokletá slova!"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:355
 msgid ""
@@ -3413,18 +3563,22 @@ msgid ""
 "But now is not the time to argue, just see how the arms of this creature "
 "reach for us! Quickly, we must defeat this creature!"
 msgstr ""
+"Chlapče, žádné umění není samo o sobě zlé, spíše to k čemu jej využiješ. Ale "
+"teď není čas na hádky, jen pohleď jak k nám ta stvůra natahuje pracky! "
+"Rychle, musíme ji porazit!"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:361
 msgid "Very well, if there is no other way..."
-msgstr ""
+msgstr "No dobře, pokud není jiné cesty..."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:394
 msgid "Halt! Who is that!?"
-msgstr ""
+msgstr "Stát! Kdo tam?"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:400
+#, fuzzy
 msgid "These are my minions Halreed."
-msgstr ""
+msgstr "To jsou mí společníci, Halreede."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:405
 msgid ""
@@ -3491,9 +3645,10 @@ msgstr ""
 msgid "As the battle raged on, Tallin again made council with Hamel."
 msgstr ""
 
+# vám?
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:28
 msgid "How did ye fare?"
-msgstr ""
+msgstr "Jak se ti vedlo?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:33
 msgid ""
@@ -3714,7 +3869,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:295
 msgid "Death of Tallin or Stalrag."
-msgstr ""
+msgstr "Talinn nebo Stalrag zemře"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:421
 msgid ""
@@ -3923,8 +4078,9 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:803
+#, fuzzy
 msgid " *sigh* Yes, you are right."
-msgstr ""
+msgstr "Ano, máš pravdu, ovšem. Promiň."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:809
 msgid "Put Ro'Sothian into that jail over there until we capture his brother."
@@ -3936,11 +4092,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:837
 msgid "Capture Ro'Arthian."
-msgstr ""
+msgstr "Zajmi Ro'Arthiana"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:845
 msgid "Death of Stalrag."
-msgstr ""
+msgstr "Stalrag zemře"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:888
 msgid "Ha! I am free! Now you foul traitors will pay!"
@@ -3951,8 +4107,9 @@ msgid "Oh no, he got away! Quick, men, we must capture him again!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:913
+#, fuzzy
 msgid "Ahhhh! Not again!"
-msgstr ""
+msgstr "Ahhhh! Snad ne znova!"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:918
 msgid ""
@@ -3977,7 +4134,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:961
 msgid "Fine, you trespassers. What do you want?"
-msgstr ""
+msgstr "Dobrá, narušitelé. Co chcete?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:967
 msgid "Well... first why don't you tell us what you want?"
@@ -4126,14 +4283,18 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1159
 msgid "Farewell, my friends. I now go to join my fallen brethren."
-msgstr ""
+msgstr "Sbohem, přátelé. Odcházím připojit se k mým padlým bratřím."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1165
+#, fuzzy
 msgid ""
 "No! If Stalrag dies now none of his men will follow us. We are finished."
 msgstr ""
+"Ne! Když teď Stalrag zemře, nidko z jeho vojska nás nebude následovat. Jsme "
+"vyřízení."
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:8
+#, fuzzy
 msgid "Showdown"
 msgstr "Odhalení plánů"
 
@@ -4199,7 +4360,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:834
 msgid "What the...? How did *he* get here?"
-msgstr ""
+msgstr "Co to...? Jak TEN se tu dostal?"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:847
 msgid ""
@@ -4249,14 +4410,17 @@ msgid ""
 "this very moment my entire western army is marching this way. They will soon "
 "be here and will scatter your puny forces like straw!"
 msgstr ""
+"PCHE! Vy hlupáci, zanedlouho budete obklíčení proti přesile. Zrovna teďka "
+"sem mašíruje moje celá západní armáda. Brzo tu budou a rozmetají vaše směšné "
+"síly jako slámu!"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:965
 msgid "Will they, now?"
-msgstr ""
+msgstr "Ale, opravdu?"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:971
 msgid "WHAT!?!?!"
-msgstr ""
+msgstr "CO!?!?!"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:977
 msgid ""
@@ -4264,8 +4428,9 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:983
+#, fuzzy
 msgid "But... but... how can this be?"
-msgstr ""
+msgstr "Ale.. ale... jak to?"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:989
 msgid "It's called 'The End', foul orc. Forward! FOR KNALGA!!!"
@@ -4273,23 +4438,23 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:994
 msgid "FOR FRIENDSHIP!!!"
-msgstr ""
+msgstr "ZA PŘÁTELSTVÍ!!!"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1000
 msgid "FOR PEACE!!!"
-msgstr ""
+msgstr "ZA MÍR!!!"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1006
 msgid "FOR FUN!"
-msgstr ""
+msgstr "PRO ZÁBAVU!"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1012
 msgid "FOR HIDEL!!!"
-msgstr ""
+msgstr "ZA HIDELA!!!"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1018
 msgid "FOR DWARVEN DOORS!!!"
-msgstr ""
+msgstr "ZA TRPASLIČÍ DVEŘE!!!"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1024
 msgid "FOR THE NORTH! FALL ON THEM, MEN!!!"
@@ -4339,6 +4504,7 @@ msgid "Such were the last words of of Rakshas the great!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1201
+#, fuzzy
 msgid "Argh!"
 msgstr "Vuááááúúúúííééééáááá!!!!"
 
@@ -4367,12 +4533,13 @@ msgid "Ahhhh! Farewell friends. I now go to join Hidel."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1251
+#, fuzzy
 msgid "Sisal! Noooo! Not you too!"
-msgstr ""
+msgstr "Sisal! Ne! Ne, tebe ne...."
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:4
 msgid "Slave of the Undead"
-msgstr ""
+msgstr "Otrok nemrtvých"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:10
 msgid "Having completed his mission, Tallin reported back to his master."
@@ -4386,7 +4553,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:19
 msgid "Yes, master."
-msgstr ""
+msgstr "Ano, pane."
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:24
 msgid ""
@@ -4401,7 +4568,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:29
 msgid "...as you command ...Master."
-msgstr ""
+msgstr "... jak poroučíš,... pane."
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:34
 msgid ""
@@ -4421,36 +4588,38 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:56
+#, fuzzy
 msgid "Destroy the Invaders"
-msgstr ""
+msgstr "Znič útočníky"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:280
 msgid "My God! Tallin is that you?"
-msgstr ""
+msgstr "Můj bože! Talline, jsi to ty?"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:285
 msgid " $betrayed_friend.user_description, I..."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:291
+#, fuzzy
 msgid "Come on Tallin, talk to me!"
-msgstr ""
+msgstr "No tak, Talline, řekni něco!"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:296
 msgid ".........."
-msgstr ""
+msgstr ".........."
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:302
 msgid "Tallin, break free! Don't let that lich control you!"
-msgstr ""
+msgstr "Osvoboď se! Nenech toho liche ovládat tě!"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:307
 msgid "... KILL THE RABBLE!"
-msgstr ""
+msgstr "... BIJTE ŠPÍNU!"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:313
 msgid "No, Tallin! Stop!"
-msgstr ""
+msgstr "Ne, Talline! Přestaň!"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:318
 msgid "Deaf to the calls of his friend, Tallin commenced the attack."
@@ -4458,7 +4627,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:346
 msgid "What have I done..."
-msgstr ""
+msgstr "Co jsem to učinil..."
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:370
 msgid ""
@@ -4472,7 +4641,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:96
 msgid "Stolen Gold"
-msgstr ""
+msgstr "Ukradené zlato"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:103
 msgid ""
@@ -4805,7 +4974,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:749
 msgid "Oh no, we are surrounded!"
-msgstr ""
+msgstr "Ó, ne, obklíčili nás!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:755
 msgid "Heart shall be the harder as our strength lessens. Kill them all!"
@@ -4825,7 +4994,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:782
 msgid "Defeat the enemy leaders or"
-msgstr ""
+msgstr "Poraz nepřátelské vůdce nebo"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:786
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1361
@@ -4834,7 +5003,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:838
 msgid "Pew, they are defeated at last."
-msgstr ""
+msgstr "Uf, konečně jsou poraženi."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:844
 msgid "Hidel, let me introduce to you my saviour: Tallin."
@@ -4901,11 +5070,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1009
 msgid "You must be the famous Tallin."
-msgstr ""
+msgstr "Ty musíš být ten slavný Tallin."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1015
 msgid "At your service."
-msgstr ""
+msgstr "K službám."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1027
 msgid ""
@@ -4939,7 +5108,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1062
 msgid "As you wish, princess."
-msgstr ""
+msgstr "Jak si přejete, princezno."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1069
 msgid "Very well, people. The road ahead is clear, onward to victory!"
@@ -4979,19 +5148,21 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1277
 msgid "Hey! Look who's back!"
-msgstr ""
+msgstr "Hej! Podívejte kdo se vrátil!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1285
 msgid "And look, he brought his friends too!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1292
+#, fuzzy
 msgid "GRRRRRRR!"
-msgstr ""
+msgstr "GRRRRRRR!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1297
+#, fuzzy
 msgid "ROOOAAARRRR!!!"
-msgstr ""
+msgstr "ROOOAAARRRR!!!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1303
 msgid "Hurry, friends, lets set up camp!"
@@ -5016,20 +5187,21 @@ msgid "Tell that to the trolls."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1334
+#, fuzzy
 msgid "What! Drakes! Fire! Ahhhhhh!"
-msgstr ""
+msgstr "Co! Draci! Oheň! Áááá!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1339
 msgid "Shut your mouth, you coward!"
-msgstr ""
+msgstr "Sklapni, zbabělče!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1357
 msgid "Help Tallin defeat the enemy leaders or"
-msgstr ""
+msgstr "Pomoz Tallinovi porazit nepřátelské vůdce nebo"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1473
 msgid "Princess! We have finally found you!"
-msgstr ""
+msgstr "Princezno! Konečně jsme Vás našli!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1479
 msgid "Good work, Hidel! How do your forces march?"
@@ -5053,20 +5225,23 @@ msgid "With pleasure, Princess! Quickly men, set up a base!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1516
+#, fuzzy
 msgid ""
 "Oh no! Those blasted elves have just joined forces with the humans! This is "
 "hopeless! Flee! Flee!"
 msgstr ""
+"Ale ne! Ti prokletí elfi se spojili s člověky! Je to bez naděje! Pryč! "
+"Utíkat!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1523
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1617
 msgid "Hmmm, should we let the trolls run away or should we finish them now?"
-msgstr ""
+msgstr "Hm, máme ty trolly nechat utéct nebo je vyřídit hned teď?"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1526
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1620
 msgid "Hey! Stand your ground, you cowards!"
-msgstr ""
+msgstr "Hej! Neutíkejte z boje, vy zbabělci!"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1532
 msgid "You are a fool, human! We shall crush and destroy you!"
@@ -5074,7 +5249,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1541
 msgid "Help Tallin defeat the enemy leaders"
-msgstr ""
+msgstr "Pomoz Tallinovi porazit nepřátelské vůdce"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1570
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1664
@@ -5117,11 +5292,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:475
 msgid "Get past the revenants."
-msgstr ""
+msgstr "Dostaň se přes revenanty"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:501
 msgid "Uh... Which way?"
-msgstr ""
+msgstr "Eh... kudy teď?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:507
 msgid "Blast it! We lost him."
@@ -5149,7 +5324,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:537
 msgid "Find Malifor and Destroy Him"
-msgstr ""
+msgstr "Najdi Malifora a znič jej"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:564
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:640
@@ -5169,9 +5344,8 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:575
-#, fuzzy
 msgid "What do you have there, Abhai?"
-msgstr "Co tím myslíš?"
+msgstr "Co tam máš, Abhai?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:580
 msgid ""
@@ -5203,7 +5377,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:597
 #, fuzzy
 msgid "Why can't you wield it, Abhai?"
-msgstr "Co tím myslíš?"
+msgstr "A proč ji nemůžeš mít ty?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:602
 msgid ""
@@ -5225,11 +5399,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:715
 msgid "That's.... that's the Rod of Justice!"
-msgstr ""
+msgstr "To je ... to je Hůl spravedlnosti!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:721
 msgid "Do you know anything about it, Camerin?"
-msgstr ""
+msgstr "Ty o tom něco víš, Camerine?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:727
 msgid ""
@@ -5267,7 +5441,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:789
 msgid "Hey, an underground lake."
-msgstr ""
+msgstr "Hele, podzemní jezero."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:825
 msgid "Ack! What are those things!"
@@ -5299,49 +5473,50 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:873
 msgid "Hmm, what is this thing?"
-msgstr ""
+msgstr "Hmmm, co to je za věc?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:890
 msgid "EEEEEEEEEEEEEEEE!"
-msgstr ""
+msgstr "EEEEEEEEEEEEEEEE!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:895
 msgid "AHHHHHHHHH!"
-msgstr ""
+msgstr "AHHHHHHHHH!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:901
 msgid "... wait a second, who are you?"
-msgstr ""
+msgstr "... počkat, kdo jsi?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:906
 msgid "I.... I am one of Tallin's men..."
-msgstr ""
+msgstr "Já... já jsem jeden z Tallinových mužů..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:911
 msgid "Who is this Tallin?"
-msgstr ""
+msgstr "Kdo je ten Tallin?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:917
 msgid "I am."
-msgstr ""
+msgstr "Já."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:922
 msgid "What is your purpose in coming here?"
-msgstr ""
+msgstr "Proč sem přicházíš?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:927
 msgid "We seek the lich Malifor."
-msgstr ""
+msgstr "Hledáme liche jménem Malifor."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:933
 msgid ""
 "Malifor!... *goes a bit paler (if possible)* What business do you have with "
 "him?"
 msgstr ""
+"Malifor!... *trochu zbledne, pokud to ještě jde* Co s ním máte co do činění?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:939
 msgid "We seek to crush and destroy him."
-msgstr ""
+msgstr "Hodláme jej rozdrtit a zničit."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:945
 msgid ""
@@ -5349,22 +5524,25 @@ msgid ""
 "with that menace. You must have been sent by the High Kalian of "
 "Hiera'Shirsha?"
 msgstr ""
+"Och, díky Bohům světla! Konečně se objevil někdo dost silný na to aby se s "
+"tou hrozbou vypořádal. Museli jste být vysláni Vysokým Kalianem z Hiera-"
+"Širše?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:951
 msgid "The what!?"
-msgstr ""
+msgstr "Cože?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:957
 msgid "Err, I think we might be in different... uh... time zones, here."
-msgstr ""
+msgstr "É, myslím že jsme v různých... no... časových zónách."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:962
 msgid "I beg my pardon. Say, what year is it anyway?"
-msgstr ""
+msgstr "Omlouvám se. Jaký to vlastně máme rok?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:968
 msgid "Uh... 534 YW..."
-msgstr ""
+msgstr "No... 534 Y.W. ..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:973
 msgid "Huh!? Can't be, the last year I remember it was 14318 AD!"
@@ -5372,33 +5550,35 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:979
 msgid "?????"
-msgstr ""
+msgstr "?????"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:985
 msgid "Different calendars, folks."
-msgstr ""
+msgstr "To asi budou trošku jiné kalendáře."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:991
 msgid "I see, but say, who are you?"
-msgstr ""
+msgstr "No dobrá, ale kdo jsi ty?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:996
 msgid "What? How can you not know who I am?"
-msgstr ""
+msgstr "Cože? Jak můžeš nevědět kdo jsem?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1002
 msgid "The times have changed, my friend."
-msgstr ""
+msgstr "Časy se změnily, příteli."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1007
 msgid ""
 "Right... sorry about that. My name is Lord Abhai and I am... or was... the "
 "ruler of the great kingdom of Garet-Desh."
 msgstr ""
+"Pravda... omlouvám se. Mé jméno jest Lord Abhai a jsem... tedy spíše byl... "
+"vládce rozlehlého království jménem Garet-Desh."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1014
 msgid "What happened to you? Why are you a ghost?"
-msgstr ""
+msgstr "Co se ti stalo? Proč jsi duch?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1019
 msgid ""
@@ -5406,10 +5586,13 @@ msgid ""
 "know how long I dwelled there, I was wrenched from my peace and forced into "
 "this ectoplasmic body by a terrible power."
 msgstr ""
+"Zestárnul jsem a zemřel, jako ostatně všichni lidé, a nakonec vstoupil do "
+"země mrtvých. Nevím jak dlouho jsem tam pobýval, ale pak mne strašlivá síla "
+"vytrhla z mého klidu a vsadila do tohoto nehmotného těla."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1025
 msgid "Let me guess. Malifor?"
-msgstr ""
+msgstr "Nech mě hádat. Malifor?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1030
 msgid ""
@@ -5418,56 +5601,69 @@ msgid ""
 "Some monster that Malifor's minions greatly fear lives in these waters; they "
 "do not milest me here."
 msgstr ""
+"Tak, tak. Pokusil se zlomit mého ducha a porobit jej, učinit z něj otroka, "
+"ale já vzdoroval jeho moci a prchnul. Skrýval jsem se od těch časů v těchto "
+"zatopených tunelech. Žijí tu ve vodě stvůry, jichž se Maliforovi služebníci "
+"velice bojí; neobtěžují mne zde."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1036
 msgid "Would you join us to defeat this evil creature?"
-msgstr ""
+msgstr "Přidáš se k nám, abychom porazili tu nečistou stvůru?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1041
 msgid ""
 "Wouldn't miss it. Maybe after he is destroyed me and my kind can live... "
 "err.... be dead peacefully."
 msgstr ""
+"Takovou šanci nemohu promeškat. Snad až bude po jeho zničení moci můj lid a "
+"já žít... eh, odpočívat v pokoji."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1046
 msgid ""
 "Keep following these flooded tunnels. I think they might lead you directly "
 "to Mailfor."
 msgstr ""
+"Poračujte těmito zatopenými tunely. Myslím, že vás dovedou přímo k "
+"Maliforovi."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1052
+#, fuzzy
 msgid "Great! Forward, men!"
-msgstr ""
+msgstr "Výborně! Kupředu, muži!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1065
 msgid ""
 "Just great, I am cold, wet, and tired and what have we here? Another dead "
 "end. This place is starting to get on my nerves!"
 msgstr ""
+"Prostě skvělé, je mi zima, mokro, k tomu únava a co tu vlastně je? Jen další "
+"slepá ulička. Začíná mě to tu štvát!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1078
+#, fuzzy
 msgid "Ssssh! I hear something."
-msgstr ""
+msgstr "Tiše. Poslouchejte, myslím, že něco slyším."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1081
 msgid "Sea Serpent"
 msgstr "Mořský had"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1085
+#, fuzzy
 msgid "ROOOAAARRR!"
-msgstr ""
+msgstr "ROOOAAARRR!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1090
 msgid "Ahhhhh!"
-msgstr ""
+msgstr "Ahhhhh!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1106
 msgid "Hold it, people, there is something just ahead!"
-msgstr ""
+msgstr "Stát, lidi, něco je tu hned před námi!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1147
 msgid " *sniff* I smell humans."
-msgstr ""
+msgstr " *čmuch* Cítím lidi."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1152
 msgid "You are just plain deaf. I heard them coming from a mile off."
@@ -5511,10 +5707,12 @@ msgstr ""
 msgid ""
 "Warning! These bottles contain toxic waste. Causes disintegration on contact."
 msgstr ""
+"Pozor! Tyto lahvičky obsahují toxický odpad, který způsobuje při doteku "
+"rozpadání."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1261
 msgid "Ha ha, for skeletons anyway."
-msgstr ""
+msgstr "Haha, možná tak pro kosťáky."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1280
 msgid " *rolls eyes* Oh the hazardous life of a skeleton."
@@ -5522,11 +5720,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1294
 msgid "The Treasury"
-msgstr ""
+msgstr "Pokladnice"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1299
 msgid "The Treasury! Cool, let's go loot some booty!"
-msgstr ""
+msgstr "Pokladnice! Výborně, nabereme si nějaký lup!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1313
 msgid "The Dungeon"
@@ -5534,7 +5732,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1328
 msgid "Malifor the Great's Study."
-msgstr ""
+msgstr "Studovna Malifora Velkého"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1333
 msgid "There we go! This way guys!"
@@ -5542,7 +5740,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1347
 msgid "Wow! There is at least 1000 gold in here!"
-msgstr ""
+msgstr "Jupí! Tady je aspoň tisíc zlatých!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1368
 msgid "Holy Gods of Light! 500 gold!"
@@ -5550,19 +5748,20 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1389
 msgid "800 gold! We're rich!!!"
-msgstr ""
+msgstr "Osm set zatých! Jsme bohatí!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1410
 msgid "What a horde! 2 000 gold!"
-msgstr ""
+msgstr "Taková hromada! Dva tisíce zlatých!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1431
 msgid "500 gold! Not bad!"
-msgstr ""
+msgstr "Pět set zlatých! To není špatné!"
 
+# kosťák?
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1452
 msgid "10,000 gold! Wow! Where is that bag of bones getting all this?"
-msgstr ""
+msgstr "Deset tisíc zlatých! Kde to ten starý kostěj všechno bere?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1488
 msgid "Freedom at last. Thank you Lord Tallin."
@@ -5577,7 +5776,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1510
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1649
 msgid "Who are you? How did you end up down here?"
-msgstr ""
+msgstr "Kdo jsi? Jak jsi skončila tady dole?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1514
 msgid ""
@@ -5626,21 +5825,21 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1564
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1703
 msgid "Marcus!"
-msgstr ""
+msgstr "Marku!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1570
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1709
 msgid "Theta!"
-msgstr ""
+msgstr "Theto!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1576
 msgid "Please folks, not now."
-msgstr ""
+msgstr "Prosím, lidičky, ne teď."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1581
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1720
 msgid "Oh, sorry."
-msgstr ""
+msgstr "Ach, pardon."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1627
 msgid ""
@@ -5686,8 +5885,9 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1715
+#, fuzzy
 msgid "Please, folks, not now."
-msgstr ""
+msgstr "Teď ne, nemám čas."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1753
 msgid ""
@@ -5718,7 +5918,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1842
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1931
 msgid "Uh....... where..... am..... I...?"
-msgstr ""
+msgstr "Ech....... kde....... jsem.......?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1847
 msgid ""
@@ -5729,7 +5929,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1854
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1942
 msgid "....thanks."
-msgstr ""
+msgstr "...díky."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1860
 msgid ""
@@ -5841,7 +6041,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2075
 msgid "Hey, it talks!"
-msgstr ""
+msgstr "Hej ono to mluví!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2081
 msgid "It's a 'he', and  yes, they're actually very intelligent creatures."
@@ -5948,8 +6148,9 @@ msgid "HAHAHAHAHAHA, YOUR IDIOCY AMUSES ME GREATLY!"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2295
+#, fuzzy
 msgid "COME AND GET ME!"
-msgstr ""
+msgstr "Pojď, a dostaneš co proto!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2301
 msgid "Geez, how are we going to kill him?"
@@ -5973,7 +6174,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2421
 msgid "No, there has to be a way!"
-msgstr ""
+msgstr "Ne, musí přece existovat nějaký způsob!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2426
 msgid "Well, it isn't gonna be blades."
@@ -6038,8 +6239,9 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2695
+#, fuzzy
 msgid "They are trying to free the prisoners! Stop them!"
-msgstr ""
+msgstr "Pokoušejí se osvobodit vězně! Zastavte je!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2700
 msgid "Good luck, my friend."
@@ -6047,8 +6249,9 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2751
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3169
+#, fuzzy
 msgid "Intruders! Get them!"
-msgstr ""
+msgstr "Kořist! Dostaňte ji!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2756
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3174
@@ -6066,15 +6269,15 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2899
 msgid "Ugh, a dead body!"
-msgstr ""
+msgstr "Ech, mrtvola!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2915
 msgid "Here's another body."
-msgstr ""
+msgstr "Tady je další tělo."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2931
 msgid "And another..."
-msgstr ""
+msgstr "A další..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2947
 msgid ""
@@ -6084,7 +6287,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2963
 msgid "The Great Chamber"
-msgstr ""
+msgstr "Velká síň"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2968
 msgid " 'The Great Chamber'? Hmmm, wonder what that could be."
@@ -6097,8 +6300,9 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2991
+#, fuzzy
 msgid " *rumble*"
-msgstr ""
+msgstr "TŘESK! TŘESK! TŘESK!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2996
 msgid "Uh oh, I think I spoke too soon."
@@ -6119,7 +6323,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3120
 msgid "Hsssssssss"
-msgstr ""
+msgstr "Hsssssssss"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3125
 msgid "This doesn't look good."
@@ -6131,11 +6335,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3151
 msgid "Here we go."
-msgstr ""
+msgstr "Pokračujme..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3280
 msgid "Halt! Who goes there? Friend or foe?"
-msgstr ""
+msgstr "Stát! Kdo tam - přítel či nepřítel?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3285
 msgid "Depends. Are you loyal to Malifor?"
@@ -6180,7 +6384,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3325
 msgid "Awesome, let's go!"
-msgstr ""
+msgstr "Skvělé, pojďme!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3341
 msgid ""
@@ -6202,14 +6406,15 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3380
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3746
+#, fuzzy
 msgid "Go for it!"
-msgstr ""
+msgstr "Jasně!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3398
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3582
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3809
 msgid "There we go."
-msgstr ""
+msgstr "Pokračujme..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3427
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3604
@@ -6220,8 +6425,9 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3527
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3694
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3935
+#, fuzzy
 msgid "Just wait a sec."
-msgstr ""
+msgstr "Stůj! Kdo tam?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3561
 msgid ""
@@ -6243,19 +6449,19 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3742
 msgid "Should I throw it?"
-msgstr ""
+msgstr "Mám ji přehodit?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3751
 msgid "Ok, here we go!"
-msgstr ""
+msgstr "A jedeme!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3756
 msgid " *creak*....."
-msgstr ""
+msgstr " *vrz*....."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3761
 msgid "Nothing. That door is not moving."
-msgstr ""
+msgstr "Nic. Ty dveře se nehnuly."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3766
 msgid "Why don't you try 'knocking'."
@@ -6263,7 +6469,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3771
 msgid "Ok."
-msgstr ""
+msgstr "Fajn."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3776
 msgid " *BANG*"
@@ -6271,11 +6477,12 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3781
 msgid "Anybody home?"
-msgstr ""
+msgstr "Je někdo doma?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3786
+#, fuzzy
 msgid " *BOOM*"
-msgstr ""
+msgstr "BUM!!!"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3791
 msgid " *CRASH!!!*"
@@ -6283,7 +6490,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:6
 msgid "To the Mines"
-msgstr ""
+msgstr "K dolům"
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:10
 msgid ""
@@ -6411,12 +6618,14 @@ msgid "Once the party left the caves they found that they faced a new threat."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:170
+#, fuzzy
 msgid "Hey look, there is our meat! Come on, boys, lunchtime!"
-msgstr ""
+msgstr "Heleďte, naše maso! Pojďte, kluci, oběd!"
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:176
+#, fuzzy
 msgid "I don't think so, buddy."
-msgstr ""
+msgstr "Nemyslím, chlapče."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:209
 msgid "Argh! They are stronger then we thought. Someone go tell the Master..."
