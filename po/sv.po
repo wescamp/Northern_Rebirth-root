@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-16 22:32+0200\n"
+"POT-Creation-Date: 2007-04-18 22:03+0200\n"
 "PO-Revision-Date: 2006-03-13 03:01+0100\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -153,12 +153,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:61
 msgid ""
-"It was an early spring day like any other; the humans - joyless and "
-"dispirited beneath the orcish whip - were busily planting the yearly crop. "
-"All at once, the war-drums of the orcs began pounding; harsh war-cries "
-"sounded as orcs mustered to gather their weapons and man their posts. "
-"Startled, the peasants looked around in alarm, and that iss when they saw "
-"him."
+"It was an early spring day like any other; the humans - joyless beneath the "
+"orcish whip - were dispiritedly planting the yearly crop. All at once, the "
+"war-drums of the orcs began pounding; harsh war-cries sounded as orcs "
+"mustered to gather their weapons and man their posts. Startled, the peasants "
+"looked around in alarm, and that iss when they saw him."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:65
@@ -183,11 +182,10 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:73
 msgid ""
-"As quickly as it began, it was over. Konrad reached the entrance to the "
+"As quickly as it had begun, it was over. Konrad reached the entrance to the "
 "tunnels and ushered his men through. Then he turned one last time to face "
-"the peasants. The youthful figure silhouetted against the midday sky raised "
-"his his gore splattered sword and called out to them: 'Hold fast your hope, "
-"for one day you shall be free!' Then he was gone."
+"the peasants. Raising his sword in salute and farewell, he called out to "
+"them: 'Hold fast your hope, for one day you shall be free!' Then he was gone."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:77
@@ -237,7 +235,7 @@ msgstr "Besegra alla fiendeledare"
 #: Northern_Rebirth/scenarios/Showdown.cfg:1035
 #: Northern_Rebirth/scenarios/Showdown.cfg:1061
 #: Northern_Rebirth/scenarios/Showdown.cfg:1087
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:369
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:365
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:556
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:795
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:821
@@ -665,7 +663,7 @@ msgstr "Rensa gruvorna"
 #: Northern_Rebirth/scenarios/Showdown.cfg:1047
 #: Northern_Rebirth/scenarios/Showdown.cfg:1073
 #: Northern_Rebirth/scenarios/Showdown.cfg:1099
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:373
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:369
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:793
 msgid "Death of Hamel"
 msgstr "Hamel dör"
@@ -2019,84 +2017,65 @@ msgstr "Kryllande grottor"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:10
 msgid ""
-"It was a time of great deeds. Ill armed and untrained as they were, the "
-"people of Dwarven Doors rose up like an irresistible tide against the Orcs. "
-"Although their losses had been tremendous - as peasant after peasant "
-"sacrificed themselves under the blades and bolts of the orcs - never once "
-"did they brake or falter. In the end, the orchish host was smashed and the "
+"Ill-armed and untrained though they were, the people of Dwarven Doors rose "
+"against the Orcs. Although their losses had been tremendous, never once did "
+"they break or falter. In the end, the orcish host was smashed and the "
 "survivors sent scurrying for their lives."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:14
 msgid ""
-"Even though they were deeply aggrieved at the sight of their fallen "
-"comrades, the people's joy in their newfound freedom couldn't be contained. "
-"For the majority of them, this was the first time in their lives that they "
-"had been masters of their own will. In their revelry, they ransacked the "
-"orcish storehouses, sang, danced and drank with abandon. Young warriors "
-"boasted and wove great tales about their daring and bravery against the "
-"orcs, while the women and children looked on with awe."
+"Grief for the fallen could not suppress the people's joy in their newfound "
+"freedom.  They ransacked the orcish storehouses, sang, danced and drank with "
+"abandon. New-fledged warriors boasted of their deeds in the battle, while "
+"the women and children looked on with awe."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:18
 msgid ""
-"Amidst all the revelry, Tallin alone remained distant and apart - for he "
-"knew that as things now were, their freedom couldn't last long. Most likely "
-"the orcs would return with a vengeance and slaughter every last one of them. "
-"Consequently, gathered everyone together the following morning to discuss "
-"their further corse of action."
+"Amidst all the revelry, Tallin alone remained distant and thoughtful. He "
+"knew it likely that the orcs would return with a vengeance and slaughter "
+"every last one of them. He gathered the cooler heads about him the following "
+"morning to set their course.  How might they, untrained in the art of war "
+"and without expectation of aid from the prosperous human lands of the south, "
+"defend themselves?"
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:22
 msgid ""
-"Once the reality of the situation set in, everyone became very sober. "
-"Proposals on how to maintain the freedom were suggested and discarded one "
-"after another. There would be no help from foreign lands, as the elderly who "
-"remembered such times, readily pointed out their indifference in the past. "
-"They may try to rebuild their fortifications, but the orcs would break them "
-"as they had last time. Besides, for all their bravery none of the people "
-"were actually trained in the art of war."
+"The war council's thoughts quickly turned to the dwarves, close allies in "
+"the past. However, nobody knew the state of things in the Knalgan tunnels. "
+"The bravest scouts found spoor of many trolls, and of creatures darker than "
+"trolls. It was even rumored that the dwarven dead from the invasion of "
+"Knalga had risen in unlife, roaming the tunnels to slay the living. Fighting "
+"through all manner of unknown monsters in the mere hope of finding surviving "
+"dwarves held but little appeal."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:26
 msgid ""
-"The people's thoughts quickly turned to the dwarves, who were their close "
-"allies in the past. However, nobody knew what were the state of things in "
-"the tunnels. People who scouted the tunnels briefly reported that they were "
-"infested with trolls, and rumor had it that even more dark and foreboding "
-"things lurked there. Some even said that the dwarves who had died during the "
-"invasion of Knalga, still roamed in their death thru the darkness - "
-"attacking anything in their path."
+"Some help unlooked for arrived that day in the form of a small band of "
+"woodsrunners -- escapees from the orcs, grown wood-wise and crafty, and in "
+"contact with larger bands of poachers and outlaws roaming the night.  "
+"Embassies were sent; agreements made. A handful of experienced fighters, "
+"scarred and closemouthed, came to Dwarven Doors to find and train the most "
+"willing in their rugged fighting style."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:30
 msgid ""
-"Days passed, and the people still had no solution to this deadlock. Trudging "
-"the impassable caves, fighting all manners of unknown monsters in the rare "
-"hope of finding any surviving dwarves was not an appealing corse of action - "
-"and so the mater lay. A small breakthrough came however, when a small band "
-"of roving peasants - who had years ago escaped the orcish whip, and had "
-"since taken on lifestyles akin to thugs and poachers - agreed to join forces "
-"with them. The people young and the brave soon took to learning their rugged "
-"style of fighting, as they knew that more confrontations with the orcs were "
-"inevitable."
+"A fortnight after their victory, the town was awakened from slumber in the "
+"dead of night by the distant booming of orcish drums. Scouts training with "
+"the nightrunners returned to cry the news that an strong orcish company was "
+"approaching. Frightened as they had never been before, the folk of Dwarven "
+"Doors looked to Tallin for guidance."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:34
-msgid ""
-"Then - in just over a week after their uprising, the town was awakened from "
-"slumber in the dead of night by the distant booming of orcish drums. People "
-"who had been training with the night-faring thugs and poachers came rushing "
-"in with the news that an orcish company was approaching. Frightened as they "
-"had never been before, and confused over their next corse of action, the "
-"people looked to Tallin for guidance."
-msgstr ""
-
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:38
 #, fuzzy
 msgid ""
 "Faced with certain destruction at the hands of the orcs, or a fate unknown "
-"in the foreboding caves, Tallin chose the later. The people quickly gathered "
+"in the caves of Knalga, Tallin chose the latter. The people quickly gathered "
 "together and collected whatever food and weapons they could and plunged into "
 "the darkness of the caves."
 msgstr ""
@@ -2104,31 +2083,31 @@ msgstr ""
 "samlade ihop så mycket proviant som de kunde få tag på, och gav sig av ner i "
 "grottornas mörker."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:162
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:158
 msgid "So here we are..."
 msgstr "Så var vi nu här..."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:166
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:162
 msgid " *trip* OOF!!!"
 msgstr "*snubbel* UFF!!!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:171
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:167
 #, fuzzy
 msgid "Great idea, Tallin, I probably couldn't even fight a bat down here."
 msgstr ""
 "Vilken strålande ide, Tallin. Jag skulle nog inte ens kunna slåss mot en "
 "fladdermus här nere."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:189
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:185
 msgid "Neep Neep!"
 msgstr "Pip pip!"
 
 #: Northern_Rebirth/scenarios/Slave_of_the_Undead.cfg:433
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:193
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:189
 msgid "Ahhhh!"
 msgstr "Ahhhh!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:199
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:195
 msgid ""
 "Calm down $name.user_description. Come what may, we'll handle them. Come on "
 "now, lets find those dwarves!"
@@ -2136,7 +2115,7 @@ msgstr ""
 "Lugna dig, $name.user_description. Vad som än händer, så klarar vi av det. "
 "Kom nu, låt oss leta reda på de där dvärgarna!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:219
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:215
 #, fuzzy
 msgid ""
 "Good, we managed to clear the caves... for now, anyway. Now let's get to the "
@@ -2145,40 +2124,40 @@ msgstr ""
 "Bra, nu är grottorna tomma... För tillfället i alla fall. Nu går vi till "
 "dvärgborgen och förhandlar om vapen."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:229
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:225
 msgid ""
 "Good, there are no more monsters lurking in these parts of the tunnels. I "
 "think I can hear the clamor of dwarves just ahead. Come on men, let's go "
 "meet them."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:262
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:446
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:258
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:442
 msgid "Hey, what's going on in here?"
 msgstr "Hej, vad försiggår här?"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:272
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:456
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:268
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:452
 msgid "We are killing lots of trolls and skeletons."
 msgstr "Vi håller på att slå ihjäl en massa troll och skelett."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:278
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:462
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:274
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:458
 msgid "Really! Did you save any for me?"
 msgstr "Verkligen! Sparade ni några till mig?"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:283
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:467
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:279
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:463
 msgid "Uh, not really..."
 msgstr "Öh, nej, inte riktigt..."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:289
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:473
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:285
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:469
 msgid "Awwwwww."
 msgstr "Aaoooh."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:294
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:478
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:290
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:474
 msgid ""
 "But hey, if you want to join us, I am sure we will be fighting a lot more "
 "orcs, trolls and skeletons in the near future."
@@ -2186,22 +2165,22 @@ msgstr ""
 "Men om du vill komma med oss, så är jag säker på att vi snart kommer att "
 "slåss mot en massa mer orcher, troll och skelett."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:300
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:484
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:296
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:480
 msgid "Really! Oh yeah, I am in!"
 msgstr "Verkligen! Jippi, jag kommer med er!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:326
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:322
 #, fuzzy
 msgid "Stand where ye be, you... Och! A human!"
 msgstr "Stopp där, du... Titta, en människa!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:331
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:327
 #, fuzzy
 msgid "Greetings from the people of Dwarven Doors, friend."
 msgstr "Dvärgportarnas folk hälsar dig, vän."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:335
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:331
 #, fuzzy
 msgid ""
 "Dwarven Doors? I thought ye surface humans had been enslaved or slain by the "
@@ -2209,7 +2188,7 @@ msgid ""
 msgstr ""
 "Dvärgportarna? Jag trodde att ni blev förslavade av orcherna för länge sedan."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:340
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:336
 #, fuzzy
 msgid ""
 "Yes, we were enslaved, but we rose against Al'tar and defeated his warband. "
@@ -2220,7 +2199,7 @@ msgstr ""
 "fortsätta vår nyvunna frihet söker vi nu hjälp och utrustning av våra gamla "
 "allierade, dvärgarna."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:344
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:340
 msgid ""
 "Och, the dwarves of Knalga are themselves in desperate straits - but we "
 "havena forgotten the old bonds. Be welcome to our keep. aye, and have speech "
@@ -2233,55 +2212,55 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3944
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:815
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:1134
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:349
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:345
 msgid "Very well."
 msgstr "Okej."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:360
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:356
 msgid "Move Tallin to the Dwarvish Keep or..."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:364
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:360
 #, fuzzy
 msgid "Clear the Caves"
 msgstr "Rensa gruvorna"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:391
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:387
 msgid "Well met, Tallin.  My men have told me of your victory against Al'Tar."
 msgstr ""
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:396
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:392
 #, fuzzy
 msgid "Thank you and well-met indeed, Lord Hamel."
 msgstr "Tack så mycket, furst Hamel."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:402
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:398
 #, fuzzy
 msgid "Whew!"
 msgstr "Puuh!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:407
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:403
 msgid "Finally!"
 msgstr "Nu så!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:412
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:408
 msgid "At last!"
 msgstr "Äntligen!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:418
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:414
 msgid "Awww!"
 msgstr "Aoh!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:526
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:522
 #, fuzzy
 msgid "PREPARE TO DIE, YOU FOUL ORC!"
 msgstr "GÖR DIG REDO ATT DÖ, DIN VIDRIGE ORCH!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:530
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:526
 msgid "Hold it! I am no orc, I am a human!"
 msgstr "Stopp där! Jag är inte någon orch, jag är människa!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:535
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:531
 msgid ""
 "A human! Amazing, I haven't seen a human ever since the orcs attacked. Ever "
 "since then the the only living - and non-living - things I have seen are "
@@ -2291,25 +2270,25 @@ msgstr ""
 "anföll. Sen dess är de enda levande - och icke-levande - varelser jag sett "
 "orcher, troll och skelett."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:539
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:535
 msgid "How have you managed to survive all this time?"
 msgstr "Hur har du lyckats överleva så här länge?"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:544
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:540
 msgid "By frying every orc, troll or skeleton I come across. Duh!"
 msgstr ""
 "Genom att ta kål på varenda orch, troll och skelett som jag stött på. Duh!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:548
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:544
 msgid "...oh!"
 msgstr "...åh!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:553
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:549
 msgid ""
 "But silly me, where are my manners. Would you like to come inside for tea?"
 msgstr "Men så oartig jag är. Skulle ni vilja komma in på en kopp te?"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:557
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:553
 msgid ""
 "Um... err.... well actually we are presently busy fighting our way through "
 "hordes of trolls and skeletons trying to find the dwarves... if there are "
@@ -2319,19 +2298,19 @@ msgstr ""
 "genom horder av troll och skelett, och med att försöka hitta dvärgarna... Om "
 "det finns några kvar."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:562
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:558
 msgid "Hordes of trolls and skeletons! Where!? Lets go burn em!"
 msgstr "Horder av troll och skelett! Var då? Nu går vi och bränner ihjäl dem!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:566
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:562
 msgid "Err... ok...."
 msgstr "Äh... Okej då..."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:571
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:567
 msgid " *Is it safe to have this lunatic with us?*"
 msgstr "*Är det verkligen säkert att ha den här dåren med oss?*"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:577
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:573
 #, fuzzy
 msgid ""
 "Oh, and if you are looking for more trolls, skeletons and dwarves, go back "
@@ -2342,30 +2321,30 @@ msgstr ""
 "tillbaka in i grottorna. Allt som finns här är orcher och några gamla "
 "övergivna gruvor."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:600
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:596
 #, fuzzy
 msgid "BURN, YOU DISGUSTING FILTH!"
 msgstr "BRINN DITT ÄCKEL!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:605
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:601
 msgid "Ahhh! Fire!"
 msgstr "Ahhh! Eld!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:610
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:606
 #: Northern_Rebirth/scenarios/Introductions.cfg:226
 msgid "Wow!"
 msgstr "Wow!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:628
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:624
 #, fuzzy
 msgid "YEAH! DIE, SCUM, DIE!"
 msgstr "JA! DÖ, DITT AVSKUM, DÖ!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:633
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:629
 msgid "He's gone completely insane!"
 msgstr "Han har blivit helt galen!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:657
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:653
 #, fuzzy
 msgid ""
 "Tallin, we have just received the news that the dwarvish Lord Hamel has just "
@@ -2374,11 +2353,11 @@ msgstr ""
 "Tallin, vi har just fått reda på att dvärgarnas ledare, furst Hamel, har "
 "dödats. Vi har kommit för sent!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:681
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:677
 msgid "This tunnel keeps on going..."
 msgstr "Den här tunneln bara fortsätter..."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:686
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:682
 msgid ""
 "I think we should finish searching this part of Knalga first before we go "
 "deeper into the caves."
@@ -2386,26 +2365,26 @@ msgstr ""
 "Jag tror att det vore bäst om vi utforskade den här delen av Knalga innan vi "
 "ger oss längre ner i grottorna."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:710
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:761
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:706
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:757
 #, fuzzy
 msgid "Grim Gods of Darkness, what are those things!"
 msgstr "Men vad i hela friden är det där för något?!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:716
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:767
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:712
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:763
 msgid "Skeletons!"
 msgstr "Skelett!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:722
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:773
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:718
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:769
 #, fuzzy
 msgid ""
 "Look at the axes they bear. At one time those skeletons must have been "
 "dwarves!"
 msgstr "Se på de där yxorna. De där skeletten var nog dvärgar en gång i tiden!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:728
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:724
 #, fuzzy
 msgid ""
 "Stand firm, men.  The dwarven defenders of Knalga rise again. Now it remains "
@@ -2414,7 +2393,7 @@ msgstr ""
 "Håll stånd, mannar, dvärgarnas försvarare har rest sig. Nu får vi se om de "
 "känner igen oss som vänner eller ej."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:779
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:775
 #, fuzzy
 msgid ""
 "Stand firm, men. The dwarven defenders of Knalga rise again. Now it remains "
@@ -2423,18 +2402,18 @@ msgstr ""
 "Håll stånd, mannar, dvärgarnas försvarare har rest sig. Nu får vi se om de "
 "känner igen oss som vänner eller ej."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:816
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:857
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:812
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:853
 msgid "They are attacking us!"
 msgstr "De anfaller oss!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:822
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:863
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:818
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:859
 msgid "Destroy them!"
 msgstr "På dem!"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:881
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:922
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:877
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:918
 #, fuzzy
 msgid ""
 "Hey look, it's an ancient door. It seems the trolls were too stupid to find "
@@ -2443,33 +2422,33 @@ msgstr ""
 "Titta här, en gammal dörr. Trollen måste varit alltför dumma för att förstå "
 "hur man öppnar den."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:886
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:927
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:882
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:923
 #, fuzzy
 msgid "Well, let's see what's behind it."
 msgstr "Nå, låt oss då se vad som finns bakom den."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:890
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:931
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:886
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:927
 msgid "Alright. *Grunt* *Strain* It's not moving, it seems to be stuck."
 msgstr "Okej. *Stön* *Spräck* Den rör inte på sig, den verkar sitta fast."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:895
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:936
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:891
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:932
 #, fuzzy
 msgid "Well, just kick it down then."
 msgstr "Men sparka ner den då."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:899
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:895
 msgid "...right."
 msgstr "...precis."
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:903
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:944
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:899
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:940
 msgid " *SMASH* "
 msgstr "*BANK*"
 
-#: Northern_Rebirth/scenarios/Infested_Caves.cfg:940
+#: Northern_Rebirth/scenarios/Infested_Caves.cfg:936
 msgid "....right."
 msgstr "...precis."
 
