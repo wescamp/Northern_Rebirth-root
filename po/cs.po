@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-18 22:03+0200\n"
+"POT-Creation-Date: 2007-04-23 19:51+0200\n"
 "PO-Revision-Date: 2007-04-14 01:25+0100\n"
 "Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: none\n"
@@ -62,6 +62,11 @@ msgid "RoyalGuard"
 msgstr "Královská stráž"
 
 #: Northern_Rebirth.cfg:21
+#, fuzzy
+msgid " Version 1.18.5 Last updated 4/18/07."
+msgstr " Verze 1.18.4 Poslední úpravy 31.3.07."
+
+#: Northern_Rebirth.cfg:21
 msgid ""
 "For the people of Dwarven Doors the choice was stark: either drudge as "
 "downtrodden slaves for the orcs until the end of their brief and miserable "
@@ -76,10 +81,6 @@ msgstr ""
 "Nic nevěděli o tom že jejich boj se stane počátkem velkých činů, které buď "
 "obnoví Severní kraje v jejich bývalé slávě anebo je navždy odsoudí ke "
 "krvavému chaosu."
-
-#: Northern_Rebirth.cfg:21
-msgid " Version 1.18.4 Last updated 3/31/07."
-msgstr " Verze 1.18.4 Poslední úpravy 31.3.07."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:27
 #, fuzzy

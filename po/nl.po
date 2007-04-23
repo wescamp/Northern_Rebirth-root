@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-18 22:03+0200\n"
+"POT-Creation-Date: 2007-04-23 19:51+0200\n"
 "PO-Revision-Date: 2007-02-12 09:09+0100\n"
 "Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
 "Language-Team: none <foppe.benedictus@gmail.com>\n"
@@ -51,6 +51,11 @@ msgstr "Erewacht"
 
 #: Northern_Rebirth.cfg:21
 #, fuzzy
+msgid " Version 1.18.5 Last updated 4/18/07."
+msgstr "Versie 1.18 Laatste update 1/1/11."
+
+#: Northern_Rebirth.cfg:21
+#, fuzzy
 msgid ""
 "For the people of Dwarven Doors the choice was stark: either drudge as "
 "downtrodden slaves for the orcs until the end of their brief and miserable "
@@ -65,11 +70,6 @@ msgstr ""
 "wisten dat het resultaat van hun opstand de noordelijke gebieden weer in hun "
 "oude glorie zouden herstellen of het voor eeuwig in een levende hel "
 "veranderen."
-
-#: Northern_Rebirth.cfg:21
-#, fuzzy
-msgid " Version 1.18.4 Last updated 3/31/07."
-msgstr "Versie 1.18 Laatste update 1/1/11."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:27
 msgid "Breaking the Chains"

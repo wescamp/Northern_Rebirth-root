@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-18 22:03+0200\n"
+"POT-Creation-Date: 2007-04-23 19:51+0200\n"
 "PO-Revision-Date: 2007-04-15 13:15+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
@@ -54,6 +54,11 @@ msgid "RoyalGuard"
 msgstr "Kongelig vagt"
 
 #: Northern_Rebirth.cfg:21
+#, fuzzy
+msgid " Version 1.18.5 Last updated 4/18/07."
+msgstr " Version 1.18.4 Sidst opdateret 31.03.2007."
+
+#: Northern_Rebirth.cfg:21
 msgid ""
 "For the people of Dwarven Doors the choice was stark: either drudge as "
 "downtrodden slaves for the orcs until the end of their brief and miserable "
@@ -67,10 +72,6 @@ msgstr ""
 "og rejse sig mod deres onde herrer. De var ikke klar over, at deres kamp "
 "ville føre til store begivenheder, som enten ville genskabe de nordlige "
 "lande til fordums tids ære eller dømme dem til en evighed i blodigt kaos."
-
-#: Northern_Rebirth.cfg:21
-msgid " Version 1.18.4 Last updated 3/31/07."
-msgstr " Version 1.18.4 Sidst opdateret 31.03.2007."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:27
 msgid "Breaking the Chains"

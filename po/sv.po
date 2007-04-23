@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-18 22:03+0200\n"
+"POT-Creation-Date: 2007-04-23 19:51+0200\n"
 "PO-Revision-Date: 2006-03-13 03:01+0100\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -51,6 +51,11 @@ msgstr "Livgardist"
 
 #: Northern_Rebirth.cfg:21
 #, fuzzy
+msgid " Version 1.18.5 Last updated 4/18/07."
+msgstr "Version 1.10. Uppdaterad senast 2005-12-16."
+
+#: Northern_Rebirth.cfg:21
+#, fuzzy
 msgid ""
 "For the people of Dwarven Doors the choice was stark: either drudge as "
 "downtrodden slaves for the orcs until the end of their brief and miserable "
@@ -64,11 +69,6 @@ msgstr ""
 "liv och resa sig mot sina grymma härskare. Lite anade de att resultatet av "
 "deras kamp skulle antingen återställa nordländerna till dess forna glans, "
 "eller döma dem till en evighet av blodigt kaos. "
-
-#: Northern_Rebirth.cfg:21
-#, fuzzy
-msgid " Version 1.18.4 Last updated 3/31/07."
-msgstr "Version 1.10. Uppdaterad senast 2005-12-16."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:27
 msgid "Breaking the Chains"
