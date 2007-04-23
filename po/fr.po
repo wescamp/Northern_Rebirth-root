@@ -1,12 +1,9 @@
-# translation of fr.po to
-# breversa <breversa@fr.st>, 2006.
-# Mariage François <francois.mariage@free.fr>, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: fr\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-18 22:03+0200\n"
-"PO-Revision-Date: 2007-02-07 02:56+0100\n"
+"POT-Creation-Date: 2007-04-23 19:51+0200\n"
+"PO-Revision-Date: 2007-04-21 22:53+0100\n"
 "Last-Translator: Damien <guydelatour@gloireetpouvoir.com>\n"
 "Language-Team: Traduction française <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
@@ -52,6 +49,11 @@ msgid "RoyalGuard"
 msgstr "Garde royal"
 
 #: Northern_Rebirth.cfg:21
+#, fuzzy
+msgid " Version 1.18.5 Last updated 4/18/07."
+msgstr " Version 1.18.4 Dernière mise à jour le 31/03/2007"
+
+#: Northern_Rebirth.cfg:21
 msgid ""
 "For the people of Dwarven Doors the choice was stark: either drudge as "
 "downtrodden slaves for the orcs until the end of their brief and miserable "
@@ -60,25 +62,18 @@ msgid ""
 "events that might either restore the Northlands to the glory they had once "
 "known, or doom them to an eternity of bloody chaos."
 msgstr ""
-"Le choix était simple pour les habitants des Portes des Nains : ils "
-"pouvaient soit travailler jusqu'à la fin de leur misérable existence pour "
-"les orcs comme d'insignifiants esclaves, soit tout risquer pour se rebeller "
-"contre leurs cruels seigneurs. Ils ne se doutaient pas que ce combat anodin "
-"déclencherait de grands évènements qui pourraient soit restaurer la gloire "
-"passée des Terres du Nord, soit les plonger pour l'éternité dans un chaos "
-"sanglant."
-
-#: Northern_Rebirth.cfg:21
-#, fuzzy
-msgid " Version 1.18.4 Last updated 3/31/07."
-msgstr " Version 1.18. Dernière mise à jour le 16/01/2007"
+"Les habitants des Portes des Nains devaient faire un choix difficile : soit "
+"travailler pour les orcs jusqu'à la fin de leur misérable existence comme "
+"d'insignifiants esclaves, soit tout risquer et se rebeller contre leurs "
+"cruels seigneurs. Ils ne se doutaient pas que ce combat anodin déclencherait "
+"de grands évènements qui pourraient soit restaurer la gloire passée des "
+"Terres du Nord, soit les plonger pour l'éternité dans un chaos sanglant."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:27
 msgid "Breaking the Chains"
 msgstr "Briser les chaînes"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:34
-#, fuzzy
 msgid ""
 "Far to the north of Wesnoth, and hard by the dwarven caves of Knalga, there "
 "was once a thriving mixed community known as Dwarven Doors. Food, wood, and "
@@ -89,7 +84,7 @@ msgid ""
 "trade mingled more with the other kindred races than was common elsewhere. "
 "Dwarven Doors grew populous and wealthy."
 msgstr ""
-"Il y a longtemps, bien au nord de Wesnoth, à l'entrée des cavernes naines de "
+"Il y a longtemps, bien au nord de Wesnoth, tout près des cavernes naines de "
 "Knalga, vivait une communauté cosmopolite et prospère portant le nom de "
 "Portes des Nains. Les nains vendaient du minerai et des métaux aux nations "
 "de la surface et achetaient de la nourriture, du bois et des tissus "
@@ -99,7 +94,6 @@ msgstr ""
 "Nains devint ainsi très peuplée et très riche."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:39
-#, fuzzy
 msgid ""
 "The dwarves of Knalga, cannily reckoning the gains from trade, built strong "
 "fortifications around Dwarven Doors.  The people who called it home, dwarven "
@@ -108,11 +102,11 @@ msgid ""
 "able to fight off any bandit gang or petty warlord that could arise in the "
 "thinly-settled northlands."
 msgstr ""
-"Les nains de Knalga, capables de reconnaître les bénéfices des échanges "
-"commerciaux, construisirent de solides fortifications autour des Portes des "
-"Nains. Ce peuple de nains et d'hommes qui avait fait sien ce territoire "
-"savait que la bonne santé de sa cité pouvait susciter la convoitise "
-"extérieure. Leurs armes étaient donc bien entretenues et ils se tenaient "
+"Les nains de Knalga, connaissant les bénéfices que pouvaient apporter les "
+"échanges commerciaux, construisirent de solides fortifications autour des "
+"Portes des Nains. Ce peuple de nains et d'hommes qui avait fait sien ce "
+"territoire savait que la bonne santé de sa cité pouvait susciter la "
+"convoitise. Leurs armes étaient donc bien entretenues et ils se tenaient "
 "prêts à se battre contre tout groupe de bandits ou petit seigneur de guerre "
 "qui pouvait venir troubler l'équilibre instable des territoires du nord."
 
@@ -141,7 +135,6 @@ msgstr ""
 "assiégea la Porte des Nains."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:50
-#, fuzzy
 msgid ""
 "It was a time of doom and great deeds, of fire and blood and slaughter.  The "
 "men and dwarves of the city fought valiantly. But there were always, it "
@@ -150,13 +143,13 @@ msgid ""
 "away and fealt unthreatened by the orcs, and were wrapped up in their own "
 "affairs and struggles."
 msgstr ""
-"Ce fut une période sinistre d'exploits, de pillages, de sang et de "
-"massacres. Les hommes et les nains de la cité se battaient vaillamment. Mais "
-"il semblait y avoir toujours plus d'orcs pour remplacer ceux qui tombaient, "
-"tandis que les défenseurs ne pouvaient trouver aucun secours. Leurs appels à "
-"l'aide  restèrent vains car les autres pays qui étaient loin n'étaient pas "
-"menacés par les orcs et étaient englués dans leurs propres affaires et leurs "
-"propres luttes."
+"Ce fut une période de malédictions et d'actes héroïques, de feu, de sang et "
+"de massacres. Les hommes et les nains de la cité combattirent vaillamment. "
+"Mais il semblait y avoir toujours plus d'orcs pour remplacer ceux qui "
+"tombaient, tandis que les défenseurs ne trouvèrent aucun secours. Leurs "
+"suppliques auprès des autres nations restèrent vaines ; elles étaient fort "
+"éloignées, ne se sentaient pas menacées par les orcs et étaient prises dans "
+"leurs affaires et leurs luttes intestines."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:53
 msgid ""
@@ -174,19 +167,20 @@ msgstr ""
 "échapper pour toujours à leur assujettissement total."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:56
-#, fuzzy
 msgid ""
 "Dark years passed; human generations grew up in slavery, and came near to "
 "forgetting that their ancestors had been free - and might have completely "
 "forgotten were it not for a fateful day in 518 YW. That day that changed the "
 "lives of the people of Dwarven Doors - forever."
 msgstr ""
-"De sombres années passèrent, pendant lesquelles des générations d'humains "
-"grandirent en esclaves bien près d'oublier que leur ancêtres avaient un jour "
-"été libres - jusqu'au jour où le Prince Konrad de Wesnoth passa par là dans "
-"sa quête du Sceptre de Feu."
+"De années obscures passèrent ; des générations d'humains grandirent en "
+"esclaves, oubliant presque que leurs ancêtres avaient un jour été libres. Et "
+"ils l'auraient peut-être totalement oublié s'il n'y avait pas eu ce "
+"fatidique jour de l'an 518 YW, qui changea à jamais la vie du peuple des "
+"Portes des Nains."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:61
+#, fuzzy
 msgid ""
 "It was an early spring day like any other; the humans - joyless beneath the "
 "orcish whip - were dispiritedly planting the yearly crop. All at once, the "
@@ -194,6 +188,13 @@ msgid ""
 "mustered to gather their weapons and man their posts. Startled, the peasants "
 "looked around in alarm, and that iss when they saw him."
 msgstr ""
+"C'était une journée ordinaire de début de printemps ; les humains, rendus "
+"tristes et moroses par les fouets des orcs, ensemençaient la terre pour "
+"l'année à venir. Tout d'un coup, les tambours de guerre des orcs "
+"commencèrent à résonner ; de cris de bataille rauques s'élevèrent alors que "
+"des orcs se précipitaient pour aller récupérer leurs armes et occuper leurs "
+"postes de combat. Abasourdis et craintifs, les paysans regardaient autour "
+"d'eux... et sursautèrent en le voyant."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:65
 msgid ""
@@ -206,6 +207,15 @@ msgid ""
 "great lord of the elves. They were followed closely and supported by a small "
 "but powerful elvish army."
 msgstr ""
+"Il sortait de la forêt et chargeait, son armure brillait de mille feux, sa "
+"cape volait au vent, son épée scintillait et sifflait comme un serpent ; et "
+"les orcs tant détestés tombaient tout autour de lui. Il y avait à sa droite "
+"un vieux mage, dont la voix profonde lançait des incantations dominant le "
+"vacarme de la bataille et dont la puissance des sorts faisait trembler la "
+"terre. Il y avait à sa gauche un haut seigneur elfe, entouré d'une lueur "
+"féérique, qui maniait son épée d'une façon si rapide qu'elle paraissait "
+"presque invisible. Et il y avait derrière eux, pour les soutenir, une petite "
+"troupes d'elfes très aguerris."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:69
 msgid ""
@@ -214,29 +224,38 @@ msgid ""
 "Sceptre of Fire and use it to save his homeland from the rule of a tyrant, "
 "and they stood, rooted to their places in awe."
 msgstr ""
+"La rumeur se propagea rapidement chez les humains : ce héros n'était autre "
+"que le prince Konrad de Wesnoth, se dirigeant vers les ruines de Knalga pour "
+"retrouver le Sceptre de Feu et s'en servir pour libérer sa patrie du joug "
+"d'un tyran. Ils restèrent cloués sur place par la crainte et l'admiration."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:73
+#, fuzzy
 msgid ""
 "As quickly as it had begun, it was over. Konrad reached the entrance to the "
 "tunnels and ushered his men through. Then he turned one last time to face "
 "the peasants. Raising his sword in salute and farewell, he called out to "
 "them: 'Hold fast your hope, for one day you shall be free!' Then he was gone."
 msgstr ""
+"Cela fut terminé aussi rapidement que cela avait commencé. Konrad atteignit "
+"l'entrée des galeries et y conduisit ses hommes, puis se retourna une "
+"dernière fois devant les paysans. Le jeune garçon, très vif et dont la "
+"silhouette se détachait dans le ciel de midi, dressa son épée souillée de "
+"sang et les apostropha : « Gardez toujours espoir, car un jour vous serez "
+"libres ! ». Et il disparut."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:77
-#, fuzzy
 msgid ""
 "After that day, nothing could be the same. Hope rose in their hearts like a "
 "flame long-smothered but rekindled.  The brightest and boldest of them began "
 "to plan and to train in secret.  And the orcish masters, grown stupid from "
 "their own arrogance, did not see."
 msgstr ""
-"Les paysans virent Konrad et ses hommes se frayer un chemin à travers les "
-"hordes d'orcs et apprirent comment lui aussi luttait pour libérer sa terre "
-"natale du joug d'un tyran. Un espoir naquit alors dans leur coeur, comme une "
-"flamme qui renaît d'une braise. Les plus audacieux et les plus brillants "
-"d'entre eux commencèrent à s'organiser et à s'entraîner en secret. Et les "
-"maîtres orcs, rendus aveugles par leur arrogance, ne virent rien."
+"Après cette journée, plus rien ne pouvait être pareil. L'espoir naquit dans "
+"leur coeur et s'y développa comme une flamme trop longtemps étouffée et "
+"maintenant ravivée. Les plus audacieux et les plus brillants d'entre eux "
+"commencèrent à s'organiser et à s'entraîner en secret. Et les maîtres orcs, "
+"aveuglés par leur arrogance, ne s'aperçurent de rien."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:81
 msgid ""
@@ -247,7 +266,7 @@ msgid ""
 "craft. In secret, his mother even taught him letters.  As the boy grew to "
 "young manhood, he could touch blades, and dream.  And he did."
 msgstr ""
-"Parmi les paysans, il y en avait un nommé Tallin. Il n'était encore qu'un "
+"Il y avait un homme nommé Tallin parmi les paysans. Il n'était encore qu'un "
 "petit enfant à peine sorti des bras de sa mère quand Konrad battit l'armée "
 "orc. Mais il n'oublia jamais ce jour. Son père était un forgeron et "
 "fabriquait des armes. Sa famille subissait moins de violences car les "
@@ -256,7 +275,6 @@ msgstr ""
 "toucher aux armes. Et il se mit à rêver."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:85
-#, fuzzy
 msgid ""
 "Then one day Al'tar, the current 'master' of Dwarven Doors, was attacked by "
 "a neighboring tribe of orcs. Tallin seized his moment.  Using knowledge born "
@@ -265,9 +283,11 @@ msgid ""
 "ruin in the forest to rally his fellow peasants."
 msgstr ""
 "Puis un jour, Al'tar, le « maître » du moment des Portes des Nains, fut "
-"attaqué par une tribu orc voisine. Tallin sut saisir ce moment pour voler "
-"quelques armes et beaucoup d'or appartenant à Al'Tar. Il fuit jusqu'à une "
-"ruine abandonnée dans la forêt et y rejoignit ses amis paysans."
+"attaqué par une tribu orc voisine. Tallin sut saisir ce moment. Il avait "
+"observé, écouté et réfléchi pendant des années et ses connaissances lui "
+"permirent de voler quelques armes et beaucoup d'or appartenant à Al'Tar. Il "
+"fuit jusqu'à une ruine abandonnée dans la forêt et y rejoignit ses amis "
+"paysans."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:166
 msgid "Defeat enemy leaders"
@@ -351,6 +371,8 @@ msgid ""
 "But their wolves run faster than we can walk, and their swords are sharper "
 "than our farm tools."
 msgstr ""
+"Mais leurs loups courrent plus vite que nous ne pouvons marcher, et leurs "
+"épées sont plus aiguisées que nos outils de ferme."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:227
 msgid ""
@@ -358,6 +380,9 @@ msgid ""
 "next to you; never get isolated, especially not on open ground.  Swarm them "
 "-- surround them, five or six to one, and they will go down."
 msgstr ""
+"Nous devons utiliser notre supériorité numérique. Restez épaule contre "
+"épaule ; ne restez jamais seul, et surtout pas en terrain découvert. "
+"Submergez-les, entourez-les, à cinq ou six contre un, et ils tomberont."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:233
 msgid "But still, Tallin, this is going to be a slaughter."
@@ -368,7 +393,7 @@ msgid ""
 " *sigh* Yes, well I know it. But would you rather live as slaves to the orcs "
 "forever?"
 msgstr ""
-"*soupir* Oui, je sais. Mais est-ce que tu veux rester esclave des orcs pour "
+" *soupir* Oui, je sais. Mais est-ce que tu veux rester esclave des orcs pour "
 "toujours ?"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:245
@@ -405,12 +430,12 @@ msgid ""
 "rise again and again until we work a fitting vengeance on you!"
 msgstr ""
 "Je meurs, orc puant, mais en homme libre ! D'autres viendront après moi. "
-"Nous nous soulèverons encore et encore, jusqu'à ce que nous soyons vengés de "
-"vous !"
+"Nous nous soulèverons encore et encore, jusqu'à ce que nous nous soyons "
+"vengés !"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:282
 msgid "Pahh! Grunts, put the rest of those peasant rabble back in chains."
-msgstr "Bah ! Grognards, enchaînez-moi le reste de ces trublions de paysans."
+msgstr "Bah ! Grognards, enchaînez-moi le reste de ces agitateurs de paysans."
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:297
 msgid "YES! We did it! We are free!"
@@ -443,14 +468,13 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:405
 msgid " *STAB*"
-msgstr "*CHTAC*"
+msgstr " *CHTAC*"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:410
 msgid "Ugh!"
 msgstr "Argh !"
 
 #: Northern_Rebirth/scenarios/Breaking_the_Chains.cfg:415
-#, fuzzy
 msgid "Not a very bright one, was he?"
 msgstr "Pas très malin, celui-là !"
 
@@ -527,7 +551,7 @@ msgstr "Oups, j'ai parlé trop vite."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:541
 msgid " *wince* You can turn the volume down, pal."
-msgstr "*crispation* Moins fort, mec."
+msgstr " *crispation* Moins fort, mec."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:547
 msgid "Maybe he needs a fireball..."
@@ -667,8 +691,8 @@ msgid ""
 "*Shakes head* I reject your evil. Attack, men! Let us rid the good green "
 "world of this rotting filth!"
 msgstr ""
-"*Agitant la tête* Je rejette le mal qui est en toi. Attaquez les gars ! "
-"Nettoyons le bon monde vert de cette crasse pourrissante !"
+" *Agitant la tête* Je rejette le mal qui est en toi. Attaquez les gars ! "
+"Nettoyons le brave monde verdoyant de cette crasse pourrissante !"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:763
 msgid ""
@@ -1119,7 +1143,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:1185
 #: Northern_Rebirth/scenarios/Eastern_Flank.cfg:611
 msgid " *snicker*"
-msgstr "*ricanements*"
+msgstr " *ricanements*"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:6
 msgid "Elvish Princess"
@@ -1194,9 +1218,8 @@ msgstr ""
 "réalité, une princesse du plus haut rang."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:44
-#, fuzzy
 msgid "The leaders met in council, considering what to do..."
-msgstr "Les chefs tinrent conseil pour décider ce qu'il convenait de faire..."
+msgstr "Les chefs tinrent conseil pour décider quoi faire..."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:49
 msgid ""
@@ -1256,7 +1279,6 @@ msgid "I think we have a chance to make new some allies here..."
 msgstr "Je pense que nous avons une chance de nous faire de nouveaux alliés..."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:89
-#, fuzzy
 msgid ""
 "Allies?  I take it we're to go to them and ask them to join us in return for "
 "our help in rescuing their Princess?  You heard their message - those elves "
@@ -1264,13 +1286,14 @@ msgid ""
 "wouldna ally themsel' with the likes o' *us*."
 msgstr ""
 "Des alliés ? Je nous vois bien aller les voir et leur demander de nous "
-"rejoindre en échange de notre aide pour sauver leur princesse ? Tu as "
-"compris leur message - ces elfes sont si collet monté... Ils ne voudront pas "
+"rallier en remerciement de notre aide pour avoir sauvé leur princesse ? Tu "
+"as compris leur message ; ces elfes ont une si haute opinion d'eux-mêmes "
+"qu'ils daignent à peine poser un regard sur nous... Ils ne voudront pas "
 "s'allier avec des gens comme *nous*."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:94
 msgid "The dwarf has a point, there."
-msgstr "Le nain a raison, là."
+msgstr "Là, le nain marque un point."
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:99
 msgid "Shut up, lich!"
@@ -1463,8 +1486,8 @@ msgid ""
 "Later, princess, first let's get outta -- uh, let us take our leave of this "
 "place as swiftly as may be!"
 msgstr ""
-"Plus tard princesse, foutons d'abord ... euh, sortons de cet endroit aussi "
-"discrètement que possible ! "
+"Plus tard, princesse, foutons d'abord... euh, sortons de cet endroit aussi "
+"discrètement que possible !"
 
 #: Northern_Rebirth/scenarios/Elvish_Princess.cfg:462
 msgid "Lead; I will follow."
@@ -1487,27 +1510,24 @@ msgid "Epilogue"
 msgstr "Épilogue"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:9
-#, fuzzy
 msgid ""
 "The dead and wounded being cared for, and after the party had wound down, "
 "everyone gathered in the conquered castle to decide on their course of "
 "action."
 msgstr ""
-"On enterra les morts et on s'occupa des blessés. Après que les armées furent "
-"dissoutes, tout le monde se rassembla dans la forteresse conquise pour "
+"On enterra les morts et on s'occupa des blessés. Après la dispersion du "
+"détachement, tout le monde se rassembla dans la forteresse conquise pour "
 "décider de la suite des évènements."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:263
-#, fuzzy
 msgid ""
 "So, Rakshas has been defeated and all the armies that he had gathered have "
 "been crushed. This relieves a blight on our land - but if we do not address "
 "the causes of the blight, we could be in for trouble later."
 msgstr ""
 "Ainsi, Rakshas est vaincu et toutes les armées orcs qu'il avait levées ont "
-"été anéanties. Ça simplifie considérablement la donne, mais si nous ne "
-"prenons pas les bonnes décisions maintenant, nous pourrions le regretter "
-"plus tard."
+"été anéanties. Notre terre est débarrassée de ce fléau, mais nous pourrions "
+"le regretter plus tard si nous n'en recherchons pas les causes."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:270
 msgid "How is that Tallin?"
@@ -1517,6 +1537,8 @@ msgstr "Comment ça, Tallin ?"
 msgid ""
 "Rakshas was but a symptom. The ill is the nature of the orcs themselves."
 msgstr ""
+"Rakshas n'était que le symtôme d'un mal plus grand provenant de la nature "
+"même des orcs."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:282
 msgid ""
@@ -1525,24 +1547,26 @@ msgid ""
 "but when a strong warlord like Rakshas arises among them, their battle-lust "
 "becomes a plague upon their neighbors."
 msgstr ""
+"Les orcs sont incroyablement nombreux et batailleurs. Tant qu'ils se "
+"chamaillent entre eux, leur nature guerrière ne fait du mal qu'à eux et ils "
+"ne représentent pas une menace ; mais quand un puissant seigneur de guerre "
+"comme Rakshas apparaît parmi eux, leur rage meurtrière devient une vraie "
+"plaie pour leurs voisins."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:296
 #: Northern_Rebirth/scenarios/Epilogue.cfg:306
-#, fuzzy
 msgid ""
 "Our challenge is to ensure that the orcs do not unite under one strong, "
 "warlike leader in the future."
 msgstr ""
-"Donc, en gros, nous devons nous assurer que les orcs ne se rassemblent plus "
-"derrière un chef puissant et belliqueux à l'avenir."
+"Notre combat sera de nous assurer que les orcs ne s'unissent plus derrière "
+"un chef puissant et belliqueux."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:316
-#, fuzzy
 msgid "Exactly."
 msgstr "Exactement."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:322
-#, fuzzy
 msgid ""
 "Aye.  And we dinna just want to keep the orcs from ruling the Northlands; we "
 "want to make the Northlands a safe place for all the kindred races to trade, "
@@ -1550,22 +1574,20 @@ msgid ""
 "orcs, trolls, ogres or any other creatures will be roving around praying on "
 "innocent people."
 msgstr ""
-"Messieurs, il nous faut considérer une autre chose : non seulement les orcs "
-"ne doivent plus régner sur les Terres du Nord, mais il faut qu'elles "
-"deviennent un lieu sûr où les gens pourront commercer, voyager et vivre en "
-"paix. Autrement dit, nous devons également éviter que des bandes éparses "
-"d'orcs, de trolls, d'ogres ou d'autres créatures errantes n'attaquent des "
-"gens innocents."
+"Ouais. Et les orcs ne doivent plus régner sur les Terres du Nord. Il faut "
+"qu'elles deviennent un lieu sûr où les gens pourront commercer, voyager et "
+"vivre en paix. Il faut aussi éviter que des innocents soient attaqués par "
+"des bandes isolées d'orcs, de trolls, d'ogres ou d'autres créatures errantes."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:328
-#, fuzzy
 msgid "A worthy and difficult task. Does anybody have any ideas?"
-msgstr "Bien vu. Quelqu'un aurait-il une idée ?"
+msgstr ""
+"C'est un travail difficile, mais ça en vaut la peine. Quelqu'un aurait-il "
+"une idée ?"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:334
-#, fuzzy
 msgid "I do have a suggestion."
-msgstr "À vrai dire, j'ai bien une suggestion."
+msgstr "Moi, j'ai bien une suggestion."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:340
 msgid ""
@@ -1573,73 +1595,72 @@ msgid ""
 "could bring ourselves to stomach an attempt at slaughtering them all. "
 "Therefore, we must find a way to make them part of our solution."
 msgstr ""
+"Les orcs ont le cuir trop dur et se multiplient trop vite pour pouvoir être "
+"exterminés, même si vous trouvez les tripes de les massacrer tous un jour. "
+"Nous devons donc trouver un moyen de faire avec."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:346
-#, fuzzy
 msgid ""
 "I propose is the creation of a neutral council of warders, composed of "
 "humans, dwarves, elves, drakes, trolls or anyone else who wishes to join, no "
 "mater what race they come from - even orcs."
 msgstr ""
-"Je propose donc la création d'un comité neutre, regroupant humains, nains, "
-"elfes, drakes, trolls ou tout autre race souhaitant nous rejoindre, quelle "
-"qu'elle soit, même des orcs."
+"Je propose donc la création d'une assemblée impartiale de sentinellles, "
+"regroupant humains, nains, elfes, dracans, trolls ou tout autre race "
+"souhaitant nous rejoindre, quelle qu'elle soit, même des orcs."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:352
-#, fuzzy
 msgid ""
 "This body would not claim sovereignty over any peoples or lands, but exist "
 "only to suppress warfare and raiding in the lands south and east of the "
 "Great Ocean, north of Wesnoth and west of the Elvish Forests."
 msgstr ""
 "Cet organe n'aurait de souveraineté sur aucune terre, peuple ou territoire "
-"et n'aurait pas d'autre finalité que d'apporter la paix et la justice sur "
-"les terres qui s'étendent au sud et à l'est du Grand Océan, au nord de "
+"et n'aurait pas d'autre finalité que de mettre fin à la guerre et aux raids "
+"sur les terres qui s'étendent au sud et à l'est du Grand Océan, au nord de "
 "Wesnoth et à l'ouest des forêts elfes."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:358
-#, fuzzy
 msgid ""
 "The first task of the warders would be to go to go to each orcish tribe and "
 "make a treaty with them that they will not be attacked if they refrain from "
 "attacking others."
 msgstr ""
-"Son objectif premier serait d'aller rencontrer chaque tribu orc pour passer "
-"un accord qui certifierait que les problèmes passés ne se reproduiront plus."
+"La première tâche des sentinelles serait d'aller dans chaque tribu orc pour "
+"établir un pacte de non-agression mutuelle."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:364
-#, fuzzy
 msgid ""
 "The orcs have just experienced a crushing defeat; it shouldn't be too hard "
 "to get them to agree. In the future, if they should renege obn their "
 "treaties, and threaten the peace and prosperity of the North, then the army "
 "maintained by the warders would crush them."
 msgstr ""
-"Aujourd'hui les orcs viennent de subir une cuisante défaite, il ne devrait "
-"donc pas être trop difficile de leur faire accepter cet accord. À l'avenir, "
-"s'ils devaient revenir sur leur promesse et menacer la paix et la prospérité "
-"du Nord, alors l'armée entretenue par ce comité les écraserait."
+"Les orcs viennent de subir une défaite écrasante ; il ne devrait donc pas "
+"être trop difficile de leur faire accepter cet accord. Ensuite, s'ils "
+"devaient revenir sur leur promesse et menacer la paix et la prospérité du "
+"Nord, alors l'armée entretenue par les sentinelles irait les écraser."
 
+# Damien : la forme interrogative, nuancée "Shall" est transcrite en français par "je propose".
 #: Northern_Rebirth/scenarios/Epilogue.cfg:370
-#, fuzzy
 msgid ""
 "That is the basic outline of my proposal. Shall the Council of Warders "
 "declare itself?"
 msgstr ""
-"Voilà les grandes lignes de ma proposition. Quelqu'un approuve-t-il cette "
-"idée ?"
+"Voilà les grandes lignes de ma proposition. C'est pourquoi je propose la "
+"constitution d'un Conseil des Sentinelles."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:375
 msgid ""
 "Hearing the words of the wise mage, the whole assembly erupted with cries of "
 "approval."
 msgstr ""
-"Les paroles du sage magicien déclenchèrent des cris d'approbation furieux "
-"dans toute l'assemblée."
+"Les paroles du sage magicien soulevèrent un enthousiasme exhubérant dans "
+"l'assemblée entière."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:381
 msgid "Fitting!"
-msgstr ""
+msgstr "Bonne idée !"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:387
 msgid "Great!"
@@ -1647,43 +1668,40 @@ msgstr "Fantastique !"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:393
 msgid "Smart!"
-msgstr "Génial !"
+msgstr "Astucieux !"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:399
 msgid "Sounds like fun."
-msgstr "Ça m'botte !"
+msgstr "Ça me plaît !"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:404
-#, fuzzy
 msgid ""
 "Rising to his feet, Hamel raised his hands and waited for the clamor to die "
 "down."
 msgstr ""
-"Se dressant sur les pieds, Hamel leva les mains et attendit que les clameurs "
-"se calment."
+"Se dressant sur ses pieds, Hamel leva les mains et attendit que la clameur "
+"retombe."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:410
-#, fuzzy
 msgid ""
 "Over time, Tallin has proved himself to be a wise, courageous and capable "
 "leader. He is respected by humans, elves and dwarves alike. I therefore "
 "propose that Tallin be made the first head of the Council of Warders."
 msgstr ""
-"Avec le temps, Tallin a prouvé qu'il était un chef sage, courageux et "
-"compétent. Il a gagné le respect des humains, celui des elfes et celui des "
-"nains. Je propose donc que Tallin soit désigné à la tête de cette nouvelle "
+"Au fil du temps, Tallin a prouvé qu'il était un chef sage, courageux et "
+"compétent. Il a gagné le respect des humains, des elfes et des nains. Je "
+"propose donc que Tallin soit désigné à la tête de cette nouvelle "
 "organisation."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:415
-#, fuzzy
 msgid ""
 "Once again, all assembled erupted into thunderous approval. The tumult "
 "lasted for some time and at long last Tallin rose to his feet and held up "
 "his hands for quiet."
 msgstr ""
-"Une nouvelle fois, il y eut un tonnerre d'approbations. Le tumulte dura un "
-"moment, jusqu'à ce qu'enfin Tallin se lève et réclame le silence, les mains "
-"levées."
+"Une fois de plus, il y eut un tonnerre d'approbations. Le tumulte dura un "
+"moment, jusqu'à ce qu'enfin Tallin se lève et réclame le silence en levant "
+"les mains."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:421
 msgid ""
@@ -1694,13 +1712,12 @@ msgstr ""
 "l'honneur de cet amour, j'accepte cette responsabilité."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:427
-#, fuzzy
 msgid ""
 "No one leader will make the Warders a success; we will need the help of all "
 "of you."
 msgstr ""
-"Une chose est sûre, je ne peux pas me charger de cette tâche tout seul. "
-"J'aurai besoin de votre aide à tous."
+"Aucun chef ne fera le succès de ce conseil ; nous aurons besoin de l'aide de "
+"chacun."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:433
 msgid ""
@@ -1711,29 +1728,26 @@ msgstr ""
 "et toi, pour rester à mes côtés et me soutenir ?"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:439
-#, fuzzy
 msgid ""
 "Gladly, Tallin.  We will stand with the Warders till the end of days if need "
 "be."
 msgstr ""
-"Avec joie, Tallin. Nous nous tiendrons à tes côtés jusqu'à la fin des temps "
-"si besoin est."
+"Avec joie, Tallin. Nous nous tiendrons aux côtés des Sentinelles jusqu'à la "
+"fin des temps si besoin est."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:453
 msgid "Stalrag?"
 msgstr "Stalrag ?"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:460
-#, fuzzy
 msgid "I am yours to command, my lord Tallin."
-msgstr "Je suis à vos ordres, Monseigneur."
+msgstr "Je suis à vos ordres, Seigneur Tallin."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:466
 msgid " 'Lord' Oh no!"
 msgstr "Oh non, pas de « Monseigneur » !"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:472
-#, fuzzy
 msgid "*giggle* Better get used to it."
 msgstr "Hé hé, tu ferais bien de t'y habituer."
 
@@ -1742,6 +1756,8 @@ msgid ""
 "You have led myself and the Shinsplitters wisely.  We will uphold the "
 "Council of Warders."
 msgstr ""
+"Vous avez conduit les Brise-Tibias et moi-même avec sagesse. Nous "
+"soutiendrons les Conseils des Sentinelles. "
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:495
 msgid "Camerin?"
@@ -1760,38 +1776,36 @@ msgid "Elenia?"
 msgstr "Elenia ?"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:527
-#, fuzzy
 msgid ""
 "Tallin, as you know, I have been separated from my race and kinsmen - well, "
 "except Anita - for many years now. I wish to go back to the elvish forests "
 "and live among my kinsmen again. Perhaps I will return someday."
 msgstr ""
-"En fait, Tallin, comme vous le savez déjà, j'ai été séparé de ma race et de "
-"ma famille, enfin... sauf d'Anita, pendant de nombreuses années. Si vous n'y "
-"voyez pas d'objection, j'aimerais rejoindre les forêts elfes et y rester "
-"quelques temps. Je reviendrai peut-être un jour."
+"Tallin, comme vous le savez déjà, j'ai été séparé de ma race et de ma "
+"famille - enfin, sauf d'Anita - pendant de nombreuses années. J'aimerais "
+"rejoindre les forêts elfes et vivre à nouveau parmi les miens. Je reviendrai "
+"peut-être un jour."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:540
-#, fuzzy
 msgid ""
 "Knowing you and your spirit of adventure, Elenia, I am certain that you are "
 "gonna be back sooner or later."
 msgstr ""
-"Connaissant votre esprit aventurier, Elenia, je suis certain que vous "
+"Connaissant votre goût pour l'aventure, Elenia, je suis certain que vous "
 "reviendrez tôt ou tard."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:546
 msgid "*smiles* It is not unlikely..."
-msgstr ""
+msgstr " *sourire* C'est probable..."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:556
-#, fuzzy
 msgid ""
 "You have been a valuable ally and a great friend, Elenia. Go with our "
 "blessing, and convey to the Elves our intentions and the hope of peace."
 msgstr ""
-"Vous avez été une alliée sûre et une amie de grande valeur, Elenia. Vous "
-"êtes bien sûr libre d'aller et de partir à votre guise."
+"Vous avez été une alliée de grande valeur et une merveilleuse amie, Elenia. "
+"Allez avec notre bénédiction, et informez les elfes de nos intentions et de "
+"nos espoirs de paix."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:562
 msgid "Thank you Tallin."
@@ -1802,25 +1816,22 @@ msgid "Krash?"
 msgstr "Krash ?"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:587
-#, fuzzy
 msgid ""
 "I am sorry, Tallin but me and my friends had better be getting back to our "
 "people."
 msgstr ""
-"Je regrette Tallin, mais moi et les miens devons à présent retourner chez "
+"Je regrette, Tallin, mais il vaut mieux que mes amis et moi retournions chez "
 "les nôtres."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:593
-#, fuzzy
 msgid ""
 "No need to apologize, Krash, for you and the valiant drakes of your band "
 "have been of invaluable help to us. The entire Northlands are in your debt."
 msgstr ""
-"Il n'y a pas de regrets à avoir, toi et tes amis nous avez été d'une aide "
-"inestimable. L'ensemble des Terres du Nord vous est redevable."
+"Pas besoin de t'excuser, Krash, toi et les amis dracans de ta bande avez été "
+"d'une aide inestimable. L'ensemble des Terres du Nord vous est redevable."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:598
-#, fuzzy
 msgid ""
 "As you said once before Tallin, let not talk of debts come between us. I "
 "will spread the word among my people and if anyone wishes to join your "
@@ -1828,119 +1839,106 @@ msgid ""
 "elves and the dwarves you have also earned the respect of the drakes. I am "
 "sure many will come to join your cause."
 msgstr ""
-"Comme tu l'as dit autrefois Tallin, ne laissons pas les dettes s'immiscer "
-"entre nous. Je répandrai la nouvelle parmi mon peuple et si quelqu'un veut "
-"participer, il sera libre de le faire. En plus d'avoir gagné le respect des "
-"elfes et des nains, tu as aussi celui des drakes. Je gage que de nombreux "
-"drakes s'allieront à ta cause."
+"Comme tu l'as dit autrefois, Tallin, il n'est pas question de dettes entre "
+"nous. Je répandrai la nouvelle parmi mon peuple et chacun sera libre de "
+"rejoindre les Sentinelles. Non seulement tu as gagné l'estime des elfes et "
+"des nains, mais tu as aussi mérité le respect des dracans. Je gage que de "
+"nombreux seront ceux qui s'allieront à ta cause."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:603
-#, fuzzy
 msgid ""
 "If you are ever in desperate need of help then come to us. The gryphons will "
 "show you the way."
 msgstr ""
-"Et si jamais tu as désespérément besoin d'aide, alors viens nous voir. Les "
-"griffons vous montreront le chemin."
+"Si jamais tu as désespérément besoin d'aide, viens nous voir. Les griffons "
+"te montreront le chemin."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:609
-#, fuzzy
 msgid "Thanks, friend."
-msgstr "Merci mon ami."
+msgstr "Merci, mon ami."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:627
-#, fuzzy
 msgid "Alfred, your assistance has also been a great help to us."
-msgstr "Alfred, votre aide a été très appréciable."
+msgstr "Alfred, vous aussi, vous nous avez été d'un grand secours."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:632
-#, fuzzy
 msgid ""
 "Pah, think nothing of it. It will sure make an interesting story to tell the "
 "folks back home."
 msgstr ""
-"Peuh ! Ce n'est rien du tout. Ce sera certainement une histoire intéressante "
-"à raconter aux gens, une fois rentré à la maison."
+"Peuh ! N'y pensez plus. Ça fera sûrement une bonne histoire à raconter de "
+"retour à la maison."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:638
 msgid "So you would like to return to your home?"
 msgstr "Alors, vous désirez rentrer chez vous ?"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:643
-#, fuzzy
 msgid ""
 "Yes. The dead should stay in the land of the dead. It is against the laws of "
 "nature for it to be otherwise. There is just one problem; Malifor forced me "
 "into this body and I don't know how to get out of it."
 msgstr ""
-"Oui. Les morts doivent rester au royaume des morts. C'est contraire aux lois "
-"de la nature que d'agir autrement. Il y a juste un problème. Malifor m'a "
-"réincarné dans ce corps et je ne sais pas comment m'en dépouiller."
+"Oui. Les morts doivent rester au royaume des morts. Il est contre-nature "
+"qu'il en soit autrement. Il y a juste un problème. Malifor m'a forcé à "
+"habiter ce corps et je ne sais pas comment m'en dépouiller."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:649
-#, fuzzy
 msgid ""
 "I believe Theta and I can help you with that, Alfred. Have no worries, you "
 "shall soon be home."
 msgstr ""
-"Je pense que Theta et moi pouvons faire quelque chose pour vous, Alfred. "
+"Theta et moi pouvons probablement faire quelque chose pour vous, Alfred. "
 "N'ayez crainte, vous serez bientôt de retour chez vous."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:654
-#, fuzzy
 msgid ""
 "Thank you father, and thank you again, Tallin for all that you have done, "
 "both for the world of the living and the dead."
 msgstr ""
-"Merci mon père, et merci à vous, Tallin, pour tout ce que vous avez "
+"Merci mon père, et merci encore, Tallin, pour tout ce que vous avez "
 "accompli, pour les vivants comme pour les morts."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:660
-#, fuzzy
 msgid "My thanks to you as well, Alfred. May you rest in peace."
 msgstr ""
-"Je vous retourne ces remerciements, Alfred. Puissiez-vous reposer en paix."
+"Acceptez aussi mes remerciement, Alfred. Puissiez-vous reposer en paix."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:670
-#, fuzzy
 msgid ""
 "Ro'Arthian and Ro'Sothian, you two have also been of staunch allies. As per "
 "our agreement, you may return to Highbrook Pass, and I will see to it that "
 "guards are posted at both ends barring any who seek to enter without your "
 "leave, on pain of death."
 msgstr ""
-"Ro'Arthian et Ro'Sothian, vous avez également été d'une aide inestimable. "
-"Selon les termes de notre accord, vous pouvez retourner à votre passe et je "
-"veillerai à ce que des gardes soient postés aux deux entrées, interdisant à "
-"quiconque d'entrer, sous peine de mort."
+"Ro'Arthian et Ro'Sothian, vous vous êtes montrés tous les deux des alliés "
+"précieux. Selon les termes de notre accord, vous pouvez retourner au Col du "
+"Haut-Rupt et je veillerai à ce que des gardes soient postés aux deux "
+"entrées, interdisant à quiconque d'entrer, sous peine de mort."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:676
-#, fuzzy
 msgid ""
 "Thank you, Tallin. Our old bones are weary of being animated long past their "
 "time. Now we will finally be able to rest in peace. However, as we have "
 "fought hard for this respite, we shall not allow our effort go to waste. "
 "When the Northlands are in direst need of us, we shall rise once again."
 msgstr ""
-"Merci Tallin. Nos vieux os sont las d'être en mouvement depuis tout ce "
-"temps, c'est plus d'années qu'ils ne peuvent tolérer. À présent, nous "
-"pouvons enfin nous reposer en paix. Cependant, nous nous sommes battus avec "
-"acharnement pour ramener la paix dans les Terres du Nord et ne voudrions pas "
-"que notre effort fût vain. Aussi, quand les Terres du Nord auront "
-"désespérément besoin de notre aide, nous nous relèverons."
+"Merci, Tallin. Nous sommes las de devoir bouger nos vieilles carcasses "
+"depuis si longtemps. Nous allons enfin pouvoir reposer en paix. Mais comme "
+"nous nous sommes battus avec acharnement pour mériter ce répit, nous ne "
+"voudrions pas que notre effort fût vain. Quand les Terres du Nord auront "
+"désespérement besoin de nous, nous nous lèverons à nouveau."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:691
-#, fuzzy
 msgid ""
 "Stalrag, for years now we have fought each other, but recent events have "
 "made us allies. I go now to eternal sleep; may we part as friends."
 msgstr ""
 "Stalrag, pendant des années nous nous sommes affrontés, mais les récents "
-"événements nous ont contraints à nous allier. Je vais maintenant trouver le "
-"repos éternel, alors puissions-nous nous quitter en amis."
+"événements ont fait de nous des alliés. Je vais maintenant trouver le repos "
+"éternel. Puissions-nous nous quitter en amis."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:697
-#, fuzzy
 msgid "May your rest be peaceful and undisturbed, Ro'Arthian."
 msgstr "Puisse ton repos être paisible et n'être jamais troublé, Ro'Arthian."
 
@@ -1958,18 +1956,16 @@ msgid " *struck speechless*"
 msgstr " *reste sans voix*"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:727
-#, fuzzy
 msgid ""
 "Tallin, are you sure? Elves have a very long lifespan compared to humans. "
 "She will live for at least another thousand years while you have hardly "
 "seventy years ahead of you... at most."
 msgstr ""
-"Tallin, es-tu bien sûr ? Les elfes ont une espérance de vie très longue "
+"Tallin, en es-tu sûr ? Les elfes ont une espérance de vie très longue "
 "comparée aux humains. Elle vivra encore au moins mille ans alors qu'il te "
 "reste à peine soixante-dix ans devant toi... au mieux."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:733
-#, fuzzy
 msgid ""
 " *eyes on Anita* I know, Hamel. Then may the coming seventy years be the "
 "most happiest and fulfilling years in our lives. Should we deny ourselves "
@@ -1984,23 +1980,20 @@ msgid "Well spoken!"
 msgstr "Bien parlé !"
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:745
-#, fuzzy
 msgid "I may be foolish to say this, Tallin, but... yes."
-msgstr "Je suis peut-être bête de dire cela, Tallin, mais... oui, je le veux."
+msgstr "Je suis peut-être bête de dire cela, Tallin, mais... oui."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:750
-#, fuzzy
 msgid ""
 "The joy of the multitude could not be contained, and the ensuing celebration "
 "lasted for a full five days. At that time Tallin and Anita were duly married "
 "by Father Marcus and Sister Theta."
 msgstr ""
-"Il fut impossible d'empêcher le tumulte qui s'ensuivit de dégénérer en "
-"festivités générales, qui durèrent cinq jours entiers. Après cela, Tallin et "
-"Anita furent mariés en bonne et due forme par Père Marcus et Sœur Theta."
+"La joie de l'assemblée ne put plus se contenir, et les fêtes qui "
+"s'ensuivirent durèrent cinq jours entiers durant lesquels Tallin et Anita "
+"furent mariés en bonne et due forme par Père Marcus et Sœur Theta."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:755
-#, fuzzy
 msgid ""
 "After the wedding, Tallin and Anita went back to Dwarven Doors where they "
 "founded the Couuncil of Warders of the Northern Alliance, a body dedicated "
@@ -2008,36 +2001,34 @@ msgid ""
 "the main headquarters of the Northern Alliance would be the new city of "
 "Dwarven Doors."
 msgstr ""
-"Après la cérémonie, Tallin et Anita retournèrent aux Portes des Nains où ils "
-"fondèrent l'Alliance du Nord, une organisation destinée à apporter paix et "
-"justice dans les Terres du Nord. Il fut bientôt décidé que le quartier "
-"général de l'Alliance du Nord serait situé dans la nouvelle cité des Portes "
-"des Nains."
+"Après la cérémonie, Tallin et Anita retournèrent aux Portes des Nains et y "
+"fondèrent le Conseil des Sentinelles de l'Alliance du Nord, destiné à "
+"maintenir la paix et la justice dans les Terres du Nord. Il fut vite décidé "
+"d'établir le quartier général de l'Alliance du Nord dans la nouvelle cité "
+"des Portes des Nains."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:760
 #: Northern_Rebirth/scenarios/Epilogue.cfg:786
-#, fuzzy
 msgid ""
 "On Father Marcus's advice, the Council approached all the different orcish "
 "tribes and made treaties with them. If a chieftain refused to cooperate with "
 "the Allience, he was be forcibly removed from his post and another more "
 "favorably disposed put in his place."
 msgstr ""
-"Suivant les conseils de Père Marcus, l'Alliance commença par aborder les "
-"différentes tribus orcs et passa un accord avec chacune d'elles. Si un "
-"seigneur de guerre refusait de coopérer, il était destitué de force et un "
-"autre seigneur de guerre, plus coopératif, prenait sa place."
+"Suivant les conseils de Père Marcus, le Conseil commença par contacter les "
+"différentes tribus orcs et passer des accords avec elles. Si un seigneur de "
+"guerre refusait de coopérer, il était destitué de force et un autre seigneur "
+"de guerre, plus coopératif, prenait sa place."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:765
-#, fuzzy
 msgid ""
 "Although Tallin faced many challenges as the head of the Northern Alliance, "
 "his marriage with Anita was serene and filled with happiness. Together they "
 "had one son, about whom were written many legends."
 msgstr ""
-"Tallin dut faire face à de nombreux défis à la tête de l'Alliance du Nord, "
-"mais son mariage avec Anita fut paisible et plein de bonheur. Ensemble ils "
-"eurent un fils, sur lequel on écrivit moulte légendes."
+"Tallin dut relever de nombreux défis en tant que chef de l'Alliance du Nord, "
+"mais son mariage avec Anita fut paisible et très heureux. Ils eurent un fils "
+"ensemble, à propos duquel on écrivit de nombreuses légendes."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:775
 msgid ""
@@ -2050,7 +2041,6 @@ msgstr ""
 "qui restent, venez, beaucoup de travail nous attend."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:781
-#, fuzzy
 msgid ""
 "Thus, Tallin and his friends went back to Dwarven Doors where they founded "
 "the Council of Warders of the Northern Alliance, a body dedicated to "
@@ -2058,28 +2048,26 @@ msgid ""
 "main headquarters of the Northern Alliance would be the new city of Dwarven "
 "Doors."
 msgstr ""
-"Ainsi, Tallin et ses amis retournèrent aux Portes des Nains où ils fondèrent "
-"l'Alliance du Nord, un organe destiné à assurer la paix et la justice dans "
-"les Terres du Nord. Il fut bientôt décidé que le quartier général de "
-"l'Alliance du Nord prendrait place dans la nouvelle cité des Portes des "
-"Nains."
+"C'est ainsi que Tallin et ses amis retournèrent aux Portes des Nains où ils "
+"fondèrent le Conseil des Sentinelles de l'Alliance du Nord, destiné à "
+"assurer la paix et la justice dans les Terres du Nord. Il fut vite décidé "
+"d'établir le quartier général de l'Alliance du Nord dans la nouvelle cité "
+"des Portes des Nains."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:795
-#, fuzzy
 msgid ""
 "In time, Knalga's caverns were refurbished, becoming a busy and prosperous "
 "home to many dwarves. Under the protection of the Northern Alliance, people "
 "of all races began coming, as they did before, from all corners of the known "
 "- and unknown - world to trade with the Dwarves of Knalga."
 msgstr ""
-"Hamel, avec l'assistance de l'Alliance du Nord, continua à reconstruire "
-"Knalga, et bientôt cette dernière resplendit de cette même gloire qui était "
-"autrefois la sienne. Sous la protection de l'Alliance du Nord, des peuples "
-"de toutes races affluèrent, comme auparavant, de tous les coins du monde "
-"connu - et inconnu - pour commercer avec les Nains de Knalga."
+"Les cavernes de Knalga furent progressivement remplies et devinrent un "
+"refuge actif et prospère pour de nombreux nains. Sous la protection de "
+"l'Alliance du Nord, des peuples de toutes races affluèrent, comme "
+"auparavant, de tous les coins du monde connu - et inconnu - pour commercer "
+"avec les Nains de Knalga."
 
 #: Northern_Rebirth/scenarios/Epilogue.cfg:801
-#, fuzzy
 msgid ""
 "Thus, from a small, enslaved community, the people of Dwarven Doors - by "
 "their fortitude, valor, and wisdom - brought the Northlands out of the "
@@ -2090,15 +2078,16 @@ msgstr ""
 "du Nord du chaos et restaura leur gloire passée."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:4
-#, fuzzy
 msgid "Get the Gold"
-msgstr "Or volé"
+msgstr "Récupérer l'or"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:10
 msgid ""
 "After reducing Castle Angthurim, the party set off after Rakshas, hoping "
 "that Hidel's elves had been able to hold him."
 msgstr ""
+"Après avoir conquis Château Angthurim, le groupe partit à la suite de "
+"Rakshas, espérant que les elfes d'Hidel aient été capables de le retenir."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:15
 msgid ""
@@ -2106,6 +2095,9 @@ msgid ""
 "an ominous silence, broken only by the cawing of ravens, brooded over the "
 "road he had taken."
 msgstr ""
+"Les orcs ont le pas lourd ; la piste de Rakshas fut facile à suivre. Mais un "
+"silence de mauvais augure, brisé seulement par le croassement des corbeaux, "
+"règnait sur le chemin qu'il empruntait."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:20
 msgid ""
@@ -2114,6 +2106,11 @@ msgid ""
 "profusion. Elvish arrows and orcish crossbow bolts bristled from the nearby "
 "trees. The ground was splotched red with blood."
 msgstr ""
+"Ils débouchèrent rapidement sur les vestiges d'une grande bataille. Des "
+"corps d'elfes et d'orcs gisaient partout. Des armes brisées et des armures "
+"défoncées étaient éparpillées de tous côtés. Les arbres alentour étaient "
+"criblés de flèches elfes et de carreaux d'arbalète orcs. La terre était "
+"rouge de sang."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:25
 msgid ""
@@ -2121,6 +2118,9 @@ msgid ""
 "leave them a small guard.  Then they pressed onward to rescue Hidel - and "
 "they found him."
 msgstr ""
+"Ils s'arrêtèrent à peine quelques minutes pour bander les blessures des "
+"quelques elfes survivants et leur laissèrent quelques gardes. Ils se "
+"hatèrent ensuite pour secourir Hidel, et ils le trouvèrent."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:30
 msgid ""
@@ -2130,6 +2130,12 @@ msgid ""
 "his fall had been an epic of valor and glory, worthy to be remembered in the "
 "songs of all the kindred races until the end of days."
 msgstr ""
+"Autour d'Hidel étaient éparpillés les corps d'au moins trois seigneurs de "
+"guerre orc, d'une escouade de grognards orcs, des guerriers et des "
+"arbalétriers. Ses armes étaient endommagées ou brisées ; son armure était "
+"bosselée et défoncée. Tous virent qu'il s'était défendu avec une ardeur "
+"héroïque et que sa chute même lui apporterait une gloire dont tous se "
+"souviendraient."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:34
 msgid ""
@@ -2137,6 +2143,9 @@ msgid ""
 "cradled his head in her lap. As she stroked his face, his eyes fluttered "
 "open."
 msgstr ""
+"En larmes, Anita s'approcha du héros tombé et mit délicatement sa tête sur "
+"ses genoux. Alors qu'elle caressait son visage, ses paupières battirent "
+"faiblement."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:39
 msgid ""
@@ -2144,6 +2153,10 @@ msgid ""
 "bodyguards... were... just too many and powerful... And then... the "
 "orcish... reinforcements arrived...."
 msgstr ""
+"Je suis désolé, princesse... Nous les avons retenus... aussi longtemps que "
+"possible... mais ses gardes du corps... étaient... simplement trop "
+"nombreux... et trop forts... Et puis... les orcs... sont arrivés en "
+"renfort..."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:44
 msgid ""
@@ -2151,28 +2164,39 @@ msgid ""
 "Sister Theta. They simply sighed and shook their heads. It was too late to "
 "save Hidel. In a broken voice Anita addressed him:"
 msgstr ""
+"Le visage en pleurs, Anita implora du regard Père Marcus et Soeur Theta. Ils "
+"se contentèrent de soupirer et hochèrent doucement la tête. Il était trop "
+"tard pour sauver Hidel. Anita leur parla d'une voix brisée :"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:49
 msgid "Hidel, I am sorry. I have sent you to your death. and I grieve."
-msgstr ""
+msgstr "Je regrette, Hidel. Je t'ai envoyé à la mort. Et cela me peine."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:55
 msgid ""
 "...Don't tax yourself... princess.... I have died.... a warrior's death.... "
 "you should be proud...."
 msgstr ""
+"...Ne vous affligez pas... princesse... Je suis tombé... en guerrier... "
+"soyez-en fière..."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:60
 msgid ""
 "...But.... there is.... one thing.... we.... could do. We .... managed "
 "to.... recover the gold....Sisal... took it and.... retreated south...."
 msgstr ""
+"... Mais... il y a une chose... que... nous pourrions faire... Nous avons "
+"réussi... à... récupérer l'or... Sisal... l'a pris et... a fait retraite "
+"vers le sud..."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:65
 msgid ""
 "I held out as.... long as.... I could.... but they..... defeated us.... "
 "Rakshas went.... east and the.... rest.... went.... after.... Sisal..."
 msgstr ""
+"J'ai lutté... autant que... j'ai pu... mais ils nous... ont vaincu... "
+"Rakshas est allé... à l'est... et les autres... sont partis... à la suite de "
+"Sisal..."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:70
 msgid ""
@@ -2180,35 +2204,46 @@ msgid ""
 "gold.... slay this monster.... and bring peace and... prosperity.... back to "
 "the... Northlands... Tallin?"
 msgstr ""
+"À présent... défendez l'honneur... des elfes... du nord... retrouvez l'or... "
+"tuez ce monstre... et ramenez la paix... et la prospérité aux Royaumes du "
+"Nord... Tallin ?"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:75
 msgid ""
 "At Hidel's call Tallin approached and kelt beside Hidel, bowing his head in "
 "respect."
 msgstr ""
+"À l'appel d'Hidel, Tallin s'approcha et s'agenouilla à ses côtés, inclinant "
+"la tête avec respect."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:80
-#, fuzzy
 msgid "At your service, sir."
-msgstr "À votre service."
+msgstr "À votre service, Monseigneur."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:85
 msgid ""
 "Anita has been... my charge ever... since she was born.... I now return... "
 "to the earth... from which.... I sprang... Please take care... of her."
 msgstr ""
+"Anita est sous... ma protection depuis... sa naissance... Je retourne "
+"maintenant... à la terre... d'où je viens... Je vous en prie... prenez soin "
+"d'elle."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:90
 msgid ""
 "Rest assured sir, I will place myself between Anita and any ill that "
 "strength or love may counter."
 msgstr ""
+"Reposez en paix, Monseigneur, ma force et mon amour seront un rempart pour "
+"Anita."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:95
 msgid ""
 "Thank you... Tallin.... Now I may rest... in... peace.... May you.... be "
 "victorious..."
 msgstr ""
+"Merci... Tallin... Je vais enfin pouvoir reposer... en... paix... Puisses-tu "
+"triompher..."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:100
 msgid ""
@@ -2216,6 +2251,9 @@ msgid ""
 "with Hidel's head in her lap, Tallin approached her, hesitating, and then "
 "wrapped her gently in his arms."
 msgstr ""
+"À ces mots, Hidel ferma les yeux et poussa son dernier soupir. Comme Anita "
+"pleurait sur la tête d'Hidel dans son giron, Tallin s'approcha d'elle, "
+"hésitant et l'entoura gentiment de ses bras."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:105
 msgid ""
@@ -2224,6 +2262,11 @@ msgid ""
 "her childhood hurts; how in later years, he had guided her in the green "
 "paths of the forest, and taught her the deep mysteries of Elven-kind."
 msgstr ""
+"Pleurant contre la poitrine de Tallin, Anita lui raconta les mille façons "
+"dont Hidel l'avait chérie et protégée depuis l'heure de sa naissance ; "
+"comment il l'avait consolée des soucis de l'enfance ; comment, ces dernières "
+"années, il l'avait guidé sur les chemins verdoyants des forêts et lui avait "
+"enseigné les mystères les mieux gardés des elfes."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:109
 msgid ""
@@ -2231,6 +2274,9 @@ msgid ""
 "to speak.  She and Tallin sat together silently holding each-other for some "
 "time."
 msgstr ""
+"Le flot de ses souvenir d'enfance et la profondeur de son chagrin "
+"l'empêchèrent d'en dire plus. Tallin et elle s'assirent ensemble "
+"silencieusement, enlacés."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:113
 msgid ""
@@ -2238,6 +2284,9 @@ msgid ""
 "scattered elves, and tending to the wounded. This being done, they once "
 "again came before Tallin and Anita."
 msgstr ""
+"Alors que Tallin réconfortait Anita, le reste du groupe allèrent trouver les "
+"survivant elfes éparpillés pour les soigner. Quand ce fut fait, ils "
+"revinrent auprès d'eux."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:117
 msgid ""
@@ -2245,12 +2294,18 @@ msgid ""
 "you.  Or at least, put it aside for a little while. We must must go quickly "
 "to the aid of Sisal and recover our gold."
 msgstr ""
+"Princesse... je sais que c'est difficile, mais vous devez oublier votre "
+"chagrin. Ou au moins pendant un petit moment.  Nous devons vite aller aider "
+"Sisal et récupérer notre or."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:122
 msgid ""
 "Forge your sorrow into rage, girl, and visit it on the slayers of your "
 "kinsmen. Teach them what happens to those who make an enemy of an elf."
 msgstr ""
+"Transformez votre peine en colère, petite fille, et déversez-là sur les "
+"assassins de votre semblable. Apprenez-leur ce qui arrive à ceux qui "
+"s'attaquent aux elfes."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:127
 msgid ""
@@ -2260,6 +2315,11 @@ msgid ""
 "them was less grim than her own as they took arms and started down Rakshas's "
 "back-trail."
 msgstr ""
+"À ces mots, Anita se leva et s'essuya les yeux. Elle pris le commandement "
+"des elfes survivants qui tous savaient qu'elle était une princesse de haut "
+"rang et qu'elle avait le droit de remplacer Hidel. Rarement on vit un visage "
+"aussi terrible que le sien alors qu'elle prenait les armes et qu'elle "
+"partait à la chasse de Raksas."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:131
 msgid ""
@@ -2267,41 +2327,50 @@ msgid ""
 "forest just a few leagues south of their position. The remainder of the "
 "elvish forces had been espied fighting a desperate battle with the orcs."
 msgstr ""
+"Quelques instants plus tard, un griffon, surgi du ciel, leur dit qu'il y "
+"avait une bataille dans la forêt qui était à peine à quelques lieues au sud "
+"d'eux. Les elfes survivants avaient été aperçus en train de lutter contre "
+"les orcs avec la violence du désespoir."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:135
 msgid ""
 "It seemed to the gryphon that the elves were sore beset. The party quickly "
 "turned south and plunged into the forest."
 msgstr ""
+"Le griffon semblait dire que les elfes étaient sévèrement mis à l'épreuve. "
+"Le groupe s'orienta rapidement vers le sud et plongea dans la forêt."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:725
 msgid ""
 "After making haste through the forest for most of a watch, the party arrived "
 "at the battle scene."
 msgstr ""
+"Après avoir traversé à toute allure la forêt, le groupe arriva sur le lieu "
+"de la bataille."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:731
-#, fuzzy
 msgid "Sisal, how do you fare?"
-msgstr "Comment ça s'est passé ?"
+msgstr "Sisal, comment ça va ?"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:737
 msgid "Princess! You are here! How fares Hidel?"
-msgstr ""
+msgstr "Princesse ! Vous êtes ici ! Comment va Hidel ?"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:743
 msgid " *sheds a tear*"
-msgstr ""
+msgstr " *verse une larme*"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:749
 msgid "Hidel...died a hero's death, one worthy to be sung forever."
-msgstr ""
+msgstr "Hidel... est mort en héros, son nom sera chanté pour toujours."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:755
 msgid ""
 "The dung-spawned bastards! Verily, Tallin, had it not been for Hidel we "
 "would all be dead and Rakshas would be gleefully counting his gold."
 msgstr ""
+"Quelle bande de roulures de purin ! En vérité, Tallin, nous serions tous "
+"morts sans Hidel, et Rakshas serait en train de compter joyeusement son or."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:761
 msgid ""
@@ -2309,65 +2378,73 @@ msgid ""
 "was enough time for us to make off with the gold and rally here at these "
 "ruins."
 msgstr ""
+"Hidel et une poignée d'elfes ont résisté aux orcs pendant plus d'une heure. "
+"Cela a été suffisant pour mettre l'or à l'abri et nous retrouver dans ces "
+"ruines."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:767
 msgid "So you have the gold?"
-msgstr ""
+msgstr "Donc tu as l'or ?"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:773
 msgid ""
 "We have the gold, and now we shall have the blood of these orcs! IN HIDEL'S "
 "NAME!"
 msgstr ""
+"Nous avons l'or. Et maintenant, allons répandre le sang de ces orcs ! EN "
+"SOUVENIR D'HIDEL !"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:778
 msgid ""
 "Grrr, Ha'Tuil has never failed in his mission. I will soon lay your severed "
 "heads at the feet of the Master!"
 msgstr ""
+"Grrr, Ha'Tuil n'a jamais failli à ses missions. Je vais bientôt expédier "
+"toutes vos têtes aux pieds du maître !"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:784
 msgid ""
 "You will eat cold steel and whimper your way to hell, foul wretch of an orc!"
 msgstr ""
+"On va vous faire bouffer notre acier et vous allez en baver jusqu'en enfer, "
+"misérables orcs puants !"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:790
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:816
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:842
-#, fuzzy
 msgid "Defeat the orcs"
-msgstr "Vaincre les chefs ennemis"
+msgstr "Vaincre les orcs"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:880
-#, fuzzy
 msgid "Argh! I have failed!"
-msgstr "Non ! Maître, j'ai échoué."
+msgstr "Non ! J'ai échoué."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:886
 msgid ""
 "Cheer up -- you won't have to live with your failure for long...*snicker*"
 msgstr ""
+"Fais risette, tu n'auras pas longtemps à vivre avec cet échec sur le coeur..."
+"*ricanement*"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:905
-#, fuzzy
 msgid "Ahhhh! Farewell, friends. I now go to join Hidel."
 msgstr "Ahhhh ! Adieu mes amis. Je m'en vais à présent rejoindre Hidel."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:911
-#, fuzzy
 msgid "Sisal! Noooo!"
-msgstr "Sisal ! Noooon ! Pas toi aussi !"
+msgstr "Sisal ! Noooon !"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:916
-#, fuzzy
 msgid "Haha! We got the gold now!"
-msgstr "Haha, pauvres idiots ! On vous tient !"
+msgstr "Haha ! C'est nous qui avons l'or maintenant !"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:921
 msgid ""
 "Hahaha! Mission accomplished, men! Now let's crush the rest of this scum and "
 "report back to the Master."
 msgstr ""
+"Hahaha ! Mission accomplie, les gars ! Maintenant, allons écraser les autres "
+"raclures et allons faire notre rapport au Maître."
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:927
 msgid ""
@@ -2375,34 +2452,56 @@ msgid ""
 "have a few scores to settle with you. Take them, troops - I want no orc left "
 "alive!"
 msgstr ""
+"Vous pouvez vous gratter, enflure d'orcs ! Cet or est à nous. Et pis, il est "
+"temps de règler quelques comptes. À l'assaut, soldats ! Massacrez-les tous !"
 
 #: Northern_Rebirth/scenarios/Get_the_Gold.cfg:942
 msgid ""
 "Thanks to Hidel and the elves, we have recovered our gold. Now let's run "
 "down Rakshas and settle up with him once and for all."
 msgstr ""
+"Nous avons retrouvé notre or grâce à Hidel et aux elfes. Lançons-nous à la "
+"poursuite de Rakshas dès maintenant, et finissons-en avec lui une bonne fois "
+"pour toute."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:4
 msgid "Infested Caves"
 msgstr "Cavernes infestées"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:10
+#, fuzzy
 msgid ""
 "Ill-armed and untrained though they were, the people of Dwarven Doors rose "
 "against the Orcs. Although their losses had been tremendous, never once did "
 "they break or falter. In the end, the orcish host was smashed and the "
 "survivors sent scurrying for their lives."
 msgstr ""
+"Ce fut l'heure de gloire. Bien inexpérimentés et mals armés, les gens des "
+"Portes des Nains balayèrent les orcs comme une lame de fond. Les paysans se "
+"sacrifiaient et périssaient en masse sous les lames et les traits des orcs, "
+"mais, malgré ces pertes très sévères, jamais ils n'hésitèrent, ni ne "
+"cédèrent. Et finalement, l'ost orc fut mis en déroute et les survivants "
+"durent fuir précipitamment pour sauver leur vie."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:14
+#, fuzzy
 msgid ""
 "Grief for the fallen could not suppress the people's joy in their newfound "
 "freedom.  They ransacked the orcish storehouses, sang, danced and drank with "
 "abandon. New-fledged warriors boasted of their deeds in the battle, while "
 "the women and children looked on with awe."
 msgstr ""
+"Malgré la grande peine que leur procurait la vue de leurs camarades morts, "
+"les gens pouvaient difficilement contenir la liesse que leur procurait leur "
+"liberté à peine retrouvée. La plupart d'entre eux étaient maîtres de leur "
+"destin pour la première fois de leur vie. Tout à leur joie, ils dévalisèrent "
+"les réserves de vivres des orcs, ils chantèrent, dancèrent et burent jusqu'à "
+"épuisement. De jeunes guerriers se glorifiaient et mettaient en scène leurs "
+"actes fabuleux et leur grande bravoure contre les orcs, pendant que les "
+"enfants et les femmes les contemplaient avec admiration."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:18
+#, fuzzy
 msgid ""
 "Amidst all the revelry, Tallin alone remained distant and thoughtful. He "
 "knew it likely that the orcs would return with a vengeance and slaughter "
@@ -2411,8 +2510,14 @@ msgid ""
 "and without expectation of aid from the prosperous human lands of the south, "
 "defend themselves?"
 msgstr ""
+"Seul Tallin restait à part et isolé des réjouissances, car il savait ce qui "
+"allait arriver. La liberté ne durerait que peu de temps, et les orcs "
+"allaient probablement revenir pour se venger et les massacrer tous. Il "
+"réunit donc tout ce monde dès le lendemain matin pour décider de la suite "
+"des évènements."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:22
+#, fuzzy
 msgid ""
 "The war council's thoughts quickly turned to the dwarves, close allies in "
 "the past. However, nobody knew the state of things in the Knalgan tunnels. "
@@ -2422,6 +2527,14 @@ msgid ""
 "through all manner of unknown monsters in the mere hope of finding surviving "
 "dwarves held but little appeal."
 msgstr ""
+"Les gens pensèrent rapidement aux nains, qui avaient été leurs proches "
+"alliés par le passé. Mais personne ne savait ce qui se passait dans les "
+"souterrains. Ceux qui avaient fait quelques reconnaissances dans les "
+"galeries disaient qu'elles étaient envahies par les trolls, et des rumeurs "
+"ajoutaient qu'il y avait, en outre, des choses encore plus noires et "
+"diaboliques qui rôdaient là-dessous. Et d'autres encore prétendaient que les "
+"nains morts pendant l'invasion de Knalga continuaient à hanter les lieux, "
+"attaquant quiconque se trouvait sur leur chemin."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:26
 msgid ""
@@ -2434,6 +2547,7 @@ msgid ""
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:30
+#, fuzzy
 msgid ""
 "A fortnight after their victory, the town was awakened from slumber in the "
 "dead of night by the distant booming of orcish drums. Scouts training with "
@@ -2441,6 +2555,13 @@ msgid ""
 "approaching. Frightened as they had never been before, the folk of Dwarven "
 "Doors looked to Tallin for guidance."
 msgstr ""
+"Une semaine après la révolte, la cité fut réveillée en pleine nuit par les "
+"bruits sourds et lointains des tambours orcs. Les personnes qui avaient "
+"suivi l'entraînement dispensé par les brutes et les braconniers, habitués à "
+"se déplacer la nuit, vinrent en toute hâte annoncer qu'une compagnie orc "
+"était en train de s'approcher. Terrifiés comme ils ne l'avaient jamais été "
+"auparavant, et doutant de ce qu'il fallait maintenant faire, les gens "
+"regardaient Tallin et attendaient ses conseils."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:34
 #, fuzzy
@@ -2450,9 +2571,10 @@ msgid ""
 "together and collected whatever food and weapons they could and plunged into "
 "the darkness of the caves."
 msgstr ""
-"Ainsi, abandonnant temporairement la seule demeure qu'ils avaient jamais "
-"connue, les gens des Portes des Nains rassemblèrent un maximum de nourriture "
-"et d'armes avant de s'enfoncer dans les ténèbres des sous-sols."
+"Ayant à choisir entre un anéantissement certain par les orcs ou un sort "
+"incertain dans les souterrains lugubres devant eux, Tallin se décida pour la "
+"seconde solution. Les gens rassemblèrent un maximum de nourriture et d'armes "
+"avant de s'enfoncer dans les ténèbres des sous-sols."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:158
 msgid "So here we are..."
@@ -2460,7 +2582,7 @@ msgstr "Nous y voilà."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:162
 msgid " *trip* OOF!!!"
-msgstr "*trébuche* AÏE !!!"
+msgstr " *trébuche* AÏE !!!"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:167
 msgid "Great idea, Tallin, I probably couldn't even fight a bat down here."
@@ -2500,6 +2622,9 @@ msgid ""
 "think I can hear the clamor of dwarves just ahead. Come on men, let's go "
 "meet them."
 msgstr ""
+"Parfait, il ne reste plus aucun monstre dans ce coin des souterrains. Je "
+"crois entendre des clameurs de nains par là-bas. Venez les gars, allons les "
+"voir."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:258
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:442
@@ -2588,14 +2713,12 @@ msgid "Very well."
 msgstr "Très bien."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:356
-#, fuzzy
 msgid "Move Tallin to the Dwarvish Keep or..."
-msgstr "Amener Tallin au panneau au nord"
+msgstr "Amener Tallin au donjon nain ou..."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:360
-#, fuzzy
 msgid "Clear the Caves"
-msgstr "Nettoyer les mines"
+msgstr "Nettoyer les souterrains"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:387
 msgid "Well met, Tallin.  My men have told me of your victory against Al'Tar."
@@ -2631,7 +2754,6 @@ msgstr "PRÉPARE-TOI À MOURIR, ORC PUANT !"
 msgid "Hold it! I am no orc, I am a human!"
 msgstr "Attendez ! J'suis un humain, pas un orc !"
 
-# Ne pas oublier qu'Hamel est en train de voir un humain au moment où il parle.
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:531
 msgid ""
 "A human! Amazing, I haven't seen a human ever since the orcs attacked. Ever "
@@ -2683,7 +2805,7 @@ msgstr "Euh... d'accord..."
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:567
 msgid " *Is it safe to have this lunatic with us?*"
-msgstr "*c'est pas un peu dangereux d'emmener ce lunatique?*"
+msgstr " *c'est pas un peu dangereux d'emmener ce dingue?*"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:573
 msgid ""
@@ -2697,7 +2819,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:596
 msgid "BURN, YOU DISGUSTING FILTH!"
-msgstr "BRÛLE EN ENFER SALE POURRITURE !"
+msgstr "BRÛLE EN ENFER, SALE POURRITURE !"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:601
 msgid "Ahhh! Fire!"
@@ -2812,7 +2934,7 @@ msgstr "... d'accord."
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:899
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:940
 msgid " *SMASH* "
-msgstr "*BOUM*"
+msgstr " *BOUM*"
 
 #: Northern_Rebirth/scenarios/Infested_Caves.cfg:936
 msgid "....right."
@@ -2935,7 +3057,7 @@ msgstr "Et un héros modeste avec ça !"
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1763
 #: Northern_Rebirth/scenarios/Introductions.cfg:262
 msgid "*giggle*"
-msgstr "*gloussements*"
+msgstr " *gloussements*"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:268
 msgid ""
@@ -3152,7 +3274,7 @@ msgstr "C'est votre problème, pas le mien, humain."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:459
 msgid " *sigh* Oh well. It isn't as if we weren't expecting this."
-msgstr "*soupir* Très bien. C'est vrai qu'on s'y attendait un peu."
+msgstr " *soupir* Très bien. C'est vrai qu'on s'y attendait un peu."
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:465
 msgid "See, I told you so!"
@@ -3242,7 +3364,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:48
 msgid "It is well, Hamel. You our people prosper."
-msgstr "Merci, Hamel. Que nos peuples prospèrent à nouveau."
+msgstr "Merci, Hamel. Puissent nos peuples prospérer à nouveau."
 
 #: Northern_Rebirth/scenarios/Old_Friend.cfg:53
 msgid ""
@@ -3846,7 +3968,7 @@ msgstr "Au moins, je suis libre..."
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:384
 msgid " *BOOM!*"
-msgstr "*BOUM*"
+msgstr " *BOUM !*"
 
 #: Northern_Rebirth/scenarios/Protecting_the_Master.cfg:424
 msgid "What the.... NO!!!"
@@ -3954,7 +4076,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:4
 msgid "Ray of Hope"
-msgstr ""
+msgstr "Lueur d'espoir"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:11
 msgid ""
@@ -3969,6 +4091,17 @@ msgid ""
 "of the dead, but they just seemed to laugh at his attempts and rebuke him "
 "even more forcibly for his betrayal."
 msgstr ""
+"L'emprise exercée sur la volonté de Tallin disparut avec la mort de Malifor. "
+"La confrontation soudaine avec ce qu'il avait réellement fait fut une "
+"épreuve de trop pour lui, et il s'enfuit. C'est en fuyant qu'il eut, par "
+"éclairs sporadiques, des visions de ses amis morts, de ses amis qu'il avait "
+"tués. Leurs voix le réprimandaient par delà les ténèbres. Il essayait coûte "
+"que coûte d'échapper à leur condamnation, mais on aurait dit qu'elles "
+"étaient chaque fois plus nombreuses et que leurs mots devenaient toujours "
+"plus tranchants et blessaient toujours plus son âme désespérée. Criant de "
+"désespoir, il utilisa ses connaissances pour les bannir pour toujours au "
+"royaume des morts, mais elles semblaient se moquer de ses tentatives et lui "
+"reprochaient encore plus ardemment sa trahison."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:16
 msgid ""
@@ -3981,18 +4114,31 @@ msgid ""
 "monster living within its depths, and he stumbled blindy towards the "
 "oblivion offered by both."
 msgstr ""
+"Il pensa rapidement au suicide, cela lui semblait le seul moyen d'échapper à "
+"sa punition. Il tira tout de suite sa dague pour la plonger dans son coeur. "
+"Mais, alors qu'il frappait encore et encore, il constatait que son faible "
+"corps résistait et que la vie continuait d'imprégner son être. Désespéré, "
+"Tallin voulu utiliser d'autres moyens pour en finir. Il repéra bien vite une "
+"grande étendue d'eau, toute proche, et le monstre formidable qui vivait ses "
+"profondeurs. Il se mit à marcher, aveugle, titubant, vers le néant offert "
+"par ces deux solutions."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:20
 msgid ""
 "As he approached the dark and menacing depths, however, he was accosted by "
 "the ghost of yet another creature."
 msgstr ""
+"Tandis qu'il approchait les profondeurs noires et menaçantes, il fut encore "
+"abordé par le fantôme d'une créature."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:24
 msgid ""
 "Halt right there, oh vile minion of Malifor! Your attempts to enslave me yet "
 "again will fail. All you shall find here will be your own destruction!"
 msgstr ""
+"Arrêtez-vous ici, oh vil serviteur de Malifor ! Vos tentatives pour "
+"m'asservir une fois de plus sont vaines. Et vous ne vous précipitez ici qu'à "
+"votre propre perte !"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:29
 msgid ""
@@ -4000,22 +4146,31 @@ msgid ""
 "slain by me, nor by my minions. And Malifor is dead, and by the Gods I will "
 "never serve any of his likes ever again! Now get out of my way!"
 msgstr ""
+"Par les dieux infernaux, quel mal vous ai-je fait ? Ni moi, ni mes "
+"serviteurs ne vous avons tué. Et Malifor étant mort, je jure devant les "
+"Dieux que jamais je ne servirai de nouveau un de ses semblables ! Dégagez "
+"maintenant !"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:34
 msgid ""
 "Hold! Malifor has been slain? Then why am I not yet free of this ethereal "
 "body? Am I doomed to an eternity of unlife?"
 msgstr ""
+"Arrêtez ! Malifor a été tué ? Pourquoi alors ne suis-je pas libéré de ce "
+"corps éthéré ? Suis-je condamné à une mort-vivance éternelle ?"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:39
 msgid "Your troubles are none of my concerns. Begone!"
-msgstr ""
+msgstr "C'est vos problèmes, pas les miens. Allez-vous-en !"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:44
 msgid ""
 "Now wait! Who are you, and what are you doing coming in this direction? I "
 "sense you are well versed in the dark arts; can you rid me of this body?"
 msgstr ""
+"Maintenant, attendez ! Qui êtes-vous, et qu'est-ce qui vous amène par ici ? "
+"J'ai l'impression que vous connaissez bien les arts des ténèbres ; pouvez-"
+"vous me débarrasser de ce corps ?"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:49
 msgid ""
@@ -4027,6 +4182,14 @@ msgid ""
 "I am haunted by all the evil I have done, and I see no way of escaping this "
 "torment other then self destruction."
 msgstr ""
+"Je suis Tallin. J'étais autrefois un homme libre menant ses hommes à la "
+"rebellion contre leurs maîtres orcs. Mais j'ai été trompé et fait esclave "
+"par Malifor. J'ai fait des choses inimaginables alors que j'étais sous son "
+"contrôle : j'ai étudié les arts les plus abominables, j'ai tirés les morts "
+"de leur sommeil, et j'ai massacré sans merci mes amis alors que j'étais une "
+"espèce d'abomination sans âme. Je suis maintenant hanté par les horreurs que "
+"j'ai faites, et je ne vois aucun autre moyen que le suicide pour échapper à "
+"cette torture."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:54
 msgid ""
@@ -4035,6 +4198,10 @@ msgid ""
 "body is destroyed, your life force will still roam this world in torment. "
 "Such is the fate for the likes of us."
 msgstr ""
+"Je ne pense pas que tu trouveras du réconfort dans la mort, mon garçon. Je "
+"suis certain que tu le sais déjà : la mort elle-même ne te servira à rien. "
+"Même si ton corps périt, ton esprit tourmenté errera toujours dans ce monde. "
+"C'est le destin d'êtres comme nous."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:59
 msgid ""
@@ -4046,6 +4213,14 @@ msgid ""
 "be dead right now! And I betrayed them! Those who trusted me most I slew "
 "with my own hands!"
 msgstr ""
+"Mais que faire alors ? Je suis constamment hanté par les hurlements de mes "
+"amis mourant. C'est à cause de moi qu'ils se sont d'abord révoltés contre "
+"les orcs ! Ils m'ont fait confiance pour toujours les guider, pour toujours "
+"les conduire, et pour toujours être en première ligne à chaque bataille. Si "
+"je n'avais pas été là, ils n'auraient pas risqué leur vie... Non, si je "
+"n'avais pas été là, ils ne seraient pas morts maintenant ! Et je les ai "
+"trahis ! J'ai massacré de mes propres mains ceux qui me faisaient une "
+"absolue confiance !"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:64
 msgid ""
@@ -4055,6 +4230,12 @@ msgid ""
 "the blame of all your crimes falls on him. Now that he is dead, you are "
 "free, both of his will, and of the crimes he has committed through you."
 msgstr ""
+"Reste serein, Tallin. Je sais quelles épreuves tu as traversé, car j'ai moi "
+"aussi traversé les mêmes. Partageant la même expérience, je peux dire que ce "
+"n'est pas de ta faute. C'est Malifor qui t'a lié à sa volonté et c'est lui "
+"qu'il faut blâmer pour tous tes crimes. Maintenant qu'il est mort, tu es "
+"libéré non seulement de sa volonté mais aussi des horreurs qu'il a exécuté à "
+"travers toi."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:69
 msgid ""
@@ -4064,6 +4245,12 @@ msgid ""
 "who was not strong enough to resist his will. Your words, although kind, are "
 "not enough to relieve me of my guilt."
 msgstr ""
+"Cependant, c'est bien mes mains qui ont utilisé le bâton qui a fracassé le "
+"crâne de mes amis. C'est bien ma bouche qui a lancé les incantations "
+"magiques pour les pulvériser ou les hanter avec des cauchemars venus d'un "
+"autre monde. C'est moi qui n'ai pas été assez fort pour résister à sa "
+"volonté. Vos paroles sont réconfortantes, mais elle ne suffisent pas à me "
+"décharger de ma culpabilité."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:74
 msgid ""
@@ -4073,20 +4260,23 @@ msgid ""
 "actually have. But there is one way in which this matter cam be settled "
 "beyond the shadow of a doubt."
 msgstr ""
+"Des hommes comme nous peuvent rarement décider si c'est de ta faute ou pas. "
+"Parfois tu penseras avoir péché alors que tu ne l'auras pas fait, et "
+"d'autres fois tu penseras n'avoir commis aucun crime alors que tu en auras "
+"vraiment fait un. Mais il y a un moyen pour savoir la vérité sans l'ombre "
+"d'un doute."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:79
-#, fuzzy
 msgid "How is that?"
-msgstr "Comment ça, Tallin ?"
+msgstr "C'est-à-dire ?"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:84
-#, fuzzy
 msgid "You must find the Rod of Justice."
-msgstr "Vous devez être le célèbre Tallin."
+msgstr "Vous devez trouver le Sceptre de Justice."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:89
 msgid "The Rod of Justice? I have never head of it."
-msgstr ""
+msgstr "Le Sceptre de Justice ? J'en ai jamais entendu parler."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:94
 msgid ""
@@ -4097,7 +4287,15 @@ msgid ""
 "wielded by men, the ruling class never became corrupt, the people never "
 "lacked justice and neither evil nor wars ever troubled the land."
 msgstr ""
+"C'est pas possible ? Même durant ma jeunesse, c'était déjà un ancien "
+"artéfact. On racontait qu'il avait été forgé par les Dieux Tous-puissants en "
+"personne et donné au premier vrai Roi des Hommes pour maintenir la paix, "
+"l'harmonie et, surtout, la justice. Il s'est transmis d'un roi à l'autre "
+"pendant plus de quatre-cents ans. Tant qu'il a été porté par les hommes, les "
+"dirigeants n'ont jamais été corrompus, la justice a toujours été assurée et "
+"il n'y a eu dans le pays ni guerre, ni désolation."
 
+# Damien : c'est Asheviere, il y a une faute en anglais.
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:99
 msgid ""
 "Well, that certainly isn't the state of affairs now. Knalga lies in ruins, "
@@ -4106,6 +4304,11 @@ msgid ""
 "cruel queen Ashevire, while the rightful heir must have long since perished "
 "in his vain quest for the Scepter of Fire."
 msgstr ""
+"Eh bien, les choses ne sont certainement plus comme ça maintenant. Knalga "
+"est en ruines, les orcs ravagent la surface et des créatures maléfiques "
+"hantent les passages souterrains. Et on raconte que Wesnoth est dirigé par "
+"la cruelle et perverse reine Asheviere, tandis que l'hériter légitime est "
+"peut-être mort dans une quête inutile pour retrouver le Sceptre de Feu."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:104
 msgid ""
@@ -4114,10 +4317,15 @@ msgid ""
 "reach the Rod, I would be able to destroy Malifor and be free of this state. "
 "Alas, it seems to be in vain now..."
 msgstr ""
+"J'avais bien supposé que les choses auraient été dans un tel état, car "
+"j'arrive à peine à sentir la présence toute proche du Sceptre de Justice. Je "
+"pensais que si j'arrivais, d'une façon ou d'une autre, à mettre la main "
+"dessus, j'arriverais à détruire Malifor et en être libéré. Hélas, cela "
+"semble vain, maintenant..."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:109
 msgid "But you said that this Rod may be able to help me?"
-msgstr ""
+msgstr "Mais vous disiez que ce Sceptre pourrait m'aider ?"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:114
 msgid ""
@@ -4127,11 +4335,18 @@ msgid ""
 "full of dark and evil, then the staff will smite them down as surely as you "
 "are standing there."
 msgstr ""
+"Oui, mon garçon. Quand j'étais roi, je portais le Sceptre de Justice. Il "
+"renferme un tel pouvoir qu'aucune créature que j'ai rencontré n'ose s'y "
+"opposer. Mais si celui qui le prend est un criminel ou a le coeur rempli de "
+"noires pensées maléfiques, alors le sceptre le châtiera, et ce d'une façon "
+"aussi certaine que je vous vois ici."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:119
 msgid ""
 "So you suggest that I grasp this Rod of Justice, as if it were to judge me?"
 msgstr ""
+"Vous êtes donc en train de dire que si je prends le Sceptre de Justice, il "
+"me jugera ?"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:124
 msgid ""
@@ -4141,20 +4356,23 @@ msgid ""
 "responsible for the acts Malifor has committed through you. Either way, it "
 "will be an end to your suffering."
 msgstr ""
+"C'est exactement ce que je dis, mon garçon. Il faut que tu comprennes que ta "
+"destruction marquera la fin de tes tourments. Mais si tu survis, tu sauras "
+"sans l'ombre d'un doute que les Dieux Tous-puissants ne te tiennent pas "
+"rigueur des actes que Malifor a commis à travers toi. Quoi qu'il en soit, ce "
+"sera la fin de tes souffrances."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:129
 msgid "Then we must find this rod. Lead the way, my friend."
-msgstr ""
+msgstr "Nous devons donc trouver ce sceptre. Ouvre la marche, mon ami."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:245
-#, fuzzy
 msgid "Find the Rod of Justice"
-msgstr "C'est... c'est le Sceptre de Justice !"
+msgstr "Trouver le Sceptre de Justice !"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:253
-#, fuzzy
 msgid "Death of Abhai"
-msgstr "Mort d'Anita"
+msgstr "Mort d'Abhai"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:798
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:799
@@ -4218,6 +4436,10 @@ msgid ""
 "However, their way was soon blocked by the body of water that Tallin had "
 "sensed, as well as the monster that dwelt in it's depths."
 msgstr ""
+"Tallin, accompagné du fantôme du roi, qu'il découvrira bientôt être Abhai, "
+"s'est enfoncé dans les galeries à la recherche du Sceptre de Justice. Mais "
+"leur chemin fut bientôt barré par la masse d'eau que Tallin avait perçue et "
+"par le monstre qui hantait ses profondeurs."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:332
 msgid ""
@@ -4226,22 +4448,30 @@ msgid ""
 "arms and yet they still keep growing back. However, without entering the "
 "depths of these waters we can't destroy the creature."
 msgstr ""
+"J'ai souvent essayé de traverser cette masse d'eau, mais chaque fois la "
+"créature qui vit dans ses profondeurs m'a bloqué. De nombreuses fois, j'ai "
+"coupé ses tentacules, mais ils repoussent toujours. Mais nous ne pourrons "
+"détruire cette créature qu'en entrant dans ces eaux profondes."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:338
 msgid ""
 "Then we shall have to pass it by. If we quickly cut off it's arms we may be "
 "able to make a safe crossing."
 msgstr ""
+"Nous n'y couperons pas. Si nous tranchons rapidement tous ses tentacules, "
+"nous devrions pouvoir traverser sans problème."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:344
 msgid ""
 "To do this Tallin, you must call upon your art, for simply the both of us "
 "together will not be sufficient to cut off it's arms fast enough."
 msgstr ""
+"Si on veux réussir, Tallin, tu devras faire appel à ton art, car nous deux "
+"seuls n'arriverons jamais à couper ses tentacules assez rapidement."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:350
 msgid "Never! I refuse utter those cursed words!"
-msgstr ""
+msgstr "Jamais ! Je refuse de prononcer ces paroles maudites !"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:356
 msgid ""
@@ -4249,19 +4479,21 @@ msgid ""
 "But now is not the time to argue, just see how the arms of this creature "
 "reach for us! Quickly, we must defeat this creature!"
 msgstr ""
+"Aucun art n'est en lui-même maléfique, mon garçon, mais c'est l'usage que "
+"nous en faisons. Mais ce n'est pas le moment ! Regarde, les tentacules de "
+"cette créatures essayent de nous emporter. Vite, nous devons l'abattre !"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:362
 msgid "Very well, if there is no other way..."
-msgstr ""
+msgstr "Très bien, si on n'a pas le choix..."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:395
-#, fuzzy
 msgid "Halt! Who is that!?"
-msgstr "Et de quoi s'agit-il ?"
+msgstr "Stop ! Qui va là ?"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:401
 msgid "These are my minions Halreed."
-msgstr ""
+msgstr "Voici mes petits chéris, Halreed."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:406
 msgid ""
@@ -4269,6 +4501,9 @@ msgid ""
 "humans are hot on my trial. Help me kill them and together we shall rule "
 "these caves!"
 msgstr ""
+"Pffou, loués soient les Seigneurs des Ténèbres. Je suis piégé ici, et j'ai "
+"les nains et humains aux fesses. Aide-moi à m'en débarrasser et nous "
+"règnerons ensemble sur ces grottes !"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:412
 msgid ""
@@ -4277,30 +4512,42 @@ msgid ""
 "help you escape to the surface but I will never again raise my hand on my "
 "own brothers."
 msgstr ""
+"J'en ai assez de tuer mes propres gens. Depuis que Malifor n'est plus, nous "
+"ne sommes plus les esclaves de sa volonté. Vous pouvez vous joindre à moi et "
+"je vous aiderai à rejoindre la surface, mais je ne lèverai plus jamais la "
+"main contre mes propres frères."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:417
 msgid ""
 "Tallin! What is this weakness! Now that Malifor is dead it is time for us, "
 "his successors to rule the world!"
 msgstr ""
+"Tallin ! Quelle est cette faiblesse ! Maintenant que Malifor est mort, le "
+"temps est venu pour nous, ses successeurs, de diriger le monde !"
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:422
 msgid ""
 "I have had enough of this madness. Now get yourself and your minions out of "
 "my way, I have a quest to fulfill."
 msgstr ""
+"J'ai ai assez de cette folie. Maintenant, toi et tes serviteurs, hors de mon "
+"chemin ! J'ai une quête à accomplir."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:428
 msgid ""
 "If your minions come any closer I will strike them down. If you won't join "
 "me to rule the world, at least don't be an obstacle."
 msgstr ""
+"Si tes serviteurs font un pas de plus, je les abats. Si tu ne veux pas "
+"régner avec moi, alors ne te dresse pas contre moi."
 
 #: Northern_Rebirth/scenarios/Ray_of_Hope.cfg:433
 msgid ""
 "You are crazy! All those twisted chants must have gone to your brain. If I "
 "destroy you it would be doing the world a favor"
 msgstr ""
+"Pauvre fou ! Toutes ces paroles insensées t'ont tapé sur le cerveau. Si je "
+"te tue, je rendrai un grand service à ce monde."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:4
 msgid "Settling Disputes"
@@ -4785,15 +5032,15 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:595
 msgid " *aside* Camerin, you know him?"
-msgstr "*à part* Camerin, tu le connais ?"
+msgstr " *à part* Camerin, tu le connais ?"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:601
 msgid " *aside* Duh! His brother Ro'Arthian is the one who taught me magic!"
-msgstr "*à part* Bah ! C'est son frère Ro'Arthian qui m'a enseigné la magie !"
+msgstr " *à part* Bah ! C'est son frère Ro'Arthian qui m'a enseigné la magie !"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:607
 msgid " *aside* Oh....!"
-msgstr "*à part* Oh... !"
+msgstr " *à part* Oh... !"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:627
 msgid ""
@@ -4873,7 +5120,7 @@ msgid ""
 " *booming voice coming from all directions* SO YOU MAGES HAVE THE AUDACITY "
 "TO ATTACK MY BROTHER! YOU SHALL DIE FOR YOUR FOLLY!"
 msgstr ""
-"*voix tonnante semblant provenir de toutes parts* MAGES, VOUS AVEZ L'AUDACE "
+" *voix tonnante semblant provenir de toutes parts* MAGES, VOUS AVEZ L'AUDACE "
 "D'ATTAQUER MON FRÈRE ! VOUS ALLEZ PAYER POUR CETTE FOLIE !"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:772
@@ -4907,7 +5154,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:803
 msgid " *sigh* Yes, you are right."
-msgstr "*soupir* Tu as sûrement raison."
+msgstr " *soupir* Tu as sûrement raison."
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:809
 msgid "Put Ro'Sothian into that jail over there until we capture his brother."
@@ -4989,7 +5236,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:990
 msgid " *words dripping sarcasm* Wow! Someone FINALLY figured it out!"
-msgstr "*mots dégoulinant de sarcasme* Waouh ! Quelqu'un a ENFIN compris !"
+msgstr " *mots dégoulinant de sarcasme* Waouh ! Quelqu'un a ENFIN compris !"
 
 #: Northern_Rebirth/scenarios/Settling_Disputes.cfg:996
 msgid ""
@@ -5231,7 +5478,7 @@ msgstr ""
 #: Northern_Rebirth/scenarios/Showdown.cfg:627
 msgid ""
 "The group that went to the north was led by Krash and his drake friends."
-msgstr "L'armée partie vers le nord était menée par Krash et ses amis drakes."
+msgstr "L'armée partie vers le nord était menée par Krash et ses amis dracans."
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:644
 msgid ""
@@ -5426,7 +5673,7 @@ msgstr "Ou le peuple des Portes des Nains."
 msgid ""
 " *gurggle* No!... this.... cannot.... be... happening.... to.... me....."
 msgstr ""
-"*d'une voix noyée dans le sang* Non !... ça... ne... peut... pas... "
+" *d'une voix noyée dans le sang* Non !... ça... ne... peut... pas... "
 "m'arriver... pas... à... moi......"
 
 #: Northern_Rebirth/scenarios/Showdown.cfg:1180
@@ -6003,7 +6250,7 @@ msgstr ""
 msgid ""
 "However, upon emerging from the tunnels, the party found themselves "
 "surrounded."
-msgstr "Cependant, la bande se retrouva encerclée en remontant à la surface."
+msgstr "Mais la bande se retrouva encerclée en remontant à la surface."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:730
 msgid "Haha, suckers! We got you now!"
@@ -6194,7 +6441,7 @@ msgstr "Très bien messieurs. La route est dégagée, en avant vers la victoire�
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1135
 msgid " *sniff sniff*"
-msgstr "*snif snif*"
+msgstr " *snif snif*"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1140
 msgid "What's up big guy?"
@@ -6202,7 +6449,7 @@ msgstr "Qu'est-ce qu'il y a, mon gros ?"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1146
 msgid " *flap flap flap*"
-msgstr "*flap flap flap*"
+msgstr " *flap flap flap*"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1183
 msgid "Hey! Where is he going?"
@@ -6257,7 +6504,7 @@ msgid ""
 "Hmmm, he must have smelled the scent of other drakes and gone to them to "
 "convince them to help us."
 msgstr ""
-"Hmmm, il a dû sentir l'odeur d'autres drakes et il est parti les convaincre "
+"Hmmm, il a dû sentir l'odeur d'autres dracans et il est parti les convaincre "
 "de nous aider."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1322
@@ -6270,7 +6517,7 @@ msgstr "Dites ça aux trolls."
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1335
 msgid "What! Drakes! Fire! Ahhhhhh!"
-msgstr "Quoi ! Des drakes ! Au feu ! Ahhhhhh !"
+msgstr "Quoi ! Des dracans ! Au feu ! Ahhhhhh !"
 
 #: Northern_Rebirth/scenarios/Stolen_Gold.cfg:1340
 msgid "Shut your mouth, you coward!"
@@ -6410,7 +6657,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:519
 msgid " *faint cackle of laughter in the distance*"
-msgstr "*faibles ricanements au loin*"
+msgstr " *faibles ricanements au loin*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:525
 msgid "Yeah! This is gonna be fun!"
@@ -6450,12 +6697,11 @@ msgstr ""
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:574
 msgid ""
 "The Rod of Justice! What in the world is it doing all the way down here?"
-msgstr ""
+msgstr "Le Sceptre de Justice ! Mais bon sang qu'est-ce qu'il fait là ?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:580
-#, fuzzy
 msgid "What do you have there, Abhai?"
-msgstr "Que veux-tu dire ?"
+msgstr "Qu'est-ce que tu as là, Abhai ?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:585
 msgid ""
@@ -6466,7 +6712,15 @@ msgid ""
 "was wielded by men, the ruling class never became corrupt, the people never "
 "lacked justice and neither evil nor wars troubled the land."
 msgstr ""
+"C'est le Grand Sceptre de Justice, mon garçon. Même dans ma jeunesse, "
+"c'était déjà un ancien artéfact. On racontait que les Dieux Tous-puissants "
+"l'avaient façonné eux-mêmes et offert au premier Roi des Hommes pour assurer "
+"la paix, l'harmonie et, par dessus tout, la justice. Cet objet a rempli son "
+"rôle pendant des siècles. Pendant tout le temps où il a été porté par les "
+"hommes, la classe dirigeante n'a jamais été corrompue, la justice a toujours "
+"été rendue. Ni le mal, ni les guerres n'ont jamais troublé le pays."
 
+# Damien : attention, reine Asheviere ; cf. Heir to the Throne
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:591
 msgid ""
 "Well, if you don't mind me saying - that certainly isn't the state of "
@@ -6476,6 +6730,12 @@ msgid ""
 "rightful heir must have long since perished in his vain quest for the "
 "Scepter of Fire."
 msgstr ""
+"Eh bien, si tu veux mon avis, les choses ne sont certainement plus comme ça "
+"maintenant. Knalga est en ruines, les orcs foulent la terre au pied et ces "
+"créatures maudites hantent les passages souterrains. Et on raconte que "
+"Wesnoth est dirigé par la cruelle et perverse reine Asheviere, tandis que "
+"l'hériter légitime est peut-être mort dans une quête inutile pour retrouver "
+"le Sceptre de Feu."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:596
 msgid ""
@@ -6483,11 +6743,13 @@ msgid ""
 "either you or one of your trusted men must wield this staff and bring peace "
 "and justice back into this world."
 msgstr ""
+"Ahhh, il faut s'y attendre avec le Sceptre de Justice reposant là. Approche "
+"Tallin, toi ou l'un de tes hommes de confiance devez porter ce sceptre et "
+"ramener la paix et la justice dans ce monde."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:602
-#, fuzzy
 msgid "Why can't you wield it, Abhai?"
-msgstr "Que veux-tu dire ?"
+msgstr "Pourquoi ne peux-tu pas le porter, Abhai ?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:607
 msgid ""
@@ -6496,19 +6758,22 @@ msgid ""
 "your people receive peace, prosperity and justice. Quickly, come forth or "
 "send one of your men for time is waning."
 msgstr ""
+"Je suis une créature du passé et ce n'est plus à moi de le porter désormais. "
+"Une nouvelle ère s'ouvre pour toi, Tallin, et c'est ton devoir de veiller à "
+"ce que ton peuple reçoive la paix, la prospérité et la justice. Vite, "
+"approche ou envoie un de tes hommes, car il ne reste que peu de temps."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:691
 msgid "Wow! This thing is... incredible!"
-msgstr ""
+msgstr "Waou ! Cette chose est... incroyable !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:706
-#, fuzzy
 msgid ""
 "I wonder what such a powerful artifact is doing hidden all the way back "
 "here..."
 msgstr ""
-"Waouh ! Incroyable ! Je me demande pourquoi un artéfact aussi puissant est "
-"resté caché ici tout ce temps..."
+"Je me demande pourquoi un artéfact aussi puissant est resté caché ici tout "
+"ce temps..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:720
 msgid "That's.... that's the Rod of Justice!"
@@ -6680,10 +6945,8 @@ msgid "Uh... 534 YW..."
 msgstr "Euh... en 534 YW..."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:978
-#, fuzzy
 msgid "Huh!? Can't be, the last year I remember it was 14, 318 AD!"
-msgstr ""
-"Quoi !? Impossible, la dernière année dont je me souvienne était 14318 AD !"
+msgstr "Quoi !? Impossible, mes derniers souvenirs remontent à 14 318 AD !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:984
 msgid "?????"
@@ -6706,12 +6969,11 @@ msgid "The times have changed, my friend."
 msgstr "Les temps ont changé, l'ami."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1012
-#, fuzzy
 msgid ""
 "Right... sorry about that. My name is Lord Abhai and I am... or was... the "
 "ruler of the great kingdom of Garet-Desh."
 msgstr ""
-"En effet... c'est bien dommage. Mon nom est Lord Alfred et je suis... ou "
+"En effet... c'est bien dommage. Je suis le Seigneur Abhai et je suis... ou "
 "plutôt j'étais... le gouverneur du grand royaume de Garet-Desh."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1019
@@ -6800,7 +7062,7 @@ msgstr "Attendez les gars, il y a quelque chose qui approche !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1152
 msgid " *sniff* I smell humans."
-msgstr "*snif* Ça sent l'humain."
+msgstr " *snif* Ça sent l'humain."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1157
 msgid "You are just plain deaf. I heard them coming from a mile off."
@@ -6822,7 +7084,7 @@ msgstr "Désolé les gars, mais c'est vraiment trop tentant."
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1186
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1212
 msgid " *SMASH*."
-msgstr "*CRACK*"
+msgstr " *CRACK*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1207
 msgid ""
@@ -6859,7 +7121,7 @@ msgstr "Ha ha, c'est pour les squelettes de toute façon."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1285
 msgid " *rolls eyes* Oh the hazardous life of a skeleton."
-msgstr "*roule les yeux* Ah, la dangereuse vie du squelette !"
+msgstr " *roule les yeux* Ah, la dangereuse vie du squelette !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1299
 msgid "The Treasury"
@@ -6902,10 +7164,9 @@ msgid "500 gold! Not bad!"
 msgstr "500 pièces d'or ! Pas mal !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1457
-#, fuzzy
 msgid "10,000 gold! Wow! Where is that bag of bones getting all this?"
 msgstr ""
-"1000 pièces d'or ! Waouh ! Où est-ce que ce sac d'os va trouver tout ça ?"
+"10 000 pièces d'or ! Waouh ! Où est-ce que ce sac d'os va trouver tout ça ?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:1493
 msgid "Freedom at last. Thank you Lord Tallin."
@@ -7200,11 +7461,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2036
 msgid "Oooooh, cool, it's a drake!"
-msgstr "Oooooh, cool, un drake !"
+msgstr "Oooooh, cool, un dracan !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2041
 msgid " *whimper*"
-msgstr "*murmure*"
+msgstr " *murmure*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2046
 msgid ""
@@ -7288,7 +7549,8 @@ msgstr "ROOOOOOAAAAHHHH !"
 msgid ""
 "Woha! Maybe he isn't so friendly after all... or at least to some things."
 msgstr ""
-"Oh, il n'est pas si gentil que ça en fait... enfin, ça dépend avec qui."
+"Ouaah ! Il n'est peut-être pas si gentil que ça, tout compte fait... enfin, "
+"ça dépend avec qui."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2157
 msgid "HAHAHAHAHA, FOOLS, YOU THINK YOU CAN KILL ME?"
@@ -7350,7 +7612,7 @@ msgstr "Ce langage n'est guère convenable pour une dame comme vous."
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2496
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2612
 msgid " *giggle* Sorry."
-msgstr "*gloussements* Désolée."
+msgstr " *gloussements* Désolée."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2277
 msgid "HAHAHAHAHAHA, YOUR IDIOCY AMUSES ME GREATLY!"
@@ -7399,7 +7661,7 @@ msgstr "HAHAHAHAHAHA, JE SUIS IMMORTEL !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2565
 msgid "YOU PUNY MORTALS SHALL SOON BE SERVING ME!"
-msgstr "VOUS SEREZ BIENTÔT À MES PIEDS, FAIBLES MORTELS !"
+msgstr "VOUS RAMPEREZ BIENTÔT À MES PIEDS, FAIBLES MORTELS !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2571
 msgid "That blasted skeleton! Even fire has no affect on him!"
@@ -7442,11 +7704,11 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2667
 msgid "At last! Victory is ours! Good work, men!."
-msgstr "Enfin ! La victoire nous appartient ! Bon boulot les gars !"
+msgstr "Enfin ! La victoire est à nous ! Bon boulot, les gars !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2672
 msgid "So where to now, Tallin?"
-msgstr "Où allons-nous maintenant Tallin ?"
+msgstr "Où allons-nous maintenant, Tallin ?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2679
 msgid ""
@@ -7483,7 +7745,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2840
 msgid " 'The master's study' eh? I bet we'll find Mailfor there!"
-msgstr "« L'étude du maître», hein ? Je parie que nous y trouverons Malifor !"
+msgstr "« L'étude du maître », hein ? Je parie que nous y trouverons Malifor !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2904
 msgid "Ugh, a dead body!"
@@ -7502,8 +7764,8 @@ msgid ""
 "Gee, what's with all these bodies floating around? Is this river some sort "
 "of body disposal?"
 msgstr ""
-"Bon dieu, qu'est-ce que c'est que tous ces corps qui flottent tout partout ? "
-"Cette rivière serait-elle une espèce de réserve de cadavres ?"
+"Bon dieu, qu'est-ce que c'est que tous ces corps qui flottent ? C'est une "
+"espèce de fosse commune, cette rivière ?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2968
 msgid "The Great Chamber"
@@ -7524,7 +7786,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:2996
 msgid " *rumble*"
-msgstr "*grondement*"
+msgstr " *grondement*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3001
 msgid "Uh oh, I think I spoke too soon."
@@ -7535,7 +7797,7 @@ msgstr "Oh oh, je crois que j'ai parlé trop vite."
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3389
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3573
 msgid " *CRASH*"
-msgstr "*CRACK*"
+msgstr " *CRACK*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3017
 msgid ""
@@ -7692,7 +7954,7 @@ msgstr "Bien, c'est parti !"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3761
 msgid " *creak*....."
-msgstr "*criiic*"
+msgstr " *criiic*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3766
 msgid "Nothing. That door is not moving."
@@ -7708,7 +7970,7 @@ msgstr "D'accord."
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3781
 msgid " *BANG*"
-msgstr "*BANG*"
+msgstr " *BANG*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3786
 msgid "Anybody home?"
@@ -7716,11 +7978,11 @@ msgstr "Y'a quelqu'un ?"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3791
 msgid " *BOOM*"
-msgstr "*BOUM*"
+msgstr " *BOUM*"
 
 #: Northern_Rebirth/scenarios/The_Pursuit.cfg:3796
 msgid " *CRASH!!!*"
-msgstr "*CRAAAACK !*"
+msgstr " *CRAAAACK !*"
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:6
 msgid "To the Mines"
@@ -7801,7 +8063,6 @@ msgstr ""
 "Autrement, y'aurait personne pour ici pour t'accueillir."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:49
-#, fuzzy
 msgid ""
 "We ha' been stranded in these tunnels for years now, almost completely cut "
 "off from sources of food or metals or tools.  It ha' been as much as we "
@@ -7810,12 +8071,12 @@ msgid ""
 "while the orcs held them.  But metal will be scarce for a while yet; ore "
 "will have to be briught in for smelting, first."
 msgstr ""
-"On a été coincé dans ces boyaux pendant des années, presque sans nourriture, "
-"sans métal et sans outil. On a failli y passer. Mais maintenant que nous "
-"pouvons retourner à la surface, nous allons pouvoir mieux manger, et y'a "
-"plein d'outils dans les magasins, inaccessibles tant qu'y étaient contrôlés "
-"par les orcs. Mais pour le métal restera encore rare pendant un moment ; les "
-"minéraux doivent d'abord être extraits avant d'être fondus."
+"On a été coincé dans ces boyaux pendant des années, presque sans bouffe, "
+"sans métal et sans outil. On a failli y passer. Mais maintenant qu'on peut "
+"retourner à la surface, on va pouvoir mieux manger, et y'a plein d'outils "
+"dans les magasins qu'on pouvait pas rejoindre tant qu'y étaient sous "
+"l'contrôle des orcs. Mais l'métal restera encore rare pendant un moment ; "
+"les minéraux doivent d'abord être extraits avant d'être fondus."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:54
 msgid "Is there any source of good ores nearby?"
@@ -7827,25 +8088,25 @@ msgid ""
 "our raw metals. However, that place also seems to be where all those "
 "skeletons are coming from. To go there would mean certain death."
 msgstr ""
-"Ouais, en effet. À quelques kilomètres au nord d'ici, il y a un endroit où "
-"nous extrayions nos métaux bruts. Cependant, c'est de là que tous ces "
-"squelettes semblent provenir. Y retourner signifierait une mort certaine."
+"Ouais, en effet. À quelques kilomètres au nord d'ici, y'a un endroit où on "
+"extrayait nos métaux bruts. C'est de là que tous ces squelettes semblent "
+"venir. Y retourner signifierait une mort certaine."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:64
 msgid ""
 "What is the story with those skeletons anyway? They look like they were "
 "dwarves at one point but now they just attack everyone and anyone."
 msgstr ""
-"Qu'est-ce que c'est que cette histoire de squelettes d'ailleurs ? Ils ont "
-"l'air d'avoir été des nains mais qui attaquent maintenant tout ce qui bouge."
+"Qu'est-ce que c'est que cette histoire de squelettes, d'ailleurs ? Ils "
+"ressemblaient à des nains mais qui attaquent maintenant tout ce qui bouge."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:69
 msgid ""
 "In truth, we ha' no idea. They just started appearing one day some years "
 "after we were trapped here."
 msgstr ""
-"Pour être franc, je n'en sais rien. Ils sont apparus un beau jour, quelques "
-"années après que nous nous soyons retrouvés pris au piège."
+"Franchement, on sait pas. Y sont apparus un beau jour, quelques années après "
+"qu'on se soit retrouvés pris au piège."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:74
 msgid ""
@@ -7872,9 +8133,9 @@ msgid ""
 "guardsmen stay behind along with the noncombatants - for their safety and to "
 "hold the keep."
 msgstr ""
-"T'as raison ! En avant, les gars ! Aux mines ! Laissons les gardes derrière "
-"avec ceux qui ne peuvent pas se battre, pour leur sécurité et pour défendre "
-"la citadelle."
+"T'as raison ! En avant, les gars ! Aux mines ! Laissons les gardes derrière, "
+"avec ceux qui ne peuvent pas se battre pour qu'ils soient en sécurité, et "
+"pour défendre la citadelle."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:89
 msgid ""
@@ -7921,7 +8182,7 @@ msgstr "Argh ! Ils sont plus forts que prévu, allons prévenir le maître."
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:215
 msgid "What's with this 'Master' business? It's starting to make me nervous."
 msgstr ""
-"C'est quoi toute cette histoire de « Maître » ? Ça commence à me courir sur "
+"C'est quoi toute cette histoire de « Maître » ? Ça commence à me taper sur "
 "les nerfs."
 
 #: Northern_Rebirth/scenarios/To_The_Mines.cfg:231
@@ -7942,6 +8203,45 @@ msgid ""
 msgstr ""
 "C'est quoi toute cette histoire de « Maître » ? Ça commence à me taper sur "
 "les nerfs."
+
+#~ msgid ""
+#~ "Once the reality of the situation set in, everyone became very sober. "
+#~ "Proposals on how to maintain the freedom were suggested and discarded one "
+#~ "after another. There would be no help from foreign lands, as the elderly "
+#~ "who remembered such times, readily pointed out their indifference in the "
+#~ "past. They may try to rebuild their fortifications, but the orcs would "
+#~ "break them as they had last time. Besides, for all their bravery none of "
+#~ "the people were actually trained in the art of war."
+#~ msgstr ""
+#~ "Tout le monde redevint très sobre une fois la situation présentée "
+#~ "clairement. Les propositions pour savoir comment conserver la liberté "
+#~ "furent examinées, puis rejetées les unes après les autres. Les pays "
+#~ "étrangers ne les aideraient pas, comme le soulignaient les anciens qui "
+#~ "insistaient d'ailleurs sur leur indifférence passée. Ils pouvaient tenter "
+#~ "de reconstruire les fortifications, mais les orcs les démoliraient comme "
+#~ "ils l'avaient fait auparavant ; et puis, malgré toute leur bravoure, "
+#~ "aucun d'entre eux n'était vraiment habitué au combat."
+
+#~ msgid ""
+#~ "Days passed, and the people still had no solution to this deadlock. "
+#~ "Trudging the impassable caves, fighting all manners of unknown monsters "
+#~ "in the rare hope of finding any surviving dwarves was not an appealing "
+#~ "corse of action - and so the mater lay. A small breakthrough came "
+#~ "however, when a small band of roving peasants - who had years ago escaped "
+#~ "the orcish whip, and had since taken on lifestyles akin to thugs and "
+#~ "poachers - agreed to join forces with them. The people young and the "
+#~ "brave soon took to learning their rugged style of fighting, as they knew "
+#~ "that more confrontations with the orcs were inevitable."
+#~ msgstr ""
+#~ "Les jours passaient et rien ne permettait de sortir de cette impasse. Il "
+#~ "était bien peu tentant de s'engager dans des galeries impraticables, de "
+#~ "combattre des monstres inconnus, et tout cela pour espérer trouver "
+#~ "quelques nains survivants. Un semblant de solution apparut cependant "
+#~ "quand un petit groupe de paysans errants, qui avaient fuit le fouet des "
+#~ "orcs il y a de cela quelques années pour devenir brutes ou braconniers, "
+#~ "accepta de les rejoindre. Les jeunes gens et les braves, qui savaient que "
+#~ "d'autres confrontations avec les orcs seraient inévitables, s'initièrent "
+#~ "vite à leur style acharné de combat."
 
 #~ msgid ""
 #~ "Uh oh! That orc has gone to tell his leader that we are now free. Soon "
