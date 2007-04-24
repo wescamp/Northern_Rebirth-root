@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: northern-rebirth-it\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-23 19:51+0200\n"
+"POT-Creation-Date: 2007-04-25 01:09+0200\n"
 "PO-Revision-Date: 2007-02-26 12:20+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -664,8 +664,9 @@ msgid "Right here with me, fools! He is mine now."
 msgstr "Proprio qui con me, pazzi! Ora è mio."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:758
+#, fuzzy
 msgid ""
-"*Shakes head* I reject your evil. Attack, men! Let us rid the good green "
+" *Shakes head* I reject your evil. Attack, men! Let us rid the good green "
 "world of this rotting filth!"
 msgstr ""
 "(scuote la testa) Io rifiuto la tua malvagità. Attaccate, uomini! Liberiamo "
@@ -677,7 +678,8 @@ msgid ""
 msgstr "Sì! Così si fa, giovanotto! Per i nani morti a Knalga! All'attacco!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:768
-msgid "You fool! You will pay for your your folly with your life."
+#, fuzzy
+msgid "You fool! You will pay for your folly with your life."
 msgstr "Stolto! Pagherai per la tua follia con la tua vita."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:774
@@ -3039,10 +3041,11 @@ msgid "So what does this have to do with me?"
 msgstr "E questo cosa ha a che fare con me?"
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:363
+#, fuzzy
 msgid ""
 "There is a large elvish force not far from here who - we believe anyway - "
 "has been sent to free you. We were hoping if we could secure your release "
-"you guyz would help us crush the orcish host."
+"you guys would help us crush the orcish host."
 msgstr ""
 "C'è una grande armata di elfi non lontana da qui che, crediamo, è stata "
 "mandata per liberarvi. Speravamo che se fossimo riusciti a liberarvi, voi "

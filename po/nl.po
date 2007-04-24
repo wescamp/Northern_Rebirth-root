@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-23 19:51+0200\n"
+"POT-Creation-Date: 2007-04-25 01:09+0200\n"
 "PO-Revision-Date: 2007-02-12 09:09+0100\n"
 "Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
 "Language-Team: none <foppe.benedictus@gmail.com>\n"
@@ -624,7 +624,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:758
 msgid ""
-"*Shakes head* I reject your evil. Attack, men! Let us rid the good green "
+" *Shakes head* I reject your evil. Attack, men! Let us rid the good green "
 "world of this rotting filth!"
 msgstr ""
 
@@ -635,7 +635,8 @@ msgid ""
 msgstr "Yeah! Dat is de enige manier! Voor de Dwergen! Aanvallen!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:768
-msgid "You fool! You will pay for your your folly with your life."
+#, fuzzy
+msgid "You fool! You will pay for your folly with your life."
 msgstr "Sukkel! Deze fout zal je betalen met je leven."
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:774
@@ -2761,7 +2762,7 @@ msgstr ""
 msgid ""
 "There is a large elvish force not far from here who - we believe anyway - "
 "has been sent to free you. We were hoping if we could secure your release "
-"you guyz would help us crush the orcish host."
+"you guys would help us crush the orcish host."
 msgstr ""
 
 #: Northern_Rebirth/scenarios/Introductions.cfg:369

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Northern Rebirthde\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-23 19:51+0200\n"
+"POT-Creation-Date: 2007-04-25 01:09+0200\n"
 "PO-Revision-Date: 2006-09-17 17:23+0200\n"
 "Last-Translator: Stefan von Halenbach <vonHalenbach@users.sourceforge.net>\n"
 "Language-Team: german\n"
@@ -654,7 +654,7 @@ msgstr ""
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:758
 msgid ""
-"*Shakes head* I reject your evil. Attack, men! Let us rid the good green "
+" *Shakes head* I reject your evil. Attack, men! Let us rid the good green "
 "world of this rotting filth!"
 msgstr ""
 
@@ -665,7 +665,8 @@ msgid ""
 msgstr "Ja, diese Einstellung gefällt mir. Für die Zwerge! Zum Angriff!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:768
-msgid "You fool! You will pay for your your folly with your life."
+#, fuzzy
+msgid "You fool! You will pay for your folly with your life."
 msgstr "Du Narr! Du wirst für diese Dummheit mit dem Leben bezahlen!"
 
 #: Northern_Rebirth/scenarios/Clearing_the_Mines.cfg:774
@@ -3056,7 +3057,7 @@ msgstr "Und, was hat das mit mir zu tun?"
 msgid ""
 "There is a large elvish force not far from here who - we believe anyway - "
 "has been sent to free you. We were hoping if we could secure your release "
-"you guyz would help us crush the orcish host."
+"you guys would help us crush the orcish host."
 msgstr ""
 "Seht Prinzessin, es gibt eine große elfische Streitmacht in der Nähe, "
 "welche, wie wir annehmen, ausgesandt wurde um euch zu retten. Wir hofften, "
